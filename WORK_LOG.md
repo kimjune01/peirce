@@ -194,3 +194,46 @@ and action threshold.
 
 This draws the boundary between inheritance and contribution. It is the
 difference between borrowing Peirce's authority and doing homage.
+
+## 2026-05-22 - Tripod Vocabulary
+
+The preface image: modern inquiry keeps trying to build a tripod out of two
+sticks. We have proof for what follows from a hypothesis and statistics for what
+evidence says about it. The missing leg is the logic of getting a hypothesis
+worth testing in the first place.
+
+Compressed table:
+
+```text
+statistics      mathematics      methodeutics
+induction       deduction        abduction
+epmem           smem             pmem
+belief          proof            trial
+```
+
+The stronger final row is `belief / proof / trial`, not `belief / knowledge /
+trial`. Knowledge should not belong to one leg. In the current epistemology,
+knowledge is what happens when the three-leg process stabilizes enough for
+action under stakes.
+
+Expanded reading:
+
+```text
+statistics / induction / episodic memory / belief
+  experience accumulates; confidence updates from observations
+
+mathematics / deduction / semantic memory / proof
+  structure is compressed; consequences follow from definitions and proofs
+
+methodeutics / abduction / procedural memory / trial
+  inquiry moves; procedures generate and select what to try next
+```
+
+Key line:
+
+```text
+Methodeutics is the logic of trial.
+```
+
+Not trial as random attempt. Disciplined trying: what to vary, what to inspect,
+what failure means, and what next move the failure licenses.
