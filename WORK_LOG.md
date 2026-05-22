@@ -284,3 +284,48 @@ Methodeutics makes abduction public.
 Before statistics, uncertainty was practiced but not disciplined.
 Before methodeutics, trial is practiced but not disciplined.
 ```
+
+## 2026-05-22 - p < 0.05 As Missing Methodeutics
+
+Mainstream science still shows the gap. The ritual of `p < 0.05` often answers
+a narrow inductive question:
+
+```text
+If the null model were true, how surprising is this result or something more
+extreme?
+```
+
+But it does not answer the methodeutic questions:
+
+```text
+Why this hypothesis?
+Why this measurement?
+Why this model family?
+Why this sample size?
+Why this stopping rule?
+Why this comparison and not the adjacent ones?
+What alternatives were considered?
+What did failed attempts rule out?
+What experiment should come next?
+```
+
+So the paper presents an induction certificate where the reader needs an inquiry
+trail.
+
+Possible preface lines:
+
+```text
+The ritual of p < 0.05 is what a field writes down when it has statistics but no
+public methodeutics: evidence after the fact, with the path to the hypothesis
+left off the page.
+```
+
+```text
+A p-value can certify surprise under a model. It cannot certify the inquiry that
+selected the model.
+```
+
+This reframes the replication crisis: not only bad statistics, but statistics
+standing in for absent methodeutics. Preregistration helps because it prevents
+post-hoc abduction from masquerading as induction. But preregistration still
+does not supply a full logic for choosing the hypotheses worth preregistering.
