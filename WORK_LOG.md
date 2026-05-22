@@ -329,3 +329,101 @@ This reframes the replication crisis: not only bad statistics, but statistics
 standing in for absent methodeutics. Preregistration helps because it prevents
 post-hoc abduction from masquerading as induction. But preregistration still
 does not supply a full logic for choosing the hypotheses worth preregistering.
+
+## 2026-05-22 - Vibe Coding And The Abstraction Ladder
+
+Methodeutics is the most legible part of the work so far because the surrounding
+projects were already methodeutic under different names:
+
+```text
+the-parts-bin:
+  What kind of missing role does this system have, and what known mechanism can
+  fill it?
+
+the-proof-manual:
+  Given this mathematical obstruction, what proof move should I try next?
+
+the-prereg-checklist:
+  Given this research design, where will I fool myself, and what guardrail
+  prevents it?
+
+methodeutics:
+  Given a surprise, failure, obstruction, or uncertainty, what is the next
+  disciplined trial?
+```
+
+Origin line:
+
+```text
+I did not start with methodeutics. I kept building tools for choosing the next
+move, and eventually learned that Peirce had named the subject.
+```
+
+Vibe coding changed the bottleneck. It lifted the burden of syntactics, so the
+hard problem moved upward:
+
+```text
+syntax -> structure -> diagnosis -> inquiry -> epistemology
+```
+
+Possible preface lines:
+
+```text
+Vibe coding lifted me out of syntax, and I kept finding the next bottleneck one
+layer higher. Once the machine could write the code, the hard part became
+knowing what to ask for. Once it could satisfy a request, the hard part became
+diagnosing why the request was wrong. Once diagnosis became repeatable, the hard
+part became the logic of inquiry itself.
+```
+
+```text
+When syntax is cheap, trial becomes the scarce resource.
+```
+
+```text
+The cheaper it gets to build, the more expensive it gets to know what to try.
+```
+
+The inversion: epistemology applies downward. The climb went up the ladder, but
+the top layer constrains every layer beneath it:
+
+```text
+epistemology -> inquiry -> diagnosis -> structure -> syntax
+```
+
+Downward application:
+
+```text
+epistemology:
+  what is a belief, what is evidence, what is knowledge, what is uncertainty?
+
+inquiry:
+  what question should be asked next?
+
+diagnosis:
+  what failure mode explains the observation?
+
+structure:
+  what architecture would preserve the right distinctions?
+
+syntax:
+  what code should be written?
+```
+
+Possible preface lines:
+
+```text
+AI lifted me upward from syntax to epistemology.
+Epistemology came back down as constraints on syntax.
+```
+
+```text
+I climbed the abstraction ladder because the machine took over the lower rungs.
+Then I discovered the top rung was load-bearing all the way down.
+```
+
+Applied philosophy is not optional here. If the epistemology is sloppy, the code
+eventually encodes that sloppiness. If the definition of knowledge is fake, the
+memory system will confabulate. If the account of learning is vague, the agent
+will cache instead of learn. If the account of inquiry is missing abduction, the
+system will test hypotheses it cannot generate responsibly.
