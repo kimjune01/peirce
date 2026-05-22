@@ -237,3 +237,50 @@ Methodeutics is the logic of trial.
 
 Not trial as random attempt. Disciplined trying: what to vary, what to inspect,
 what failure means, and what next move the failure licenses.
+
+## 2026-05-22 - The Pre-Statistical Feeling
+
+The analogy: before probability and statistics became ordinary, people still
+reasoned under uncertainty. They counted, guessed, compared cases, trusted
+experience, and argued from signs. But they lacked stable public machinery for:
+
+```text
+how much evidence?
+how much uncertainty?
+how likely by chance?
+how should belief change after observation?
+when is a pattern real?
+```
+
+Now those questions feel basic because statistics and probability became part
+of the intellectual air.
+
+The present gap feels analogous for methodeutics. People already generate
+hypotheses, choose experiments, debug systems, notice surprises, search
+explanation spaces, and decide what to try next. But they lack stable public
+machinery for:
+
+```text
+where did the hypothesis come from?
+which hypothesis is worth testing?
+what does this failure license me to try next?
+how should I spend limited experiment budget?
+when am I testing and generating on the same data?
+what is the logic of trial?
+```
+
+This feels like watching people do pre-statistical uncertainty reasoning, except
+the missing field is not about evidence after observation. It is about movement
+before observation.
+
+Possible preface lines:
+
+```text
+Statistics made induction public.
+Methodeutics makes abduction public.
+```
+
+```text
+Before statistics, uncertainty was practiced but not disciplined.
+Before methodeutics, trial is practiced but not disciplined.
+```
