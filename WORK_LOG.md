@@ -773,3 +773,46 @@ to scholarship." Keep the security calibrated; don't round up.
 
 TODO: capture the institution name + URL/contact on the insert; add ISP to
 README/references as the scholarship-of-record to check claims against.
+
+### The calibration tool itself: Ketner et al., Comprehensive Bibliography
+
+Found the reference on the reading-room shelf: **Kenneth Laine Ketner et al.,
+*A Comprehensive Bibliography [and Index] of the Published Works of Charles
+Sanders Peirce*** (Texas Tech / ISP; 1977, 2nd ed. 1986, usually with a
+bibliography of secondary studies). The definitive index of what Peirce actually
+PUBLISHED. This is the calibration tool the ISP insert pointed at, in hand.
+
+Used / to use it in the room (allowed one published reference book at the desk):
+
+```text
+On-the-spot checks:
+  1. Look up the Chapter I draft's Robin number / title in the bibliography.
+     - NOT listed as published  -> "never published, never assembled for free
+       reading" claim is solid AND now citable to Ketner.
+     - IS listed -> avoided overclaiming; cite the publication instead.
+  2. Confirm the "one single-authored book" fact: Photometric Researches (1878)
+     + the 1883 edited Studies in Logic. Turns a from-memory claim into a
+     footnote backed by the standard bibliography.
+  3. Same lookup for L 75 sections and the box-49 outlines, as time allows.
+```
+
+This converts every novelty claim in the book from assertion to citation. Add
+Ketner's Bibliography to README/references as the published-works authority.
+
+CONFIRMED: the preface states outright that Peirce published only one book in
+his lifetime. (Photometric Researches, 1878; the 1883 Studies in Logic was
+edited, not authored.)
+
+Citation, as the volume in hand presents it:
+```text
+  Volume:        Ketner et al., A Comprehensive Bibliography [and Index] of the
+                 Published Works of Charles Sanders Peirce, 1977 ed.
+  Credited as bibliographer within it: Max H. Fisch -- foremost Peirce
+                 biographer, founder of the Peirce Edition Project.
+  The "one book" statement appears in the preface.
+```
+So the claim is anchored to the standard published-works bibliography, with
+Fisch credited as bibliographer. Preface is SCANNED — pull the exact page number
+and confirm whether the one-book sentence is Fisch's or the Ketner editors' from
+the image when transcribing the footnote. Don't attribute to Fisch unless the
+scanned front matter does.
