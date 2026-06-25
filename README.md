@@ -19,7 +19,11 @@ This repository collects freely available primary texts and (eventually) origina
 
 ## License
 
-The texts are public domain (author died 1914). This repository's transcriptions and editorial work are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Peirce's texts are public domain. His published works (he died in 1914) have been public domain for decades — under both life+70 (expired 1984) and the US 95-years-from-publication rule. His *unpublished* manuscripts — the Houghton drafts — entered the US public domain on **January 1, 2003**, under the rule that works unpublished as of 1978 remained in copyright only until at least the end of 2002.
+
+A faithful transcription of a public-domain manuscript carries no new copyright, so Peirce's words remain free. What the paywalled scholarly editions own is their *editorial apparatus* — annotations, arrangement, critical notes — not the text itself. This repository's own transcriptions and editorial work are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); it reproduces none of those editions' apparatus.
+
+(US copyright basis. EU and other life+70 jurisdictions: public domain since 1984.)
 
 ## Context
 
