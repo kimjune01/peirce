@@ -816,3 +816,77 @@ Fisch credited as bibliographer. Preface is SCANNED — pull the exact page numb
 and confirm whether the one-book sentence is Fisch's or the Ketner editors' from
 the image when transcribing the footnote. Don't attribute to Fisch unless the
 scanned front matter does.
+
+### Box 32: abduction AND induction lectures, together
+
+Box 32 (just below the closed 33-35 range) held the lecture material that
+survived the digitization closure. Scanned the abduction lectures (likely R 475
+/ R 476 front — the want-list "more foundational for abduction than R 773"),
+then the induction folders in the same box.
+
+The adjacency is the point: abduction (generative leg) and induction (testing
+leg) filed *together* in the lecture sequence — the tripod as a process, not
+three separately-filed topics. Corroborates the box-49 outlines' ordering.
+
+```text
+Tripod-from-the-lectures, status:
+  abduction  -> got (box 32)
+  induction  -> got (box 32)
+  deduction  -> MISSING. R 754 (Philosophy Club talk on deduction) situates
+                retroduction/deduction/induction in one lecture sequence.
+                Get it if in this/an adjacent box to complete all three legs
+                in his own lecture hand.
+```
+
+ANCHOR NEEDED: Robin numbers on the box-32 abduction + induction folders;
+confirm whether 475/476 and which induction items. Note variant/cancelled
+leaves captured (the manuscript uberty the published CP text doesn't carry).
+
+## 2026-06-26 - Houghton Day 2: Friday collapsed to one box
+
+Predicted on Day 1, confirmed: the digitization closure expanded over the Friday
+batch. **Only one box is available today; everything else is being digitized.**
+The intended Friday set (R 754 deduction, R 756 the cycle, R 764 probability/
+induction, and R 606 the methodeutic definition) is behind the wall.
+
+Plan:
+```text
+  - Whole-box the one available box (it's the entire day). Shoot every folder
+    and variant leaf, foliation in frame. [box # + Robin items: TBD]
+  - Everything else -> Aeon digitization request. They're closed *because*
+    Houghton is actively digitizing, so files will post free to the finding
+    aid (hou02614). Pay-to-jump the 8-16 wk queue for the priority ones.
+  - Jump R 606 first: it *defines* methodeutic ("the proper way of arranging
+    and conducting an inquiry") and is the one definitional gap in an
+    otherwise complete capture (plan/outlines/Chapter I/abduction/induction/
+    economy/L 75 all in hand).
+  - One trip confirmed done after today; no further return.
+```
+
+Net of the two days: the closure cost the retroduction-cycle lectures and the
+methodeutic-definition manuscript in person, but the unpublished-book spine
+(L 75 plan + box-49 outlines + Chapter I prose + box-32 abduction/induction +
+economy of research + the dead-end Carnegie letters) was captured. Strong trip
+despite the moving-target closures.
+
+### Box 50 done — trip complete
+
+Box 50 (the one available box today, continuation of the box-49 run) shot in
+full. Last box of the trip; on-site work complete.
+
+ANCHOR NEEDED: box-50 folder labels (bMS Am 1632 (NNN)) and contents — did it
+hold continuation chapters (Chapter II/III, possibly recovering closed R 606
+content), deduction material (R 754), or retroduction/three-stages (R 756)?
+Record whether any closed want-list item was partially recovered here.
+
+### Trip wrap-up TODO
+```text
+  - Aeon digitization request for the closed want-list items: 606, 754, 756,
+    764 (and the box 40/41/42 contents once identified). Jump 606 first.
+  - Identify what was in boxes 40 and 41 (Aeon "Cancelled Requests") so the
+    scan request is complete.
+  - Release any remaining seat hold; one trip confirmed done.
+  - Backfill Robin numbers + opening lines into this log from the scans:
+    Chapter I draft, L 75 letters, box-32/49/50 folders, Ketner preface page.
+  - Update README "Planned" section (stale "trip pending" lines).
+```
