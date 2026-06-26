@@ -14,8 +14,20 @@ This repository collects freely available primary texts and (eventually) origina
 
 ## Planned
 
-- `1913-security-uberty.md` — "An Essay toward Improving Our Reasoning in Security and in Uberty." MS [R] 682, Houghton Library. Transcribed from photographs of the original manuscript. *Not yet transcribed — trip pending.*
-- `1879-economy-of-research.md` — "Note on the Theory of the Economy of Research." MS [R] 1093, Houghton Library. *Not yet transcribed.*
+Status after the June 2026 Houghton visit (two days; many boxes were closed mid-trip for an active digitization project).
+
+**Photographed — transcription pending:**
+
+- `1879-economy-of-research.md` — "Note on the Theory of the Economy of Research." MS [R] 1093. Photographed. Also captured *in its native habitat* inside the Carnegie Application (MS L 75), where the economy argument is the live criterion for which memoirs to fund.
+- `L75-carnegie-application.md` — MS L 75 (1902). The pitch to write the systematic logic; contains the economy-of-research material entire, plus the dead-end funding letters.
+- `R739-thought-and-feeling.md` — MS [R] 739, "[Thought and Feeling]." Undated autograph draft; the attention/"interesting combination" substrate beneath abduction.
+- `R770-logic-of-science.md` — MS [R] 770, "The Logic of Science." Undated autograph manuscript; bears Peirce's signature and a wax seal (candidates for Wikimedia Commons).
+- Lecture material on abduction and induction (box 32) and the lecture outlines + a drafted "Chapter I" (boxes 49–50).
+
+**Behind the digitization wall — scan-pending, not photographed:**
+
+- `1913-security-uberty.md` — "An Essay toward Improving Our Reasoning in Security and in Uberty." MS [R] 682 (box 44, closed for digitization). Request a scan; will also post to the Houghton finding aid when digitization completes.
+- MS [R] 606 (*The Nature of Logical Inquiry* — defines methodeutic), R 756/753/754 (retroduction lectures), R 764 (probability and induction). All closed for digitization; scan requests to follow.
 
 ## License
 

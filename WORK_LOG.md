@@ -943,11 +943,13 @@ everything shot since 2026-06-25 10:00 (both Houghton days).
 Local export now lives at peirce/houghton-export/ (moved out of ephemeral
 scratchpad, gitignored — never committed). Phone/Photos is the third copy.
 
-Upload PAUSED at ~436/2004 objects (had to step away). To resume — re-run,
-sync skips what's already in S3 and uploads only the gap:
+Upload COMPLETE and verified: S3 holds 2004 objects (2.95 GB) == local count.
+Glacier backup of every Houghton photo done.
 ```text
   aws s3 sync /Users/junekim/Documents/peirce/houghton-export \
     s3://june-photos-backup/peirce-houghton-2026-06/ \
     --storage-class GLACIER --exclude "*.db" --exclude ".*" --exclude "*.csv"
 ```
-Verify when done: S3 object count == 2004.
+Three copies exist: Glacier (cold backup) + peirce/houghton-export/ (local,
+gitignored) + phone/Photos. Glacier is the DARK backup, not the public archive
+-- the free public copy (Internet Archive, JPEG derivatives) is still to build.
