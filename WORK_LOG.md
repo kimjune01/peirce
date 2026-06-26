@@ -879,6 +879,36 @@ hold continuation chapters (Chapter II/III, possibly recovering closed R 606
 content), deduction material (R 754), or retroduction/three-stages (R 756)?
 Record whether any closed want-list item was partially recovered here.
 
+### Unrequested find: R 770 "The Logic of Science" + signature + wax seal
+
+**bMS Am 1632 (770)** — R 770, *"The Logic of Science,"* autograph manuscript,
+undated, 1 folder. Transfer from Harvard University Archives, 1960; no accession
+number. NOT on the want-list (another unrequested find, like R 739).
+
+Bears two photographable archival objects, both attributable via the manuscript
+being Peirce's own autograph:
+```text
+  - Signature: "C. S. Peirce" in ink. Confidently Charles's own (his MS).
+    -> better than the existing Wikipedia/Commons signature, which is a 198px
+       redraw from a 1924 print cyclopaedia mis-dated to after his death.
+  - Wax seal: red wax, monogram "P", cracked with age. Plausibly his personal
+    signet. Light hedge only: "P" could be an inherited family seal (cf.
+    Benjamin Peirce). Caption to "seal on C.S.P.'s autograph MS R 770" -- true
+    either way.
+```
+
+Resonance to verify, NOT to assert: the title "The Logic of Science" matches his
+1877-78 Popular Science Monthly series (incl. the 1878 piece already in the
+repo). An undated MS under that title *might* be related draft material -- check
+against Ketner / Robin before claiming any connection. Don't round up.
+
+Commons/archive plan for this cluster: upload signature (transparent PNG + traced
+SVG) as a NEW Commons file -> swap into the infobox; upload the seal (color PNG,
+crop, keep the red) as a separate Commons file for the article body; keep the
+folder-label photo as provenance documentation on both file pages. All PD
+({{PD-old-100}} / {{PD-signature}}; faithful repro of PD originals adds no
+copyright).
+
 ### Trip wrap-up TODO
 ```text
   - Aeon digitization request for the closed want-list items: 606, 754, 756,
@@ -898,3 +928,26 @@ Record whether any closed want-list item was partially recovered here.
     Chapter I draft, L 75 letters, box-32/49/50 folders, Ketner preface page.
   - Update README "Planned" section (stale "trip pending" lines).
 ```
+
+### Photo backup to S3 Glacier
+
+Exported full-res originals from Photos (osxphotos, --download-missing) for
+everything shot since 2026-06-25 10:00 (both Houghton days).
+```text
+  Processed: 2006 | exported: 2004 (2003 HEIC + 1 JPEG, 2.8 GB) | errors: 0
+  "Missing" 3 -- IMG_2864/3020/3525 -- were blurry mistakes deleted by hand.
+    Not data loss, no re-export. 2004 IS the complete intended set.
+  Destination: s3://june-photos-backup/peirce-houghton-2026-06/
+  Storage class: GLACIER (Flexible Retrieval), full-res.
+```
+Local export now lives at peirce/houghton-export/ (moved out of ephemeral
+scratchpad, gitignored — never committed). Phone/Photos is the third copy.
+
+Upload PAUSED at ~436/2004 objects (had to step away). To resume — re-run,
+sync skips what's already in S3 and uploads only the gap:
+```text
+  aws s3 sync /Users/junekim/Documents/peirce/houghton-export \
+    s3://june-photos-backup/peirce-houghton-2026-06/ \
+    --storage-class GLACIER --exclude "*.db" --exclude ".*" --exclude "*.csv"
+```
+Verify when done: S3 object count == 2004.
