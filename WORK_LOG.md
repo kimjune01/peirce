@@ -882,7 +882,15 @@ Record whether any closed want-list item was partially recovered here.
 ### Trip wrap-up TODO
 ```text
   - Aeon digitization request for the closed want-list items: 606, 754, 756,
-    764 (and the box 40/41/42 contents once identified). Jump 606 first.
+    764 (and the box 40/41/42 contents once identified).
+    Jump TWO first: R 606 (defines methodeutic) and R 756 (Retroduction, short,
+    the three-stages cycle). 754 + 764 can wait for the free finding-aid post.
+    NOTE: no retroduction lectures captured in person (753/754/756 all behind
+    the wall) — but NOT a hole in the foundation. Retroduction is already
+    covered by existing notes (from prior research), plus the cycle is on the
+    page here via the box-49 outlines, the L 75 plan, and the published 1908
+    Neglected Argument. The late lectures are a supplement to backfill by scan,
+    not a missing keystone.
   - Identify what was in boxes 40 and 41 (Aeon "Cancelled Requests") so the
     scan request is complete.
   - Release any remaining seat hold; one trip confirmed done.
