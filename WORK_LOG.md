@@ -953,3 +953,85 @@ Glacier backup of every Houghton photo done.
 Three copies exist: Glacier (cold backup) + peirce/houghton-export/ (local,
 gitignored) + phone/Photos. Glacier is the DARK backup, not the public archive
 -- the free public copy (Internet Archive, JPEG derivatives) is still to build.
+
+## 2026-06-26 - Photo set classified and curated (true scope)
+
+Classified all 2004 photos via 21 parallel thumbnail (512px) vision passes,
+then segmented by MS Am 1632 call number into per-item folders
+(houghton-export/by-item/). Manifest: HOUGHTON_2026_MANIFEST.md (committed).
+
+Shooting workflow confirmed (from June): photographed the folder LABEL (call
+slip) first, then each document in sequence -> the call slip is a reliable item
+divider. Capture order == filename order (IMG_0579..IMG_3525, monotonic).
+
+TRUE SCOPE far exceeds the want-list AND the earlier Day-2 "Friday gutted /
+one box" worry. 78 item folders, e.g.:
+```text
+  460-475   1903 Lowell Lectures, near-complete (~660 photos) -- incl. 474
+            Third Lecture on Methodeutic, 475 8th Lecture (Abduction)
+  736-741   logic memoirs: Qualitative Logic, Algebra of Copula, Thought &
+            Feeling (739), On the Figures and Methods of Logic (741, 142pp)
+  758-823   large logic/signs/probability run (~400): Doctrine of Chances (763),
+            Induction (767), Statistical Deduction (768), Logic of Science
+            (769/770), signs (793-799), modality/assertion (800-807), Russell's
+            paradox (818), Achilles & the tortoise (814), infinity (819)
+  1088-1093 On Gravity (1088), metrology (1089), Economy of Research (1093)
+  L75       Carnegie application + dead-end correspondence (692 photos)
+```
+The box-by-box notes from the desk (48/49/50/32/122/770) captured only a
+fraction of what was actually shot.
+
+FINDING: folder 764 (Probability and Induction) is EMPTY -- the single photo is
+a Houghton removal slip: contents transferred to correspondence series L231
+(Kehler) and L256 (A. Lawrence Lowell). The item no longer exists as such.
+
+CURATION: 12 frames pulled to houghton-export/_excluded/ (lockers, reading
+room, staircase, desk, hand-in-frame rushed duplicates, a map screenshot, a
+box-on-table shot). No manuscript content lost -- the hand shots were rushed
+and the pages were re-captured cleanly. KEPT in the collection: wax seal +
+monogram P (770), signatures (787, L75), notebook/graphbook covers, envelopes
+to Peirce, a wedding invitation (772), and the Ketner bibliography pages (REF
+folder). Public collection: 1992 photos.
+
+Caveat: auto-derived folder titles were picture-by-picture (first page with a
+heading), so some are lecture salutations ("ladies-gentlemen"). Being redone
+folder-by-folder from the printed call-slip label, which carries the catalog
+title.
+
+## 2026-06-26 - Prior-art check: are these already online?
+
+Question before publishing: has anyone already put these scans online?
+
+**Internet Archive: NO.** Repeated searches found zero photographic scans of
+the Houghton Peirce manuscripts (MS Am 1632). Only published books (Collected
+Papers, Essential Peirce), Robin's Annotated Catalogue (the finding aid, not
+images), and unrelated Peirces. So an Internet Archive upload is first-of-kind
+there regardless.
+
+**Elsewhere: partial.** Free digitizations exist on other platforms:
+- Harvard HOLLIS IIIF: ~233 items / 15,695 images digitized (a subset of ~1700).
+  Free but Harvard-locked, not search-indexed the usual way.
+- Arisbe (cspeirce.com/digitized.htm), PORT, GEP, Humboldt microfilm — scattered.
+- FromThePage: a crowdsourced Peirce transcription project (jeffdown1).
+- arXiv 2511.13378 "Moving Pictures of Thought" — VLM extraction on Peirce MSS.
+
+**DIFF of my 76 numeric items vs the online (Arisbe-aggregated) list:**
+```text
+  Already digitized online (6): 460, 462, 464 (PORT); 792, 793, 801 (GEP)
+  Not found online (70/76): likely first-published-free by this project
+  Plus L75 (692 photos) and the Ketner REF set -- not in any online list.
+```
+
+**IMPORTANT CAVEAT -- diff is INCOMPLETE.** HOLLIS blocked automated fetch
+(404 to the bot), so Harvard's full 233-item IIIF list could NOT be retrieved.
+The 6-item overlap is only against Arisbe's aggregated list; true overlap with
+Harvard's 233 is UNKNOWN and probably higher. Before claiming any item is
+"unpublished," verify it manually against HOLLIS IIIF
+(hollisarchives.lib.harvard.edu/repositories/24/resources/6437).
+
+**Calibrated novelty claim:** NOT "nobody has these." Rather: "first free,
+openly-licensed (CC BY-SA), search-indexed copy on a neutral platform of items
+many of which Harvard has not digitized -- plus transcriptions." Action before
+upload: cross-check the 76 against HOLLIS; deprioritize items Harvard already
+has at higher quality (their scans beat handheld phone shots); the items NOT in
+Harvard's set are where this upload is irreplaceable.
