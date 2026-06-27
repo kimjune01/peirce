@@ -1030,8 +1030,38 @@ Harvard's 233 is UNKNOWN and probably higher. Before claiming any item is
 (hollisarchives.lib.harvard.edu/repositories/24/resources/6437).
 
 **Calibrated novelty claim:** NOT "nobody has these." Rather: "first free,
-openly-licensed (CC BY-SA), search-indexed copy on a neutral platform of items
-many of which Harvard has not digitized -- plus transcriptions." Action before
-upload: cross-check the 76 against HOLLIS; deprioritize items Harvard already
-has at higher quality (their scans beat handheld phone shots); the items NOT in
+openly-licensed, search-indexed copy on a neutral platform of items many of
+which Harvard has not digitized -- plus transcriptions." Action before upload:
+cross-check the 76 against HOLLIS; deprioritize items Harvard already has at
+higher quality (their scans beat handheld phone shots); the items NOT in
 Harvard's set are where this upload is irreplaceable.
+
+## 2026-06-26 - Published to Internet Archive, CC0
+
+Uploaded 77 items / 1970 images to archive.org as one item per manuscript
+(peirce-msam1632-<robin#>), 0 failures. REF (Ketner 1977 bibliography)
+excluded -- still in copyright.
+
+License decision: raw page images are slavish reproductions of public-domain
+manuscripts and carry no new copyright (Bridgeman; Harvard takes the same
+position and does not assert copyright on its own PD scans). So:
+```text
+  raw page images      -> CC0 1.0 (public-domain dedication)
+  transcriptions/edit  -> CC BY-SA 4.0 (original authorship)
+```
+All 77 IA items set to CC0 (verified). README updated to match.
+
+Standing reality: Harvard is digitizing the whole collection and will
+eventually post all ~1700 items free (CC0-equivalent). That will supersede
+these handheld phone images -- which is the WIN condition, not a loss; the goal
+was free access to exist. What survives Harvard's digitization: the
+TRANSCRIPTIONS (they post images, never searchable text), discoverability (IA
+is indexed; HOLLIS IIIF is not), and the assembly/argument. So future effort
+goes to transcription, not image-archive polish.
+
+The trip was pilgrimage and homage more than academic exercise: 2000 photos
+across 78 items incl. gravimetry tables, an envelope, a wedding invitation, a
+wax seal -- devotion, not extraction. The homage is the unenclosing: the man
+died broke and got fenced behind paywalls; this sets him free for nothing, CC0,
+no name on the license. The work log's opening pledge ("stop writing over him")
+is answered -- carried him out, set him free, claimed nothing.
