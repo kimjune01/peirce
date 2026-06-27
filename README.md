@@ -33,7 +33,12 @@ Status after the June 2026 Houghton visit (two days; many boxes were closed mid-
 
 Peirce's texts are public domain. His published works (he died in 1914) have been public domain for decades — under both life+70 (expired 1984) and the US 95-years-from-publication rule. His *unpublished* manuscripts — the Houghton drafts — entered the US public domain on **January 1, 2003**, under the rule that works unpublished as of 1978 remained in copyright only until at least the end of 2002.
 
-A faithful transcription of a public-domain manuscript carries no new copyright, so Peirce's words remain free. What the paywalled scholarly editions own is their *editorial apparatus* — annotations, arrangement, critical notes — not the text itself. This repository's own transcriptions and editorial work are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); it reproduces none of those editions' apparatus.
+A faithful photograph or transcription of a public-domain manuscript carries no new copyright — under *Bridgeman v. Corel*, a slavish reproduction of a flat public-domain work has no original authorship to protect. Harvard takes the same position on its own digitized images ([Harvard Library policy](https://library.harvard.edu/policy-access-digital-reproductions-works-public-domain): it "does not assert copyright over digital reproductions of public domain works"). So this project claims nothing it cannot honestly hold:
+
+- **Raw manuscript page images → [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)** (public-domain dedication). They are slavish copies of public-domain manuscripts; we assert no copyright. Mirror copies on the Internet Archive carry the same dedication.
+- **Transcriptions and editorial work → [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).** The transcription, arrangement, manifest, and annotations involve original authorship and are genuinely ours to license. This reproduces none of the paywalled editions' apparatus.
+
+What the paywalled scholarly editions own is *their* editorial apparatus — not Peirce's words, and not the page images.
 
 (US copyright basis. EU and other life+70 jurisdictions: public domain since 1984.)
 
