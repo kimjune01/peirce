@@ -14,12 +14,33 @@ This repository collects freely available primary texts and (eventually) origina
 
 ## Planned
 
-- `1913-security-uberty.md` — "An Essay toward Improving Our Reasoning in Security and in Uberty." MS [R] 682, Houghton Library. Transcribed from photographs of the original manuscript. *Not yet transcribed — trip pending.*
-- `1879-economy-of-research.md` — "Note on the Theory of the Economy of Research." MS [R] 1093, Houghton Library. *Not yet transcribed.*
+Status after the June 2026 Houghton visit (two days; many boxes were closed mid-trip for an active digitization project).
+
+**Photographed — transcription pending:**
+
+- `1879-economy-of-research.md` — "Note on the Theory of the Economy of Research." MS [R] 1093. Photographed. Also captured *in its native habitat* inside the Carnegie Application (MS L 75), where the economy argument is the live criterion for which memoirs to fund.
+- `L75-carnegie-application.md` — MS L 75 (1902). The pitch to write the systematic logic; contains the economy-of-research material entire, plus the dead-end funding letters.
+- `R739-thought-and-feeling.md` — MS [R] 739, "[Thought and Feeling]." Undated autograph draft; the attention/"interesting combination" substrate beneath abduction.
+- `R770-logic-of-science.md` — MS [R] 770, "The Logic of Science." Undated autograph manuscript; bears Peirce's signature and a wax seal (candidates for Wikimedia Commons).
+- Lecture material on abduction and induction (box 32) and the lecture outlines + a drafted "Chapter I" (boxes 49–50).
+
+**Behind the digitization wall — scan-pending, not photographed:**
+
+- `1913-security-uberty.md` — "An Essay toward Improving Our Reasoning in Security and in Uberty." MS [R] 682 (box 44, closed for digitization). Request a scan; will also post to the Houghton finding aid when digitization completes.
+- MS [R] 606 (*The Nature of Logical Inquiry* — defines methodeutic), R 756/753/754 (retroduction lectures), R 764 (probability and induction). All closed for digitization; scan requests to follow.
 
 ## License
 
-The texts are public domain (author died 1914). This repository's transcriptions and editorial work are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Peirce's texts are public domain. His published works (he died in 1914) have been public domain for decades — under both life+70 (expired 1984) and the US 95-years-from-publication rule. His *unpublished* manuscripts — the Houghton drafts — entered the US public domain on **January 1, 2003**, under the rule that works unpublished as of 1978 remained in copyright only until at least the end of 2002.
+
+A faithful photograph or transcription of a public-domain manuscript carries no new copyright — under *Bridgeman v. Corel*, a slavish reproduction of a flat public-domain work has no original authorship to protect. Harvard takes the same position on its own digitized images ([Harvard Library policy](https://library.harvard.edu/policy-access-digital-reproductions-works-public-domain): it "does not assert copyright over digital reproductions of public domain works"). So this project claims nothing it cannot honestly hold:
+
+- **Raw manuscript page images → [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)** (public-domain dedication). They are slavish copies of public-domain manuscripts; we assert no copyright. Mirror copies on the Internet Archive carry the same dedication.
+- **Transcriptions and editorial work → [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).** The transcription, arrangement, manifest, and annotations involve original authorship and are genuinely ours to license. This reproduces none of the paywalled editions' apparatus.
+
+What the paywalled scholarly editions own is *their* editorial apparatus — not Peirce's words, and not the page images.
+
+(US copyright basis. EU and other life+70 jurisdictions: public domain since 1984.)
 
 ## Context
 
