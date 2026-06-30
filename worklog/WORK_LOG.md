@@ -71,3 +71,63 @@ rewrites side by side, as proof the method holds before it scales; or take R 760
 or 741 through a vision pass, which doubles as a readability calibration on his
 hand before standing up any HTR pipeline. Host on the separate `reading-src/`
 Astro app under /reading/, per-page deep links to archive.org IIIF.
+
+## 2026-06-29 - Transcription plan written
+
+Wrote `TRANSCRIPTION_PLAN.md`, scoped to image-to-text. Step 0 is a HOLLIS
+cross-check to find what Harvard already digitized -- it reorders the image
+work, not the text work: their scans beat phone shots, but they never post
+searchable text, so everything still gets transcribed. Order of work is
+relevance-first (the methodeutics / probability manuscripts) and
+latest-draught-only per the triage. Pipeline: vision calibration on Peirce's
+hand -> LLM-vision diplomatic transcription as a per-page hypothesis (deletions
+preserved, gaps flagged, image as kill condition) -> human correction -> status
+ladder (raw/machine/checked/verified); Transkribus HTR only if vision falls
+short. Output is the Document layer in markdown with light editorial tags,
+per-page archive.org IIIF links, hosted at reading-src /reading/methodeutics.
+
+## 2026-06-29 - HOLLIS digitization cross-check
+
+Pulled the finding-aid CSV (`hollis/hou02614-finding-aid.csv`) and joined it
+against the 78 photographed items, by item number and box as suspected:
+Component Identifier = Robin #, Container Info = box, Digital Content Link =
+the digitization flag. Result in `hollis/digitized-crosscheck.tsv`.
+
+Only **5 of 78 are already digitized at Harvard**: R462, R464 (Lowell Lecture
+III draughts, Box 32); R797, R798, R802 (Box 50). Each has a resolving
+`nrs.harvard.edu/URN-3:FHCL.HOUGH:*` persistent URL (Harvard page-turner /
+IIIF, higher quality than the phone shots). The other **71 are not digitized**,
+so our scans are the only freely available copies -- confirms the upload's
+irreplaceability. The collection has 424 digitized components in total, but
+they are overwhelmingly correspondence and behind-the-wall boxes we could not
+shoot; the 5 overlaps are the items that were both on the desk and already
+scanned.
+
+Method: dev-browser was required (hollisarchives 404s to plain fetch; the
+`/digital_only` path is dead, the live facet is `f[access][]=online`). The CSV
+download (`/download_collection_csv/hou02614.csv`) is the clean authoritative
+source and is now mirrored in `hollis/`.
+
+## 2026-06-29 - Prior-art scan: a funded team is already on this
+
+Wrote `PRIOR_ART.md`. The main prior art is **"Peirce Interprets Peirce"**, a
+four-year funded project (Adamou, Feil, Picca, Pedretti, Rodighiero, Zangari):
+VLM transcription + diplomatic TEI markup (deletions/insertions preserved) +
+semantic modeling + visualization of the Peirce manuscripts. Public TEI
+Publisher prototype at peirce.humanitiesconnect.net; the diagram paper "Moving
+Pictures of Thought" is arXiv:2511.13378 (2025).
+
+Settles our Step 2: on Peirce's hand, zero-shot **Gemini Flash 3 beats
+fine-tuned PyLaia/Transkribus** (2.36 vs 4.98 CER; 4.41 vs 13.95 WER). Go
+vision-first, drop HTR.
+
+Honest accounting: they already do raw VLM transcription + diplomatic markup of
+the *digitized* corpus, well, so re-transcribing those 233 items is redundant.
+What stays ours: (1) the **71 un-digitized items** are outside their corpus
+(the cross-check proves the disjointness); (2) the **continuation layer**
+(e-values, evidence trajectories, critique-and-improve) is unbuilt by them;
+(3) their one named failure -- VLMs can't read existential graphs *as logical
+formulas* (representational level) -- is our home turf; (4) agent-replayable
+CC0 vs their human-facing TEI edition. Move: vision-first, target the
+un-digitized 71 + flagship pieces, reach out as complementary (un-digitized
+scans + the logic/EG angle for their corpus + infrastructure).
