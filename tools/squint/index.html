@@ -7,7 +7,7 @@
 <style>
   :root{
     --bg:#ffffff; --panel:#f7f7f6; --line:#e3e2de; --ink:#1d1d1b;
-    --muted:#8a8a84; --sel:#fffc76; --del:#a23; --add:#2a7d4f;
+    --muted:#8a8a84; --sel:#fffc76; --del:#a8322d; --add:#2a7d4f; --brk:#7a73c0;
     --sans:-apple-system,'Avenir','Helvetica Neue',Helvetica,Arial,sans-serif;
     --mono:'Menlo',Consolas,'SF Mono',monospace;
   }
@@ -15,7 +15,7 @@
   html,body{height:100%;margin:0}
   body{font-family:var(--sans);color:var(--ink);background:var(--bg);
        display:flex;flex-direction:column;font-size:14px}
-  header{display:flex;align-items:center;gap:14px;padding:8px 14px;
+  header{display:flex;align-items:center;gap:12px;padding:8px 14px;
          border-bottom:1px solid var(--line);background:var(--panel)}
   header .t{font-weight:600;letter-spacing:.04em}
   header .t small{color:var(--muted);font-weight:400;letter-spacing:0}
@@ -24,7 +24,8 @@
   button{cursor:pointer}
   button:hover{border-color:var(--ink)}
   .grow{flex:1}
-  .count{color:var(--muted);min-width:64px;text-align:right;font-variant-numeric:tabular-nums}
+  .count{color:var(--muted);min-width:62px;text-align:center;font-variant-numeric:tabular-nums}
+  .nav{padding:5px 10px}
   main{flex:1;display:grid;grid-template-columns:112px 1fr 480px;min-height:0}
   .rail{border-right:1px solid var(--line);overflow-y:auto;background:var(--panel);padding:8px}
   .thumb{display:block;width:100%;border:1px solid var(--line);border-radius:3px;
@@ -37,27 +38,33 @@
                box-shadow:0 1px 4px rgba(0,0,0,.12)}
   .imgwrap.zoom img{max-width:none}
   .txtpane{display:flex;flex-direction:column;border-left:1px solid var(--line);min-width:0}
-  .txtbar{display:flex;align-items:center;gap:6px;padding:6px 10px;border-bottom:1px solid var(--line)}
-  .txtbar .hint{color:var(--muted);font-size:12px;margin-left:4px}
-  .fmt{padding:3px 8px;font-size:12px}
-  .fmt.del{color:var(--del)} .fmt.add{color:var(--add)}
-  #box{flex:1;overflow:auto;padding:14px;outline:0;
-    font-family:var(--mono);font-size:13px;line-height:1.55;color:var(--ink);
-    white-space:pre-wrap;word-break:break-word}
-  #box s{color:var(--del);text-decoration-thickness:1.5px}
-  #box ins{color:var(--add);text-decoration:underline;text-decoration-style:dotted}
+  .txtbar{display:flex;align-items:center;gap:6px;padding:6px 10px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+  .tag{padding:3px 8px;font-size:12px;font-family:var(--mono);font-weight:600}
+  .tag.del{color:var(--del)} .tag.add{color:var(--add)} .tag.brk{color:var(--brk)}
+  /* highlighted-textarea: colored backdrop under a transparent editable textarea */
+  .editor{flex:1;position:relative;overflow:hidden}
+  .layer{position:absolute;inset:0;margin:0;padding:14px;border:0;
+    font-family:var(--mono);font-size:13px;line-height:1.55;letter-spacing:0;
+    white-space:pre-wrap;word-break:break-word;overflow-wrap:break-word;tab-size:2}
+  #hl{color:var(--ink);background:transparent;pointer-events:none;overflow:hidden;z-index:1}
+  #hl .t-del{color:var(--del)} #hl .t-add{color:var(--add)} #hl .t-brk{color:var(--brk)}
+  #box{color:transparent;background:transparent;caret-color:var(--ink);
+    resize:none;outline:0;overflow:auto;z-index:2}
+  #box::selection{background:#cfe0ff}
   .ptr{border-top:1px solid var(--line);background:var(--panel);padding:8px 12px;
     font-family:var(--mono);font-size:11.5px;color:var(--muted);white-space:pre-wrap;
     user-select:all;line-height:1.5}
   .ptr b{color:var(--ink);font-weight:600}
-  .ok{color:var(--add)}
+  .ok{color:var(--add)} .hint{color:var(--muted);font-size:12px}
 </style>
 </head>
 <body>
 <header>
   <span class="t">Squint <small>· Peirce transcriptions</small></span>
   <select id="item"></select>
+  <button class="nav" id="prev" title="Previous page (k)">‹</button>
   <span class="count" id="count"></span>
+  <button class="nav" id="next" title="Next page (j)">›</button>
   <span class="grow"></span>
   <button id="zoom" title="Toggle 1:1 zoom">zoom</button>
   <button id="refresh" title="Re-read the file after your agent edits it">refresh</button>
@@ -67,14 +74,19 @@
   <div class="imgwrap" id="imgwrap"><img id="img" alt=""></div>
   <div class="txtpane">
     <div class="txtbar">
-      <button class="fmt del" id="bDel" title="Wrap selection as deletion (⌘D)">strike</button>
-      <button class="fmt add" id="bAdd" title="Wrap selection as insertion (⌘I)">insert</button>
-      <button class="fmt" id="bClear" title="Clear formatting on selection">plain</button>
+      <button class="tag del" data-b="{del}" data-a="{/del}" title="Wrap selection / insert deletion (⌘D)">{del}</button>
+      <button class="tag add" data-b="{add}" data-a="{/add}" title="Wrap selection / insert insertion (⌘I)">{add}</button>
+      <button class="tag brk" data-b="[unclear: " data-a="?]" title="Mark uncertain reading (⌘U)">[unclear]</button>
+      <button class="tag brk" data-b="[illegible]" data-a="" title="Insert illegible">[illeg]</button>
+      <button class="tag brk" data-b="[diagram: " data-a="]" title="Mark a diagram/figure">[diagram]</button>
       <span class="grow"></span>
-      <button id="copy" title="Copy markup + pointer for your coding agent">copy</button>
+      <button id="copy" title="Copy markup + pointer for your coding agent (⌘C)">copy</button>
       <span class="hint" id="status"></span>
     </div>
-    <div id="box" contenteditable="true" spellcheck="false"></div>
+    <div class="editor">
+      <div id="hl" class="layer"></div>
+      <textarea id="box" class="layer" spellcheck="false"></textarea>
+    </div>
     <div class="ptr" id="ptr"></div>
   </div>
 </main>
@@ -84,34 +96,25 @@ const $ = s => document.querySelector(s);
 const j = async u => (await fetch(u)).json();
 const esc = s => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
 
-// canonical markup -> WYSIWYG html
-function toHtml(t){
+// colored backdrop: tags get the same color as their button
+function highlight(t){
   return esc(t)
-    .replace(/\{del\}([\s\S]*?)\{\/del\}/g,"<s>$1</s>")
-    .replace(/\{add\}([\s\S]*?)\{\/add\}/g,"<ins>$1</ins>");
+    .replace(/(\{del\}[\s\S]*?\{\/del\})/g,'<span class="t-del">$1</span>')
+    .replace(/(\{add\}[\s\S]*?\{\/add\})/g,'<span class="t-add">$1</span>')
+    .replace(/(\[unclear:[\s\S]*?\]|\[illegible\]|\[diagram:[\s\S]*?\])/g,'<span class="t-brk">$1</span>')
+    + "\n";
 }
-// WYSIWYG html -> canonical markup
-function toMarkup(node){
-  let out="";
-  node.childNodes.forEach(n=>{
-    if(n.nodeType===3){ out+=n.nodeValue; return; }
-    if(n.nodeType!==1){ return; }
-    const tag=n.tagName.toLowerCase();
-    if(tag==="s"||tag==="strike"||tag==="del") out+="{del}"+toMarkup(n)+"{/del}";
-    else if(tag==="ins"||tag==="u")            out+="{add}"+toMarkup(n)+"{/add}";
-    else if(tag==="br")                        out+="\n";
-    else if(tag==="div"||tag==="p"){ if(out && !out.endsWith("\n")) out+="\n"; out+=toMarkup(n); }
-    else out+=toMarkup(n);   // span/other -> unwrap
-  });
-  return out;
-}
-function wrap(tag){
-  const sel=window.getSelection();
-  if(!sel.rangeCount||sel.isCollapsed) return;
-  const r=sel.getRangeAt(0), el=document.createElement(tag);
-  try{ r.surroundContents(el); }
-  catch(_){ el.appendChild(r.extractContents()); r.insertNode(el); }
-  sel.removeAllRanges();
+function syncHL(){ $("#hl").innerHTML = highlight($("#box").value); }
+function syncScroll(){ const b=$("#box"); $("#hl").scrollTop=b.scrollTop; $("#hl").scrollLeft=b.scrollLeft; }
+
+// markdown-style: wrap the highlighted text, or insert the tag pair at the cursor
+function applyTag(before, after){
+  const ta=$("#box"), s=ta.selectionStart, e=ta.selectionEnd, v=ta.value, sel=v.slice(s,e);
+  const repl=before+sel+after;
+  ta.value=v.slice(0,s)+repl+v.slice(e);
+  if(sel) ta.setSelectionRange(s, s+repl.length);
+  else   { const c=s+before.length; ta.setSelectionRange(c,c); }
+  ta.focus(); syncHL();
 }
 
 async function loadPage(i){
@@ -123,7 +126,7 @@ async function loadPage(i){
   const on=document.querySelector(".thumb.on"); if(on) on.scrollIntoView({block:"nearest"});
   const d=await j(`/api/txt?robin=${cur.robin}&img=${img}`);
   META={path:d.path||"",url:d.url||"",cite:d.cite||""};
-  $("#box").innerHTML=toHtml(d.text||"");
+  $("#box").value=d.text||""; syncHL(); $("#box").scrollTop=0; syncScroll();
   $("#ptr").innerHTML=`<b>file</b> ${esc(META.path)}\n<b>source</b> ${esc(META.url)}\n<b>cite</b> ${esc(META.cite)}`;
   $("#status").textContent="";
 }
@@ -140,27 +143,30 @@ function selectItem(robin){
   loadPage(0);
 }
 function copyOut(){
-  const markup=toMarkup($("#box")).replace(/\s+$/,"");
-  const block=markup+"\n\n---\nfile: "+META.path+"\nsource: "+META.url+"\ncite: "+META.cite+"\n";
+  const block=$("#box").value.replace(/\s+$/,"")
+    +"\n\n---\nfile: "+META.path+"\nsource: "+META.url+"\ncite: "+META.cite+"\n";
   navigator.clipboard.writeText(block).then(()=>{
     $("#status").innerHTML='<span class="ok">copied ✓</span>';
     setTimeout(()=>$("#status").textContent="",1500);
   });
 }
 
+document.querySelectorAll(".tag").forEach(b=>b.onclick=()=>applyTag(b.dataset.b,b.dataset.a));
+$("#box").addEventListener("input",syncHL);
+$("#box").addEventListener("scroll",syncScroll);
 $("#item").onchange=e=>selectItem(e.target.value);
+$("#prev").onclick=()=>loadPage(cur.i-1);
+$("#next").onclick=()=>loadPage(cur.i+1);
 $("#refresh").onclick=()=>loadPage(cur.i);
 $("#zoom").onclick=()=>$("#imgwrap").classList.toggle("zoom");
-$("#bDel").onclick=()=>wrap("s");
-$("#bAdd").onclick=()=>wrap("ins");
-$("#bClear").onclick=()=>document.execCommand("removeFormat");
 $("#copy").onclick=copyOut;
 document.addEventListener("keydown",e=>{
-  const inBox=e.target.id==="box";
-  if((e.metaKey||e.ctrlKey)&&e.key==="d"){e.preventDefault();wrap("s");return;}
-  if((e.metaKey||e.ctrlKey)&&e.key==="i"){e.preventDefault();wrap("ins");return;}
-  if((e.metaKey||e.ctrlKey)&&e.key==="c"&&!window.getSelection().toString()){e.preventDefault();copyOut();return;}
-  if(inBox) return;
+  const meta=e.metaKey||e.ctrlKey;
+  if(meta&&e.key==="d"){e.preventDefault();applyTag("{del}","{/del}");return;}
+  if(meta&&e.key==="i"){e.preventDefault();applyTag("{add}","{/add}");return;}
+  if(meta&&e.key==="u"){e.preventDefault();applyTag("[unclear: ","?]");return;}
+  if(meta&&e.key==="c"&&$("#box").selectionStart===$("#box").selectionEnd){e.preventDefault();copyOut();return;}
+  if(e.target.id==="box") return;
   if(e.key==="ArrowDown"||e.key==="j"){loadPage(cur.i+1);e.preventDefault();}
   if(e.key==="ArrowUp"||e.key==="k"){loadPage(cur.i-1);e.preventDefault();}
 });

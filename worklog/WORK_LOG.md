@@ -189,13 +189,17 @@ sequential, resumable while-loop (skips pages already on disk).
 Built `tools/squint/` -- a dependency-free local viewer (Python stdlib server +
 one HTML file, **port 1913**) to proofread the codex scaffold against the page
 images. NOT a standalone editor: it is a companion to a coding agent. Three
-columns: thumbnail rail | manuscript image | text pane. The text pane is a
-WYSIWYG over the canonical inline markup -- `{del}` renders as red strikethrough,
-`{add}` as dotted underline -- with strike/insert/plain buttons (and Cmd-D/Cmd-I).
+columns: thumbnail rail | manuscript image | text pane. The text pane edits the
+raw inline markup like markdown -- toolbar buttons (`{del}` `{add}` `[unclear]`
+`[illeg]` `[diagram]`, plus Cmd-D/I/U) WRAP the highlighted text in the tags or
+INSERT the tag pair at the cursor when nothing is selected. The tags are
+color-matched to their buttons (red `{del}`, green `{add}`, purple brackets) via
+a colored backdrop layer synced behind a transparent textarea -- real plain-text
+editing, colored tokens, no WYSIWYG.
 
 Data-format decision: the canonical form stays the lightweight inline markup, NOT
-rich text, so it ports trivially -- the editor round-trips `<s>`/`<ins>` back to
-`{del}`/`{add}` on copy (verified). Workflow: squint at the image, mark or fix in
+rich text, so it ports trivially (the textarea IS the canonical text; nothing to
+convert). Workflow: squint at the image, mark or fix in
 the box, hit copy -> clipboard gets the canonical markup PLUS a pointer (file
 path + archive.org source image + cite) -> paste into your coding agent, which
 edits `transcriptions/R<robin>/<IMG>.txt` -> hit refresh to re-read the file and
