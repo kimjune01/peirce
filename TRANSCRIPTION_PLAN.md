@@ -12,7 +12,7 @@ Harvard is digitizing the whole collection, and many boxes were closed mid-trip 
 
 This reorders the *image* work, not the *text* work:
 
-- **Items Harvard already has at higher quality.** Their scans beat handheld phone shots, so drop the re-archiving. Still transcribe them, because Harvard posts images and never searchable text.
+- **Items Harvard has already digitized.** Checked: only 5 of 78 (`hollis/digitized-crosscheck.tsv`). Harvard's masters are professional captures (flat, even light, true color) but *not* higher resolution: for these 5 they cap at ~6.9 MP against our ~12 MP phone shots. So treat them as a complementary canonical copy with a stable IIIF link, not an upgrade. Web-quality pulls (1600px) are in `houghton-export/harvard-web/`. Still transcribe them, because Harvard posts images and never searchable text.
 - **Items Harvard has not digitized.** The images are irreplaceable. Archive and transcribe both.
 
 Output: a `digitized?` column in the manifest, with the HOLLIS / IIIF link where one exists.

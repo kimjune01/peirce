@@ -131,3 +131,35 @@ formulas* (representational level) -- is our home turf; (4) agent-replayable
 CC0 vs their human-facing TEI edition. Move: vision-first, target the
 un-digitized 71 + flagship pieces, reach out as complementary (un-digitized
 scans + the logic/EG angle for their corpus + infrastructure).
+
+## 2026-06-29 - Pulled Harvard web-quality for the 5 digitized items
+
+Grabbed all 5 already-digitized items from Harvard IIIF at web size (1600px long
+edge) into `houghton-export/harvard-web/` (gitignored): R462 (96pp), R464 (72pp),
+R797 (9pp), R798 (6pp), R802 (4pp) = 187 pages, 67 MB. Mechanism: nrs URL ->
+viewer.lib.harvard.edu -> IIIF v3 manifest at `<urn>:MANIFEST:3` -> images from
+`mps.lib.harvard.edu/assets/images/drs:NNN/full/1600,/0/default.jpg`.
+
+Correction to an earlier assumption: Harvard's masters are NOT higher resolution
+than our phone shots. For these items the master caps at 2546x2693 (~6.9 MP) vs
+our 4032x3024 (~12 MP). Their value is the professional capture (flat, even
+light, true color, no phone glare/skew) and the canonical IIIF link, not a
+resolution upgrade. Pulled web-quality only, per June; no high-res stored.
+TRANSCRIPTION_PLAN.md Step 0 corrected to match.
+
+## 2026-06-29 - archive.org references + completeness audit
+
+Built `references/archive-org-items.tsv`: all 77 uploaded items mapped robin ->
+IA identifier (`peirce-msam1632-<4-digit>`; L75 -> `-l75`) -> details / IIIF
+manifest / download URLs. archive.org serves IIIF
+(`iiif.archive.org/iiif/<id>/manifest.json`, verified 200), so the reading site
+can deep-link our own CC0 uploads per page; the 5 Harvard-digitized items also
+carry Harvard IIIF as a second reference.
+
+Completeness audit (asked to finish any partial uploads): filename-level check of
+all 77 items, local `by-item` pages vs IA originals. **Result: COMPLETE, 77/77,
+every local page present, 0 gaps.** The apparent +1 per item was archive.org's
+auto-generated `__ia_thumb.jpg` (tagged source=original), not a page.
+Deliberately absent by prior curation, not gaps: REF (Ketner 1977 bibliography,
+in copyright) and the non-manuscript context shots (locker, reading room, box
+labels). Nothing to finish.
