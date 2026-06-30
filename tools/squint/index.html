@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Squint</title>
+<style>
+  :root{
+    --bg:#ffffff; --panel:#f7f7f6; --line:#e3e2de; --ink:#1d1d1b;
+    --muted:#8a8a84; --sel:#fffc76; --del:#a23; --add:#2a7d4f;
+    --sans:-apple-system,'Avenir','Helvetica Neue',Helvetica,Arial,sans-serif;
+    --mono:'Menlo',Consolas,'SF Mono',monospace;
+  }
+  *{box-sizing:border-box}
+  html,body{height:100%;margin:0}
+  body{font-family:var(--sans);color:var(--ink);background:var(--bg);
+       display:flex;flex-direction:column;font-size:14px}
+  header{display:flex;align-items:center;gap:14px;padding:8px 14px;
+         border-bottom:1px solid var(--line);background:var(--panel)}
+  header .t{font-weight:600;letter-spacing:.04em}
+  header .t small{color:var(--muted);font-weight:400;letter-spacing:0}
+  select,button{font-family:var(--sans);font-size:13px;color:var(--ink);
+    background:#fff;border:1px solid var(--line);border-radius:4px;padding:5px 9px}
+  button{cursor:pointer}
+  button:hover{border-color:var(--ink)}
+  .grow{flex:1}
+  .count{color:var(--muted);min-width:64px;text-align:right;font-variant-numeric:tabular-nums}
+  main{flex:1;display:grid;grid-template-columns:112px 1fr 480px;min-height:0}
+  .rail{border-right:1px solid var(--line);overflow-y:auto;background:var(--panel);padding:8px}
+  .thumb{display:block;width:100%;border:1px solid var(--line);border-radius:3px;
+         margin-bottom:8px;background:#fff;cursor:pointer;opacity:.85}
+  .thumb:hover{opacity:1}
+  .thumb.on{outline:2px solid var(--sel);outline-offset:1px;opacity:1;border-color:var(--ink)}
+  .thumb .n{display:block;font-size:11px;color:var(--muted);text-align:center;padding:2px 0 4px}
+  .imgwrap{overflow:auto;background:#efeeea;display:flex;align-items:flex-start;justify-content:center}
+  .imgwrap img{max-width:100%;height:auto;display:block;background:#fff;margin:14px;
+               box-shadow:0 1px 4px rgba(0,0,0,.12)}
+  .imgwrap.zoom img{max-width:none}
+  .txtpane{display:flex;flex-direction:column;border-left:1px solid var(--line);min-width:0}
+  .txtbar{display:flex;align-items:center;gap:6px;padding:6px 10px;border-bottom:1px solid var(--line)}
+  .txtbar .hint{color:var(--muted);font-size:12px;margin-left:4px}
+  .fmt{padding:3px 8px;font-size:12px}
+  .fmt.del{color:var(--del)} .fmt.add{color:var(--add)}
+  #box{flex:1;overflow:auto;padding:14px;outline:0;
+    font-family:var(--mono);font-size:13px;line-height:1.55;color:var(--ink);
+    white-space:pre-wrap;word-break:break-word}
+  #box s{color:var(--del);text-decoration-thickness:1.5px}
+  #box ins{color:var(--add);text-decoration:underline;text-decoration-style:dotted}
+  .ptr{border-top:1px solid var(--line);background:var(--panel);padding:8px 12px;
+    font-family:var(--mono);font-size:11.5px;color:var(--muted);white-space:pre-wrap;
+    user-select:all;line-height:1.5}
+  .ptr b{color:var(--ink);font-weight:600}
+  .ok{color:var(--add)}
+</style>
+</head>
+<body>
+<header>
+  <span class="t">Squint <small>· Peirce transcriptions</small></span>
+  <select id="item"></select>
+  <span class="count" id="count"></span>
+  <span class="grow"></span>
+  <button id="zoom" title="Toggle 1:1 zoom">zoom</button>
+  <button id="refresh" title="Re-read the file after your agent edits it">refresh</button>
+</header>
+<main>
+  <div class="rail" id="rail"></div>
+  <div class="imgwrap" id="imgwrap"><img id="img" alt=""></div>
+  <div class="txtpane">
+    <div class="txtbar">
+      <button class="fmt del" id="bDel" title="Wrap selection as deletion (⌘D)">strike</button>
+      <button class="fmt add" id="bAdd" title="Wrap selection as insertion (⌘I)">insert</button>
+      <button class="fmt" id="bClear" title="Clear formatting on selection">plain</button>
+      <span class="grow"></span>
+      <button id="copy" title="Copy markup + pointer for your coding agent">copy</button>
+      <span class="hint" id="status"></span>
+    </div>
+    <div id="box" contenteditable="true" spellcheck="false"></div>
+    <div class="ptr" id="ptr"></div>
+  </div>
+</main>
+<script>
+let ITEMS=[], cur={robin:null, pages:[], i:0}, META={path:"",url:"",cite:""};
+const $ = s => document.querySelector(s);
+const j = async u => (await fetch(u)).json();
+const esc = s => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+
+// canonical markup -> WYSIWYG html
+function toHtml(t){
+  return esc(t)
+    .replace(/\{del\}([\s\S]*?)\{\/del\}/g,"<s>$1</s>")
+    .replace(/\{add\}([\s\S]*?)\{\/add\}/g,"<ins>$1</ins>");
+}
+// WYSIWYG html -> canonical markup
+function toMarkup(node){
+  let out="";
+  node.childNodes.forEach(n=>{
+    if(n.nodeType===3){ out+=n.nodeValue; return; }
+    if(n.nodeType!==1){ return; }
+    const tag=n.tagName.toLowerCase();
+    if(tag==="s"||tag==="strike"||tag==="del") out+="{del}"+toMarkup(n)+"{/del}";
+    else if(tag==="ins"||tag==="u")            out+="{add}"+toMarkup(n)+"{/add}";
+    else if(tag==="br")                        out+="\n";
+    else if(tag==="div"||tag==="p"){ if(out && !out.endsWith("\n")) out+="\n"; out+=toMarkup(n); }
+    else out+=toMarkup(n);   // span/other -> unwrap
+  });
+  return out;
+}
+function wrap(tag){
+  const sel=window.getSelection();
+  if(!sel.rangeCount||sel.isCollapsed) return;
+  const r=sel.getRangeAt(0), el=document.createElement(tag);
+  try{ r.surroundContents(el); }
+  catch(_){ el.appendChild(r.extractContents()); r.insertNode(el); }
+  sel.removeAllRanges();
+}
+
+async function loadPage(i){
+  cur.i=(i+cur.pages.length)%cur.pages.length;
+  const img=cur.pages[cur.i];
+  $("#img").src=`/img/${cur.robin}/${img}?size=full`;
+  $("#count").textContent=`${cur.i+1} / ${cur.pages.length}`;
+  document.querySelectorAll(".thumb").forEach((t,k)=>t.classList.toggle("on",k===cur.i));
+  const on=document.querySelector(".thumb.on"); if(on) on.scrollIntoView({block:"nearest"});
+  const d=await j(`/api/txt?robin=${cur.robin}&img=${img}`);
+  META={path:d.path||"",url:d.url||"",cite:d.cite||""};
+  $("#box").innerHTML=toHtml(d.text||"");
+  $("#ptr").innerHTML=`<b>file</b> ${esc(META.path)}\n<b>source</b> ${esc(META.url)}\n<b>cite</b> ${esc(META.cite)}`;
+  $("#status").textContent="";
+}
+function selectItem(robin){
+  const it=ITEMS.find(x=>x.robin===robin); if(!it) return;
+  cur={robin,pages:it.pages,i:0};
+  const rail=$("#rail"); rail.innerHTML="";
+  it.pages.forEach((img,k)=>{
+    const b=document.createElement("div"); b.className="thumb";
+    const im=document.createElement("img"); im.loading="lazy"; im.src=`/img/${robin}/${img}?size=thumb`;
+    const n=document.createElement("span"); n.className="n"; n.textContent=img.replace(/^IMG_?/,"");
+    b.append(im,n); b.onclick=()=>loadPage(k); rail.appendChild(b);
+  });
+  loadPage(0);
+}
+function copyOut(){
+  const markup=toMarkup($("#box")).replace(/\s+$/,"");
+  const block=markup+"\n\n---\nfile: "+META.path+"\nsource: "+META.url+"\ncite: "+META.cite+"\n";
+  navigator.clipboard.writeText(block).then(()=>{
+    $("#status").innerHTML='<span class="ok">copied ✓</span>';
+    setTimeout(()=>$("#status").textContent="",1500);
+  });
+}
+
+$("#item").onchange=e=>selectItem(e.target.value);
+$("#refresh").onclick=()=>loadPage(cur.i);
+$("#zoom").onclick=()=>$("#imgwrap").classList.toggle("zoom");
+$("#bDel").onclick=()=>wrap("s");
+$("#bAdd").onclick=()=>wrap("ins");
+$("#bClear").onclick=()=>document.execCommand("removeFormat");
+$("#copy").onclick=copyOut;
+document.addEventListener("keydown",e=>{
+  const inBox=e.target.id==="box";
+  if((e.metaKey||e.ctrlKey)&&e.key==="d"){e.preventDefault();wrap("s");return;}
+  if((e.metaKey||e.ctrlKey)&&e.key==="i"){e.preventDefault();wrap("ins");return;}
+  if((e.metaKey||e.ctrlKey)&&e.key==="c"&&!window.getSelection().toString()){e.preventDefault();copyOut();return;}
+  if(inBox) return;
+  if(e.key==="ArrowDown"||e.key==="j"){loadPage(cur.i+1);e.preventDefault();}
+  if(e.key==="ArrowUp"||e.key==="k"){loadPage(cur.i-1);e.preventDefault();}
+});
+(async()=>{
+  ITEMS=await j("/api/items");
+  const sel=$("#item");
+  ITEMS.forEach(it=>{
+    const o=document.createElement("option");
+    o.value=it.robin; o.textContent=`R${it.robin} · ${it.title} (${it.pages.length})`;
+    sel.appendChild(o);
+  });
+  if(ITEMS.length) selectItem(ITEMS[0].robin);
+})();
+</script>
+</body>
+</html>

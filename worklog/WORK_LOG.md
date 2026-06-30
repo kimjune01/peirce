@@ -183,3 +183,21 @@ ledger in version history). Mechanism notes for re-runs: `codex exec -i` is
 variadic, so the prompt MUST come via stdin (`printf "$P" | codex exec -i IMG -o OUT`);
 `xargs` + exported functions fails on macOS bash 3.2, so the runner is a
 sequential, resumable while-loop (skips pages already on disk).
+
+## 2026-06-30 - Squint: proofreading GUI for the transcription scaffold
+
+Built `tools/squint/` -- a dependency-free local viewer (Python stdlib server +
+one HTML file, **port 1913**) to proofread the codex scaffold against the page
+images. NOT a standalone editor: it is a companion to a coding agent. Three
+columns: thumbnail rail | manuscript image | text pane. The text pane is a
+WYSIWYG over the canonical inline markup -- `{del}` renders as red strikethrough,
+`{add}` as dotted underline -- with strike/insert/plain buttons (and Cmd-D/Cmd-I).
+
+Data-format decision: the canonical form stays the lightweight inline markup, NOT
+rich text, so it ports trivially -- the editor round-trips `<s>`/`<ins>` back to
+`{del}`/`{add}` on copy (verified). Workflow: squint at the image, mark or fix in
+the box, hit copy -> clipboard gets the canonical markup PLUS a pointer (file
+path + archive.org source image + cite) -> paste into your coding agent, which
+edits `transcriptions/R<robin>/<IMG>.txt` -> hit refresh to re-read the file and
+see the edit reflected. Neutral grayscale palette per june.kim/design.
+Run: `python3 tools/squint/server.py`.
