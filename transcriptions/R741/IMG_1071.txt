@@ -1,0 +1,25 @@
+cannot be satisfied.
+
+(22) If two terms are not independent - then it - is possible
+to satisfy the first five conditions but it is not possible
+to satisfy the sixth condition at the same time. Hence
+when the first five conditions are satisfied there is al-
+ways some term of one series which denotes nothing de-
+noted by some term of the other series. Then there either is
+an individual denoted by the former of these two terms
+which is also denoted by that one of the two {del}independent{/del}
+{add}not independent{/add} terms, which is identical with a logical sum of terms of
+the same series to which the latter of the two terms be-
+longs, or there is not. {del}If there is not.{/del} Moreover there either
+is an individual denoted by the latter of these two terms
+which is also denoted by that one of the two {del}independent{/del}
+{add}not independent{/add} terms, which is identical with a logical sum of terms of
+the same series to which she [unclear: former?] of the two terms belongs,
+or there is not. If the negative alternative holds in both
+cases, then there must be two individuals one of which is
+denoted by the first term, and is denoted by the negative
+of the second term not independent. and the other of which
+is denoted by the second of the two terms and by the negative
+of the two terms not independent, how it could easily
+be shown that if the first-five conditions hold for two terms
+they hold also for the negative of those terms. For only the

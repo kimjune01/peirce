@@ -1,0 +1,27 @@
+{del}letters{/del} be attached to z, s, U, and V, to distinguish their
+different problems into which investigations are made. Then
+the total cost of any series of researches will be
+
+Σᵢ ∫ Vᵢ sᵢ . dsᵢ ;
+
+and their total utility will be
+
+Σᵢ ∫ Uᵢ rᵢ . drᵢ .
+
+The problem will be to make the second {del}logical{/del} {add}expression{/add} a maximum by
+varying the inferior limits of its integrations, on the condition
+that the first expression remains of constant value.
+
+Let us consider the general and usual properties of the func-
+tions U and V:
+
+And first as to the relation between the exactitude of know-
+ledge and its utility. The utility of knowledge consists in its
+capability of being combined with other knowledge so as to enable
+us to calculate {del}what we should do{/del} how we should act. If the
+knowledge is {del}more{/del} uncertain we are obliged to do more than
+is necessary in order to cover this uncertainty. And thus
+the utility of any {add}increase of{/add} knowledge is measured by the amount
+of wasted effort it saves us multiplied by the specific cost
+of that species of effort. Now we know from the theory
+of errors that the uncertainty in the calculated amount of

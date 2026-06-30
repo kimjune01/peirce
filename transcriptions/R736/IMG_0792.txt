@@ -1,0 +1,17 @@
+An inference is not rendered invalid be-
+cause its conclusion is false; it is only a
+false conclusion following from true pre-
+mises which is inconsistent with the validi-
+ty of the reasoning. In necessary reason-
+ing, at least, it is too much to expect that
+the conclusion should come out true, irre-
+spective of the truth of the premises; that would
+be a magical logic. If it is possible for the
+premises to be true while the conclusion is
+false, the inference (supposing it necessary)
+is invalid. But if this is not the case, the
+inference must be allowed to be valid. That
+is to say, the inference is valid, if in {del}every{/del}
+
+1st If the {del}[unclear: pr]{/del} {add}conclusion{/add} is necessarily true,
+whatever the premises may be,

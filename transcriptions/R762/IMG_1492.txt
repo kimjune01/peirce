@@ -1,0 +1,22 @@
+7
+
+consequently make use of a {del}[unclear]{/del}
+of numbers, called chance; that
+is to say, the probability in favor
+of a thing, divided by the probability
+against it. As the two modes of infer-
+ence are independent, we may here
+{add}only{/add} make use of the supplement to rule
+{add}hence{/add} {del}the p and q{/del} {add}p × q{/add} is the proportion
+of questions to which both yield a true
+answer, and the product of 1-p into
+1-q, is the proportion of questions to
+which both yield false answers. Then
+we see in the present case, either both
+tell the truth or both lie, the chance
+in favor of the conclusion in which
+we agree, is
+
+        p q
+-----------------
+(1-p)(1-q)

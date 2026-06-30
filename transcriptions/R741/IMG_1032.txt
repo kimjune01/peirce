@@ -1,0 +1,14 @@
+2 Negative predicates are to be quantified universally, &
+consequently cannot result from the conversion of a particular.
+When a {del}predicate{/del} is denied, it is denied unquant-
+tative ly, & consequently when it is quant{add}ti{/add}fied its
+
+An unquantified affirmation implies that the limits
+of the new subject are beyond the new predicate. Consequently
+it can only be partially affirmed.
+
+An unquantified negation implies also that the limits
+of the new subject are beyond the new predicate. Consequent-
+ly it can be universally denied.
+
+3. In conversion the quality of the proposition is not changed.

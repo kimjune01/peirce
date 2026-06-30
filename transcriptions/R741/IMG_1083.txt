@@ -1,0 +1,28 @@
+The Following syllogisms are nominally à posteriori
+
+{del}No secessionist is in favor of war{/del}
+{del}Some democrats are not in favor of war{/del} {add}secessionists{/add}
+No war-man is a secessionist                                      Univ
+Some democrats are not war-men                                    Neg
+∴ Some democrats are secessionists.
+
+No patriot will treat with rebels in arms                         Univ
+Some abolitionists have treated with rebels in arms
+∴ Some abolitionists are not patriots                              Neg
+
+Some cautious people are insincere
+Some cautious people {del}needs a reply{/del} {add}will not fight{/add}       Neg
+∴ No one who will fight is insincere                               Univ
+
+If A then B (or not B)
+But not A
+∴ Not B (or B)
+____________________
+If A then B (or not B)
+But not B (or B)
+∴ Not A
+____________________
+A (or not A)
+not B
+
+If B not A (or A)

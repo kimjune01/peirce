@@ -1,0 +1,36 @@
+-6-
+
+But from the diagram it will be seen that nearly all of the S's
+are [formula: y's]. Thus the probability that a S is a y is
+almost certainty.
+
+Probability differs from an ordinary investigation in the fact
+that in Probability I seek to ascertain the number of cases under the
+generic description and the number of cases under the specific descrip-
+tion and thus to obtain in figures the percentage of truth in the propo-
+sition.
+
+What is the probability of rain tomorrow? If I had a complete
+description of tomorrow the description would {del}disclose{/del} {add}determine{/add} the fact and there
+would be no Probability about it. But all I know about tomorrow is its
+yesterday; to wit, to-day. My imperfect description of to-day is the
+only description I have of tomorrow. I count the tomorrows that had yes-
+terdays like to-day. I count how many {add}such tomorrows{/add} were rainy. These numerical fig-
+ures determine the Probability based upon this evidence.
+
+The subject or predicate or both of any proposition may split
+up into compounds.
+
+We may have, for instance, the proposition:
+y = y(S₁ + S₂ + S₃ + etc)
+which may be interpreted either conjunctively or disjunctively or singly
+as follows:
+
+The genus determined by the generic description y in-
+cludes the species S₁, S₂ and S₃ &c.
+Or any y that we may select is either a S₁,
+or a S₂ or a S₃ &c.
+Or this particular y under discussion is either a S₁,
+or a S₂ or a S₃ &c.
+If the species S₁, S₂ and S₃ &c, make up the whole
+genus then the probability that y is S₁ or S₂ or S₃, &c.

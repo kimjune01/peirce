@@ -1,0 +1,39 @@
+susceptible, one which is the analogue of that very simple
+relation subsisting between x and y by virtue of the hypo-
+thetical proposition.
+
+
+CHAPTER 2.  Barbara.
+
+If to the equation
+
+            (x-v)A = (y-v):B
+
+meaning that "If x is true, y is true," we join the similar
+equation
+
+            (y-v)B' = (z-v):B'
+
+meaning that "If y is true, z is true," we can eliminate y
+and so get
+
+            (x-v)AA' = (z-v):BB'
+
+which signifies that "If x is true, z is true."This form
+of inference is essentially that which the logicians term
+Barbara.
+     When we say that a proposition cannot be both true
+and false, we mean not in any one case, for in one case
+it may, of course, be true and in another false. By one
+case, here, we mean at any one time, of any one thing,
+in any one sense, etc. Let a designate any case of a given
+definite series of cases. It makes no difference whether
+this series is a class of things of which the proposition
+might be true, or a range of possibilities or what. We may
+be considering the class of men with reference to their
+possessing some character, or the cholera as being preva-
+lent at some or all of certain times, or a social phenome-
+non as occuring in a certain range of possible social con-
+stitutions, o r anything of the sort. Whatever be the nature
+of the series of cases, we may write x_a to mean that in the
+case a, x is true. [unclear: T?]

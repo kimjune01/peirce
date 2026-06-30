@@ -1,0 +1,16 @@
+The rates for the United States are separated
+from the others because they are separated by
+ten years instead of nine, like the others, and
+moreover they do not refer to any Calender year
+but to years of 365 days ending May 30. I have
+taken no pains to get the best values of the
+constants, So it would {del}seem{/del}{add}be{/add} a good exercise in
+Least Squares to work these out. Of course, the
+unif{del}[illegible]{/del} is only
+{del}[unclear: mere thing is]{/del} rough. {del}[illegible]{/del} It does quite
+violate by Holland & Switzerland, countries that
+I mark as bad because they diminished their
+death rate in that novennium in a manner
+wholly unauthorised by my rule.
+The {del}most usual way of defining a word{/del}{add}best way of settling the meaning of a word{/add}
+is to {del}def{/del} take it in such a sense as shall

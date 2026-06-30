@@ -1,0 +1,29 @@
+Quality is the only Quantity which a distinction between
+the Extension and Intension of Concepts need give to the
+Predicate.
+
+N.B. Though I shall psychologically here (as opposing
+psychological logicians) all that I say of concepts may be
+extended to symbols in general.
+
+Definitions
+1 The reference of a concept to a quality is its intension.
+2 The reference of a concept to an object is its extension conceived
+3 The determination {del}of the reference of one{/del} concept by {add}a{/add}
+{add}of which is of the same kind as{/add} another; for to
+synthesis of {del}it with [the reference of]{/del} another is a judgment.
+4 The determined concept of a judgment is the subject = S.
+5 The determining concept of a judgment is the predicate = P.
+
+Axioms
+1 In the concept the quality, or intensive object, is directly thought, {add}that is seen in the concept itself.{/add}
+2 In the concept the extensive object is indirectly thought, or thought of,
+that is, it is only thought by the reference of the thought to {del}objects{/del} {add}[unclear: sense] in the [unclear: compared] objects{/add}
+3. A concept may be met with and recognized in the observation of objects.
+
+Theorem I. The limits of intension are given subjectively; for
+that we should distinguish what is within the object of inten-
+sion from what is without, it is only necessary to have a clear
+notion of that object. But that object is actually thought; hence
+if the thought is clear the required limits are given without the
+necessity of referring to {del}external{/del} objects of sense.

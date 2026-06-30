@@ -1,0 +1,26 @@
+Combinations of combinations:
+[formula: see image]
+
+Formulae relating to the relatives of second intention
+∞, 0, 1, n.
+
+        0 < x        x < ∞
+
+x + 0 = x        x₀∞ = x
+x + ∞ = ∞        x₀0 = 0.
+
+x + ∞ = ∞        x0 = 0
+∞ + {del}∞{/del} = ∞        0x = 0.
+
+x + n = x        x1 = x
+n + x = x        1x = x.
+
+{del}x{/del} + x̄ = ∞        x₀x̄ = 0.
+                    {del}x + x{/del}
+
+1 < x + x̆        xx̆ < n.
+
+1 + n = ∞        1₀n = 0.
+
+Method of using these formulae illustrated by
+examples.

@@ -1,0 +1,19 @@
+diminished by the probability of that
+thing. On the other hand, the impres-
+ion produced upon the mind by two
+arguments of equal weight in favor
+of opposite conclusions, are, or should
+be, equally and opposite impressions.
+From these it is easily proved, by the
+higher mathematics, that the impression
+upon the mind is measured by the
+logarithm of the Chance, or, in plainer
+language, that when chances are multi-
+plied impressions upon the mind are added.*
+Accordingly we have this rule to find
+what impression should be left upon
+the mind by a number of independent reasons.
+* Let u be the chance, and φu be the impression
+on the mind; then we have
+φ(ū) = - φu. This is a simple
+problem in the calculus of functions.

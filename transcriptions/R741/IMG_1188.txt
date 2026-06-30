@@ -1,0 +1,20 @@
+{del}relatives to numerical algebra.{/del}
+
+In dual relatives there are four species of
+{del}propositions{/del}; viz:
+
+ΠᵢΠⱼ lᵢⱼ     ΣᵢΠⱼ lᵢⱼ     ΠⱼΣᵢ lᵢⱼ     ΣᵢΣⱼ lᵢⱼ.
+
+We have, in general,
+
+[diagram: marginal note circled with arrow] The last is the most important
+formula of logic.
+
+ΠᵢΠⱼ = ΠⱼΠᵢ
+ΣᵢΣⱼ = ΣⱼΣᵢ
+ΣᵢΠⱼ < ΠⱼΣᵢ.
+
+But we have
+
+ΣᵢΠⱼ uᵢvⱼ = ΠⱼΣᵢ uᵢvⱼ.
+ΣᵢΠⱼ (uᵢ+vⱼ) = ΠⱼΣᵢ (uᵢ+vⱼ)

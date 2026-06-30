@@ -1,0 +1,24 @@
+21
+
+stituted. Let B be the proposition which becomes
+true, and let B' be what it becomes when the cir-
+cle is substituted. Then the proposition \overline{A}+B, becomes
+in the two cases O+B' and \overline{A}+∞, both of which
+are true; so that \overline{A}+B is true by Rule 3.
+
+9. We have necessarily
+
+[formula: see image],
+
+so that from
+
+\overline{A+B}+C follows \overline{C+I}+\overline{A+B+I}.
+
+{del}For put C=O. Then \overline{C+I} becomes true{/del}
+For if either A or B is {del}not{/del} {add}replaced{/add} by the circle the pro-
+position is true. If both are replaced by ∞ and
+C by the circle, \overline{A+B}+C is false, and again
+{add}C is{/add}
+the proposition is true. If {del}all these are{/del} ∞ and
+I is O, \overline{C+I} is false and the proposition is
+true, while if I is true, the proposition is true.

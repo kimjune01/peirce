@@ -1,0 +1,25 @@
+And as the urgency of the two methods ought to be the
+same at the conclusion of the work we should have,
+
+        √k₁ . s₁ (1 + n₁ R₁²/s₁²) = √k₂ . s₂ (1 + n₂ R₂²/s₂²),
+
+which equation serves to determine the relative values of n₁,
+and n₂. We again perceive that the cost is the smallest consi-
+deration. The method which has the smallest accidental proba-
+ble error is the one which is to be oftenest used in case only
+a small number of observations are made,, but if a large
+number are taken the method with the larger accidental
+probable error is to be oftenest used, unless it has so much
+greater a probable constant error as to countervail this
+consideration. If one of the two methods has only 1/μ² th the
+accidental probable error of the other, but costs μ² times as
+much, the rule should be to make the {del}cost{/del} total cost of the
+two methods {del}equal{/del} {add}inversely{/add} proportioned to the squares of their con-
+stant errors.
+
+Let us now consider the case in which two quantities
+x₁ and x₂ are observed, the {del}known{/del} determination of which
+serves only to determine a certain function of them, y. In
+this case, the probable error of y is
+
+        √(Dₓ₁y · x₁² + Dₓ₂y · x₂²)

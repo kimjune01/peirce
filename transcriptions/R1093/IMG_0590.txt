@@ -1,0 +1,27 @@
+Suppose we have two different methods of determining the
+same quantity. Each of these methods is supposed to have an
+accidental probable error and a constant probable error
+so that the probable errors as derived from n observations
+-- in the two ways are,
+r₁′ = √(R₁² + S₁²/n)     and r₂′ = √(R₂² + S₂²/n).
+
+The probable error of their weighted mean is
+
+        1
+    —————————————
+    √(1/r₁′² + 1/r₂′²)
+
+if their constant probable errors are thrown. The sole utility
+of any observation of either is to reduce the error of the weighted
+mean; hence,
+
+Uᵣ₁ = -Dᵣ₁(r₁′⁻² + r₂′⁻²)^-1/2 = (r₁′⁻² + r₂′⁻²)^-3/2 r₁′⁻3.
+
+And as the cost is proportional to the number of observations
+
+V_S₁ = k₁ 1/Dₙ₁ S₁ = k₁/[Dₙ₁(R₁² + S₁²n⁻¹)^-1/2] = 2k₁ r₁′³ n₁²/S₁².
+
+Hence the urgency is (omitting a {del}term{/del} {add}factor{/add} common to the values for the
+two methods)
+
+r₁′² Uᵣ₁/V_S₁ = 1/[k₁ S₁²(1 + r₁′/S₁² R₁²)²]

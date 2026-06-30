@@ -1,0 +1,35 @@
+an absolute maximum without being finite. The
+logic of relatives first shows us this, which we
+are then able to make intuitively evident. Un-
+limited quantity is defined by the formula
+
+g + 0 < 0.
+
+Finite quantity {del}is how defined{/del} distinguished from
+the super-infinite. Infinite quantity is that which
+is at once unlimited and finite. Mathematical
+induction generally fallacious; when valid,
+
+{del}Counting that. Formulae defining it.{/del}
+
+Counting is a relative of correspondence. Defining
+formulae of such a relative
+
+c̆c < 1     cc̆ < 1.
+
+If c be a number used in counting, an s and
+object of the lot counted; we have
+
+s < c̆
+
+ğc < c.
+
+If the lot counted is a finite and limited lot
+there is a maximum number reached in the count-
+ing. Calling this {del}[illegible]{/del} g, we have
+
+g < c
+
+ḡğ < c̄,
+
+Nature of mathematical reasoning {add}shown{/add} {del}exhibited{/del}

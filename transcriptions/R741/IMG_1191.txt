@@ -1,0 +1,24 @@
+Lecture XXIV.
+
+Introduction to the theory of probabilities. Realis-
+tic, conceptualistic, nominalistic conception
+of probability. Application of the rule for ascer-
+taining clearness of apprehension.
+Relative numbers. Rules for combining
+them. Rules for the addition and multiplica-
+tion of probabilities. Independent events.
+Connection with the Boolian calculus,
+in its different forms.
+
+Lecture XXV.
+Problems in probabilities solved by Bool's
+method.
+
+Lecture XXVI.
+The binomial development in probabilities.
+The law of high numbers.
+
+Lecture XXVII.
+The same subject continued. {del}Natural{/del}
+{del}classes{/del}. The law of errors. Natural classes.
+Mr. Galton's methods. Solutions of examples.

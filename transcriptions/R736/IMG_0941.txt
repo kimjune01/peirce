@@ -1,0 +1,16 @@
+In the case of the categorical syllogism, {add}the class-names{/add} S, M,
+P, are called the terms, and the same nomen-
+clature may be extended to the hypothetical
+form. The term whose area of truth is the
+smallest is called the minor term; that whose
+area is the largest is called the major term; these
+two are called the extremes, the {del}third{/del} term
+is called the middle, or middle term. The
+premise containing the minor term is called
+the minor premise; that containing the
+major term, the major premise.
+Taking the major premise of the syllo-
+gism as a part of the conclusion, we have,
+the following form of inference called contraposition.
+If S then M
+Hence from, If M then P, it {add}logically{/add} follows that {del}if S then P{/del}

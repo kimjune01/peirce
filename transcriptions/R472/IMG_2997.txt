@@ -1,0 +1,16 @@
+94
+
+{add}when{/add}
+of A's {del}suppose{/del} {add}one of{/add} the A's having it is quite indepen-
+dent of another's having it. For example suppose
+ten dice are thrown. Then there are {del}each{/del}
+{del}the probab{/del}
+
+6¹⁰ = 602 535 996 ways in which they may
+turn up, of which only one makes them all
+sixes. There are 50! ways in which all but
+one can be sixes
+[diagram: red numerical triangular/array calculation for dice outcomes, partly overwritten and extending across the page]
+
+The other numbers are calculated as in the
+diagram

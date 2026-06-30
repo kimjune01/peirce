@@ -1,0 +1,29 @@
+effort necessary to the given forth, may be represented
+by an expression of the form
+
+        e √(a + r²),
+
+where a and e are constants, {add}depending on,{/add}
+And therefore, the differential coefficient of this multi-
+plied by the specific cost of the effort in question, say k/e,
+gives
+
+        Uᵣ = k/e  r/√(a + r²).
+
+When a is very small compared with r this becomes nearly
+constant, and in the reverse case it is nearly proportional
+to r. An analogous proposition must hold for non quanti-
+tative research.
+
+Let us next consider the relation between the exactitude
+of a result and the cost of attaining it. When we increase our
+exactitude by multiplying observations and {del}the cost of{/del} the different
+observations are independent of one another as to their cost, we
+Know from the theory of errors that ∫Vₛ.ds is proportional
+to s² and that consequently Vₛ is proportional to s. If the costs
+of the observations are not independent (which usually hap-
+pens) the cost will not increase so fast relatively to the
+accuracy; but if the errors of the observations are not
+independent (which also usually happens) the cost will
+increase faster relatively to the accuracy; and these two
+perturbing influences may be supposed in the long run, to

@@ -1,0 +1,52 @@
+If A then B
+If A sometimes B
+
+A
+B
+Not A
+Not B
+[diagram: four terms in a column, enclosed by two vertical lines]
+
+[diagram: two faint horizontal line diagrams with letters and marks; mostly illegible]
+
+A        B
+
+If A then B
+A    B    Not A    Not B
+────────────────────────
+B    B    B
+A    Not A    A
+────────────────────────
+
+If it some [illegible]
+-B        A
+
+∼BaT∼
+
+B
+Γ
+Δ
+
+If A then B          B
+B                   Γ
+If A sometimes B    Δ
+────────────────────────
+
+A        {del}[illegible]{/del}        O
+B                              E
+Not A                          U
+Not B
+────────────────────────
+{del}[illegible]{/del}    v    nk    [unclear: ot?]
+A                         B    Not A    Not B
+
+If A B        If A not B        If A sometimes B
+{                     {del}[illegible]{/del}        {
+s                                      ks
+
+γ
+δ
+σ
+ns
+
+[illegible]

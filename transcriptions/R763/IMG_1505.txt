@@ -1,0 +1,89 @@
+[formula: see image]
+
+[formula: see image]
+
+L1
+[unclear: 691?]  ξ1
+121  "
+[unclear: 67?]  2
+
+[formula: see image]
+
+[formula: see image]
+
+LST        LST
+
+[formula: see image]
+
+00000
+011
+011
+01
+01400
+0011
+0011
+001
+0010
+11
+0001
+00010
+0111
+1+1
+101
+10100
+011
+011
+0011
+0101
+0101
+1001
+1001
+11
+11
+
+[formula: see image]
+
+[formula: see image]
+
+LST  95?
+821
+4
+52
+96
+L1
+
+0001
+
+0000 - 00001
+011 - 1111
+1001  0111
+001 - 1011
+-1001 - 0011
+-111 - 1101
+-11 - 0101
+-01 - 1001
+-010 - [illegible]
+-1011 - 177
+-1111 - 011
+-101 - 101
+-0011 - [illegible]
+-1 - 11
+-0111 - 01
+0 - 1
+
+[diagram: circular radial diagram with binary labels around circumference]
+
+[formula: see image]
+
+0001
+001
+0010
+011
+0101
+011
+1001
+1001
+11
+11
+
+10001

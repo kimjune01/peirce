@@ -1,0 +1,17 @@
+Celarent.
+
+Every S is M ; No M is P ;
+Hence, No S is P.
+
+Darii.
+
+Some S is M ; Every M is P ;
+Hence, Some S is P.
+
+Ferio.
+
+Some S is M ; No M is P ;
+Hence, Some S is not P.
+
+
+[unclear: Analyzing?]

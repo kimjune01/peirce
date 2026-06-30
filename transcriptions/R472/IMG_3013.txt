@@ -1,0 +1,17 @@
+122
+
+as the smaller one. Thus, that question seems to be
+satisfactorily answered.
+        A point which often puzzles those who
+are entirely ignorant of the doctrine of chances
+is {del}[unclear: two that?]{/del} they think that if a coin has turned
+up heads say {del}half a dozen{/del} {add}ten{/add} times in succession,
+—which will happen about once in a
+thousand times,— since it {del}turns{/del} {add}must turn{/add} up heads
+and tails in equal proportions, {del}[unclear: this must?]{/del}
+{del}follows{/del} the long run of heads must be followed
+by {add}among{/add} {del}throws{/del} which there is an extra pro-
+portion of tails, to {del}[unclear: turn?]{/del} {add}balance{/add} the extra heads.
+This of course is a great mistake, The extra
+heads though they were a million would
+not affect the [unclear: $] relative frequency of heads

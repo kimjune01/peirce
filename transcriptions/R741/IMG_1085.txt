@@ -1,0 +1,29 @@
+The following syllogisms are nominally à priori
+
+No {del}murderers{/del} enter the Kingdom of heaven        Univ
+Some soldiers are murderers                                Affirm
+∴ Some soldiers do not enter the Kingdom of heaven
+
+No saints are damned                                      Univ.
+Some soldiers are not damned                              Affirm
+∴ Some soldiers are saints
+
+Some physical force is not wrong                          Affirm.
+Some physical force is brute force                        Univ.
+∴ No brute force is wrong.
+
+If A then B (or not B)
+But A (on {add}any{/add} {del}[unclear: occasion]{/del})
+∴ (on that occasion) B (or not B)
+
+[diagram: wavy horizontal divider]
+
+If A then B (or not B)
+But B (or not B)
+∴ A.
+
+[diagram: wavy horizontal divider]
+
+{del}On [unclear: some] occasion B (or not B){/del}
+On that occasion A
+∴ If A then B

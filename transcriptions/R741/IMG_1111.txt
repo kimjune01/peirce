@@ -1,0 +1,18 @@
+Relation
+
+A proposition is disjunctive when it depends on a condition out
+of the representation implied but not stated
+Hypothetical when its condition is stated but not included in
+the subject
+Categorical : when it {del}[unclear: conclo?]{/del} includes its own condition.
+[diagram: wavy horizontal line across page]
+
+        B                         B                         B
+        Not A                     A                         A
+∴ If A, {del}not{/del} B     ∴ If A, B              ∴ If A's sometimes B
+These conclusions are hypothetical because the statement of the
+condition is essential to them as dependent on these premises
+It is logically relevant.
+If A then B              If A then B              If A sometimes B
+But not B                But B                    But B
+∴ Not A                  ∴ A                      ∴ A may be.

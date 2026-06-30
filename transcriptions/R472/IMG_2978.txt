@@ -1,0 +1,32 @@
+63
+
+{add}our last{/add}
+of the Census on purpose for this lecture.
+
+The comparison is of the number of deaths
+
+per thousand of the population in the years
+
+1890 and 1899 respectively, in over a
+
+dozen countries the comparison being
+
+made with numbers calculated from
+
+the law
+
+{del}death-rate per M.{/del}
+{del}death rate{/del} {add}per thousand{/add} = 16.5 × 10^[formula: see image]
+
+or
+
+r = R (1.002847)^(T-t)^2
+
+where
+
+t is the date of the year A.D.
+r is the number of deaths in that year per thousand
+of the population in a given country
+T is the date when in that country the
+death rate will be lowest
+R is the lowest death rate, the same in all countries

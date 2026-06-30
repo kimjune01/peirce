@@ -1,0 +1,28 @@
+Same is the case with 2/3 = α, when the multiples of α β γ
+are on one line.
+
+If we take three objects A B C such that
+
+A - B = a        B - C = b        A - C = c
+a/c = α
+
+{del}And such that{/del} Then α and 1/-α are either on the same
+line or are multiples of each [unclear: ground]. Suppose α > 1/-α
+Then if we take c, on a line with c and
+
+a' = a + c,
+
+c may be such that a'/c < -c/a'.
+
+For if -b/c > c/b then as -b - a = -c   a - c = -b
+and letting a' = -b        a'/c < c/-a'
+but if -b/-c > c/b Then we may have b' such that
+-b/-c = b/c = c/b' and we may have B' such that
+A - B' = b' and then B - B' will be on the line of c
+and b'/c > c/-b'.
+
+If we take A B C as before then if we take B, such
+that [diagram: small angle-like mark] the ratio of the ratios is increased;
+{add}always{/add}
+[unclear: Therefore] may {del}[unclear]{/del} have a point where
+α/c = c/-α

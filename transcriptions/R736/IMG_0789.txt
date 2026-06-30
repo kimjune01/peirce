@@ -1,0 +1,18 @@
+Killed. Let N {del}denote{/del} that the same man
+{del}throws{/del} himself into Niagara, K, that he
+would be killed, F, false, P, that the laws
+of physics are true, M, that {del}the mental{/del}
+{del}hypothesis suppositions{/del} a sane man would
+not kill himself; then the first propo-
+sition might be written as follows.
+        P̅⊃(N̅⊃K)
+{add}while{/add}
+{del}and{/del} the second would be
+        M̅⊃{N̅⊃(K⊃F)}.
+We have seen that
+[diagram: crossed-out logical formulas with diagonal deletion strokes]
+        A̅⊃(B̅⊃C)
+and     B̅⊃(A̅⊃C)
+{del}are true and{/del} mean the same thing; that
+is, they are by logical necessity either both
+true or both false. It is {del}therefore{/del} unnecessary

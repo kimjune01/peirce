@@ -1,0 +1,37 @@
+Lecture XV.
+
+Logic of arithmetic; its true nature made manifest
+by the application of the logic of relatives. The reason
+of the important part played by relations of correspondence
+in general and by counting in particular, {add}made{/add} plain from
+the principles of the last lecture. Conception of quan-
+tity, in general. Let g be as great as. Then,
+
+        1 < g
+
+        gg < g.
+
+In the universe of quantity
+
+        {del}∞ < g + ğ{/del}
+
+        g ∘ ğ < 1.
+
+In linear quantity.
+
+        ∞ < g + ğ.
+
+In continuous quantity
+
+        g + g < g;
+
+in discrete quantity, we have the conception of the
+next. {del}greater than{/del}.
+
+        l₀(l̆ + l̄).
+
+{del}Conception of finite super-in finite, and infinite{/del}
+
+Conception of finite and super-infinite quantity
+
+Quantity may be limited, in the sense of having

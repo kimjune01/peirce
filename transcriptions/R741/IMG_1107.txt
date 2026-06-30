@@ -1,0 +1,56 @@
+If A sometimes B
+        But B
+∴  A
+
+If A sometimes B
+        But A
+∴  B
+
+Dela
+        B
+        A
+∴ If A sometimes B
+
+
+{del}Here [unclear: the in?] for what is represented in the premises{/del}, by supposing the
+what is supposed in the premises but beyond, the [unclear: case?] supposed
+thus in Dela; B & A are {del}not{/del} represented as coinciding under immediate
+[unclear: relation.]
+Here what is {del}spoken of{/del} {add}referred to{/add} in the {del}formal{/del} {add}premises{/add} is referred to in the premises
+{del}and [illegible]{/del} but [unclear: conceived] more widely. Thus while A under the middle is represented in the minor
+of Dela, in the conclusion the same indicates that it is regarded as of wider meaning. so in the others
+some A is extended to
+all A
+
+If A then B
+        But B
+∴  A
+
+If A then B
+        But A
+∴  B
+
+        B
+        A
+∴ If A then B
+
+Here what is {del}represented{/del} in the conclusion is no more than was represented
+in the premises.
+
+
+If A then B
+        But not B
+∴ Not A
+
+If A then B
+        But not A
+∴ Not B
+
+        B
+        Not A
+∴ If A, not B
+
+[diagram: heavily crossed-out radiating sketch at lower left]
+
+Here what is meant in the conclusion is not even partially represented
+in the premises.

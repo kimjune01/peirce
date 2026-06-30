@@ -1,0 +1,32 @@
+[formula: o = x; q = d; o = h]
+x ⊃ (d ⊃ h)        x ⊃ (o ⊃ h)        h ⊃ (o ⊃ x)        x(dh + dh)
+h ⊃ (d ⊃ x)                                      {del}h ⊃ x{/del}        dαh        (x + d)(dh + dxh)
+x ⊃ d     d ⊃ h                                      (h + dx](x+d)(d+h)
+                                                        {del}h + dhx{/del}
+x ⊃ o     o ⊃ h
+x ⊃ (o ⊃ h) ⊃                         {del}z + h x{/del}
+[h ⊃ (o ⊃ x)] ⊃ (x ⊃ o)                {del}z ⊃ (h ⊃ x){/del}
+[(z ⊃ x) ⊃ (z ⊃ h)] ⊃ (h ⊃ x)          (z ⊃ x) ⊃ (z ⊃ h)
+                                                     h ⊃ x
+x ⊃ [x ⊃ (o ⊃ o)]                       ⊃ (o ⊃ h)          x ⊃ o
+x + o (o + x)                           (o ⊃ (o ⊃ h)] ⊃ (o ⊃ x)     (o ⊃ x) ⊃ x
+      (o ⊃ x)                           (o⊃h)] ⊃ (o⊃x)              (o ⊃ o) ⊃ x
+x ⊃ [o ⊃ (o ⊃ x)]{del}o⊃(o⊃x){/del} ⊃ (o⊃[o⊃(o⊃h)])      {del}o x{/del} = h ⊃ x
+[o⊃x) ⊃ (o⊃x){o⊃(o⊃h)} ⊃ (o⊃x)                      (o ⊃ x) ⊃ h
+[o ⊃ (o ⊃ x)] ⊃ x     [o ⊃ (o ⊃ x)] ⊃ (o ⊃ h)         (o ⊃ h) ⊃ x
+h ⊃ (o ⊃ x)
+
+[o ⊃ (o ⊃ h)] ⊃ x
+(o ⊃ x) ⊃ (o ⊃ h)
+{del}o x{/del}
+
+h ⊃ x                                      h ⊃ h ⊃ x ⊃ x
+                                           x ⊃ (z ⊃ h) ⊃ x
+(o ⊃ z)                                    [{z ⊃ (h ⊃ x)} ⊃ (z ⊃ h)] ⊃ x
+x ⊃ (z ⊃ z) ⊃ h                            [(z ⊃ h) ⊃ [z ⊃ (h ⊃ x)]] ⊃ x
+(z ⊃ z) ⊃ x ⊃ h                            [(z ⊃ h) ⊃ x] ⊃ [z ⊃ (h ⊃ x)]
+(z ⊃ z) ⊃ h ⊃ x                            {del}z h + x x x (h + x){/del}
+(h ⊃ z) ⊃ x     x                          (z ⊃ h) ⊃ x ⊃ z ⊃ (h ⊃ x)
+                                           [z ⊃ (h ⊃ x)] ⊃ [z ⊃ h] ⊃ x.
+
+z + hx ⊃ (z+h)x

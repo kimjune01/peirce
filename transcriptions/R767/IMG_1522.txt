@@ -1,0 +1,33 @@
+Induction                         {add}which shall hold in the long run{/add}
+I By sampling - to ascertain a ratio
+        a. Random sampling from a finite
+           collection verging toward a
+           definite ratio
+        B. Sampling a denumeral collection
+           (die-throws)
+        C. Sampling to discover the law of
+           any of a denumeral ordered
+           collection
+{del}II{/del} B By continued observation certain to
+        correct any original error in the
+        long run - to discover not
+        a ratio but an inevitability
+{del}III{/del} By sampling possible predictions
+        and testing them - attaining [unclear: security?]
+        in correcting or confirming hypotheses
+        in the long run
+
+Abduction vs. Induction.  Ab. starts from
+facts, & draws a hypothesis which would
+have similar results.  In. starts from
+hypotheses and subs. experiments which
+bring to light facts {del}[unclear: Deducting?]{/del} {add}new truth{/add}
+
+abduction goes on the assumption that facts
+are rational, and that by guessing we shall
+be able to guess the true explanation of things
+
+Abduction - requirements for a hypothesis
+I. It must be testable
+II It must explain the facts as natural consequences
+        or as necessary

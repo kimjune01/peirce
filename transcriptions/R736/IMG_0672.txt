@@ -1,0 +1,16 @@
+Ms. 736
+
+Qualitative Logic
+
+Chap I.  Association of Ideas
+Chap II.  Simple Consequences
+Chap III  {del}Modus{/del} Ponens
+Chap IV  Syllogism
+    Chap IV bis. Reductio ad absurdum
+Chap V  {del}Dilemma{/del}
+Chap VI. Logical Algebra and Logic of Relatives
+        {add}Inferences{/add}
+Chap VII. {del}Syllogisms{/del} of Transposed Quantity
+Chap VIII  Fermatian Inference
+Chap IX  Ricardo's Inference. ?
+Chap X  Infinity & Continuity.

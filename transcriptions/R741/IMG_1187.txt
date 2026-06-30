@@ -1,0 +1,23 @@
+Introduction to the Logic of relatives. Individuals.
+Nominalism and realism. The principle of
+individuation.
+
+Universal and {del}particular propositions{/del} repre-
+sented by the two types
+
+        Πᵢuᵢ        Σᵢuᵢ .
+This supposes that “something exists” is a
+principle of logic,
+Definition of a relative term. The univer-
+sal block:
+        A:A     A:B     A:C     etc.
+        B:A     B:B     B:C     etc,
+        C:A     C:B     C:C     etc,
+        etc.    etc.    etc.    etc,
+
+Representation of a relative in the form
+        l = Σᵢ Σⱼ lᵢⱼ (I:J)
+Every combination of relatives can be
+defined by the general numerical coef-
+ficients lᵢⱼ. Hence, these coefficients en-
+able us to reduce the whole logic of

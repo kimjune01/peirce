@@ -1,0 +1,29 @@
+Lectures XXXXIII-XXXXVI.
+
+Equations of finite differences, treated mainly
+as in {del}Boole{/del}.
+A function in finite differences has not
+generally a differential coefficient.
+The {add}algebraic{/add}
+properties of the symbol E.
+Linear equations {del}and{/del} simultaneous equations,
+partial equations {add}applied to{/add} {del}and{/del} problems in probability.
+Equations of higher degrees.
+The problem of the duration of play, applied
+to the theory of natural selection and to philo-
+sophy.
+
+Lectures XXXXVII to XLVI.
+
+The theory of Induction, treated as in the Cen-
+tenary essay in the Studies in Logic.
+
+Lecture XLVII.
+
+Pure induction illustrated by chemical theories,
+Mendelejeff's law.
+
+Lecture XLVIII.
+
+Hypothetic reasoning illustrated by the attempts
+to discover the identity of Junius.

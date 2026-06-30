@@ -1,0 +1,28 @@
+A conclusion is analytic which is included in the premisses
+synthetic determined by the middle term
+[unclear: occasionally] while is undetermined by the premisses
+
+[diagram: three small logical figures with B, A, “not A,” and corresponding conclusions]
+
+∴ If A, not B        ∴ If A, B        ∴ If A, sometimes B
+
+Here the conclusion is subject to the middle term in as much as it is only
+in a sphere limited by the limits of the middle term that it follows. Or rather
+it is only by what is the fact within the middle term, that we infer what is the case
+beyond that; hence the middle term here {del}determines{/del} {add}affects{/add} our conclusion of what
+is beyond the middle term. and beyond the premisses
+
+If A, then B        If A, then B        If A, sometimes B
+But not A           But A               But A
+∴ {del}Not{/del} B          ∴ B                 ∴ B
+
+Here we infer what is the case under the supposition of the middle term according to
+the relation sequence expressed in the major premiss. Hence it is a conclusion of what
+is within the premisses. Of whether a thing is within the premisses or not, of whether his
+major concerns the middle or not,
+
+If A then B         If A then B         If A sometimes B
+But not B           But B               But B
+∴ Not A             ∴ A                 ∴ A
+
+Here we infer not under the major premiss at all.

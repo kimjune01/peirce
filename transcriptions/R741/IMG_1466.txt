@@ -1,0 +1,32 @@
+9
+
+I propose to call two propositions equivalent if they
+are equally true, that is to say, if they are either
+both true or both false. Observe that, in general, two
+propositions {del}are eqv{/del} may be said to be equivalent
+in meaning if, in every conceivable state of things
+in which one is true, the other is also true. But at
+present one only considering {add}single{/add} single state of
+things, and {add}having{/add} no reference to this, {del}two propositions are
+equivalent{/del} equivalence {del}reduces to{/del} has no other meaning
+than the simultaneous truth or falsehood of the propositions.
+For then the propositions have {add}exactly{/add} one meaning. {del}that{/del} To say that X
+and Y are equivalent, is the same as to say, X<Y and Y<X.
+{del}For the{/del} The sufficient manner to prove this is,
+
+The propositions
+        X < (Y < Z) and Y < (X < Z)
+are equivalent. For suppose X false, then the first is
+{del}X false, Y false, Z [illegible]{/del}
+{del}X false, then the first is true.{/del}
+true. But then also X<Z is true and consequently the
+second is true. Suppose Y false, then the second is
+true. But then also Y<X is true, and consequently the
+first is true. Suppose Z true, then Y<Z is true and
+the first is true. But then also, X<Z is true, and consequently
+the second is true. It only remains to consider the case
+when X is true, Y is true, and Z is false. Because
+Y is true and Z false, Y<Z is false; and because
+X is true and Y<Z false the first is false. But because
+X is true and Z false, X<Z is false; and because Y is
+true and X<Z false, the second is false.

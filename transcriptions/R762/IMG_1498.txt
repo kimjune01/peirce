@@ -1,0 +1,21 @@
+14
+
+The proportion of false conclusions
+is equal to one, diminished by the
+proportion of true ones. So the reasons
+are independent, the proportion of times
+in which either yields a true conclusion
+among those in which the other yields
+a false one, is the same as the propor-
+tion in which it yields a true conclu-
+sion among all that are subjected to it.
+Hence the proportion of cases where the
+first yields truth and the second false-
+hood, is equal to the entire proportion
+in which the first yields truth, mul-
+tiplied by the entire proportion in
+which the second yields falsehood; that
+is, multiplied by one, diminished by the
+proportion in which the second yields
+truth. A similar product will give
+the proportion in which the second

@@ -1,0 +1,27 @@
+Examples of Probable Reasoning
+
+The following facts {del}given{/del} {add}are given:{/add}
+
+1ˢᵗ, that W. Stanley Jevons was a professor of logic.
+2ⁿᵈ, that in his Lessons on Logic, 2ⁿᵈ Ed., p.8, he says "The celebrated
+British logician Duns Scotus . . called Logic the [Sciencie?] of Sciences, . . . also the
+Ars artium.
+3ʳᵈ, that Duns Scotus always expresses himself with the most minute
+accuracy, and consequently never could have used such phrases. What Scotus
+does say is that the subject of which logic treats is distinct from the subjects
+of the other sciences; but that the subject of which logic treats is {del}made use{/del} {add}employed{/add}
+{del}in{/del} the other sciences. Scotus gives no countenance whatever to the doctrine
+that logic is an art.
+4ᵗʰ, that the expressions quoted come from the text-book of logic
+which has been more used than any other without exception and
+which was written many years before Duns Scotus was born. That
+book, the Summulae Logicales of Petrus Hispanus, begins with the
+words, "Dialectic [that is, logic] is the art of arts and the science of
+sciences, holding the way & the principles of the methods of all the other
+sciences."
+
+What probable conclusion do you draw from these facts as
+to trustworthiness of Mr. Jevons in regard to subjects which he
+professes to teach? 2ⁿᵈ. Show precisely what you {del}consider{/del} {add}infer{/add}, {add}precisely{/add}
+why you so infer, and the approximate degree of probability you attach
+to the inference.

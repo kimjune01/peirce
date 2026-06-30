@@ -1,0 +1,17 @@
+98
+
+I now come to the most important {del}branch{/del} {add}part{/add} of this
+lecture. The calculus of probabilities proceeds entirely by
+mathematical reasoning, that is to say by necessary rea-
+soning. {del}the{/del} Such inferences as it draws are necessary
+inferences. If it sounds incongruous to speak of
+necessary inferences of probability, this is perhaps
+merely an apparent incongruity not a real one. But if
+it is a real incongruity {del}the{/del} it is because the word
+probability ought not to be applied to ratios of frequency
+which are no more subjective or modal, in their nature
+than any other statistical averages. The use of the word
+probability for {del}such{/del} {add}the{/add} average frequency in the long
+run of experience is a {del}very grave{/del} fault of a
+much graver nature than ill-chosen expressions
+usually are. It is a fault similar to that of mea-

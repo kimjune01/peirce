@@ -1,0 +1,15 @@
+All that the doctrine of chances can do is to say
+what will happen in the long run. For example,
+suppose a pair of dice to be thrown. Call
+them die M, and die N. Now we know that
+die M will turn up an ace once in six times, or
+{add}six times out of thirty six, in the long run,{/add} and that die N will {del}too{/del} not only turn up a
+deuce once in six times, but will do so
+once in six of those {del}times{/del} six times out
+thirty six in which die M turns up an ace.
+Therefore, once in thirty-six times in the long
+run M will turn up an ace and N a deuce,
+and by {del}[unclear: mode?]{/del} {add}parity{/add} of reasoning, and then once
+in thirty six times M will turn up a deuce
+and N an ace; so that deuce-ace will
+in the long run be thrown {del}once in [illegible]{/del} {add}twice in thirty six{/add}

@@ -1,0 +1,22 @@
+{del}Introduction to the{/del} logic of relatives. Individuals.
+Nominalism and realism. The principles of
+individuation. Historical sketch of the contro-
+versy. Application to this question of the prin-
+ciple of continuity.
+
+Lecture XI.
+The logic of relatives, continued. The {del}proposition{/del}
+that {del}something{/del} exists considered as a principles of
+logic. Universal and particular propositions re-
+presented by the two types
+        Πᵢ uᵢ        Σᵢ uᵢ.
+Conception of a relative term. Limited uni-
+verse in relative logic. The universal block,
+        A:A     A:B     A:C     etc.
+        B:A     B:B     B:C     etc.
+        C:A     C:B     C:C     etc.
+        etc.    etc.    etc.    etc.
+Representation of a relative in the form
+        l = ΣᵢΣⱼ lᵢⱼ (I:J).
+By means of the numerical coefficients, lᵢⱼ,
+every problem in the logic of relatives is reduced to

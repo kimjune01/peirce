@@ -1,0 +1,21 @@
+Lecture XII.
+
+General formulae of the Logic of relatives. Two types
+of individual dual relatives.
+
+        A:A                 A:B
+
+Classification of relatives according to their
+including {del}all{/del}, some, or none of the indivi-
+duals of either of these types.
+
+
+[diagram: 3 x 3 table headed “Of the type A:A” with columns All, Some, None; rows bracketed “Of the type A:B” All, Some, None; cells: ∞ | Negatives of equiparants | [unclear: n?]; Negative of alio-relatives | [unclear: Toe?] | Alio-relatives; 1 | Equiparants | 0.]
+
+Converse and negative.
+lᵢⱼ = lⱼᵢ
+
+[formula: see image] = [formula: see image]        [formula: see image] = [formula: see image]
+        [formula: see image] = [formula: see image]
+
+(l < b) = (b̄ < l̄)        (l < b) = ([formula: see image] < [formula: see image])

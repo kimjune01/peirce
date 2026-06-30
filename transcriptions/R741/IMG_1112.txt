@@ -1,0 +1,26 @@
+The extension of a concept determines what things it refers
+to. Its comprehension determines what qualities it refers to.
+
+Thus [unclear: an] any proposition, as,
+        Quadruped
+        {del}Man{/del} is animal
+
+there may be four meanings
+
+1{^st} {del}the comprehension of the predicate is contained in the{/del}
+
+1{^st} the quality animal may be {del}said to be contained in the{/del} {add}predicated of{/add}
+    quality quadruped. This is an analytic judgment.
+2{^nd} the quality animal may be {del}said to be{/del} predicated of the
+    thing quadruped. This is an intensive synthetic judgment.
+3{^rd} the thing animal be said to contain the quality quadruped.
+    But this is no determination of the quality at all, so that
+    quadruped cannot here be the subject.
+4{^th} the thing animal may be said to be that which the thing
+    quadruped is. This is the same as saying that both concepts are
+    signs of the same thing. It is therefore a statement concerning
+    the designations of the {del}words{/del} {add}concepts{/add} and not concerning the thing;
+    For, a thing cannot be thought of, but only thought of; that is, all
+    we can do towards thinking it is to designate it by a
+    concept, and to think that designation. Now the designation
+    of a concept is a quality of that concept, not a designation of

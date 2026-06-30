@@ -1,0 +1,15 @@
+miss a dollar from the other and the chances
+are perfectly even. The dollar is not actually
+paid over until one of the players retires
+{del}for{/del} temporarily from the table, and no
+player does retire until he has netted a
+gain during the sitting. Now the doctrine
+of chances shows that {del}the probability that{/del} at a perfectly even
+game a player whose cash and {add}credit{/add} {del}resources{/del}
+amount to c dollars, will {add}net{/add} {del}win{/del} a gain of
+n dollars before he is ruined will be c/(c+n)
+At this game the credit of the players is un-
+limited, and thus the probability will be infinity
+divided by infinity plus one, which {add}practically{/add} is strictly
+equal to 1. That is the probability that
+a player will net a gain is 1, or certainty,

@@ -1,0 +1,28 @@
+by a [unclear: coincidence?] of reasoning similar to that adopted
+above, which is denoted at once by the same two
+terms of the two series of terms which by fulfilling
+six conditions determine the independence of two
+independent terms and since the terms by which
+{add}whatever is denoted by the two terms constituting{/add}
+{del}any member of each of{/del} the first pair of terms is
+denoted determine the second pair of terms, for every
+such first pair there is a different second pair.
+(21) Take any term and its contradictory as one series of
+{add}all things.{/add}
+terms, and take the series of terms denoting, individually
+{del}[unclear: whatever is denoted by any second term as a second]{/del}
+{add}by the definition of contradictories{/add}
+series of terms. Then, since, nothing denoted by any term is
+denoted by its contradictory, the first-series of terms ful-
+fils condition 1 of definition 7. And since no individ-
+ual is any other individual the second condition is satis-
+fied. And since whatever is denoted by any term is a certain
+{add}or fifth{/add}
+series of individuals the third condition is satisfied. And
+since {del}any{/del} term which together with its contradictory consti-
+tute the first series of terms is itself one of the series
+of terms the fourth condition is satisfied. Hence all the
+conditions of definition 7 except the sixth can be
+satisfied in reference to any two terms. Hence to prove
+that two terms are independent, it is sufficient to show
+that it is absurd to suppose that the sixth above

@@ -1,0 +1,20 @@
+Fundamental conceptions of Logic proper.
+
+The flow of time and inference. Three
+parts of inference: 1, Premise, 2, Conclusion,
+3, Leading principles. Propositions of two
+essentially different kinds viz:
+1. Universal Propositions, affirming lead-
+ing principles and asserting non-ex-
+istence
+2. Particular Propositions, denying lead-
+ing principles and asserting existence.
+Definition of possibility and the limited
+universe.
+The distinction of hypothetical and cate-
+gorical propositions not important; but
+the complete and exact theory of categoricals
+depends on {del}requires{/del} the logic of relatives.
+Arguments complete or incomplete. Nature
+of logical principles. Syllogism and dialo-
+gism.

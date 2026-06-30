@@ -1,0 +1,24 @@
+Thus if x is false the proposition holds by case 21;
+{del}If x is true{/del}
+
+If x is true, and w is true, the proposition holds by case 222;
+If x is true, w is false, and y is false, The proposition holds by case 11;
+If x is true, w is false, y is true, z is true, the prop. holds by case 12;
+If x is true, w is false, y is true z is false; the prop holds by case 221;
+
+Let {del}[illegible]{/del} T mean a true proposition, and F a
+false proposition. Then
+        x -< T is true
+and     F -< X is true.
+X is equivalent to T -< X
+and X̄ is equivalent to X -< F.
+        The student must prove these things.
+
+The proposition x -< [(x-<Y)-<Y] is true because
+by by the first principle above it is equivalent to (x-<y)-<(x-<y).
+Consequently, x -< [(x-<F)-<F] is true.
+
+But we have also [(x-<F)-<F]-< x true. {del}For by the second
+principle Since this{/del} X is {del}the same as{/del} equivalent to T-<X,
+this is equivalent to {[(T-<X)-<F]-<F}-<X. But by the
+second principle if [(T-<X)-<F]-<F is true,

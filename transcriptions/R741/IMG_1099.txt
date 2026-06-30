@@ -1,0 +1,20 @@
+External figures
+
+[formula: B / Not A / ∴ If A not B]        [formula: B / A / ∴ If A, B]        [formula: B / A / ∴ If A, sometimes B]
+Hypothetical because a condition is stated.  The Conclusion is
+{add}(or does not exist){/add}
+that B exists, under a stated condition.
+
+[formula: If A, B / Not A / ∴ Not B]        [formula: If A, B / A / ∴ B]        [formula: If A, sometimes B / A / ∴ sometimes B]
+Categorical because the conclusion {del}is that B will [unclear: a force is]{/del}
+{del}[unclear: Base] [unclear: either] [unclear: takes] [unclear: name] [unclear: due]{/del} that something happens {add}in{/add} conditionally.
+
+[formula: If A, B / Not B / ∴ Not A]        [formula: If A, B / B / ∴ A]        [formula: If A, sometimes B / B / ∴ A]
+Disjunctive because the conclusion is that some thing takes place
+{del}provided the particular case{/del} under a certain {add}alternative{/add} {del}branch{/del} of the whole
+allowable sphere of supposition, for to argue from the exis-
+tence or non-existence of an effect to that of the cause is
+to suppose this effect to be only effected by this cause
+Whether this {del}effect is{/del} alternative is really the only one
+relates to an inference as logical or {del}from{/del} {add}between{/add} reason {add}and{/add} consequent
+and not as external or {del}from a{/del} between cause and effect.

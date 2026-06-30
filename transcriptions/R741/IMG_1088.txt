@@ -1,0 +1,27 @@
+[unclear: Benta]
+
+Every change must have a physical cause
+This juggler's trick is a change {add}sensible{/add} that is it has the
+:: This juggler's trick must have a physical cause.
+
+Every principle resulting from the functions of judgment must be accepted
+That Every change has a cause is such a principle.
+:: That every change has a cause must be accepted.
+
+{del}A change is{/del} When a thing changes it appears differently
+This appears differently
+:: This {add}has{/add} changed or may have changed
+
+[horizontal wavy line] [unclear: Benta]
+
+A gravitating planet would move in an ellipse
+The earths path appears to be elliptical
+:: the earth may be a gravitating planet.
+
+Whatever follows Kepler's Laws {add}assert.{/add} moves in an ellipse
+"" "" "" {add}assert.{/add} gravitates
+:: What gravitates moves in an ellipse -- judging {del}from{/del} {add}all cases by{/add} one.
+
+A circle will always measure the same across
+This table always {add}appears to{/add} measure the same across
+:: This table may be a circle  [unclear: Benta]

@@ -1,0 +1,19 @@
+{add}greater in{/add}
+Much, or the {del}treatises on{/del} probabilities related to
+mathematical methods of dealing with high numbers
+so readily [unclear: get?] results of far greater accuracy than
+there can ever be any need of {add}practical{/add} in questions about chance
+which are of their nature only rough.
+
+When Pascal's triangle which forms the left
+hand part of our {del}[unclear: diagram]{/del} diagram is {add}imagined{/add} carried out to {del}[illegible]{/del} {add}many{/add}
+terms, the extreme parts of it are utterly insigni-
+ficant, {add}and all but the most central part{/add} Now the central parts are well represented
+by a curve called the probability curve and by a
+certain function called the θ theta of probabilities.
+The rule for using it is given in Studies in Logic.
+{del}There are two important extensions{/del}
+The theory of probabilities is a very beautiful
+doctrine mathematically considered & is of the
+very extremest value for Logic. The central theorem
+of it is due to

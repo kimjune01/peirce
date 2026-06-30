@@ -1,0 +1,25 @@
+Second Sense
+
+Extension number of differing things
+Intension - number of independent qualities
+
+A quality is not independent if whatever, {add}thing{/add} has any sum of qual-
+ities previously taken has this also.
+A thing is not differing if {del}only{/del} possesses every quality which
+is possessed in common by any sum of things otherwise taken.
+
+{del}Extension is increased by increasing{/del}
+{del}1. When a thing which does not possess{/del}
+
+Let us proceed 1st by essential things
+
+. a b c d e f g
+. a b c d e f g
+. a b c d e f g
+. a B c d e f g
+. a B c d e f G
+. A B C d E f G
+. A B C d E F G
+. A B C D e F G
+. A b c d e f G
+. A b c d e f g

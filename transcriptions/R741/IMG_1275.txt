@@ -1,0 +1,31 @@
+ways, but they are of no great importance, and will be        19
+
+assed by for the moment.
+
+FIFTY METHOD.  The principle of excluded
+middle.
+
+We have thus far considered but a single property
+of negation, namely that denying a proposition is applying
+a general to it. The formula of the modus ponens gives us
+by transformation this form of immediate inference :
+
+        S is true,
+        Hence, if from S P follows, then P is true.
+
+Substitute for P the special description "false" and we
+have the immediate inference
+
+        S is true,
+        Hence, the denial of S is false.
+
+The statement of the validity of this general inference
+is termed the principle of contradiction. The converse of
+this principle, namely that from the denial of the denial
+of a proposition the truth of that proposition follows
+is termed the principle of excluded middle. This principle
+constitutes a distinct axiom concerning negation. It is not
+involved in any of the traditional forms of inference,
+but it is involved in certain modes introduced into logic
+by De Morgan. I do not mean that reasoning involving this
+principle had never been used before, but only that such

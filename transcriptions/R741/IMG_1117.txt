@@ -1,0 +1,12 @@
+A predicate may be analytic as a statement of a consequence
+        x synthetic as a statement of an antecedent
+
+{del}This man is animal{/del}
+if animal is regarded as the {del}consequent of man{/del}
+    Brutes are not rational
+regarded à priori is analytical because it follows
+from the definition of a brute by an inference à priori
+
+        Brutes cannot be rational
+{del}This is{/del} The rationality is predicated as contained in
+brutes à priori.

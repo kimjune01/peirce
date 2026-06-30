@@ -1,0 +1,25 @@
+Lecture VII.
+Introduction to the Boolean algebra. Let
+a variable's coming to one fixed value,
+v, mean that a certain proposition is
+true, and its coming to another fixed
+value, f, mean that the same proposi-
+tion is false. The principle of contradic-
+tion expressed by the fundamental equa-
+tion
+
+{del}(v-x)(x-f)=0{/del}
+(x-f)(v-x)=0.
+
+The proposition "if X then Y" is expressed
+by
+
+(x-f)(v-y)=0
+
+The negative of x is expressed by any
+function of x which equals f when
+x=v and equals v, when x=f. The
+simplest such function is
+f+v-x.
+The logical aggregate of x, y & z,
+is expressed {del}by{/del} most simply by

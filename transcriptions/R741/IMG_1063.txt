@@ -1,0 +1,25 @@
+(1) By condition 3', any {del}this{/del} term denoting an individual
+is identical with the logical product of two terms belonging
+severally {del}to{/del} to the two series of terms which by fulfilling
+the 6 conditions {del}[unclear: means?]{/del} {add}define{/add} the independence of any two
+independent terms.
+
+(2) ∴ Any term which denotes an individual which is denoted
+at once by two independent terms is {del}[unclear: thence?]{/del} {add}thus{/add} identical.
+
+(3) The logical product consisting of two factors one of which
+is the term of one of the series of terms which by fulfilling
+six conditions define the independence of {add}two{/add} independent
+terms, which term is also a factor of the logical product with
+which any term denoting an individual which is denoted
+at once by two independent terms, and the other of which fac-
+tors is the term of the other of those two series of terms, which
+term is a factor of the logical product with which any term
+denoting an individual is identical, this logical product,
+I say, by definition 3 is denoted by each of these two
+terms of which it is the product.
+
+(4). Condition 6 of definition 7 is that any two terms belonging to
+the two series which by fulfilling 6 conditions define the
+independence of any two independent terms, have some
+extent in common. Hence this is the case with the two term-

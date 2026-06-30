@@ -1,0 +1,42 @@
+{del}If A B{/del}
+A
+∴ If A, B
+
+If A sometimes B
+But A
+∴ B
+
+If A sometimes B
+But B
+∴ A
+
+Here we infer what is involved in the premises; only one infer it beyond
+the {del}meaning{/del} of the premises.
+
+If A then B
+But not B
+∴ Not A
+
+If A then B
+But A
+∴ B
+
+B
+A
+∴ If A, B sometimes
+
+Here we infer what is written altogether in the meaning of the premises.
+
+If A then B
+But B
+∴ A
+
+If A then B
+But not A
+∴ Not B
+
+B
+Not A
+∴ If A, not B
+
+Here we infer what is not even partly within the meaning of the premises.

@@ -1,0 +1,25 @@
+Lecture XIV.
+
+General Method with the Logic of Relatives.
+The premises are first multiplied together and
+the operators Σ and Π are all brought to the
+left of all the operands by the formulae
+
+Πᵢ uᵢ . Πⱼ vⱼ = Πᵢ Πⱼ uᵢvⱼ.
+Πᵢ uᵢ . Σⱼ vⱼ = Πᵢ Σⱼ uᵢvⱼ.
+Σᵢ uᵢ . Σⱼ vⱼ = Σᵢ Σⱼ uᵢvⱼ.
+To these formulae may be added the following:
+Πᵢuᵢ + Πⱼvⱼ = ΠᵢΠⱼ (uᵢ + vⱼ).
+Πᵢuᵢ + Σⱼvⱼ = ΠᵢΣⱼ (uᵢ + vⱼ).
+Σᵢuᵢ + Σⱼvⱼ = ΣᵢΣⱼ (uᵢ + vⱼ).
+We may {del}then{/del} {add}also{/add} often simplify the {del}formulae{/del} {add}expression{/add} by
+means of the following:
+ΠᵢΠⱼuᵢvⱼ = Πₖuₖvₖ,
+ΣᵢΣⱼ(uᵢ+vₖ)=Σₖ(uₖ+vₖ).
+It will then be found that the number to be elimi-
+nated occurs in the two forms uᵢ and ūⱼ, and
+supposing the operator relative to i to be to the left
+of that relative to j, it becomes necessary to
+substitute j for i. There are various methods
+of doing this of various degrees of complexi-
+ty. {del}One method thus will produce every conclusion{/del}

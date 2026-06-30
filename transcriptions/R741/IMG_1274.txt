@@ -1,0 +1,33 @@
+18
+
+If in the formula given for the minor indirect syllogism,
+we put "false" for X, we obtain the following :
+
+        M is P,
+        That S is P is false,
+        Hence, that S is M is false.
+
+This mood is called Bocardo. Making the same substitution
+in the major indirect syllogism, we get
+
+        S is M,
+        That S is P is false,
+        Hence, that M is P is false.
+
+This mood is called Baroko. Baroko and Bokardo are simple
+cases of the reductio ad absurdum. Baroko is useful for
+establishing distinctions between things, as when we reason,
+
+        All fishes are propogated from eggs,
+        But it is not true that whales are propogated from eggs,
+        Therefore, it is not true that whales are fishes.
+
+Bokardo is useful for establishing exceptions to rules, as
+thus :
+        The dingo is a mammal of Australia,
+        But it is not true that dingos carry their young in
+pouches,
+        Therefore, it is not true that all the mammals of
+Australia carry their young in pouches.
+
+There are many other modes of syllogism derivable in similar

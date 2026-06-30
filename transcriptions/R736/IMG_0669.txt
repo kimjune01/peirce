@@ -1,0 +1,5 @@
+10. {del}[unclear: Given]{/del} any two premises a and b may
+at once be united in the form [formula: see image], For
+if the two premises are true, this form becomes
+[formula: see image] which is true because [formula: see image]
+is false.

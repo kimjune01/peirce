@@ -1,0 +1,40 @@
+on the supposition that the error is wholly caused by 10
+jars. The units are 0.00000001 seconds.
+
+                    Heavy end down
+                                      [unclear: Pe.]    Calc.
+Amplitude at beginning 2°; at end 1 1/2°.   330      342
+   "        "       "     1 1/2°  "   "   1°.       254      244
+   "        "       "     1°      "   "   1/2°.     150      170
+
+                    Heavy end up.
+Amplitude at beginning 2°; at end 1 1/2°.   728      714
+   "        "       "     1 1/2°  "   "   1°.       552      558
+   "        "       "     1°      "   "   1/2°.     366      388
+
+
+This being the case, how many experiments should be made,
+
+with the heavy end up as compared with the heavy end down.
+
+The cost is here the time occupied; and by the theory of the
+
+reversible pendulum
+
+                 k₂        dy
+                 --   =   ----
+                 k₁       dx₂
+                          ----
+                          dy
+                          dx₁
+
+
+Hence,          n₁      s₁      3
+                --  =   --  =   -
+                n₂      s₂      7
+
+
+The{add}r{/add}e is
+{del}So{/del} the heavy end up should have twice as many experiments or
+
+even more.

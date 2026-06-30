@@ -1,0 +1,21 @@
+15
+
+[unclear: yields?] both, and the first falsehood,
+and their sum will be the numer-
+ator of the {del}fraction itself{/del} sought. The
+denominator will be equal to the
+numerator, increased by the product
+of the proportion of false Conclusions
+from the first, multiplied by the pro-
+portion of false conclusions from
+the second, or, what is the same
+thing, by the product of one, diminish-
+ed by the proportion of true Conclusions
+from the first, into one, diminished by
+the number of true Conclusions in
+the second; or, stating the matter algebra-
+ically, the probability sought, is
+
+\[
+\frac{p(1-q) + (1-p)q}{p(1-q) + (1-p) + (1-p)(1-q)}
+\]

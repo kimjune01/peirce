@@ -1,0 +1,18 @@
+mined by omniscience. {add}for{/add} (to omniscience,
+the universe of possibility is obviously
+no wider than the actual fact. There is no-
+thing which may be for aught omniscience
+knows, except what is. Accordingly, to
+say that the proposition P is true, is {del}if{/del}
+{add}making it the{/add}
+the nature of {del}saying that it is a conse-{/del}
+{add}of a hypothetical proposition{/add}
+quent {del}to any antecedent;{/del} and to say that
+it is false is of the nature of making it
+the antecedent of a hypothetical pro-
+position; and may be written “If P,
+then X.” By the modus ponens, the fol-
+lowing inference is logically valid:
+        If P, then X;
+        But P;
+        Hence, X.

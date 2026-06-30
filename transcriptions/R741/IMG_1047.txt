@@ -1,0 +1,35 @@
+21
+
+Third sense..
+
+[formula: A + B + C + D]
+
+{del}Proceeding first by essential thing{/del}
+Suppose we ascertain that
+
+All A is X_e
+        {add}definite{/add}
+This increases the extension of X and increases the
+semidefinite intension
+
+{del}[illegible]{/del}Some A is X_e
+This increases the semidefinite intension & extension
+
+No A is X_e        All X is non A
+Increases the definite intension ; does not change extension
+
+Some A is not X
+Does not alter extension or intension
+
+All X is A
+Increases definite comprehension & semidefinite extension.
+
+Some X is A
+
+See Above
+
+No, X is A        All X is not A        See Above
+
+Some X is not A
+
+Semidefinite intension increased    Extension not changed

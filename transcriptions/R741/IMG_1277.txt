@@ -1,0 +1,60 @@
+METHODS OF REASONING.                                      1
+
+FIRST METHOD. {add}The simple consequence,{/add}
+
+{del}[unclear: A proposition which might]
+[unclear: rightly be believed for]
+[illegible]{/del}
+
+Reasoning is accepting something as true,
+while recognizing some other proposition already accepted
+as the reason for it. By a proposition, is meant, in logic,
+anything which can be held for true, or can be supposed
+to be so held. By recognizing a proposition as a reason
+for another, is meant recognizing that the belief in the
+former proposition causes a belief in the second, and ought
+to do so, if we wish to adhere to the truth. The rudest
+kind of reasoning consists in recognizing one proposition
+as the reason for another, without recognizing any definite
+relation between them which should make one the reason
+for the other. A proposition accepted on account of a reason
+is called a conclusionand is said to be inferred from that
+reason, which is called the premise of the inference.
+Let A and B denote two propositions : then such an inference
+as we are speaking of may be written, "A, therefore B."
+This inference is called a simple consequence. Its premise
+or reason is called the antecedent : its conclusion the
+consequent. The law or principle according to which one
+proposition causes a belief in the other, say such a propo-
+sition as "If A is true, B is true," is called, like the
+process of inference, itself, the consequence. In a very
+unreflecting state of mind, we may not recognize the con-
+sequence, as a premise : although we must have some feeling
+that there is such a consequence, for without this we should
+not regard the one belief as causing the other. I hear someone
+make some statement, and immediately jump to a belief in
+what he says, without stopping to consider whether he is
+a veracious witness or not. Again, I see a magician put
+a pocket-handkerchief in a box, and am unreflectingly led
+to believe it remains in the box, five minutes after, without
+asking myself whether that is what generally happens in
+the case of magicians' tricks, or not.
+
+A simple consequence may really be sound (or as the
+technical phrase is, valid) reasoning because the principle
+by which one belief causes the other, though not recognized
+as a premise, may really be of such a kind that it will
+never lead from truth to error ; but it is, as the logicians
+say, very incomplete reasoning, because there is no securi-
+ty that it is sound, no sufficient reason is given to prevent
+the possibility of error.* There is but one kind of simple
+consequence which completely justifies itself,-- if it can
+be called reasoning at all. It is an inference of the form,
+"A, therefore A." To continue to believe a thing because
+we have already accepted it (while always holding ourselves
+ready to reexamine it, if there be any motive for doing
+so) is perfectly logical proceeding not open to criticism.
+
+* Another recognized mode of expressing this is to say that B
+may follow from A, but does not follow logically; also that A may be
+a reason of B but is not a logical reason.

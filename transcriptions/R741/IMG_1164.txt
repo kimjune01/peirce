@@ -1,0 +1,15 @@
+a {del}problem{/del} in the Boolean algebra,
+
+In dual relatives there are four species
+of {del}propositions{/del}:
+        ΠᵢΠⱼ uᵢⱼ     ΣᵢΠⱼ uᵢⱼ     ΠⱼΣᵢ uᵢⱼ     ΣᵢΣⱼ uᵢⱼ.
+
+We have, in general,
+        ΠᵢΠⱼ = ΠⱼΠᵢ
+        ΣᵢΣⱼ = ΣⱼΣᵢ
+        ΣᵢΠⱼ < ΠⱼΣᵢ.
+The last is the most important formula of logic. [unclear: e.]
+
+{del}But one have{/del}
+        ΣᵢΠⱼ uᵢvⱼ = ΠⱼΣᵢ uᵢvⱼ
+        ΣᵢΠⱼ (uᵢ + vⱼ) = ΠⱼΣᵢ (uᵢ + vⱼ).

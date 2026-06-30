@@ -1,0 +1,28 @@
+A proposition which predicates an {add}consequent{/add}
+{del}antecedent{/del} is a priori
+as {del}consequent{/del} is a posteriori
+a relation of antecedent to consequent is inductive
+
+{del}Any fact in general stated in an a priori proposition{/del}
+
+Every proposition is in so far as it represents the fact a priori
+{del}for every fact subject is an antecedent to the{/del} the relation of sub-
+ject & predicate is a relation of antecedent to consequent.
+We may however not know which is antecedent and which con-
+sequent and in that case one can only state that there is such a relation
+between A & B, that is we can only predicate, inductively.
+On the other hand we may arbitrarily regard the subject as
+a determination of the predicate and in that case we predicate
+a posteriori.
+
+John runs     Socrates was wise          are à priori
+
+The truly great and the good are one.  Pride & modesty sometimes coexist
+are inductive
+
+Prisoners are shut up     [unclear: Cowards?] are beaten     are à posteriori
+
+These functions are therefore perhaps to be noted by the
+Active
+Middle } Voices
+Passive

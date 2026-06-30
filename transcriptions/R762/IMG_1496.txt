@@ -1,0 +1,19 @@
+{del}Going over, Suppose, for instance{/del}
+that two persons, looking through
+a telescope at a man a long way
+off; one pronounces his hair to be gray,
+and the other flaxen; what is the chance
+{del}that it is one or the other? How{/del}
+In order to get a satisfactory answer,
+in such a case, we ought to take into
+account, not merely the chance of
+the conclusion being false, but also
+the greater chance of its being very
+false, than of its only being a little so.
+{del}To fix our ideas, say that the conclusion{/del}
+But this would open up an extensive
+and important part of the theory of
+probabilities, to which it will be neces-
+sary to devote a separate paper. Our
+present object is to go into the theory
+only so far as is necessary to judge of

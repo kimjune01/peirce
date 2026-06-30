@@ -163,3 +163,23 @@ auto-generated `__ia_thumb.jpg` (tagged source=original), not a page.
 Deliberately absent by prior curation, not gaps: REF (Ketner 1977 bibliography,
 in copyright) and the non-manuscript context shots (locker, reading room, box
 labels). Nothing to finish.
+
+## 2026-06-30 - Priority set transcribed (codex scaffold)
+
+Ran the 10 methodeutic / probability priority items through codex (GPT-5.5) via
+`scripts/transcribe_priority.sh`: **284 content pages** (call-slips and dividers
+skipped via the classification), **283 ok / 0 fail / 1 skip**, ~1.1 MB of
+diplomatic-markup text in `transcriptions/R<robin>/<IMG>.txt` (one file per page,
+named by image so it maps to the scan and the archive.org file). All on the
+**codex subscription pool**, ~18k tokens/page, none on the Claude weekly bucket.
+
+Quality is strong cold: the statistical syllogism (R768), Port Royal logic
+(R736), Zeno (R814 sample), Hamilton's quantified predicate (R741), probability
+as "logic quantitatively considered" (R762) all read coherently, with
+`{del}`/`{add}`/`[unclear:]`/`[illegible]` markup preserved; 0 refusals. This is
+the editable scaffold for the human squint pass -- machine draft = hypothesis,
+page image = kill condition, June's corrections land as git diffs (the entitlement
+ledger in version history). Mechanism notes for re-runs: `codex exec -i` is
+variadic, so the prompt MUST come via stdin (`printf "$P" | codex exec -i IMG -o OUT`);
+`xargs` + exported functions fails on macOS bash 3.2, so the runner is a
+sequential, resumable while-loop (skips pages already on disk).

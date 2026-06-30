@@ -1,0 +1,17 @@
+104
+
+But in the sense in which probabilities can be
+evaluated and made the subject of mathematical
+calculations, a probability is a ratio of frequency
+in the long run of experience. This should never
+for one instant be lost sight of; and you should
+constantly ask yourself "Is there going to be any
+such experience in any way that can give
+the particular probability spoken of any real
+utility?" {del}There are some people who{/del} The majority of treatises on probability
+tell us that if a man who never {add}heard of the{/add}
+tides were to wander to some shore where
+the tides are very noticeable and were to notice
+that the tide rose {add}in each one{/add} on any number of {add}successive{/add} half
+Days, say N for N half days then the
+probability that it would rise on the next

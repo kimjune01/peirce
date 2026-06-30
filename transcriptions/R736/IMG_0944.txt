@@ -1,0 +1,15 @@
+The categorical syllogism is alone treated
+in the common books. There is an elaborate
+and rather trifling doctrine of its consisting
+largely of terminology. It will be useful
+to give a summary of it. {del}The three classes{/del}
+The names of the three classes concerned in
+the syllogism and represented by the three
+areas in the diagrams are called the terms
+of the syllogism. That which has the largest
+area is called the major term; that which
+has the smallest area is called the minor
+term; the third is called the middle term.
+The premises containing the major and
+minor terms respectively, are called
+the major and minor premises,

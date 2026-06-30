@@ -1,0 +1,22 @@
+{del}Introduction to the{/del} Lecture XXVII.
+Introduction to the theory of probabilities. Concep-
+tion of probability as a reduced mode of existence.
+{del}probab{/del} Conception of probability as the measure
+of just belief unduly emphasizes a secondary
+{del}matter{/del} circumstance. Application of the rules
+for attaining clear ideas. Probability attaches
+primarily to modes of inference and denotes the
+frequency with which they carry truth with them.
+Probability of an event an abridged {del}mode of{/del} ex-
+pression. Probability a matter of fact. The feeling
+of probability.
+
+Lecture XXVIII.
+Relative numbers in general. Rules for
+{del}combining{/del} them. Independent relatives. Proba-
+bility a species of relative numbers.
+Connection with logical algebra, es-
+pecially with the Boolean calculus. Effect
+of {add}assigning{/add} {del}giving{/del} different values to f and v. Pro-
+babilities and odds. The feeling of proba-
+bility and the psychophysical law of Fechner.

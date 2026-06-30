@@ -1,0 +1,16 @@
+by the application of the principles of the last
+lecture. {del}[illegible]{/del} Syllogisms of transposed quantity
+generally fallacious; when valid.
+
+{del}[illegible]{/del} Lecture XVI.
+Logic of the differential calculus. Application
+of the rule for attaining clear ideas to the con-
+ception of continuous quantity. The doctrine of
+limits. {add}The value at the{/add} {del}limit{/del} is {del}the value of{/del} the sum of an
+{add}infinite{/add} convergent series, which was explained in the
+last lecture. Evaluation of indeterminate
+expressions. Cases of ambiguity. {del}[illegible]{/del} The solution
+{add}sometimes{/add} depends on number of dimensions. When the
+{del}path{/del} of a moving {add}body{/add} beyond a certain point is
+insolubly ambiguous, the time occupied in
+reaching that point must be infinite.

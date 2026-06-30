@@ -1,0 +1,25 @@
+the most {del}[unclear]{/del} method of doing this, consists
+in finding a system of relatives
+{del}w + w′ + w″ + w‴ + etc{/del}
+w, w′, w″, w‴, etc.
+such that,
+
+ΠᵢΣⱼ wᵢⱼ     ΠᵢΣⱼ w′ᵢⱼ     ΠᵢΣⱼ w″ᵢⱼ     etc.
+ΠᵢΠⱼ {w̄ᵢⱼ + (w̄n)ᵢⱼ}     ΠᵢΠⱼ {w̄′ᵢⱼ + (w̄′n)ᵢⱼ}     etc.,
+ΠᵢΠⱼ (wᵢⱼ + w′ᵢⱼ + w″ᵢⱼ + etc)
+
+Then, we have
+Σⱼ uⱼ = uᵢ + (wu)ᵢ + (w′u)ᵢ + (w″u)ᵢ + (w‴u)ᵢ + etc.,
+Πⱼ uⱼ = uⱼ × (wu)ⱼ × (w′u)ⱼ × (w″u)ⱼ × (w‴u)ⱼ × etc.
+
+After this, one shall use the process of elimination
+of the Boolean algebra.
+Require, for instance, to eliminate s from the
+premisses
+
+Σₕ ΠᵢΣⱼΠₖ (αₕᵢₖ + sⱼₖ lⱼᵢ)
+ΣᵤΣᵥΠₓΠᵧ (εᵤᵧₓ + s̄ᵧᵥ bᵥₓ).
+Multiplying, we have
+ΣᵤΣᵥΠₓΠᵧΣₕΠᵢΣⱼΠₖ (αₕᵢₖ + sⱼₖ lⱼᵢ)(εᵤᵧₓ + s̄ᵧᵥ bᵥₓ).
+This is the same as
+ΣᵤΣᵥΠₓΠᵧΣⱼΠₖ (αᵤₓₖ + sⱼₖ lⱼₓ)(εᵤᵧₓ + s̄ᵧᵥ bᵥₓ).

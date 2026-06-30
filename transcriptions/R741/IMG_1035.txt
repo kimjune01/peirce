@@ -1,0 +1,29 @@
+determine even the genus of the subject, It may be
+a predication without doing this by partly determining
+what the genus is not. But if no genus is absolutely
+excluded, the subject is not determined in the least
+and hence no predication is made.
+Comparison of these judgements with Hamilton's. My clear
+judgements are his, - : α : - : My obscure judgements are
+his, -, α : -, My negative judgements are his, + : α : + :
+His, +, α : +, are excluded.
+§2. Synthetic or attributive judgements. An attribution is clear
+which determines the intension of the subject as to dis-
+tinguish it from all other {del}subjects{/del} {add}intension and{/add} is, which, therefore, assigns
+to the object of extension, a characteristic quality. It is obscure,
+if it determines the {add}generic{/add} intension {del}of the genus{/del} but not the
+specific; that is, if it assigns to the subject a common qualit[y].
+It is negative if it does not predicate even generic {del}extension{/del}
+but only excludes a particular intension. But this intension
+must be absolutely excluded, there is no determination of
+the subject.
+§3. Anacritic judgements. Clear: when the notion is distinguished
+from all other notions that is when the prothesis is iden-
+tical. This is a determination nevertheless because a
+notion viewed {add}or analyzed{/add} in one manner in the subject is made
+equivalent to the same notion viewed or analyzed in another
+manner; as a-(b-c)=a-b+c. Obscure: when a particular element
+of a notion is predicated as an element. Negative: when
+something is asserted not to be an element of it. But to
+say, that {add}some{/add} part of one notion is not {del}part of{/del} {add}in{/add} another; is not to
+determine the analysis of the latter at all

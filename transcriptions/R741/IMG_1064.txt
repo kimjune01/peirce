@@ -1,0 +1,29 @@
+which are factors of the logical product spoken of in (3)
+
+(5) By definition 3, any logical product is identical with
+the term denoting the extent which its factors have in common.
+Hence by (4) The logical product spoken of in (3) is identical
+with a term denoting something which exists. Hence, by definition
+1, it denotes something which exists. [For it denotes whatever it is
+identical with. And nota notae est nota rei ipsius.]
+
+(6) Hence something denoted by the logical product spoken of in (3)
+is denoted by each of the terms by which that product is said
+in (3) to be denoted.
+
+(7). Condition 3 of definition 7 is that any term {del}denoting any th{/del} {add}is identical{/add}
+either with {add}the{/add} logical product consisting of two factors one of
+{del}which is a term of{/del} which are terms of the two series which by ful-
+filling six conditions define the independence of any two inde-
+pendent terms or it is the logical sum of logical products {add}real{/add} con-
+sisting of two facts which are terms of the two series which by
+fulfilling six conditions define the independence of the same two
+independent terms. Hence, this is true of any term denoting anythi[g]
+denoted by the logical product spoken of in (3)
+
+(8) Hence, by definition 2, Either term of the logical sum spoken
+of in (7) would upon one alternative be denoted by any
+term denoting the logical product spoken of in (3).
+
+(9) Hence, by (6) and (8) Either term of the logical sum spoken of
+in (7) would upon the alternative spoken of in (8) be de-

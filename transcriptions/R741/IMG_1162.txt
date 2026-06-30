@@ -1,0 +1,24 @@
+Lecture VIII,
+
+Solution of problems in non-relative deductive
+logic. Various methods, Rules of [unclear: lectine’s?] method.
+{del}First process.{/del} Analysis of the premisses,
+{(a + b) -< c}  -<  (a -< c) x (b -< c)
+{a -< (b x c)}  -<  (a -< b) x (a -< c)
+{(a + b) [unclear: ≮?] c}  -<  (a [unclear: ≮?] c) + (b [unclear: ≮?] c)
+{a [unclear: ≮?] (b x c)}  -<  (a [unclear: ≮?] b) + (a [unclear: ≮?] c).
+
+Second process. Elimination of middle terms
+by means of the principles of the {del}transitive case{/del}
+syllogistic, combined with the following formulae
+of {del}transposition{/del}:
+(x -< y + z) = (x x ȳ -< z)
+(x x y -< z) = (x -< ȳ + z).
+
+Third process. Recomposition of results to find
+antecedents or consequents of any term.
+Examples.
+
+Lecture IX.
+Application of the Boolian algebra to the in-
+version of the order of integration and summation,

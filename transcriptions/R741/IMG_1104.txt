@@ -1,0 +1,62 @@
+[illegible]
+
+[diagram: scattered ink blots and small marks]
+
+[diagram: small polyhedral/cubic figure]
+
+[diagram: triangular figure, partly dotted in red and black]
+
+[illegible]
+
+[diagram: star-like asterisk]
+[diagram: forked Y-shaped mark]
+[diagram: short vertical stroke]
+[diagram: cluster of small circles]
+[diagram: cross with small circles on horizontal and vertical arms]
+
+[formula: see image]
+
+[diagram: network of nine small circles joined by crossing lines]
+
+[formula:]
+[unclear: 2,2]     3,3     [unclear: 2,1]
+2,2                1,1      2,2
+2,1                2,3      1,2
+
+[diagram: network of small numbered circles joined by crossing lines, with two vertical boundary lines]
+
+[diagram: block cross / unfolded cube-like grid]
+
+[diagram: square grid within roughly circular outline, with corner circles and entries A, E, O, I]
+
+[diagram: rectangular grid crossed by many horizontal lines]
+
+A.      1-1      2-2      3-3
+B       1-2      2-1      3-2
+C       1-3      2-[unclear]      3-1
+
+     1        2        3
+0 — 0 — 0
+2        1        2
+0        0        0
+
+[diagram: small numbered network]
+
+A      1-1      2-2      3-3
+B      1-2 — 2-1      3-3
+C      1-3 — 2-2      3-1
+
+1.1      [unclear: 1,2]      [unclear: 1,3]
+2.2      2.1                 3.2
+3.3      3.3                 3.[unclear]
+[unclear]
+
+[diagram: small network of numbered nodes]
+
+[diagram: network of nodes joined by crossing lines]
+
+[diagram: network of nodes joined by crossing lines]
+
+2      1      3
+1  o—[unclear]—o
+3  o—[unclear]—o 

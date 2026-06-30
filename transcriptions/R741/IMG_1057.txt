@@ -1,0 +1,27 @@
+Notation
+
+Take six dots thus  :::  Divide these, into two sets
+thus . . .  Let the first sett be the Internally, Sinister Central
+&Dexter terms the latter the Externally sinister central & dexter.
+Unite the two dots which represent the Logically Sinister Terms
+also those which represent the Logically Dexter Terms. Then the {del}un-{/del}
+single dots will denote the Logically Central Term. the Log. Sin. will
+be at the left of the Log. Dex. Then the nine figures will be
+as follows.
+[diagram: nine small dot-and-line figures arranged in three columns and three rows]
+
+The propositions are found instantly by their terms. How the syllogism
+is internally, {add}or externally{/add} is determined by the single dot of that set sinister being
+taken for dexter & vice versa. {del}[unclear: whether]{/del} tht is Logically is determined
+by the connection of the Externally Central Term  :|: being Deduction
+[formula: see image] being {del}[unclear: Hypothesis]{/del} {add}(Sinister){/add}  [formula: see image] being Induction (Dexter)
+
+The moods may be put in thus. Let the centre of the two
+squares composing the oblong be devoted to the Logically Sinister &
+Dexter Terms & let x be distribution, o nondistribution. Then, for
+example Feriso will be  :o|o|
+
+          x x    Neg. Rule    Univ. Subs.
+          x o      "     "    Partic "
+          o x    Aff.   "    Univ  "
+          o o      "     "    Part. "

@@ -1,0 +1,36 @@
+5
+
+Let J mean “Justice is done.” Then,
+
+        J≺(P≺C)
+
+will mean if Justice is done, then if the drawer {del}[illegible]{/del} fails
+the endorser pays. This is of course very different
+from
+        (J≺P)≺C
+or if in case justice is done the drawer fails then the
+endorser pays. For
+        J≺(P≺C)
+is true if justice is not done or if the drawer does not
+fail or if the endorser pays, and is only false if justice
+is done and the drawer fails and yet the endorser does
+not pay. While
+        (J≺P)≺C
+is true only if justice is done while yet the drawer does
+not fail or if the endorser pays and is {del}true{/del} false
+if justice is {del}done{/del}{add}undone{/add} and the endorser does not pay as well
+as if justice is done and the drawer fails and yet the
+endorser does not pay.
+But    J≺(P≺C)    has just the same meaning
+as
+        (J≺P̄)≺C
+For the {del}first{/del} is false only if J is {del}false{/del}{add}true{/add} and P≺C false
+        that is only J is true and P is true and C false
+while (J≺P̄)≺C is false
+        only if & J≺P̄ is true and C false
+        that is only if J is true and P̄ false and C false
+        that is only if J is true and P true and C false.
+
+Suppose I ask you merely to {add}prove{/add} whether or not
+        J≺(P≺C) is the same as P≺(J≺C)
+also whether (J≺P)≺C is the same as (J≺C)≺P.

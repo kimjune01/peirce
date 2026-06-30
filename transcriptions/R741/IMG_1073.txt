@@ -1,0 +1,25 @@
+(23) If there be three terms which for the sake of distinguishing
+them from one another may be termed respectively a. b. & c.
+without thereby reducing the generality of our remarks in the
+least, and this a. b. & c are to be regarded simply as
+pronouns, of which any three terms fulfilling the conditions
+which these are to fulfil may be referred to; and if, for
+further abbreviation of language, we substitute “is” for “is
+denoted by”; then if a. & b. are independent — b. & c. are
+independent — and a. & the logical product of b. & c. are
+independent — corresponding to every pair of individuals of
+which one is both a. & (b.c) that is. is both a. b. and c.
+there is a pair of which one is a. and the other is both
+b. & c. this follows from {del}another{/del} (20)
+
+(24) By a process of reasoning similar to those by which (20)
+was proved, it could be shown that upon the hypotheses of (23)
+corresponding to every triplet one of which is both a. and (b.c)
+there is a triplet one of which is a. and another (b.c).
+
+(25) In the same way it could be shown, that for every triplet
+one of which is both b. & c., there is a triplet one of which is b.
+another c., and the third the same as the third of the first
+triplet.
+
+(26)

@@ -1,0 +1,16 @@
+each possible case either the premises are false
+or the conclusion true. Similar rules hold
+for logically valid inference. {add}If following them{/add} {del}Accordingly{/del}
+every inference is {add}logically{/add} valid the conclusion of
+which is logically necessary, and every
+inference is logically valid the premises of which
+is logically impossible. These statements may
+surprise the reader. {del}He may think that{/del} Take
+such an argument as this:
+        Every whale is a fish,
+        Therefore, a chimera (if there be one) is a chimera.
+I fully admit that such an argument would
+be {del}as a{/del} bad way to convince anybody of
+the truth of the conclusion. But, nevertheless,
+the inference is logically valid. It may
+be {add}thought{/add} that premise and conclusion have

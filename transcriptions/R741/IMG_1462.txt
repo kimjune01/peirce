@@ -1,0 +1,35 @@
+{del}a + (b ≺ c){/del}
+
+a .≺ [b ≺ (c ≺ d)]                 ā + b̄ + c̄ + d
+
+[(a ≺ b) ≺ c] ≺ d                  (ā + b)c̄ + d
+
+[(a ≡ b) ≡ c] ≡ d                  a b̄ c̄ d̄
+
+
+(a ≺ x) ≺ [(b ≺ x) ≺ (c ≺ x)]
+
+(a ≺ 0) ≺ [(b ≺ 0) ≺ {(c ≺ 0) ≺ 0}]        a x̄ + b x̄ + c̄ + x
+                                           -----------------------
+
+
+a b              (a ≡ b) ≡             {del}(M ≡ a) ≺ (M ≺ b){/del}
+
+                  a ≡ b ≺              {del}M ā + M̄ + b{/del}
+
+                  v ≡ ā ≡ b̄           {del}(M ≡ b) ≺{/del}
+                                       {del}ā + b̄{/del}     {del}(M ≺ a) ≡ (M ≺ b){/del}
+                                       {del}M ≺ ā){/del}     a ≺ b.
+                                                           [unclear: ū] + a + b
+
+
+z̄ ≡ (a ≺ b ≺ x) ≡ (c ≺ d ≺ y)        (a ≺ 0) ≺ (b ≺ 0) ≺ 0
+
+z a b x̄ c d ȳ                       a ≡ b ≺ c ≡ 0
+
+[(a ≺ b ≺ θ) ≺ (d ≺ θ) ≺ (f ≺ g ≺ θ)] ≺ (i ≺ θ) ≺ θ
+                         [diagram: brace under preceding middle subformula]
+                         Ī + ḡ + h        + i j̄ + k
+
+(ā + b̄ + [illegible])((d̄ + θ) f g [illegible])
+                                      i [illegible] + θ

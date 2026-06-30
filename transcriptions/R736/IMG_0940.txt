@@ -1,0 +1,22 @@
+Using other letters, to avoid confusion
+
+If A then B;
+
+Hence, from If B then Q, it {add}would{/add} logically follow that If A, then Q.
+
+Now, for A, substitute “If S, then M;” and for
+B, substitute “If S, then P” and we find the
+following:
+
+Summing that from “If S then M,” it {add}would{/add} follow that “If S then P,”
+(which is the case in the Greek syllogism owing to If M, then P)
+then it {del}follows that{/del} from {add}the premise{/add} “from if S then P,” {add}would{/add} follow Q {del}If{/del} {add}mean conclude{/add} “from
+if S then M,” {del}follows{/del} {add}would{/add} Q.”
+
+It follows that the following form of inference,
+called the Major indirect syllogism is valid:
+
+If M, then P;
+
+But from “If S, then P” {add}would{/add} follow Q;
+Hence, from “If S, then M” {add}would{/add} follow Q.

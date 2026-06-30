@@ -1,0 +1,71 @@
+If A then B
+But Not B
+∴ Cannot A
+
+        If A then B
+        But not A
+        ∴ Need not B
+
+                [diagram: B above “Not A”]
+                Not A
+                ∴ If A presumable not B
+                   (can not say B)
+                   can not be necessary
+
+[unclear: x Hypothetical],
+[unclear: oppo.]
+Universal
+Unactual
+
+If A then B
+But B
+∴ May be A
+
+        If A then B
+        But A
+        ∴ Must B
+
+                [diagram: B over A]
+                ∴ If A apparently B
+                   (can not say not B)
+                   can not B impossible
+
+If A sometimes B
+But B
+∴ May suspect A
+   (can not {del}[illegible]{/del})
+   A not {del}excluded{/del}
+   {add}may be{/add} possible
+   (not A, not necessary
+   A may be possible
+
+        If A sometimes B
+        But A
+        ∴ almost must B
+
+        (Cannot
+        Not B may, not B possible
+        B may be necessary
+
+                [diagram: B over A]
+                If A is sometimes B
+
+        not - possible
+        no form - not necessary
+
+possibility
+excludes
+admitted
+suggested
+
+necessity
+excludes
+admitted
+suggested
+
+actuality
+{del}excluded{/del}
+{del}admitted{/del}
+{del}suggested{/del}
+[unclear: subject’s]
+admitted

@@ -1,0 +1,27 @@
+2
+
+Extension x
+
+In two states of things {del}which differ in the relation of{/del}
+they can differ only 1^st in certain things not existing in one which
+exist in the other x
+2^d: in that certain things {del}which{/del} exist in both cases have {del}dif{/del} {add}contra-{/add}
+ry attributes in some respect.
+{del}Suppose first that the difference is of the second kind{/del}
+{del}And{/del} The application of a word may be fixed;
+1^st: by the condition that it shall apply to certain things & all others
+which have all their common qualities. {del}and {add}have{/add} none which none
+of them have.{/del}
+2^d: by the condition that it shall refer to certain qualities and all
+others which belong to all the things they belong to.
+Now combining a x 2^d:
+The symbol will have a different extension in the two cases
+only when in one case certain things have all the common
+qualities of the given things which do not have them in the other case.
+This may come about either 1^st by a change in the common qualities
+of {del}these{/del} {add}given{/add} things or 2^d by a change in some other thing or 3^d by both changes
+combined. That is either 1^st: The given things must become more different
+or 2^d: The other thing must {del}become{/del} {add}change{/add} {del}more like them or 3^d both must
+take place.{/del} or 3^d: The other thing must change so as to become like them.
+The symbol will have a greater intension in one case than in the
+other only when the given things become more alike.

@@ -1,0 +1,77 @@
+= {del}[illegible]{/del} + v + u + uv
+
+[formula: see image]
+
+{del}[illegible]{/del} + p(1-q) + (1-p)q + (1-p)(1-q)
+──────────────────────────────────────────────────
+
+[diagram: two short horizontal strokes, one crossed]
+
+uv
+──
+
+pq
+────────────
+(1-p)(1-q)
+
+p
+───   +   q
+1-p       1-q        =
+
+1-p
+────   +   1-q
+ p          q        =
+
+pq
+────────────
+(1-p)(1-q)
+
+α β
+
+p
+───  +  1-q
+1-p       q       =
+
+1-q
+────  =
+ q
+
+p
+─── =
+1-p
+
+r² + (1-p)²
+──────────── =
+(1-p)p
+
+p
+─── # 1-p = r² - (1-p)²
+1-p         ─────────────
+            p(1-p)
+
+= 1 - 2p + 2p²
+  ─────────────
+      p - p²
+
+{del}[illegible]{/del}
+
+1 - 2p
+────────
+p(1-p)
+
+[formula: see image]
+
+pq + (1-p)(1-q)
+────────────────
+(1-p)q
+
+[diagram: bracketed vertical calculation]
+  - 1/v
+  +
+  -1/u
+  +
+  -1/s
+
+uv
+──────
+1 + u + v

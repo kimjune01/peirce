@@ -1,0 +1,25 @@
+Quality is the only Quantity belonging to the Predicate
+
+derived from the distinction of Extension & Intension.
+
+Intension is the reference of a representation to a quality,
+Extension is the reference of a representation to an object.
+In the representation the quality is immediately represented, and
+if the representation is a concept the quality is thought. The object
+however is mediately represented, that is it is thought of.
+A proposition or judgement is the determination of one
+representation or concept by a synthesis of it with another
+If we distinguish the element of extension and of intension in
+the concept or representation, and denote the subject or deter-
+mined {del}representation{/del} {add}term{/add} by S and the predicate or determining
+term by P, the synthesis must be between either
+1 The extension of S and the intension of P
+2 The intension of S and the intension of P
+3 The extension of S and the extension of P
+or 4 The intension of S and the extension of P.
+
+S may be determined in the way marked 1, by a me-
+diate or immediate examination of the whole extent of S; for
+observation will show whether an object in its extent
+possesses a quality. The resulting judgment is synthetic
+S may also be determined in the way marked 2, by

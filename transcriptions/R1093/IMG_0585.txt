@@ -1,0 +1,46 @@
+Copied
+AD.
+June 4.
+'77
+
+Mss 1093                                      [unclear: Appendix Reprint] 76     (Notes and copy
+                                                                           retained by E.H.)        1
+Note on the Theory of the Economy of Research. By Assist. C. S. Peirce.
+
+[diagram: boxed notation “7 C 20 #C”]
+
+        When a research is of a quantitative nature, the progress of
+
+it is marked by the diminution of the probable error. The results
+
+of non-quantitative researches also have an inexactitude or inde-
+
+terminacy which is analogous to the probable error of quantitative
+
+determination. To this inexactitude, although it be not numeri-
+
+cally expressed, the term probable error may be conveniently
+
+extended.
+
+        The doctrine of Economy, in general, treats of the relations
+
+between utility and cost. That branch of it which relates to
+
+research considers the relations between the utility and the
+
+cost of diminutions of the probable error of our Knowledge. Its
+
+main problem is how with a given expenditure of money,
+
+time, and energy, to obtain the most valuable {del}addition{/del}
+
+to our Knowledge.
+
+        Let r denote the probable error of any result; and write
+
+s = 1/r. Let U_r . dr denote the infinitesimal utility of any in-
+
+finitesimal diminution, dr, of r. Let V_s . ds denote the infin-
+
+tesimal cost of any infinitesimal increase, ds, of s. Let subscrip

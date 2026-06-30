@@ -1,0 +1,33 @@
+5
+
+Every M is P,
+
+Hence, if not every S is P, not every S is M...
+
+These give the two {add}following{/add} syllogistic forms
+
+Every S is M,
+
+Not every S is P,
+
+Hence, not Every M is P.
+
+This is called Bocardo-
+
+Every M is P,
+
+Not every S is P,
+
+Hence, not every S is M.
+
+This is called Baroko. As concrete ex-
+
+amples one make take the following
+
+Bocardo
+
+Every Patriarch was a man,
+
+But not every patriarch had to die;
+
+Hence, not every man has to die.

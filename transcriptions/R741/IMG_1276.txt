@@ -1,0 +1,12 @@
+forms had escaped recognition as distinct from others, and
+indeed De Morgan himself does not see that they are essen-
+tially different from the rest. The inference from “If A
+is true, B is false,” to “If B is true, A is false,” depends
+merely on the principle of contradiction, that is on “false”
+being a general predicate. For “false” put any predicate, C,
+and it will be equally true that if it be admitted that
+A being granted, C follows from B, we must also admit that
+B being granted, C follows from A. On the other hand, the
+inference from “If A is false, B is true,” to “If B is
+false, A is true,” is of an entirely different nature,
+and depends on the principle of excluded middle.

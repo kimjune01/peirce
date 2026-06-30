@@ -1,0 +1,29 @@
+Relative addition and multiplication defined
+
+Let the formulae
+        (lb)ᵢⱼ = Σₓ lᵢₓ bₓⱼ
+        (l†b)ᵢⱼ = Πₓ (lᵢₓ † bₓⱼ)
+
+Multiplication a particular, addition a universal
+mode of combination. The parts undistributed in
+both. {del}Associative{/del} principles:
+        l†(b†s) = (l†b)†s
+        l(bs) = (lb)s.
+
+{del}Two{/del} important formulae:
+        l(b†s) -< lb†s
+        (l†b)s -< l†bs,
+
+{del}Formulae of transposition:{/del}
+        (l -< b†s) = (b̆ -< s†l̆) = (s̆ -< l̆†b)
+        (lb -< s) = (bs̆ -< l̆) = (s̆l -< b̆).
+
+{del}Distributive principle:{/del}
+        (l†b)s = ls + bs
+        s(l†b) = sl + sb
+        l,b†s = (l†s),(b†s)
+        s†l,b = (s†l),(s†b).
+
+Negatives of combinations:
+        l†b = l̄, b̄        l,b = l̄ + b̄
+        l̄†b̄ = lb          l̄b̄ = l†b.

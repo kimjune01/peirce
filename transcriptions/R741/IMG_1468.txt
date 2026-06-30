@@ -1,0 +1,32 @@
+(a≺b) ≺ (c≺d)                         [ a b̄ + c̄ + d
+a ≺ [(b≺(c≺d)]                            ā + b̄ + c̄ + d
+a ≺ [(b≺c) ≺ d]                            ā + b̄ c + d
+[(a≺b) ≺ c] {del}≺{/del} d                 (ā+b)c̄ + d
+[a≺(b≺c)] ≺ d                              a b c̄ + d
+
+
+(a≺b)≺(c≺d)  =  c ≺ [(b≺a)≺d]  =  (c̄≺d) ≺ (a≺b)
+
+(a≺b) ≺ (c≺d)                    a b̄ + c̄ + d
+(a≺b) ≺ (c≺d̄)                   a b̄ + c d̄
+(a≺b)̄ ≺ (c≺d)                   (ā+b)c d̄
+(a≺b) ≺ (c≺d)                    ā + b + c̄ + d
+(a≺b)̄ ≺ (c≺d̄)                  (ā+b)(c̄+d)
+(a≺b) ≺ (c≺d̄)                   ā + b + c d̄
+(a≺b)̄ ≺ (c≺d)                   a b̄ c d̄
+(a≺b)̄ ≺ (c≺d)                   a b̄(c̄+d)
+
+
+a ≺ (b≺o) = ā + b̄
+b ≺ (a≺o)
+
+(a+b)c = ac + bc
+
+(ā≺b)≺c̄              ({del}a{/del}≺c)≺ b c̄
+
+(a≺b)≺c              (a≺c̄)≺(b≺c)              (a≺b)≺c              (b≺c)≺(c̄≺a)
+a b̄ + c              ac + b c̄                 a b̄ + c              (a+c)(b̄+c)
+{del}(a+b)c ≺ bc{/del}                                             ā c̄
+ā + b̄ c̄             a(b+c) ≺ ab + c
+[{del}a{/del} ≺ (b̄≺c)]≺(a≺b̄)≺c
+{del}a{/del}(a≺(b̄≺c)                                                

@@ -1,0 +1,23 @@
+Proved by means of chances, instead
+of by means of probabilities. I will
+only indicate the solution. If u, and w
+be the {del}Chance of what is in favor of the
+truth of{/del} what is testified to separately,
+by two witnesses, and if w be the chance
+of {add}collusion{/add} {del}[unclear: correlation]{/del}, then
+
+        u v
+       -----
+       1 + w
+
+is the Chance of the Birth of what both
+testify to.
+
+Let us now suppose that two
+independent modes of reasoning give re-
+sults which are inconsistent, indeed,
+but which present such a degree of
+similarity of resemblance that it would
+be interesting to know the chance in
+favor of one or other conclusion
+only so far as is necessary to judge of

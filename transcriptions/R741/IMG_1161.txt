@@ -1,0 +1,22 @@
+v + (v-f) ((v-x)(v-y)(v-z))/((v-f)(v-f)(v-f)).
+
+The logical compound of x, y, z, is
+most simply expressed by
+
+f + (v-f) ((x-f)(y-f)(z-f))/((v-f)(v-f)(v-f)).
+
+Different {del}[illegible]{/del} values for v and f.
+
+The two terms of second intention, being
+and nothing. Definitions of logical ad-
+dition and multiplication.
+{ If a-x and b-x then a+b-x. }
+{ If x-a and x-b then x-a×b. }
+
+{ If a+b-x, then a-x and b-x, }
+{ If x-a×b, then x-a and x-b. }
+
+{ (a+b)×c - (a×c) + (b×c) }
+{ (a+c)×(b+c) - (a×b) + c }
+
+other formulas.

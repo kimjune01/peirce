@@ -1,0 +1,18 @@
+truth of A lies wholly within the area of
+the truth of C.
+
+[diagram: three nested closed curves labeled A inside B inside C]
+
+        This gives the form of inference termed
+the hypothetical syllogism *
+
+        If A, then B,
+        If B, then C,
+     Hence, if A, then C.
+
+
+If for C we put X̄, meaning that any
+consequence we please may be drawn,
+
+* The modus ponens is also {add}often{/add} called a
+Hypothetical syllogism, but improperly.

@@ -1,0 +1,25 @@
+be substituted for any given premise, either
+the other foreknowns {add}by themselves{/add} yield one conclusion
+which expresses this fact or successive
+substitutions can be made by single
+propositions. Hence every argument of
+more than two premisses can be broken
+up into arguments of two premisses. Such
+arguments are called simple arguments
+- in opposition to complex ones.
+§9 The substitution of conclusion for
+a premise is as we have seen the substi-
+tution of one term for another,
+Now, it is evident that the only such substi-
+tution which necessarily yields a true conclu-
+sion from true premises is the substitution for
+a subject or predicate of another {add}term{/add}, which has as
+subject or predicate no function or value beyond
+{del}what{/del} that of the term for which it is substituted
+We thus get such an argument as this -
+        S has no force as subject beyond M
+        P has no force as predicate beyond M
+        ∴ S is P
+Or in other language.     S is denoted by M
+                          M connotes P
+                          ∴ S is P

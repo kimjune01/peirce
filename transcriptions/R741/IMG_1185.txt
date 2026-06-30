@@ -1,0 +1,20 @@
+Syllogistic is the algebra of the copula. The
+type of inference is
+        P
+      ∴ C
+
+The two types of proposition are
+
+        P < C        [formula: P with negated copula C].
+
+The properties of the copula are
+1st. If A < B and B < C, then A < C.
+2nd A < A.
+3rd If A < B and B < A, then A = B.
+
+Contraposition and indirect syllogism.
+Properties of the negative. The principles
+of contraposition, contradiction, and ex-
+cluded middle. All syllogism depends on
+the principle of contradiction, all diagram
+on the principle of excluded middle.

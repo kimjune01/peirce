@@ -1,0 +1,17 @@
+Rule I
+
+If a and b, then [formula: see image].
+
+This is the rule of combination. It is plain that
+one cannot reason, unless one can combine dif-
+ferent premises; and [formula: see image] expresses no more
+than that a and b are both true at once. To
+show this, we use a diagram invented by Mr. Venn.
+
+[diagram: rectangle containing overlapping ovals with regions numbered 1 through 16.]
+
+The rectangle represents the whole field of
+possibility. The oval containing the odd mem-
+bers represents the area of possibility of a =
+{del}fals{/del}, x. The oval containing the even members
+not divisible by 4 and the odd numbers one

@@ -1,0 +1,10 @@
+Internally inductive {del}propositions{/del} {add}conclusions{/add} alter the
+quantity (relevancy) of the premisses. This involves
+the supposition that {add}makes it{/add} (does not assert it) that A
+extends beyond B. Hence such conclusions are
+hypotheticals
+
+[diagram: wavy horizontal separator]
+
+Internally a posteriori conclusions alter the
+relevant quality of B.

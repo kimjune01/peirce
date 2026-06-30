@@ -1,0 +1,25 @@
+Lecture IV.
+
+The flow of time and inference. Three
+parts of inference, 1, Premise, 2, Conclu-
+sion, 3, Leading principle. Exhibited in
+{del}the formula{/del}
+
+P
+∴ C,
+
+The universe of possibility; definition of possi-
+bility. {add}Natural{/add} {del}Logical{/del} principles.
+
+{del}Propositions{/del} of two essentially different
+kinds:
+1. Universal propositions, {del}asserting{/del} {add}affirming{/add} leading
+principles, asserting non-existence.
+2. Particular propositions, denying leading
+principles, asserting existence.
+The two copulas,
+-A -< B        A -< B.
+The two types,
+Πᵢ Uᵢ        Σᵢ Uᵢ.
+The distinction of categorical and hypothetical
+propositions, not important. Syllogism and dia-

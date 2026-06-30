@@ -1,0 +1,26 @@
+        {add}[unclear: one?]{/add}
+An indefinite number of monads {del}the letters of a{/del}
+        problem.
+
+2 monads 1 and 0 {del}are{/del} {add}belonging to the universe{/add}
+        of letters
+
+
+{del}Each letter is joined{/del}
+A second universe of pairs of letters (including
+        1 and 0)
+Each monad of this universe is joined to
+two of the first; {del}and{/del} Π_αΣ_aΠ_b = (αa)(αb)
+There is some monad of the second universe
+for every two of the first [formula: Π_aΠ_bΣ_α(αa)(αb)]
+
+
+A third universe consists of only two monads {del}X{/del}
+        {del}and X{/del}
+Each monad of the 2^nd Universe
+Each monad of 3^rd Universe is joined to {del}two{/del} {add}one{/add} of 2^nd
+
+Each monad of 2^nd is joined to two of 3^rd
+
+
+A fourth universe

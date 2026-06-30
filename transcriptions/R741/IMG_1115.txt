@@ -1,0 +1,33 @@
+{del}Every change{/del} {add}Physical cause{/add}
+Every change {add}must{/add} have a physical cause
+This judgment truth is a change
+∴ This truth must have a physical cause
+Every change is necessarily a physical effect
+Presupposed in definition of change
+
+[diagram: wavy horizontal divider]
+
+{del}Gravitation would make the earth revolve in an ellipse{/del}
+{add}move{/add}
+(the effect)     1.2.2
+
+The effect of gravitation would be an elliptical {del}motion{/del} {add}path{/add}. Definition
+The earths path is elliptical, at least nearly so. Our observations are as
+{del}such{/del} it were
+∴ The earths path {add}may be{/add} the effect of gravitation
+
+All the points on {add}a circle{/add} {del}an ellipse{/del} are at equal distance from one
+{del}some of{/del} the points on this curve are so.
+∴ This curve is a circle.
+
+{del}The points on a circle are{/del} A circle is a curve all {del}whose radii{/del} {add}whose diameters
+will measure
+the same.{/add}
+
+This curve is a circle
+{add}invariably{/add}
+A circle will, measure the same {del}on all its diamet{/del} {add}across{/add} By Definition
+This table always measures the same across { As near as I can tell,
+That represents the fact as
+well as anything }
+∴ This table may be a circle.

@@ -1,0 +1,26 @@
+A conclusion relating to a connection of reason and con-
+sequence.  Is apodictically hypothetical
+
+        B                  If A sometimes B              If A sometimes B
+        A                         B                              A
+     ∴ If A . B                ∴ A                            ∴ B
+
+because it {del}depends upon{/del} can only be drawn under this
+supposition that the minor premiss, {del}really{/del} comes under the
+major premiss.
+
+                         {add}for its necessity
+                         as a conclusion{/add}
+A conclusion logically à priori depends on no condition
+whatever and hence is apodictically categorical
+
+A conclusion logically à posteriori as
+
+        {del}If A then B{/del}       If A then B                 B
+             B                      Not A                       Not A
+          ∴ A                     ∴ B                         ∴ If A not B
+
+is drawn in this way:- there are two cases supposable
+{del}the the major premiss it true{/del}, [unclear: confessedly], or it is not.
+on the {del}implied condition{/del} alternative that the major premiss
+is true conversely; hence it is apodictically disjunctive.

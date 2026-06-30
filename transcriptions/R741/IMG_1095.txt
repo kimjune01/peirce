@@ -1,0 +1,27 @@
+Fig 1        Major
+
+[diagram: Fig. 1, four-by-four logic table headed A E I O, with side heading Minor and cells marked by A/E/I/O, circles, squares, tails, dots, numbers, and crossed diagonals.]
+
+Fig 2
+
+[diagram: Fig. 2, four-by-four logic table headed A E I O, with A/E/I/O entries, circles, tails, dots, numbers, and crossed diagonals.]
+
+All of an                         All: of an
+à priori character                a posteriori character
+
+
+Fig 3                         Fig 4
+
+[diagram: Fig. 3, four-by-four logic table headed A E I O, with A/E/I/O entries, squares, circles, tails, dots, numbers, and crossed diagonals.]
+
+[diagram: Fig. 4, four-by-four logic table headed A E I O, with A/E/I/O entries, circles, squares, tails, and numbers.]
+
+All of an analogical
+character
+
+19  Letters not in circle or square are conclusions à priori
+16  Letters in circle are conclusions à posteriori
+16  Letters in square are inductions of principles.
+7   Blank spaces are utterly worthless
+68  Repeated  A tail signifies that {del}are{/del} particular conclusion
+    is more cogent than a universal one.

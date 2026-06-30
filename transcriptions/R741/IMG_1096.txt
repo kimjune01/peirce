@@ -1,0 +1,92 @@
+Cannot A
+
+[diagram: boxed list:
+arbitrarily possible
+dependently possible
+{del}absolutely{/del} necessary]
+
+Need not B
+
+[diagram: boxed list:
+arbitrarily possible
+dependently necessary
+{del}Absolutely{/del} possible]
+
+If A, {add}presumeably not B{/add}
+then B not necessary
+
+[diagram: boxed list:
+arbitrarily possible
+dependently actual
+{del}Absolutely{/del} possible]
+
+May be A
+
+[diagram: boxed list:
+arbitrarily necessary
+dependently possible
+{del}Absolutely{/del} possible]
+
+Must B
+
+[diagram: boxed list:
+Arbitrarily {del}possible{/del} necessary
+Dependently necessary
+{del}Absolutely{/del} necessary]
+
+If A, B {add}alternatively, B{/add}
+cannot be impossible
+
+[diagram: boxed list:
+Arbitrarily necessary
+Dependently actual
+{del}Absolutely{/del} actual]
+
+may not be A
+A may be possible
+
+[diagram: boxed list:
+arbitrarily actual
+dependently possible
+{del}Absolutely{/del} actual]
+
+almost necessary
+B may be necessary
+
+[diagram: boxed list:
+arbitrarily actual
+dependently necessary
+absolutely assertorical]
+
+If A sometimes B
+
+[diagram: boxed list:
+arbitrarily assertorical
+dependently assertorical
+{del}Absolutely{/del} necessary]
+
+
+Absolutely apodictic means necessarily follows
+Absolutely assertoric means indicated by a sign in the syllogism
+Absolutely problematic means suggested as a hypothesis in the syllogism
+[diagram: horizontal rule]
+
+Dependently apodictic means that the inference; the suggestion, or the indication is
+Dependently assertoric means that " " " " "
+Dependently problematic means that " " " " "
+
+[right margin:]
+is determined by the facts represented
+as having physical necessity
+{del}that it must happen{/del}
+with reference to its
+in physical actuality, or
+with reference to
+is that it is possible
+
+[diagram: horizontal rule]
+
+Arbitrarily apodictic the {del}conclusion{/del} is represented in the representation of the premises
+Arbitrarily assertoric the conclusion is indicated is quality but not referred to the right quantity
+Arbitrarily problematic the conclusion is not indicated in quality but only suggested in
+the quantity of the premises.

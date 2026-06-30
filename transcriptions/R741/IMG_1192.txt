@@ -1,0 +1,23 @@
+Lecture XXVIII.
+Equations of finite differences. A function
+in a differential equation is necessarily mono-
+genetic; in an equation of finite differences,
+not. Solution of the general equation of the
+first order and degree. Solution of linear
+equations.
+
+Lecture XXIX.
+The theory of linear equations of finite dif-
+ferences applied to the solution of questions
+in probabilities. {del}Some{/del} Problems involving
+simultaneous equations.
+
+Lecture XXX.
+Partial equations of finite differences. The prob-
+lem of the duration of play. Application to the
+theory of natural selection.
+Equations of higher degrees.
+
+Lecture XXXI.
+Application of the theory of probabilities
+to {add}several{/add} {del}various{/del} problems of philosophy.

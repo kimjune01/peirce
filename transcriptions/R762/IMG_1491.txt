@@ -1,0 +1,32 @@
+7
+
+Omnisciently make use of a {del}[unclear: notion]{/del}
+of events, called chance; that
+is to say, the probability in favor
+of a thing, divided by the probability
+against it. As [obscured] infer-
+ences are indep[obscured]y here
+{del}make use{/del} {add}only{/add} of h[obscured] to rule
+{add}hence{/add}
+III; {del}record{/del} the [obscured] proportion
+of questions to w[obscured] one true
+answer, and the[obscured]b into
+1 - q, is the prop[obscured]s to
+which both give
+rise in the pr[obscured]
+
+tell the truth or [obscured]chance
+in favor of this conclusion in which
+they agree, is
+
+        p q
+-----------------
+(1 - p)(1 - q)
+
+[inserted slip:]
+Plan for a
+work
+on
+Probability
+[illegible]
+[illegible]

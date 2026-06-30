@@ -1,0 +1,27 @@
+No. 741
+
+On the Figures and Moods of Logic.
+
+A distinction into two classes is generally vague. Reasoning
+à priori is inferring a consequent from an antecedent. Reasoning
+à posteriori is inferring an antecedent from its consequent. There is
+clearly a third way of reasoning, which consists in inferring a mutual
+connection between the several consequents of one antecedent; this is
+induction.
+
+It is important to distinguish three kinds of relation of antecedent
+and consequence. The 1st is sequence in the object represented as
+it is meant to be understood; as when I say "If the heart beats
+the patient lives" where the sequence is from the life to the heart beating.
+This is cause and effect or in a particular case a law, and reasoning
+is with reference to this sequence demonstrated {del}subjectively{/del} {add}externally{/add} à priori, à posteriori
+or inductive. The 2nd sequence lies in the representation in so far as
+it is thought to be a representation. This is the sequence from the false to
+the like in the above example. If A, then B; But B; hence A. In the
+major premiss the sequence in the representation as it was taken to be a
+representation was from B to A; as the reasoning shows. This sequence
+is from reason to conclusion through argument. Reasoning is in refer-
+ence to this sequence to be denominated internally à priori, à posteriori, or
+inductive. The 3rd sequence lies in the representation as an image
+in itself. This is the grammatical sequence from protasis to apodosis
+through a principle. Reasoning in reference to it is to be denominat

@@ -1,0 +1,46 @@
+X is not
+{del}X is{/del}          If
+
+[diagram: short horizontal line ending at dot and B]
+
+B
+If X not B
+X is {del}[unclear]{/del} [unclear]
+
+suppose A on -
+If X not A
+X is not (supposed)
+
+{del}suppose{/del} X [unclear]
+If X not A
+{del}suppose{/del}
+A is not (supposed)
+
+
+is B
+If X, B
+X is supposed
+
+[unclear] A
+If X, A
+X is supposed
+
+suppose X
+If X, A
+A is supposed
+
+
+[unclear] B
+If X {del}[unclear] B{/del}
+Some X [unclear] supposed
+
+Some A is supposed
+If X, A
+∴ Some X is supposed
+
+Some X is supposed
+If X, A
+Some A is supposed
+
+If A, B
+No A is what is not B

@@ -1,0 +1,15 @@
+In the syllogism in {del}Barbara{/del} {add}Barbara{/add},
+        Every S is M; Every [unclear: M?] is a P;
+        Hence, Every S is a P;
+the minor term, S, occurs only as subject,
+the major term, P, only as predicate. It
+is, therefore, evident that since P may
+be any term whatever, it may be either
+affirmative or negative, and since S may
+be any term whatever, it may be either
+universal or particular. We, thus, have
+three other moods of syllogism which with
+Barbara make up the four Aristotelian
+moods of the first figure of Syllogism.
+The following are the three moods beside
+Barbara, with their names:

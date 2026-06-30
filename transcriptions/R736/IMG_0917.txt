@@ -1,0 +1,21 @@
+2
+
+relation to C, then A is in that re-
+lation to C. Thus, greater than is a
+transitive relation; for if A is greater
+than B, and B is greater than C, then
+A is greater than C.
+
+This form of inference is properly
+termed a hypothetical syllogism. This
+name is frequently applied to the modus
+ponens, but improperly because that
+inference does not imply the transi-
+tiveness of the illative relation. By
+the illative relation, is meant in tech-
+nical language the relation of premise
+{add}(This is essentially the same as the relation of ante-
+cedent to consequent){/add}
+to conclusion. To Say that [unclear: there is?] transi-
+tive is to say that if from A we infer
+B and then from B we infer C,

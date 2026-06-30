@@ -1,0 +1,31 @@
+-5-
+
+Probability deals with {del}and{/del} {add}and{/add} is to me the percentage of truth
+in general synthetic real propositions under the evidence before me at
+the present time.
+    True, as the question in Probability is sometimes put, Proba-
+bility seems to relate to an individual thing, but what do I know of the
+individual thing? I know it only under an imperfect description. I
+must generalize the question before I answer it. The answer that I give
+belongs to the class covered by the imperfect {add}description{/add} and not to the individual
+thing alone.
+    Attempts have been made to develop theories of {add}purely{/add} "Objective Pro-
+bability" based upon {add}purely(?){/add} "Objective Series."
+    True, my belief in an Objective Series constitutes to me the
+basis of Probability, but all I know about the Objective Series is through
+a subjective description.
+    Probability involves the order of applying the descriptions
+to things. This order indicates the path of the mind in its investiga-
+tions.
+    Given a thing is a {add}y{/add}        Is it also a {add}yS{/add}
+
+[diagram: horizontal line labeled y on left and y on right; shorter horizontal line below/right labeled S at both ends; dotted horizontal line beneath]
+
+    In the above diagram let the line {add}y{/add} represent the de-
+scription {add}y{/add} and the line {add}S{/add} the description {add}S{/add}. Let
+the dotted line represent the different things in the Universe. Gather
+under the description {add}y{/add} all the things that are {add}y's{/add} and
+under the description {add}S{/add} all the things that are {add}S's{/add}, From
+the diagram it will be seen that very few of the {add}y's{/add} are {add}S's{/add}
+and, therefore, the probability that a {add}y{/add} {del}[unclear: is true of freedom]{/del} is a {add}S{/add} is very
+small.

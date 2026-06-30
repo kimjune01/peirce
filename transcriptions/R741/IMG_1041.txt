@@ -1,0 +1,29 @@
+{del}The one{/del} The increase of extension takes place
+1st. When {add}some of the{/add} given things change in {add}all{/add} those respects in which they all
+differ from the other thing.
+2nd. When the other thing changes in {add}all{/add} those respects in which it
+differs from {del}all{/del} the given things.
+
+{del}A{/del} decrease of extension takes place
+1st. Whenever some of the given things changes in any respect
+3rd. When some of the given things change in part of the respects in which
+they all differ from the other thing; while the other thing changes in the rest
+of these respects.
+
+A decrease of extension takes place
+1st. When {del}that{/del} {add}such{/add} one of the given things {del}which{/del} {add}as{/add} agree with the other thing in
+any respect {del}in which the given thing disagrees with each other{/del} changes so
+as to disagree with the given
+2nd. When the other thing changes in any respect in which it agrees
+with {del}all{/del} the {add}given{/add} {del}other{/del} things.
+
+An increase of intension takes place,
+when {del}that{/del} part of the given things {del}which agree in any{/del} {add}change in any respect in which{/add}
+they all agree {del}with the given thing{/del} {add}together & disagree{/add} from the rest.
+
+A decrease of intension takes place,
+when part of the given things change in any respect in which
+all the given things agree.
+
+last
+all

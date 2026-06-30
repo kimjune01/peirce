@@ -1,0 +1,28 @@
+It must be remembered that my doctrine that quanti-
+fying only to the subject, Requires that when the predicate
+is made subject and thus quantified it must at the same
+time be supplied with a predicate. In conversion this
+is done by {del}making{/del} the subject predicate and so unquanti
+fying it.
+
+Rules for the quantification of the predicate in conversion.
+
+1 Affirmative predicates can only be quantified indefinitely.
+The reason is simple. In the praejacent proposition we {del}[unclear: represent]{/del}
+to predicate only within the subject and not at all without
+the subject; hence it is entirely unlimited, and no representa-
+tion represents the same fact which represents it as limited.
+It has been said that {del}the common{/del} subjaccent has a peculiar
+quantity "at least some." But this is not true. There are
+only two quantities considered - Universal and Particular. We
+do assert the particular, we do not assert the Universal. The
+remark seems to contemplate "None" as a third quantity, but
+this does not belong to the quantity of the subject. Thus if I
+convert {del}some{/del} "All griffins are animals" into "some animals
+are griffins" These some may as well be none as not. When
+I say, "All griffins are animals" I not only do not say that grif-
+fins are actual, I do not say that they are conceivable, or have
+any quality whatever, by which animals could be qualified in order
+to introduce a distinction between some and none. Even
+All may be none. Some therefore {del}[illegible]{/del} contradicts
+either all or none or both.

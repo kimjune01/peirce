@@ -1,0 +1,69 @@
+Again, P<C is true {add}in case{/add} {del}[illegible]{/del} {add}in true{/add}
+that is, if in case the drawer does
+not fail. This is expressed by writing
+{del}[formula: P<C < P?]{/del}
+        \bar P < (\bar P < C)
+
+It is also true, in case C is true, that is, in case the endorser
+pays. This is expressed by writing
+        C < (\bar P < C)
+
+
+[unclear: J?] < (P < C)
+
+{del}J < T{/del}
+J \bar P \bar C
+
+
+J < (P < C)  |
+= (P \bar< C) < \bar J  |  J < (\bar C < \bar P)
+= (\bar C \bar< \bar P) < J  |  (\bar C < \bar P) < \bar J
+
+────────────────────────
+
+P < (J < C)
+{del}(J \bar< C) < \bar P{/del}
+(\bar C \bar< \bar J) < P
+
+
+a < (b < c) = \bar a + b + c
+a \bar< (b < c) = a b \bar c
+(a \bar< b) < c = \bar a + b + c
+a \bar< (b \bar< c) = a \bar b \bar c
+a < (b \bar< c) = \bar a + \bar b c
+[unclear: (a<b) \bar< c] = (\bar a + b)\bar c
+
+
+(a < b) < (c < d)
+\bar a b + \bar c + d
+
+(a < b) < (b < a)
+a \bar b + \bar b + a
+
+(a < b) \bar< (b < a)
+{del}(\bar a + b)b\bar a{/del}
+
+(a \bar< b) < (b \bar< a)
+\bar a + b + [del][illegible]{/del}
+
+a < (b \bar< b)
+a \bar< (b < b)
+(b < b) < a
+
+(b < b) < a
+
+{ a < (b < a)
+  b < (a < c) }
+
+(a \bar< b) < (c < d)
+\bar a + b + \bar c + d
+
+{del}a b c d{/del}
+a b + \bar c + d
+
+\bar a + b + \bar c + d
+a \bar b c \bar d
+
+(a \bar< ∞) < (c < d)
+a \bar< (b < c) = a b \bar c
+(a \bar< b) < c = \bar a + b + c

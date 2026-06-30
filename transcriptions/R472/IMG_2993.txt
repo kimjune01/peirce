@@ -1,0 +1,37 @@
+{add}After p 92{/add}
+
+When we say that the frequency {del}of this{/del} with which the
+
+A's are Q, or in other words the probability that an
+
+A will be Q, has a given value, P, what we mean is that
+
+in any denumeral {add}succession{/add} {del}series{/del} of occurrences of A's taken
+
+in the order in which they occur in the course of ex-
+
+perience, if we take any {del}the{/del} {add}[unclear: finite]{/add} range of
+
+conceivable values of {del}such a ratio so that{/del} P is not
+
+{del}excepted for it, for about it, -- that is such that
+
+the probable quantity forming the value p might
+
+be [illegible] and [illegible] and of be suffi-
+
+ciently small amount may perhaps remain either both
+
+outside or both inside that range of values, any{/del}
+
+{add}if, I say, whatever such{/add}
+
+such range of values {add}may be taken, there will{/add}
+
+times in the {del}series{/del} succession of the A's when the
+
+proportion of A's that are Q {add}among{/add} all the A's from
+
+the beginning never {del}changes again{/del} {add}ceases to be included{/add}
+
+[margin: This will have be skipped to top of p 88 But insert in sec p91 and odd pages following.]

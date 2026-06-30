@@ -1,0 +1,20 @@
+If every patriarch had to die, the Bible errs;
+But every patriarch was a man;
+Hence, if every man has to die, the Bible errs.
+
+
+The following are obvious complications
+of the three forms of syllogism:
+
+
+Complex Direct Syllogism.
+
+If S, then M; If both M and N are true, then P;
+Hence if both S and N are true, then P.
+
+
+Complex major indirect Syllogism.
+
+If both M and N are true, then P;
+But from "If both S and N are true, Then P," {add}would{/add} follows Q;
+Hence, from "If S then M" {add}would{/add} follows Q.

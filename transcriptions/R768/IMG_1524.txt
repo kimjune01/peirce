@@ -1,0 +1,27 @@
+as follows:—
+
+Statistical Deduction
+
+The proportion r of the M’s are P’s
+S, S′, S″, etc. are a considerable number
+of M’s drawn at random and independently
+of one another:
+Hence, probably, about the proportion r
+of S, S′, S″, etc. are P’s.
+
+The probable departure from r of the proportion
+of P’s among the S’s is, of course, calculable
+by the doctrine of chances. It is to be observed that the con-
+clusion here is only probable [unclear: upon] probabilities; it is not absolutely probable.
+All these forms of inference are deduc-
+tive in their character, and reduce to syl-
+logism when r is made either 1 or 0.
+Form III may be properly called a Statistical Deduction.
+It may be well to give an example of reasoning
+under Form III. Suppose, then, that I wished to
+purchase a font of types and print this article
+that I am writing. Then, since I know that
+the letter e occurs oftener {del}in our language{/del} than
+any other, {del}I{/del} in our language, I conclude that I shall want more
+e-types than any others; for it is nearly cer-
+tain that in any writing {del}about{/del} the same

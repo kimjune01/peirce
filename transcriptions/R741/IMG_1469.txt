@@ -1,0 +1,48 @@
+{ ɔ ~ (q x ~) } x (ɔ ~ q) x ~
+{del}[formula: see image]{/del}
+
+(ɔ x ~) x (ɔ x q) x (q x ~)
+
+[ q x (q x ɔ) x (ɔ x ~) ] x {q x ~}
+
+{ q x (ɔ x ~) }
+
+[ { (ɔ ≽ ~) x q } x (q x ɔ) ] x (q x ~)
+
+[ (q ≽ ɔ) x { (ɔ ≽ ~) ≽ q } ] x (q x ~)
+
+[ (q ≽ ɔ) x (q x ~) ] x [ (ɔ ≽ ~) ≽ q ]
+
+(ɔ ≽ ~) ≭ q  =
+
+q(ɔ + ~)          (q ≽ ɔ) x (q x ~)
+
+(q ≽ ~) x ɔ  =  ɔ x (q x ~)
+
+p + ɔ + q + ~     (p x ɔ) x (q ≽ ~)
+pɔ + q~           (p ≽ ɔ) x (q x ~)
+p + ɔ + q~        (p x ɔ) x (q x ~)
+
+
+( ~ x q ) x ɔ
+(q x ~) x ɔ
+ɔ x (q ≽ ~)
+{del}(~ x q){/del} x ɔ
+(q x ~) x ɔ
+
+(~ x q) x ɔ
+(q x ~) x ɔ
+
+[diagram: two bracketed formula groups connected by curved lines]
+
+( ~ x ʃ ) x ɔ
+(q x ~) x ɔ
+
+ɔ ≽ (q ≽ ~)
+(ɔ ≽ q) ≽ ~
+ɔ x (q x ~)
+(ɔ ≽ q) x ~
+ɔ ≽ (q x ~)
+ɔ x (q x ~)
+(ɔ x q) x ~
+(ɔ x q) x ~

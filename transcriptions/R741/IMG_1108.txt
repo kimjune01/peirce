@@ -1,0 +1,35 @@
+If A, B        If A, B        B
+B              A              A
+∴ A            ∴ B            ∴ If A, B
+
+{del}Here{/del} {add}These{/add} conclusions {add}are{/add} allowed {add}(that is rendered supposable){/add} by their premises, fully
+and unconditionally.  Hence they are problematically categorical
+
+If A, sometimes B
+B                 Conclusion allowed, supposing the {del}B of the{/del}
+∴ A               {del}minor{/del} minor comes under the major
+
+If A sometimes B
+A                 Conclusion allowed by premisses if A {del}come{/del}
+∴ B               the minor comes under the same A of the major premisses
+
+B
+A
+If A, sometimes B        Conclusion allowed by premisses supposing
+                         that A is capable of the extension of meaning
+                         implied in some.
+
+Hence these are problematically hypothetic.
+
+If A, B        If A, B        B
+Not B          Not A          Not A
+∴ Not A        ∴ Not B        ∴ If A not B
+
+[diagram: crossed strokes and dark looped flower-like sketch at right]
+
+These are allowed by the premisses {del}on the alternative of the{/del}
+{del}major term indirectly of proposition.{/del} {add}or else there is a fallacy{/add}
+between the affirmation & negation of the middle term.
+these are problematically disjunctive
+
+[diagram: large flower/tree-like sketch with radiating petals and long stem at lower right]

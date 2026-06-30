@@ -1,0 +1,35 @@
+Exercise
+
+1. State in precisely what cases the {del}ogic proposition{/del}
+        P < C̄
+is true and in what false, and show that these are
+the same as with        C < P̄.
+
+2. Do the
+the same with        P̄ < C        and        C̄ < P.
+
+3. State and prove whether
+        J < (P < C)        and        P < (J < C)
+are equivalent.
+
+4. State and prove whether
+        (J < P) < C        and        (J < C) < P
+are equivalent.
+
+5. whether        J ≡ (P < C)        and        P ≡ (J < C)        are equivalent.
+6. whether        (P ≡ C) ≡ J        and        (J ≡ C) ≡ P        are equivalent.
+7. Draw up a scheme of all the equivalences between
+propositions containing J, P, and C in different
+orders. Make it as symmetrical as possible.
+
+8. In what case will one of the following be true
+and the other false.
+        J < (P ≡ C)        and        (J < P) ≡ C
+
+9. {del}In what circumstances will both the following be true or both{/del}
+{add}Same for this pair{/add}
+        J ≡ (P < C)        and        (J ≡ P̄) < C.
+
+10. Write down all the propositions equivalent to
+        (A ≡ B) < (C < D)
+and to        (A [unclear: ≡?] B) ≡ (C < D).

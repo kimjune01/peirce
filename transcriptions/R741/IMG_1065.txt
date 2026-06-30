@@ -1,0 +1,25 @@
+noted by each of the terms by which in (3) the logical product
+there spoken of is said to be denoted.
+(10) By definition 3, any term which is a product containing
+{add}any{/add}
+{del}another term{/del} as a factor is denoted by the term which it
+contains as a factor. Hence, any term of the logical sum
+spoken of in (7) {del}would{/del} {add}which{/add} contains, {add}as a factor{/add} any other term of the series
+by which the independence of the two independent terms spoken of in
+(2) is defined except the terms members of those series
+spoken of in (2) {del}is{/del} {add}would be{/add} denoted by these other terms
+(11) Conditions 1 and 2 of definition 7 are that nothing denoted
+by any one term of {add}one of the{/add} series which by fulfilling six conditions
+define the independence of two independent terms is denoted
+by any other term of the same series. Hence that term of the
+logical sum spoken of in (10) {add}would{/add} {del}is{/del} not denoted by those other
+terms spoken of in (10)
+(12) Hence the term of the logical sum spoken of in (10) does
+not exist. Hence on the alternative of (8) there is no
+{del}term{/del} term of the logical sum spoken of in (7) which con-
+tains any factor than the two factors which make up the pro-
+duct identical with the term spoken of in (2).
+(13) Hence, on the alternative of (8) all the terms of the logical
+sum spoken of in (7) are the same.
+(14) By definition 2, the logical sum of the same term is identi-
+cal with that term. Hence the other alternative of (7) holds

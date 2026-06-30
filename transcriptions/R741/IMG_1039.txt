@@ -1,0 +1,21 @@
+Extension Intension &c.
+
+Different Senses
+
+No 1.  Extension total number of actual things of which the
+word is true.  Intension total number of attributes actually true
+of word.  In [unclear: actual?] state of things.
+
+No 2.  Such a number of the actual things of which the word is true
+that whatever is true of these is true of all.  Intension such a
+number of attributes which are true of word that whatever these are
+true of all are true of.  Supposed state of things.
+
+No 3.  Sum of all the, {add}mutually exclusive{/add} subjects of which the word can be affirmatively
+predicated  &c
+
+No 4.  No 3 + some of those subjects of which the word can be fantastically
+affirmed
+
+No 5  No4 + some or none of these subjects of which the word cannot be
+universally denied.

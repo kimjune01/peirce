@@ -1,0 +1,15 @@
+Induction
+~~~~~~~
+{ S is P
+  Σ is P (or Σ,)
+
+{del}[illegible]{/del} The excess of Σ over S in intension much exceed)
+its excess in extension.
+
+Hypothesis
+~~~~~~~
+{ If any S is P
+  S is Π }
+
+The excess of Π over P in extension much exceed
+its excess in intension

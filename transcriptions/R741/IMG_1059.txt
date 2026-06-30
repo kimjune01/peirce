@@ -1,0 +1,25 @@
+Considerations of the Advantages of
+Sir W. H's Analytic
+[unclear: intended?] to show that mine has the same.
+[horizontal rule]
+
+1. His postulate of Logic - that we be allowed to state in language
+what is contained in thought - is fully contained in my
+definition of logic that it is the science of the forms
+of representation,
+
+But when he applies this postulate to proving the necessity of
+a quantified predicate, on the ground that the predicate is quanti-
+fied in thought, he is going beyond the bounds of logic; because
+logic deals with thought only in so far as this is a representa-
+tion of intuitions, and further only in so far as the parts of
+a representation are connected or relevant; consequently
+he must show not only that the predicate is quantified but also
+that its quantification affects its relation to the subject.
+He says that if I do not know {del}that{/del} {add}whether{/add} rose comes under the concept flower
+{del}—{/del} whether it is equal to some part, or the whole, or superior to it
+- I do not know the class flower, and cannot of course predi-
+cate flower of rose. Now I think this reason is irrelevant.
+It seems to me as like this: I cannot know a line without
+knowing a solid, therefore in mathematics this is false to con-
+sider lines by themselves and not as edges. My reply is that in

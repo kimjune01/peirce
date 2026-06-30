@@ -1,0 +1,25 @@
+The following syllogisms are nominally inductive
+
+{del}Some peace men have southern proclivities{/del}
+{del}Some radicals are dangerous men{/del}
+{del}All abolitionists are radicals{/del}
+{del}No democrats are ra{/del}
+
+Some democrats are not for peace                         Partic
+All McClellan men are democrats                          Affirm
+∴ No McClellan men are for peace -- at least some are not.
+
+Some hypocrites are not liked                            Partic
+No Jesuits are liked
+∴ All Jesuits are hypocrites -- or at least some are Affirm
+
+No ministers.
+{del}Hardly any ministers{/del} are men of strong sense
+{del}No philosophers at all are{/del} theologians          Affirm
+Some theologians are not men of strong sense.             Partic
+
+{del}Sometimes with A{/del}
+
+If some A then B        Sometimes with A is B        { A (or not A)
+But A                   But B                          B
+∴ B                     ∴ A                          Sometimes with B is A

@@ -1,0 +1,33 @@
+110
+
+now the only remaining possibilities were
+
+at the beginning of our [unclear: walk?]
+
+b x b x b x (1-b) and b x b x b x b
+
+and now that there are no other possibilities
+
+the probability of the last man being adopted
+
+is simply {del}b³(1-b){/del} b⁴ / b³(1-b) + b⁴ = b / (1-b)+b = b
+
+That is, the probability is just what it was in the
+
+first place. If the events are not independent,
+
+still the {del}no{/del} probability of the fourth man being adopted
+
+must be greater the greater the antecedent probability
+
+of it. Yet the real argument that he will be a baptist
+
+has no force except from the fact that it is a strong
+
+thing to smell three baptists successively. But of course,
+
+to say that the events are independent, precisely
+
+amounts to saying that you cannot argue from
+
+one to another.

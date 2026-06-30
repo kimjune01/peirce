@@ -1,0 +1,24 @@
+Definitions of the functions
+[diagram: two long diagonal lines crossing the upper text in a large X]
+
+A universal proposition is said to be unsubjected when its affir-
+mater concerning the individual is internally à priori. that is when
+it asserts a consequent of the individual and not of the class to which
+he belongs. Thus; there is {del}always{/del}{add}everywhere{/add} time. This is a universal proposition.
+and its affirmation is not concerning the members of any class but con-
+cerning everything. So; it rains. This is a particular proposition but yet
+considered as universal it does not apply to any class but to every thing
+part of the air is rainy.
+A universal proposition is synthetic when its affirmation is externally
+à priori, that is when it asserts of the individual an apodosis.
+
+{del}A universal{/del}
+Cerainly is applied to propositions with reference to their
+universality. {del}Thus the affir a consequence be it asserted of an indi-{/del}
+{del}vidual; that is when{/del} Thus the universal in [unclear: Cee?] is {del}predicate{/del}
+{del}except by understanding the proposition is{/del} When the application
+to particulars can only be made by reason of what {del}has been{/del} is contained
+in the universal the proposition is unsubjected. This it rains
+all over Massachusetts hence “it rains in Cambridge.” When the ap-
+plication to particulars is the effect of what is witnessed in the universal
+it is synthetic. Thus Cats mew. Hence this cat mews

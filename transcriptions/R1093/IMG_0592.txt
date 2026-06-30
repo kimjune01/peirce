@@ -1,0 +1,25 @@
+and one shall have
+
+Vx₁ = (dy/dx₁ x₁) /
+√(dy/dx₁ x₁² + dy/dx₂ x₂²)
+
+Vs₁ will have the same value as before; but neglecting now
+the constant errors, one may write
+
+Vs₁ = 2 k₁ S₁ n₁^½
+
+Then the urgency (with omission of the common factor) is
+
+S₁² / k₁ n₁³ · dy/dx₁
+
+and as the two urgencies must be equal, we have
+
+n₁/n₂ = S₁/S₂ √(k₂/k₁) √((dy/dx₁)/(dy/dx₂)) .
+
+I propose now to make a practical application of these
+formulae to {del}several{/del} {add}a{/add} problem connected with the determination
+of the force of gravity; which, in fact, suggested the whole speculation.
+The error in the observed duration of an oscillation of a
+pendulum is due to three causes, 1^st the irregularity in the motion
+of the pendulum, 2^nd the error of the comparison {del}of{/del} with the
+clock, {del}and{/del} 3^rd the error in the rate of the clock. These three

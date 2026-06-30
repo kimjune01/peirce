@@ -1,0 +1,31 @@
+[unclear: Qanta?]
+
+∴  If A then B                         If A then B                         B
+   But not B                           But not A                           Not A
+∴  Cannot A                         ∴  Need not B                       ∴  If A not B
+
+
+∴  If A then B                         If A then B                         B
+   But B                               But A                               A
+∴  Maybe A                          ∴  Must B                             If A then B
+
+[diagram: large pencil loop enclosing the lower left and middle examples; separate pencil loop enclosing the right examples.]
+
+
+If A sometimes B                       If A sometimes B                     B
+But B                                  But A                                A
+not impossibly
+∴  ^ A                              ∴  almost must B                    ∴ If A is sometimes B
+
+
+[diagram: crossed modal diagram]
+Imposs        Conting.        non-act.
+Poss.         Nee.            sub act
+sub poss      sub ness         actual
+
+
+[unclear: Phqs.]    Act    Nec
+
+Possibly {del}possible{/del}        Possibly actual
+Actually possible                   {del}[unclear: Possibly?]{/del} actual
+Necessarily possible                Necessary actual
