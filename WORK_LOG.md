@@ -427,3 +427,83 @@ eventually encodes that sloppiness. If the definition of knowledge is fake, the
 memory system will confabulate. If the account of learning is vague, the agent
 will cache instead of learn. If the account of inquiry is missing abduction, the
 system will test hypotheses it cannot generate responsibly.
+
+## 2026-06-18 - Houghton Visit Confirmed: Requests Placed, Closures Noted
+
+Visit set for Thursday, June 25 and Friday, June 26 (Reading Room is Mon–Fri
+10:00am–4:45pm, so the original Saturday plan is out). Registered a HOLLIS
+Special Request (Aeon) account and placed six Reading Room requests, all
+scheduled for June 25, well ahead of the Mon June 22 2:00pm / two-business-day
+cutoff:
+
+```text
+1165147   MS Am 1632 (1093)   Economy of Research          (headliner)
+1165148   MS Am 1632 (606)    Nature of Logical Inquiry
+1165151   MS Am 1632 (637)    Meaning Preface materials
+1165153   MS Am 1632 (638)    Meaning Preface materials
+1165154   MS L 75             Carnegie Application
+1165155   MS Am 1632 (753)    Retroduction lectures
+```
+
+Hold cap is six items at once (kept up to two weeks). Next-in-line, to swap in
+as the first set clears: (475) Lowell, (754)/(756) Retroduction, (764)
+Probability and Induction.
+
+Closures (Lee Davis, Reference Librarian, May 26). Boxes 20–21, 33–35, and
+43–45 are closed for digitization. That removes the original Priority 1
+transcription targets:
+
+```text
+682, 683, 684   security & uberty essays    (box 44 — closed)
+690             Logic of Drawing History     (box 45 — closed)
+476, 478        Lowell Lectures on Abduction (box 33 — closed)
+```
+
+So 1913-security-uberty.md (MS R 682) stays deferred — but this is a gain, not
+a loss. Houghton's digitization (flat, raking light, color targets, high res)
+will read the cancellations and interlineations better than handheld phone
+photos with no stand permitted. The scans are the better transcription source;
+the only cost is time. Replied to Lee asking for the timeline on the 33–35 /
+43–45 images going online and how to request copies. Awaiting that.
+
+Reading Room logistics: photo ID required; no personal notebooks/paper (pencils
++ pink paper provided); one published reference book allowed; phone photos OK
+but no monopods/stands — handheld only.
+
+Open: book the Reading Room seat (LibCal) for both days; follow up on the
+digitization timeline.
+
+## 2026-06-22 - Friday Slate Locked, Box Numbers Verified
+
+Lee replied (10:42am): submit the second six **by 2:00pm Wed 6/24**, scheduled
+for Friday 6/26, and all 12 process fine — don't wait to consult Thursday's
+boxes first. Digitized scans go online via the finding aid when done; copy
+requests run 8-12 wk (reference) / 12-16 wk (publication) on the current
+backlog.
+
+Pulled the official finding-aid CSV (`download_collection_csv/hou02614.csv`) and
+mapped every item to its box. One correction to HOUGHTON_REQUEST: **R 477 is box
+33 (closed)**, not open — the earlier "475 and 477 appear open" note was wrong.
+R 475 is box 32 (open); 477 sits one box over in the closed range. Dropped 477,
+swapped in R 633 (box 41, open).
+
+Friday 6/26 slate (all open, verified):
+
+```text
+(475)   Box 32   Lowell Lectures of 1903 — Lecture VIII (Abduction)
+(754)   Box 49   Second Talk to the Philosophical Club
+(756)   Box 49   Retroduction (Retr)
+(764)   Box 49   [Probability and Induction]
+(773)   Box 50   Third Lecture on Methodeutic
+(633)   Box 41   Preface (Meaning Preface), Sept 1909   [swap for closed 477]
+```
+
+754/756/764 cluster in box 49 — they pull together. Thursday's six all
+re-verified open (606 box 40, 637/638 box 42, 753 box 49, 1093 box 64, plus
+MS L 75).
+
+Friday six submitted in Aeon 2026-06-22 (free-text "box NN item NNN" per the
+combined Volume/Box/Folder/Item field). All 12 now in, both days scheduled.
+
+Open: book the LibCal Reading Room seat for both days (6/25, 6/26); follow up on
+the digitization timeline if Lee hasn't given one.
