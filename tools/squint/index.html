@@ -39,7 +39,8 @@
   .imgwrap{overflow:auto;background:#efeeea;display:flex;align-items:flex-start;justify-content:center;min-width:0;min-height:0}
   .imgwrap img{max-width:100%;height:auto;display:block;background:#fff;margin:14px;
                box-shadow:0 1px 4px rgba(0,0,0,.12);user-select:none;-webkit-user-drag:none}
-  .imgwrap.zoom img{max-width:none}
+  .imgwrap.zoom{display:block}            /* drop flex-centering so overflow scrolls from the true start */
+  .imgwrap.zoom img{max-width:none;margin:50vh 50vw}  /* overpan room: edges/corners can reach center */
   .imgwrap.zoom{cursor:grab}
   .imgwrap.zoom.drag{cursor:grabbing}
   .txtpane{display:flex;flex-direction:column;border-left:1px solid var(--line);min-width:0}
@@ -172,9 +173,9 @@ $("#imgwrap").addEventListener("dblclick",e=>{
   const fx=(e.clientX-r.left)/r.width, fy=(e.clientY-r.top)/r.height;
   iw.classList.toggle("zoom");
   if(zin) requestAnimationFrame(()=>{
-    const z=img.getBoundingClientRect();
-    iw.scrollLeft=fx*z.width-iw.clientWidth/2;
-    iw.scrollTop =fy*z.height-iw.clientHeight/2;
+    const ir=img.getBoundingClientRect(), wr=iw.getBoundingClientRect();
+    iw.scrollLeft += (ir.left+fx*ir.width) - (wr.left+iw.clientWidth/2);
+    iw.scrollTop  += (ir.top +fy*ir.height) - (wr.top +iw.clientHeight/2);
   });
 });
 // drag-to-pan the image when zoomed
