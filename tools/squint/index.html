@@ -26,12 +26,15 @@
   .grow{flex:1}
   .count{color:var(--muted);min-width:62px;text-align:center;font-variant-numeric:tabular-nums}
   .nav{padding:5px 10px}
-  main{flex:1;display:grid;grid-template-columns:64px 1fr 480px;min-height:0}
-  .rail{border-right:1px solid var(--line);overflow-y:auto;background:var(--panel);padding:5px;min-width:0}
+  main{flex:1;display:grid;grid-template-columns:108px 1fr 480px;min-height:0}
+  .rail{border-right:1px solid var(--line);overflow-y:auto;background:var(--panel);padding:6px;min-width:0}
   .thumb{display:block;width:100%;border:1px solid var(--line);border-radius:2px;
-         margin-bottom:5px;background:#fff;cursor:pointer;opacity:.8}
+         margin-bottom:6px;background:#fff;cursor:pointer;opacity:.8;overflow:hidden}
   .thumb:hover{opacity:1}
   .thumb.on{outline:2px solid var(--sel);outline-offset:1px;opacity:1;border-color:var(--ink)}
+  /* whole page in one tile; ~6 tiles fit a normal desktop viewport */
+  .thumb img{display:block;width:100%;height:calc((100vh - 46px)/6 - 18px);
+             object-fit:contain;background:#fff}
   .thumb .n{display:block;font-size:9px;color:var(--muted);text-align:center;padding:1px 0 2px}
   .imgwrap{overflow:auto;background:#efeeea;display:flex;align-items:flex-start;justify-content:center;min-width:0;min-height:0}
   .imgwrap img{max-width:100%;height:auto;display:block;background:#fff;margin:14px;
@@ -68,7 +71,7 @@
   <span class="count" id="count"></span>
   <button class="nav" id="next" title="Next page (j)">›</button>
   <span class="grow"></span>
-  <button id="zoom" title="Toggle 1:1 zoom">zoom</button>
+  <span class="hint" style="margin-right:4px">double-click image to zoom</span>
   <button id="refresh" title="Re-read the file after your agent edits it">refresh</button>
 </header>
 <main>
@@ -160,8 +163,20 @@ $("#item").onchange=e=>selectItem(e.target.value);
 $("#prev").onclick=()=>loadPage(cur.i-1);
 $("#next").onclick=()=>loadPage(cur.i+1);
 $("#refresh").onclick=()=>loadPage(cur.i);
-$("#zoom").onclick=()=>$("#imgwrap").classList.toggle("zoom");
 $("#copy").onclick=copyOut;
+// double-click image to toggle zoom, centering on the clicked point
+$("#imgwrap").addEventListener("dblclick",e=>{
+  const iw=$("#imgwrap"), img=$("#img");
+  const zin=!iw.classList.contains("zoom");
+  const r=img.getBoundingClientRect();
+  const fx=(e.clientX-r.left)/r.width, fy=(e.clientY-r.top)/r.height;
+  iw.classList.toggle("zoom");
+  if(zin) requestAnimationFrame(()=>{
+    const z=img.getBoundingClientRect();
+    iw.scrollLeft=fx*z.width-iw.clientWidth/2;
+    iw.scrollTop =fy*z.height-iw.clientHeight/2;
+  });
+});
 // drag-to-pan the image when zoomed
 (()=>{ const iw=$("#imgwrap"); let p=null;
   iw.addEventListener("mousedown",e=>{ if(!iw.classList.contains("zoom"))return;
