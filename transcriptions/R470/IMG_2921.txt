@@ -1,0 +1,16 @@
+so many events that actually did take place. The
+past and the future stand upon an altogether different
+footing in this respect.
+The entire collection of all whole numbers is not
+enumerable, since if one prefix zero to them,
+the resulting {del}an{/del} series, has zero for its first one,
+for its second, two for its third member and so on,
+and has no capacity for diversity greater than that
+of the collection of whole numbers without the zero.
+From a denumeral collection, such as that of
+the whole numbers, you may take away, not merely
+an enumerable part, but a denumeral part equal
+to the whole, without thereby making the whole less.
+Thus from all numbers, take away all the
+{add}remaining collection of{/add}
+odd numbers, and the even numbers is equal t

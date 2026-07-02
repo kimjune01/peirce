@@ -1,0 +1,57 @@
+Ms 799
+
+[diagram: ten connected boxes arranged in stepped rows, numbered 1, 5, 8, 10 across top; 2, 4, 9 beneath; 3 and 7 beneath; 6 at bottom, with pencil curves and arrows crossing the diagram]
+
+1
+Rhematic
+Iconic
+Qualisign
+
+5
+Rhematic
+Iconic
+Legisign
+
+8
+Rhematic
+Symbol
+Legisign
+
+10
+Argument
+Symbolic
+Legisign
+
+2
+Rhematic
+Iconic
+Sinsign
+
+4
+Dicent
+Indexical
+Sinsign
+
+9
+Dicent
+Symbol
+Legisign
+
+3
+Rhematic
+Indexical
+Sinsign
+
+7
+Dicent
+Indexical
+Legisign
+
+6
+Rhematic
+Indexical
+Legisign
+
+{del}[unclear: Tools]{/del}
+
+Ten classes of Signs.

@@ -1,0 +1,20 @@
+18
+
+exhausted. Every given mathematical theory must,
+in that sense, eventually become exhausted. Whether
+or not new theories {add}of interest{/add} will continue to offer new
+problems or not, I am not prepared to say.
+But to come back to the matter in hand, I
+give you without further preface, the following
+rule for positively ascertaining whether or not
+a given graph is [unclear: tetagpossible?].
+{del}In the first place,{/del} {add}first{/add} find in the graph every
+lexis, (regarding [diagram: small oval crossed by a short red horizontal line] as a lexis) of which
+(that is is within an odd number of cuts)
+one replica is oddly enclosed and another
+(i.e. is within an even number of cuts)
+evenly enclosed the latter not being enclosed
+by every cut that encloses the former; and
+call every such pair of spots an adaptible
+pair. {del}Having found such an adaptible pair{/del}
+An adaptible pair is said to be conjoined

@@ -1,0 +1,29 @@
+24
+prescribes how it is to be chosen out of a collection, called its universe.
+In probable logic, the quantifiers, -- such as "nine out of ten," and the like, --
+refer to an experiential course or "long run." But in {add}necessary{/add} {del}deductive{/del} logic
+there is no reference to such a course of experience, and only two quanti-
+fiers are required, the universal quantifier, which {del}prescribes that{/del} {add}allows{/add} "any object,
+no matter what, to be chosen from the universe, and the particular quantifier,
+which prescribes that a suitable object must be chosen. When there are several
+quantified subjects, and their quantifications are different, {del}it is material{/del} {add}the order in which{/add}
+they are chosen is material. It is the character of the {del}last{/del} quantifier of the
+last chosen subject which extends itself to the whole proposition. [In
+former statements, this {add}last point{/add} was not clear to me.] While no other quantifiers than these
+two are indispensable, much {del}is gained{/del} {add}more than{/add} mere brevity and convenience of writing
+is gained by using also two other {add}"hemilogical"{/add} quantifiers, the one {del}prescribes{/del} {add}permitting{/add} any object of
+the universe but one to be taken, the other restricting the liberty to one or other
+of a suitable two. The universe of {add}a{/add} logical subject has {add}always{/add} hitherto been assumed to
+be a discrete collection, so that the subject is an individual object or occasion.
+But in truth a universe may be continuous, so that there is no part of it of which every
+thing must be either wholly true or wholly false. For example, it is impossible to find a
+part of a surface which must be all one color. Even a point of that surface may be-
+long {del}equally{/del} {add}indifferently{/add} to three or more differently colored parts. But the logic of continuous
+universes awaits investigation.
+[ Now consider the sign of the enforced idea. An idea is, in itself, a dream
+without a habitat. Several serious errors have been generally current about
+ideas in themselves. Thus, it has been said that some ideas are vivid, others faint. It
+is not meant that the idea of a brilliant red is one idea and than of a dusky red
+another. That would be true. But what is meant is that a red as actually sensed and
+{del}so{/del} vivid with the vividness of present sense is one idea and the same red as dimly
+recollected is another. {del}But{/del} {add}Now{/add} this is not a distinction between two ideas. It is rather

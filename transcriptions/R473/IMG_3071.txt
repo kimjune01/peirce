@@ -1,0 +1,25 @@
+36
+
+When we come to study the third mode of
+{del}reasoning,{/del} * we shall have to formulate
+the relation of the three kinds of reasoning
+in general terms. But for the present it will
+not be {add}needful, nor practicable{/add}
+{del}necessary, nor possible{/del}.
+Suppose we define Inductive reasoning
+{add}whose conclusion{/add}
+as that reasoning {del}which{/del} is justified not
+by [unclear: there?] being any necessity of its
+{del}bringing a true conclusion{/del} being true
+or approximately true but by {del}a necessity{/del} {add}its being the{/add}
+result of a method which if steadily persisted in
+{del}that in the long run is should approach{/del}-
+must bring the reasoner to the truth of
+{del}not to the truth that is by the fact that{/del}
+the matter or must cause his conclusion
+{del}should the conclusion will be true the same{/del}
+[margin: changed]
+to converge to the truth as its limit,
+{del}mode of procedure must bring to falsehood{/del}
+{add}Adopting{/add}
+{del}I slight them with{/del} this definition, {del}obtain one{/del}

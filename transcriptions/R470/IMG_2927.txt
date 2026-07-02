@@ -1,0 +1,24 @@
+96
+
+Now then suppose X+Y=Y+X is true when
+Y has {del}[unclear: a certain]{/del} {add}a particular{/add}
+value say N, That is
+suppose X+N = N+X then it will
+
+also be true when Y=I+N. that is
+X+(I+N) = (I+N)+X For
+X+(I+N) = (X+I)+N and
+X+I = I+X as we have just proved
+so that
+X+(I+N) = (X+I)+N = (I+X)+N = I+(X+N)
+
+But we are going on the supposition that X+N = N+X
+
+so that X+(I+N) = I+(N+X) = (I+N)+X
+{add}X+Y=Y+X{/add}
+So the proposition is true when Y has any particular
+Value is true when it has the next greater value,
+{add}whatever be the value of X,{/add}
+But it is true when Y=I. Hence it must be
+true for all values of X and Y
+Go back to p 70 in the other volume

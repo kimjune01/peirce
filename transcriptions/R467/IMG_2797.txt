@@ -1,0 +1,20 @@
+9
+
+[left margin: vertical bracket, “omit”]
+
+produced an algebra of logic which was
+equivalent to the alpha part of existential
+graphs; but he subsequently used it to
+{add}take{/add} {del}[unclear: make one]{/del} important step toward {add}correcting{/add} {del}settling{/del}
+the doctrine of probabilities. {del}right.{/del}
+De Morgan had many pupils, and among
+them Jevons who did some good work. I
+took up the subject about 1860, and lectured
+at this Institution upon it in 1866. I pub-
+lished various papers relating to the beta
+part of the subject, always employing some
+modification of the Algebra of Boole which
+I brought to perfection in Note B appended
+{del}to last{/del} the Johns Hopkins Studies in Logic, {add}in 1882{/add}
+{add}Mention Schröder, beginning in 1877,{/add}
+{del}and in another pay{/del}

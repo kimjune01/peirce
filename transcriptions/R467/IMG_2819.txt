@@ -1,0 +1,20 @@
+50
+
+Three {del}are{/del} selectives are very peculiar in
+{del}that{/del} they refer to {del}for{/del} states of information
+as if they were individual objects. They
+have, {del}besides,{/del} the additional peculiarity of
+having a definite order of succession,, These
+signs are of great use in clearing up the
+confused doctrine of modal propositions as
+well as the subject of logical breadth and
+depth.
+
+There is not much utility in a double
+broken cut. Yet it may be worth notice
+that
+
+[diagram: red “g” inside dashed broken cut, “and,” red “g”]
+
+can neither of them be inferred from the
+other. The outer of the two broken cuts {add}is{/add} not

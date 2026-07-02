@@ -1,0 +1,7 @@
+[diagram: nested enclosures containing “is a man”, “promises to”, “is a woman”, with branch to “is a horse”]
+
+is a man
+{del}pr{/del}
+is a horse
+
+[diagram: nested enclosures containing “is a man”, “promises to”, enclosed “is a woman”, with branch to “is a horse”]

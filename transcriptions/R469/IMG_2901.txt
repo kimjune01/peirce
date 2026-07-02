@@ -1,0 +1,20 @@
+60
+
+too clear-headed to escape persecution in his position,
+you may be sure Bolzano's definition amounts
+to this. If one gatt, say {add}that of{/add} the B's, is so related to
+another gatt, say the A's, that there can be no
+one-to-one relation in which every B stands
+to an A, then {del}the{/del} and only then, the {add}gatt of{/add} the
+B's is greater than that of the A's, and the
+latter is less than the former,
+
+[diagram: red ink table of small dot-and-line relation diagrams, divided by vertical and horizontal rules]
+[diagram: red ink isolated small relation diagram at right]
+
+{add}60 in all{/add}
+in letter {del}120{/del}136
+55
+
+For example there is no possible one to one relation in
+which every one of five things stands to one of three things.

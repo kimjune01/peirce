@@ -1,0 +1,22 @@
+arises the question, why may not two
+collections each be greater then the other?
+{del}to this one obvious reply is that if{/del}
+{del}nothing at all be considered as a collec-{/del}
+{del}tion, as a mathematician would naturally{/del}
+{del}consider it, that collection is greater than{/del}
+{del}itself.{/del} Now if that be possible, the idea of magni-
+tude breaks down. There are logico-mathema-
+ticians who think it is possible.
+{del}But I think it is [illegible]{/del}
+But there are others; Cantor among them,
+who think not. To me, the notion that {del}there{/del}
+{add}every{/add} one to one relation {del}between As &{/del}
+{del}should be no possible relation in{/del}
+which every As stand to a distinct B
+{del}but some As are left over{/del} between As
+and Bs should leave over some As unrelated
+to every Bs {add}although there{/add} {del}and at the [illegible]{/del} are B to which
+no As are related, and that there should
+be no relation whatever in which these
+unoccupied As could stand to these unoccu-
+pied Bs is {del}absurd{/del} contrary to the nature

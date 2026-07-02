@@ -1,0 +1,18 @@
+42
+
+I will begin with one of the gamma cuts.
+{del}[unclear: second?]{/del} I call it the broken cut. I scribe
+it thus
+
+[diagram: dashed oval enclosing "It rains" in red ink]
+
+This does not assert that it does not rain.
+It only asserts that the {del}[unclear: B]{/del} alpha and beta
+rules do not compel me to admit that
+it rains, or what comes to the same thing,
+a person altogether ignorant except that
+he was well versed in logic so far as it
+is {del}[unclear: taught?]{/del} embodied in the alpha and
+beta parts of existential graphs would
+not know that it rained.
+The rules of this cut are very similar to

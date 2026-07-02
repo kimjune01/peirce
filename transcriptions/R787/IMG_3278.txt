@@ -1,0 +1,37 @@
+{add}to inherit,{/add}
+{add}and by her husband{/add}
+
+logical any proposition compounded of propositions. De Morgan has so
+completely treated the subject of logical combinations, that acquaintance
+with his work enables us to {del}say{/del} pronounce, at once, that there are six
+{add}species of compound hypotheticals arranged under two genera; and that of{/add}
+{del}[unclear: only?]{/del} {add}[unclear: but] given Mr. Fabyan Franklin’s form that a{/add}
+complex hypotheticals having two members {del}there are [illegible]{/del}
+{add}as numbers, one [unclear: common] form [illegible]{/add}
+simple species are as follows.
+
+Genus I. Negative {del}large{/del} {add}simple{/add} hypotheticals.
+{add}not denying{/add}
+(not asserting either member of the hypothetical.)
+
+Species 1. Conditional propositions. If it thunders, it rains.
+Species 2. Disjunctive propositions. It either thunders or it rains.
+Species 3. Repugnantial propositions. It does not both thunder and rain.
+
+Genus II. Affirmative simple hypotheticals.
+{add}each{/add}
+(either asserting or denying {del}both{/del} member of the hypothetical.)
+
+Species 1. Independential propositions. It thunders without raining.
+Species 2. Conjunctive propositions. It both thunders and rains.
+Species 3. Tertial propositions. It neither thunders nor rains.
+
+The {del}following illustrates the{/del} {del}[illegible]{/del} composite {add}formed with{/add} two members,
+{del}which were given by Professor of Mr. Fabyan Franklin.{/del}
+Most of these simple species were given as hypotheticals by medieval logi-
+cians. But Kant, who had arrived at the conviction that there must be
+three classes of propositions {add}on{/add} every logical principle of division, having
+taken categoricals for one class, took the first two species of the negative
+genus of simple hypotheticals for his two other classes. But he called
+the conditionals, hypothetical propositions, {add}so{/add} restricting that term,
+as indeed, it had already, by some logicians, already been restricted.

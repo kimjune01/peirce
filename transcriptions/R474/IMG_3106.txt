@@ -1,0 +1,37 @@
+Third Lecture on Methodeutic
+
+Induction
+
+Apology. Had been really very ill for 24
+hours previously. {del}I had meant{/del} {add}and{/add} had had no sleep.
+I am still far from well, but hope to do better than
+last night.
+
+That proof which I failed to give is as
+follows. No matter what objects the Ns may
+be, so long as they {del}are{/del} {add}have{/add} independent identities,
+I ask whether there can be any relation in
+which every conceivable collection of Ns
+stands to some N to which no other
+{del}[illegible]{/del}
+collection of Ns stands in the same relation.
+
+Take any relation you please, and
+call it R. Then I divide the Ns into 4
+
+{add}classes{/add}
+
+1st Class consists of N's to each of which
+no collection of N's is R.
+2nd Class consists of N's to each of which
+2 or more collections of N's are R
+3rd and 4th Classes consist of N's to
+each of which a single collection of Ns is R
+{add}precisely{/add}
+The 3rd class consists of those of these N's which
+is contained in the collection of Ns that is
+R to it, The 4th class of those to each of
+which is [unclear: uncontained?] in the collection of
+Ns that is R to it,
+
+Now I {del}[illegible]{/del} will describe a collection of

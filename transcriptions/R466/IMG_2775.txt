@@ -1,0 +1,9 @@
+16
+
+[diagram: nested red logical schema with repeated phrases “is a number,” “is used in counting,” and “is a collection,” enclosed and connected by black/blue outline loops]
+
+The {del}fourth{/del} proposition is that {add}for{/add} any collection that
+some number is used in counting and that some number
+is not used in counting there is a number (namely the
+number of its count) {del}that is{/del} used in counting it
+that is such that whatever number is used in

@@ -1,0 +1,19 @@
+50
+
+Then there will be
+
+ω, ω^ω, ω^ω^ω, ω^ω^ω^ω
+
+Cantor gives no other way of writing these. But
+{del}if we write the{/del} {del}ω₁ ω₂ ω₃ ω₄ etc{/del}
+{del}we shall at length come to{/del} {del}ω_ω{/del}
+{del}and then there will be{/del} {del}ω_ωω ω_ωωω{/del} {del}and{/del}
+{del}so on without end.{/del}
+Suppose that instead of ω² we write ω(1,2)
+For ω ω³, ω⁴, we write ω(1,3), ω(1,4)
+For ω^ω, ω^ω^ω, etc we write ω(ω,2), ω(1,1,3)
+So that (ω^ω^ω^ω)^5 . 6 will be written ω(6·5·4)
+Then we shall {del}[illegible]{/del} {add}at{/add} length get ω(1,1,ω) which
+may write ω(1,1,1,2) So we shall get
+ω(1,1,1,1,2) ω(1,1,1,1,1,2)
+ω(1,1,1,1,1,1,2) and after all these

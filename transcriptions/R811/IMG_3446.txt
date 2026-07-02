@@ -1,0 +1,50 @@
+{add}27{/add}
+
+OF ARTS AND SCIENCES : APRIL 9, 1867.        285
+
+Hypothesis.
+
+Any M is, for instance, P' P'' P''', &c.,
+S is P' P'' P''', &c.;
+∴ S is probably M.
+
+
+§ 2. Moods and Figures of Probable Inference. {add}*{/add}
+
+It is obvious that the explaining syllogism of an induction or
+hypothesis may be of any mood or figure.
+It would also seem that the conclusion of an induction or hypothesis
+may be contraposed with one of the premises.
+
+
+§ 3. Analogy.
+
+The formula of analogy is as follows :—
+
+S', S'', and S''' are taken at random from such
+a class that their characters at random are such as P', P'', P'''.
+t is P', P'', and P'''.
+S', S'', and S''' are q.
+∴ t is q.
+
+Such an argument is double.  It combines the two following :—
+
+1.
+
+S', S'', S''' are taken as being P', P'', P'''.
+S', S'', S''' are q.
+∴ (By induction,) P', P'', P''' is q.
+t is P', P'', P'''.
+∴ (Deductively,) t is q.
+
+2.
+
+S', S'', S''' are, for instance, P', P'', P'''.
+t is P', P'', P'''.
+∴ (By hypothesis,) t has the common characters of S', S'', S'''.
+S', S'', S''' are q.
+∴ (Deductively,) t is q.
+
+
+{add}* 1893. The subject of this section still remains
+to be developed.{/add}

@@ -1,0 +1,7 @@
+Universe
+1⁰
+
+{add}Known{/add} { individual and P any predicate. The Any A is A. Hence,
+Any A that is P is A. Now (permitting the conversion) {del}Any{/del}
+A is an A that is P. Hence, {del}Any{/del} A is P. But though the reason-
+-ing set down by Schröder has not force

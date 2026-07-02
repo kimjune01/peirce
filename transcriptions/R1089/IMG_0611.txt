@@ -1,0 +1,25 @@
+{del}points;{/del}
+
+p₁, and p₂, The {add}statical{/add} displacements which those
+same forces {del}produce{/del} {add}communicate{/add} each to the other Knife-
+middle point of the other Knife-edge;
+T₁, and T₂, the natural periods of os-
+cillation of the two pendulums;
+T′₁ and T′₂, the periods of oscillation
+of the two pendulums when each is swung
+alone on the given support.
+
+If horizontal forces f₁ and f₂ be applied
+to the two Knife edges, the displacements
+{del}produced{/del} will be
+        S₁ = f₁p₁ + f₂q₂
+        S₂ = f₂p₂ + f₁q₁.
+These give
+        f₁ = 1/(p₁p₂−q₁q₂) (p₂S₁ + q₂S₂)
+        f₂ = 1/(p₁p₂−q₁q₂) (p₁S₂ − q₁S₁).
+
+The work done will be
+S₁f₁ + S₂f₂ = 1/(p₁p₂−q₁q₂) (p₂S₁² − (q₁+q₂)S₁S₂ + p₁S₂²).
+
+Hence, the potential energy of a situation
+{del}will be{/del} defined by φ₁, φ₂, S₁ and S₂ will be

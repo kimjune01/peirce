@@ -1,0 +1,27 @@
+an object, to deduce any other truth than that which it explicitly sig-
+nifies, it is necessary, in all cases, to replace that sign by an icon.
+This capacity of revealing unexpected truth is precisely that wherein the
+utility of algebraical formulae consists, so that the iconic character
+is the prevailing one.
+{add}V §0{/add} That icons of the algebraic kind, though usually very simple ones,
+exist in all ordinary grammatical {del}cases{/del} propositions is one of the
+{add}philosophic{/add} {del}no{/del} truths that the Boolian logic brings to light. In all primitive
+writing, such as the Egyptian hieroglyphics, there are icons of a
+non-logical kind, the ideographs. In the earliest form of speech,
+there probably was a large element of mimicry. But in all {del}human{/del}
+languages known, such {del}signs{/del} {add}representations{/add} have been replaced by conventional
+auditory signs. These, however, are such that they can only be explained
+by icons. But in the syntax of {del}the{/del} every language there are logical
+icons of the kind that are aided by conventional rules.
+§ A proposition has properly but a single predicate; but this is {del}usually{/del} {add}frequently{/add}
+compound. The logical icon is either {del}one of disjunctions or of conjunction{/del}
+{del}affirmative{/del} or {del}negative{/del}, affirmative if it {del}is{/del} equivalent to the asser-
+tion that, the subjects having been selected, two things are true of them, nega-
+tive if it is equivalent to the assertion that one or other of two alternatives
+{del}is true.{/del}
+{add}is true.{/add} {add}Thus{/add}
+§ Finally we have to consider the sign {del}that{/del} {add}that the speaker is under the{/add}
+{del}of the compulsion and this{/del}
+{add}compulsion.{/add} This must be a sign which gives the listener reason to
+{del}believe{/del} {del}that{/del} {add}understand{/add} {add}or [illegible] to represent that he{/add}
+that the speaker feels the compulsion; and this is all that is required.

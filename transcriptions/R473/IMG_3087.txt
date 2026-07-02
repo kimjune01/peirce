@@ -1,0 +1,18 @@
+70
+
+no regularity at all {add}in the recurrence{/add} {del}among the{/del} of the 5s, there
+ought among these 70 sets of ten numbers each
+to be 27 that {del}had just{/del} {add}contained{/add} just one five each; and
+odds against there being more than 32 of
+the {del}probability that there the number of sets{/del}
+the seventy sets that {add}contain just{/add} one five each is
+about 5 to 1. Now it turns out upon examination
+that there are 33 of the sets of ten figures
+which contain just one 5. It thus seems as if
+any surmise {del}[illegible]{/del} {add}more right{/add} that the fives will be
+a little more regularly distributed than they
+would be if {del}one{/del} {add}they were{/add} entirely independent of one
+another. But there is {del}no good certain{/del} {add}not much certainty{/add}
+about it. This will serve to illustrate
+what this kind of induction is like, in
+which the question to be decided is how far a

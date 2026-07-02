@@ -1,0 +1,8 @@
+[unclear: Gamma?] Expression of Alpha Graphs.
+
+△ the sheet of assertion
+
+-y is a graph
+Y → X    X is placed on Y
+W---Z    Z is the area of the cut W
+U → (V)    U primarily expresses V

@@ -1,0 +1,24 @@
+there is no second conclusion. But when β is con-
+nected by multiplication there is a second conclusion.
+Thus consider the premises {del}1<(Ă+pβ̃) and 1<β̃γ{/del}
+and 1<Ă+pβ. We may write
+1<(Ă+pβ)(β̃+γ)<Ă+pβ(β̃+γ)<Ă+p(ββ̃+γ)
+<Ă+p(π+γ)<Ă+pγ
+which gives the first conclusion; or we may write
+1<(Ă+pβ)(β̃+γ)<Ă+pβ(β̃+γ)<Ă+pββ̃+γ
+<Ă+pπ+γ
+which is the second conclusion. The second conclusion
+can always be found by substituting pπ+γ for pγ
+in the first (or p̄π+γ for p̄γ.)
+If the premise of the zero order is of the form 1<βγ
+and in that of the 1st order β is connected by addition
+there are two conclusions. Thus
+1<(Ă+p+β)(β̃γ)<Ă+p+ββ̃γ<Ă+p+πγ
+and 1<(Ă+p+β)β̃γ<(Ă+p+ββ̃)γ<(Ă+p)γ
+
+1<(Ă(p+β)β̃γ<Ă(p+πγ)
+and <Ăpγ
+
+1<(Ăp+β)β̃γ<Ăp+πγ
+and Ăpγ
+above in reference to the conclusions of the Peirce

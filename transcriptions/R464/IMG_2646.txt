@@ -1,0 +1,15 @@
+formulate a similar routine. But {del}it{/del} {add}the performance of it{/add} would be
+utterly impracticable owing to the stupendous
+complications that it would lead to. For example,
+here is a graph, not particularly intricate:
+
+[diagram: three circular graph diagrams in a row, each with concentric black circles and red marked points/lines labeled p, q, r]
+
+Yet from this graph as a premiss no less than
+ninety entirely independent conclusions can
+be drawn, showing the misconception involved in
+the popular expression, “the* conclusion from given”
+premisses. Moreover, {del}each{/del} {add}none{/add} of these {add}90{/add} conclusions {del}without{/del}
+{del}using any{/del} {add}uses any{/add} {del}assertion{/del} {add}assertion of the{/add}
+part of the graph more than once. By
+repeated making use of the same assertion, any

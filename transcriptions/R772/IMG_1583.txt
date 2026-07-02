@@ -1,0 +1,26 @@
+our units. We have an example of this in the measures
+of Lengths in different directions. A length north
+and south, a length east and west, and a length
+up and down, are three quantities as incom-
+parable with one another as a time and a weight.
+We may therefore take a mile north and south as our
+unit of length in that direction and an inch east
+& west as our unit of length in that direction,
+& since these units cannot be compared it is {del}as our{/del}
+{del}proper{/del} they are unequal only in the sense in which a
+day and a {del}pound{/del} are unequal. But now it is a
+great Law of nature ({add}on{/add} {del}the{/del} familiarity with which
+must not be allowed to breed contempt) that bodies
+may be turned from one direction to another, and
+{add}when a rigid body is so turned the numerical value of its length{/add}
+{del}that rigid bodies when they are so turned change the nu-{/del}
+north and south bears a certain constant ratio to the numerical value of its
+{del}metrical value of their length in a certain ratio{/del}
+length east and west.
+{del}which{/del} This ratio necessarily depends on the relative
+magnitude of the units of Length in different di-
+rections, and this {add}fact{/add} has naturally led us to assume
+these units so as to reduce this ratio to unity. {del}The{/del}
+{del}may reasonably expect to find some{/del} If there is only
+one Law in nature. {add}(it is this Law of rigid bodies), if this is the only one{/add}
+{del}this is it{/del}, and that times and

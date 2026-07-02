@@ -1,0 +1,35 @@
+has no value at all. It follows that our system of
+
+Existential Graphs is precisely an application of
+
+the mathematics of two values. It will give you
+
+an idea of what Pure Mathematics is to imagine
+
+{del}that{/del} the Existential Graphs {add}to be{/add} described without
+
+any allusion whatever to their interpretation, but
+
+to be defined as symbols subject to the fundamental
+
+rules of transformation. Namely
+
+{del}1st A graph is composed spots with definite hooks from each{/del}
+{add}of which a heavy line extends{/add}
+
+2nd Any graph within an even number of cuts
+
+can be erased and any within an odd number
+
+{add}of existing cuts{/add}
+can be inserted
+
+3rd Any graph can be iterated or deiterated
+
+provided the iterated or deiterated replica is not
+
+outside of any cut that the other is inside of,
+
+4th = Two cuts one inside the other with nothing
+
+between except heavy lines passing from within

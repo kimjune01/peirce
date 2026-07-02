@@ -1,0 +1,25 @@
+and instead of α+β, we have        (p+q-2pq)/(1-pq).
+
+We often speak of “balancing reasons pro and con.” The
+fact that this phrase is found natural is I think an
+{del}addition{/del} argument in favor of Fechner’s Law.* Namely, the
+{del}favorable cases favorable{/del} cases which in our experience
+{del}favor a given conclusion{/del} have been favorable to a
+given mode of inference produce a feeling of their
+importance, proportional (other things being equal)
+to the logarithm of their number the cases unfavorable
+________________________________
+
+* The arguments usually given {del}appear to me{/del} satisfy
+my logical tests; and the tests of the objections to these
+arguments (the most are mere rubbish) appear to me to
+arise from an untenable conception of the quantity &
+{add}independent{/add}
+intensity of a sensation. On the other hand, the argu-
+ments which {add}I have seen{/add} {del}have been{/del} advanced against the Law
+{add}in my forthcoming book{/add}
+will serve me as good examples of {del}the{/del} logical futility.
+I ought to add {add}The confession{/add} that were Fechner’s Law {add}not{/add} shown to be
+{del}not{/del} the true one, the refutation of it would at the
+same-time refute my synechistic hypothesis of the
+evolution of the universe.

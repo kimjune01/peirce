@@ -1,0 +1,30 @@
+Decision
+2 insoluble..
+
+X
+
+In order to show that the distinctions mentioned facilitate
+the solution of that problem, and partly as matters interesting in
+itself, I will briefly state my own opinion as to the essence of
+the proposition, I could not, in a limited space, set forth my
+reasons for adhering to it; much less could I give the answers
+to the various objections to it which I have taken into consideration.
+As to the theory itself, I think it more likely than not that
+further studies will show that the matter is not so simple as
+I make it to be; but I believe that, as a rough sketch of the
+truth, it is correct.
+
+{add}pretend{/add} A sign is an object capable of determining in a mind an inter-
+cognition of an object called the object of the sign. A sign is
+a representamen; and the definition of a representamen does not
+refer to a mind. A representamen is an object, A, in such triadic
+relation to an object, B, {add}for{/add} an object, C, (the italicized preposi-
+tions merely indicating a difference between the two relations)
+that it is fit to determine C to being in the same triadic relation
+to A, and thereby (owing to the peculiar nature of this triadic relation)
+to B, {add}for{/add} some third object, C', determinable in the same manner,
+and so on ad infinitum. [{del}In this definition I have employed the word
+"relation," for the sake of its familiarity. But I have always endeavored,
+as far as convenience allowed, to limit the word "relation" to a character
+of a set of subjects which may all be of the same category of
+being, and to I have found it advisable to confine my own studies{/del}

@@ -1,0 +1,34 @@
+62
+
+we never can know precisely what we
+
+mean by any description whatever.
+{add}which may be called statistical
+induction{/add}
+The third {del}order{/del} order of induction differs
+
+entirely from the other two in that it
+
+assigns a definite value to a quantity.
+
+It draws a sample of a class, finds a
+
+numerical expression for a {add}[unclear: mean?] designate{/add} character
+
+evaluation,
+
+of that {del}class{/del} {add}Sample{/add} and extends this under
+
+proper qualification, to the entire
+
+class, by the aid of the Doctrine of chances.
+
+The doctrine of chances is, in itself merely
+
+deductive. It draws necessary conclusions
+
+only. The {del}first{/del} {add}third{/add} order of induction takes ad-
+
+vantage of the information thus deduced
+
+to render induction exact.

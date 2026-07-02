@@ -1,0 +1,26 @@
+2
+
+The considerations which really actuate these exact logicians who
+have virtually given in their adhesion to the doctrine of the quan-
+tified predicate are, I apprehend, such as the following:
+First, exact logic is to take mathematics for its guide. Now in
+ordinary algebra equations (which are but expressions of the special
+modification of identity which refers to quantity) are the leading
+propositions.
+Second, the majority of the fundamental formulae of algebraical
+logic are equations; and those that are not most simply so expres-
+sed may be, nevertheless, replaced by equations.
+Third, the expression of logical formulae as equations enables
+us to unite logical with numerical algebra, as one consistent
+whole, with great advantage.
+Fourth, definitions {del}which are{/del} {add}and other{/add} convertible propositions, wherever
+they can be established in science, are of peculiar value; and the
+mind is not satisfied until such discoveries are reached. Until
+they are reached, therefore, it {add}mightily{/add} subserves the purpose of science, to
+put our propositions into the form of equations, involving as they
+must, in that imperfect stage of knowledge, an indication of
+their imperfection.
+Fifth, what has just been said of propositions is equally true
+of inferences. [unclear: §?] A conclusion from which the colligated premisse
+cannot be reinferred, is an imperfect conclusion; and its imper-
+fection should be marked in the logical representation of it.

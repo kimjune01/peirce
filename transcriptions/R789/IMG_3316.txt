@@ -1,0 +1,20 @@
+Universe
+9
+
+assume that the universe embraces all that is {del}physically{/del} {add}logically{/add}
+possible (alles Denkmögliche) It will then embrace that
+{add}a{/add} class whose {add}individual{/add} members are {del}all{/del} themselves classes, namely,
+those classes that are coextensive with the universe. But
+there is but one such class,(the universe itself) Consequent-
+ly, since {del}this{/del} a is a class of but a single member; it
+can itself be made subject to every member of it as predi-
+cate. But O is a member of every class; everything can be
+predicated of it. Consequently, O can be predicated of a and
+of the universe of everything logically possible which a con-
+tains. As this argument is stated by Schröder it appears to be
+merely one of those slips so plentiful in German {del}logic{/del} {add}treatises{/add} on logic,
+For Boole is in no way responsible for the absurd inference
+that because O is included under a {del}single{/del} singular class, there-
+fore that class is included under 3v0. Such a conversion is
+only justifiable, when the original subject exists. Otherwise,
+anything could be proved of an individual. For all A be {del}an{/del} {add}a{/add}

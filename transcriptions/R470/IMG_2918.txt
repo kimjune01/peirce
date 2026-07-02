@@ -1,0 +1,15 @@
+{del}Now{/del} I was saying that {add}all{/add} {del}all{/del} collections less
+than a given collection can be reasoned about
+in ways that greater collections cannot. The
+mode of reasoning which is applicable to all
+enumerable collections, but to no others was
+first discovered, or first put into a logical treatise
+by Augustus De Morgan. He called it the syllogism
+of transposed quantity. Here is an example:
+Every dollar borrowed requires a {add}borrowed{/add} Dollar to be paid out
+No Dollar paid out covers more than one Dollar borrowed
+∴ Every dollar borrowed has to be paid out.
+Now {del}you{/del} I need not tell you that sundry {add}business{/add} schemes
+are based on the idea of evading this conclusion.
+The notion is that dollars borrowed can partly be
+spent and {del}partly{/del} {add}cannot{/add} be paid out by the means of

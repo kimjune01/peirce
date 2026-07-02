@@ -1,0 +1,24 @@
+[diagram: two red graph-figures within nested blue enclosures, joined by a double cut]
+
+We now deiterate so
+as to get
+
+[diagram: two red graph-figures within nested blue enclosures, with one side shaded/marked]
+
+We erase within two enclosures giving
+
+[diagram: two red graph-figures within blue enclosures, with arrow from preceding diagram]
+
+We remove the double
+cut getting
+
+[diagram: two red graph-figures in one blue enclosure]
+
+and finally we deiterate getting
+
+[diagram: single small red graph-figure in blue enclosure]
+
+This signifies that the gath is not more
+than two. That is we have proved by
+graphs that there is no multitude
+intermediate between 3 and 2

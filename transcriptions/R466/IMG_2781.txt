@@ -1,0 +1,27 @@
+say that of the Bs, if, and only if, {add}every single{/add} A
+can be placed in a relation to a B to which no
+other A stands in the same relation; {add}But goes
+conversely,{/add}
+{del}to say that a body is soft is the same as to say that it
+the collection of As is greater than{/del}
+
+to say that a body can easily be scratched is the
+same as to say that it is soft, so to say that one thing
+can be placed in relation to another thing is to say
+that it already is in relation to that thing, and it
+is simpler to say that the collection of the As is at
+least as small as the collection of the Bs if and only
+if there is a relation in which every A stands to
+a B to which no other A stands in the same relation
+
+[diagram: nested closed curves with red and black relation lines, labels “is an A”, “is a B”, and “is a dyadic relation”; marginal note at left “The inner scroll might have left the A outside No: not so.”]
+
+There is a certain
+dyadic relation such that
+if there is an A it stands in
+that relation to a B and
+if there is any A that doesn't
+stand in that same
+relation to that same B
+then it is identical
+with that first A.

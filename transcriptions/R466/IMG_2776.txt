@@ -1,0 +1,7 @@
+{del}[unclear: There is]{/del}
+the count of any finite collection
+stops at some largest number
+used in counting it, {del}[unclear: the]{/del} what.
+we call the number of the
+collection, that is
+[diagram: long horizontal bracket/line enclosing the text from above, with arrow-like mark at left and continuation mark at bottom]

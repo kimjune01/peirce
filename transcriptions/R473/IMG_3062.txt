@@ -1,0 +1,17 @@
+20
+
+of a state of things describable in a different
+{del}the{/del} general statement,— and this {add}better{/add} general
+statement constitutes the conclusion. To show
+that this really is a correct {add}description of{/add} {del}[unclear: account of]{/del}
+Deduction, it will suffice {del}to throw away{/del} {add}consider{/add} the general
+structure of Euclid's demonstrations,— Euclid's
+being more formally correct in statement
+{del}than modern{/del} mathematicians think is
+needful. {del}He begin{/del} He invariably begins
+with a general statement of {del}the{/del} what he
+intends to prove. This is called the proposition,
+in Greek πρότασις, that is {add}the pretension, or{/add} preliminary
+statement. In Aristotle, it means a premise.
+He then restates {del}the matter{/del} {add}condition of his proposition{/add} in such a form
+as to {del}give{/del} {add}assign{/add} a selective or proper name to,

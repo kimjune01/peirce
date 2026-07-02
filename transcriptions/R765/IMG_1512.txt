@@ -1,0 +1,24 @@
+vertebrates is the most extensive and mammals is intermediate
+{del}between{/del} the other two. The most and least extensive terms
+are called the extremes, and by all later writers are distinguished
+respectively as the major & minor extremes. The intermediate
+term is called the middle. The syllogism consists in the synthesis
+in the inferred proposition of the two terms not united in the
+{del}[illegible]{/del} propositions which serve as data. The conclusion is the propo-
+sition which follows apodictically from the other two which are
+called the premises. Now in this example {del}of induction{/del}
+        Such and such positions are {del}points{/del} on an ellipse
+        The same positions are positions of Cebidae
+Hence All positions of Cebidae are {del}points{/del} on an ellipse
+is a true induction; characterized by {del}circumstances that{/del} {add}properly{/add} of inferring
+a restriction of the whole from a restriction of the parts. But it is
+not a syllogism, because the conclusion is not apodictic. The same
+propositions may, however, be arranged so as to form a syllogism,
+thus,      All positions of Cebidae are {del}points{/del} on an ellipse
+        Such and such positions are positions of Cebidae
+    ∴ Such and such positions are {del}points{/del} on an ellipse
+The term, {del}on an ellipse{/del} {add}herbivora{/add}, is the major or most extensive extreme;
+{add}animal with divided hoofs{/add}
+{del}Cebidae{/del} is the middle term; and {del}Such and such positions{/del} {add}Neat & sheep{/add} is the mi-
+nor extreme. It will be seen that in the major premiss we have
+as {del}[illegible]{/del}totle says “syllogized the major premiss as predicate of

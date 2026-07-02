@@ -1,0 +1,50 @@
+[diagram: nested logical graph, with “possesses” and small “s” ovals]
+[diagram: profile sketch of a face/head]
+[diagram: logical graph with two small “s” ovals and phrases “is sum of and” / “is the sum of and”]
+
+(a+b)+c
+=a+(b+c)
+(0+b)+c
+=0+(0+c)
+=(0+b)+c
+.= 0+(b+c)
+
+[diagram: two-part nested logical graph, left with “-s”, right “possesses ā”]
+[diagram: large logical graph, “is the sum of, and” / “is the sum of and”]
+
+(b+0)+c = b+c
+[illegible]
+0+c
+c+0
+
+(b+1)+c = b+c +1
+c+(b+1) = c+b+1
+
+If anything possesses ā
+
+Something possesses ā and is {add}either{/add}
+{ smaller than or ideal with relation possesses ā
+{ and it is either not longer than any number
+{ or is next larger than some number
+
+{del}Put 2 ovals around{/del}
+{add}two ovals and then{/add} inside one
+Then if possesses ā so as [unclear: dqr]
+[diagram: small graph “-s possesses ā”]
+evenly enclosed
+{del}Incase 2 ovals then this will be evenly [unclear: draclen]{/del}
+
+[diagram: crossed-out oval graph with “-s possesses ā”]
+[diagram: oval graph, “-s” connected to “possesses ā”]
+
+{del}Start in{/del} [diagram: long oval, “s possesses ā”]
+
+{del}Proofread function{/del}
+Then occur in 2nd premise
+[unclear: Retract] -- erase
+inner
+then outer
+Erase two ovals
+and [unclear: urge]
+
+[diagram: large nested logical graph with “possesses ā”, “-s possesses ā”, and lower graph containing “s”, “s-s”, “possess ā”]

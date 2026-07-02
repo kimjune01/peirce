@@ -1,0 +1,23 @@
+Two pendulums oscillate on the same
+support. We use the following notation:
+t is the time;
+φ₁ and φ₂, the instantaneous angular displace-
+{del}ments{/del} of the two pendulums from the vertical;
+s₁ and s₂, the {del}(parallel){/del} {add}instantaneous{/add} linear displace-
+ments of the middle points of the two Knife-
+edge from their position of repose;
+l₁ and l₂, the lengths of the two simple
+pendulums equivalent to the two given
+pendulums;
+g₁ and g₂, the constant {del}downward{/del} {add}vertical{/add}
+accelerations of {del}the{/del} each particle of the
+two pendulums;
+M₁ and M₂, the masses of the two pen-
+dulums;
+h₁ and h₂, the distances of the centres of
+mass of the two pendulums from their
+Knife-edges; {add}statical{/add}
+p₁ and p₂, the displacements of the {del}two{/del} {add}middle{/add}
+points of the two Knife-edges produced by the
+horizontal forces, of unit value on the abso-
+lute system of measurement, applied to those

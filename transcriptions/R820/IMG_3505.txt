@@ -1,0 +1,24 @@
+[diagram: circled “4” with a rough diamond around/through it]
+
+Theorem of the Fermatian inference
+
+Rules Let Q be {del}such{/del} a relation such that
+nothing has two Qs. Then I say no two
+different things are Q to themselves.
+{del}Proof{/del} Let V be something Q to itself
+and W be   "    "    " .
+I have to prove V and W identical.
+Let κ be such a character that to say anything
+has it is the same as to say that any character whatever
+which is true of anything then of every Q of that
+thing and which is true of A is also true of V
+Then I say if anything has the character κ, every
+thing Q of A has the same character.
+For if not, let B be something Q of A which has
+not the character κ. That is to say, there is some character
+δ such that belongs to B, and which belongs to every-
+thing which is Q to a thing it belongs to, and yet
+does not belong to V.
+Now let the character σ consist in either possessing δ
+or being A, Of course A has the character σ.
+A thing Q to a thing having the character σ

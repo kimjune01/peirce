@@ -1,0 +1,7 @@
+To prove principle of {del}contradiction{/del} {add}excluded mid.{/add}
+
+{del}[illegible]{/del} Suppose \overline{a+0}+0
+        {add}by 2½{/add}
+        Then \overline{a+0}+a
+        By 5' \overline{a+a}+a
+        By 5'½  a

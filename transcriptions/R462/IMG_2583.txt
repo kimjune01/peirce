@@ -1,0 +1,24 @@
+{add}is not essentially of the same nature as the
+absurdity of the following {del}[illegible]{/del}
+{del}appears{/del} {add}proposition & graph{/add}{/add}
+{del}not consist in a violation of the principle of con-
+tradiction, like an alpha-impossible [illegible]
+nor showing a difference so much and not
+So simple example of the kind of impossibil{/del}
+
+[diagram: two small red and black existential graph figures, left with looped cuts and letters e, p, l; right with nested cuts and repeated letters e, p, l.]
+
+{del}If, which in any rules do condemn, we may take
+this graph, which may{/del} be read as follows:
+
+Arthur likes everything exhibited by a certain
+dealer who exhibits a picture painted by an
+artist who paints nothing that Arthur likes.
+.  An impossibility like that of this {add}pseudo{/add} graph
+appears to have a different character.
+You should have no difficulty in
+reading it. The heavy lines assert
+{del}[illegible] line{/del}
+{add}[unclear: identity]{/add} The oval cuts assert the
+[diagram: large red and black existential graph with three lower ovals, connecting heavy red lines, and small identity loops.]
+otherness of each the identity of an individual

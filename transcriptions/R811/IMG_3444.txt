@@ -1,0 +1,46 @@
+MS. 811                                      27
+
+OF ARTS AND SCIENCES: APRIL 9, 1867.        283
+
+S′ for Σ′ S′ and P′ for Π′ P′ we obtain formulæ of probable in-
+ference.  This reasoning gives no determinate probability to these
+modes of inference, but it is necessary to consider that, however
+weak synthetic inference might have been at first, yet if it had
+the least positive tendency to produce truth, it would continually
+become stronger, owing to the establishment of more and more
+secure premises.
+  The rules for valid induction and hypothesis deducible from this
+theory are as follows:—
+  1. The explaining syllogism, that is to say, the deductive syllogism
+one of whose premises is inductively or hypothetically inferred from
+the other and from its conclusion, must be valid.
+  2. The conclusion is not to be held as absolutely true, but only
+until it can be shown that, in the case of induction, S′ was taken from
+some narrower class than M, or, in the case of hypothesis, that P′ was
+taken from some higher class than M.
+  3. From the last rule it follows as a corollary that in the case of
+induction the subject of the premises must be a sum of subjects, and
+that in the case of hypothesis the predicate of the premises must be a
+conjunction of predicates.
+  4. Also, that this aggregate must be of different objects or qualities
+and not of mere names.
+  5. Also, that the only principle upon which the instanced subjects
+or predicates can be selected is that of belonging to M.*
+
+* Positivism, apart from its theory of history and of the relations between the
+sciences, is distinguished from other doctrines by the manner in which it regards
+hypotheses.  Almost all men think that metaphysical theories are valueless, be-
+cause metaphysicians differ so much among themselves; but the positivists give
+another reason, namely, that these theories violate the sole condition of all legiti-
+mate hypothesis.  This condition is that every good hypothesis must be such as
+is certainly capable of subsequent verification with the degree of certainty proper
+to the conclusions of the branch of science to which it belongs.  There is, it seems
+to me, a confusion here between the probability of a hypothesis in itself, and its
+admissibility into any one of those bodies of doctrine which have received distinct
+names, or have been admitted into a scheme of the sciences, and which admit only
+conclusions which have a very high probability indeed.  I have here to deal with
+the rule only so far as it is a general canon of the legitimacy of hypotheses, and not
+so far as it determines their relevancy to a particular science; and I shall, therefore,
+consider only another common statement of it; namely, “that no hypothesis is
+admissible which is not capable of verification by direct observation.”  The positivist
+regards all hypothesis, not as an inference, but as a device for stimulating and

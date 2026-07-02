@@ -1,0 +1,14 @@
+14
+
+[diagram: two overlaid red and black logical graphs with repeated predicates “is a number,” “is used in counting,” and “is a collection.”]
+
+{del}That{/del} if two numbers {add}A and B{/add} are not {del}[illegible]{/del} identical then
+is either some collection that {del}that{/del} {add}A{/add} is used
+in counting and B not, or there is some collection
+that B is used in counting and A not. R
+
+{del}But the manner in which these two
+premisses can be combined to form the mathe-
+matical conclusion of arithmetic has nothing
+to do with the sentential moods that are written
+in these two graphs.{/del}

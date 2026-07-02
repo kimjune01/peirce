@@ -1,0 +1,17 @@
+72
+
+they represent the same {del}[unclear: rela]{/del}{add}collection{/add}. A quality is {del}the{/del}{add}a{/add}
+character of an individual. A relation is a
+{del}color{/del} character of a set of individuals. This
+is a mere explanation of the word, not an attempt
+to analyse the idea. And I should say that the word
+{del}relation is often applied to what a{/del}{add}the relation{/add}
+is often so used that we speak of the relation
+of a thing to its qualities, though qualities are
+not individuals. I endeavor to avoid that use
+of the word and to speak of the reference of a
+thing to its qualities. But to guard against mis-
+take I sometimes reduplicate the first syllable
+and speak of re-relations to emphasize the fact,
+that I limit what I am saying to relations
+between sets of existing individuals.

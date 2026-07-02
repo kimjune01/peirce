@@ -1,0 +1,26 @@
+70
+
+In order to scribe a graph {unclear: &} expressing this
+statement I must have a sign for a relation.
+So far, we have no sign which will answer the
+purpose. In the alpha-part, we have besides the
+sheet and the cuts only graphs, which are,
+propositions. A relation is not a proposition.
+In the beta-part, we have in addition only
+the lines of identity which represent indivi-
+duals. But a relation {del}has{/del} does not possess
+individuality; and we should be in danger of
+{del}serious{/del} error if we assumed that it had.
+What is a relation? It is the character of a
+set of things. By a set, I mean an ordered
+collection, so that
+
+{del}ABC{/del}  B
+{del}ACB{/del}
+
+ABC     represent
+ACB     {del}and{/del} six different
+CAB
+CBA     sets, although
+BCA
+BAC

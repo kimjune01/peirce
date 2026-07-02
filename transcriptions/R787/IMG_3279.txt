@@ -1,0 +1,26 @@
+30
+
+Kant was poorly equipped to draw up a table of "functions of Judgment." Even
+Lambert, {add}the greater formal Logician of those days,{/add} would not have succeeded in the task; nor could a Kant and Lambert
+rolled into one gigantic intellect. Kant did not {del}procee{/del} even give time enough
+to the task to form any idea of its magnitude. But subsequent German
+logicians, drifting about without any exact method, and at all periods
+and concerning all matters, far too gregarious, {add}official,{/add} and party-adhering in
+their opinions, accepted the triad of categorical, hypothetical, and
+disjunctive propositions, partly because it seemed to be recommended on
+the metaphysical side, and partly because they had no method which
+could {del}absolutely{/del} imperatively deny any view to which they were {add}officially{/add} inclined.
+But Prof. Schröder, {del}as{/del} being an exact logician, could not pos-
+sibly accept that triad. Nevertheless, he holds categoricals to be es-
+sentially different from all hypotheticals in the {del}broad sense{/del} of this
+{add}word.{/add} {del}term.{/del} The above analysis of the term, since it makes the term a
+proposition, makes categorical propositions compound, or hypothet-
+ical, propositions. But we cannot pass by the deliberate opinion
+of such a mind as Schröder without closer examination.
+A dispute has {del}existed{/del} {add}been open among logicians{/add} since ancient times in regard to the signi-
+fication of a {del}hypothetical{/del} {add}conditional{/add} proposition. The two opinions which have
+been current were supported, {del}by Phil{/del} according to Cicero, and others, by
+Philo and by Diodorus. The {del}opinion{/del} {add}analysis{/add} of Diodorus {del}agrees nearly{/del} {add}gives results more agreeable{/add}
+{del}to with{/del} common sense, — at least, {del}with{/del} to the common sense of those
+who speak languages familiar to most of us. The {del}opinion{/del} {add}analysis{/add} of Philo
+is, from a logical point of view, simpler and clearer, and has

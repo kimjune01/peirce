@@ -1,0 +1,13 @@
+Then these exponentials of the Ms will be the sam
+whose single members are {add}same{/add} these {del}collec{/del}
+
+[diagram: red table enumerating 0, M₁, M₂, M₃, M₄, M₁M₂, M₁M₃, M₁M₄, M₂M₃, M₂M₄, M₃M₄, M₁M₂M₃, M₁M₂M₄, M₁M₃M₄, M₂M₃M₄, M₁M₂M₃M₄, numbered 0-16.]
+
+Now my proposition is that, in every case, the
+multitude of the exponential is greater than that of
+the primitive [unclear: grades?]. {del}Then{/del} that is, no matter what
+the M's may be they are always fewer than all the
+possible sams of Ms. That is it is impossible to
+find any one to one relation such that
+every sam of Ms stands in that relation
+to an M. How am I going to prove this? I first

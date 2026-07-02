@@ -1,0 +1,19 @@
+46
+
+the tortoises and we choose to divide his [unclear: course?] into a
+first stage in which he goes to the place where the tortoise
+was at first, a second stage in which he goes to the
+place where the tortoise was at the end of the first
+stage, and {add}a{/add} third stage in which he goes to that place where
+the tortoise was at the end of the second stage, and so
+on, the series of stages is endless. But nothing in
+logic, or in fact, prevents Achilles from accomplishing
+them all, since they are only possibilities. So then
+there will be other ordinal numbers, after the first endless
+series is gone through. And the first of these Cantor
+denotes by ω then every ordinal number having
+one next after it, the series runs
+
+ω+1, ω+2, ω+3, ω+4, ω+5, ----
+
+and after this endless series is accomplished then

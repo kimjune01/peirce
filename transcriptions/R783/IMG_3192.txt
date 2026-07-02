@@ -1,0 +1,50 @@
+premises, we have the two forms of syllogism,
+
+                A s B,                         A s B,
+                ΦB is C;                        C is ΨB;
+        ∴       ΦA is C.                ∴       C is ΨA.
+
+Making the substituted-premises identical propositions, we have,
+
+the immediate inferences,
+
+                A s B,                         A s B,
+        ∴       ΦA is ΦB.               ∴       ΨB is ΨA.
+
+These immediate inferences enable us also to reduce the forms
+
+general syllogism to Barbara.
+
+M might take ‘A s B’ in the special sense of ‘A is B’, or in that
+
+of ‘B is A’; {del}as well{/del} as in many others. The senses which Φ and Ψ
+
+could take would vary according to circumstances. There would
+
+be no difficulty in reducing Camestres, Baroko, Disamis, and Bocardo
+
+to these forms, but it could not properly be done for the other in-
+
+direct moods. For these, we must use the distorted forms,
+
+                A s B,                         A s B,
+                ΦB is C;                        C is ΨB;
+        ∴       ΦC is A.                ∴       A is ΨC.
+
+Make the substituent premise B s B, and we have the immediate
+
+forms of inference,
+
+                ΦB is C                         C is ΨB,
+(1)     ∴       ΦC is B                 ∴       B is ΨC.
+
+Putting ‘ΦB is ΦB’ and ‘ΨB is ΨB’ as the premises of (1) and we find
+
+as identical propositions ‘ΦΦB is B’, and ‘B is ΨΨB.’ These
+
+last by means of Barbara establish the validity of [unclear: following?] immediate
+
+inference,
+
+                B is C,                         A is B,
+(2)     ∴       ΦΦB is C.               ∴       A is ΨΨB.

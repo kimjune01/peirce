@@ -1,0 +1,39 @@
+2        Follow p3
+
+{del}r = √2ATM (t²/T² + 1)^-1/2
+
+Dₜr = - √2ATM/T² (t²/T² + 1)^-3/2 t
+
+Dₜ²r = - √2ATM/T² (t²/T² + 1)^-3/2 + 3 √2ATM/T⁴ (t²/T² + 1)^-5/2 t²
+
+(Dₜθ)² = 1/T²M² (t²/T² + 1)²
+
+r(Dₜθ)² = √2ATM/T²M² (t²/T² + 1)^(3/2){/del}
+
+[diagram: small pencil sketch of two opposed curved branches crossing axes]
+
+Dᵣt = r / √(2Er² + K - 4A²)
+
+t = 1/2E √(2Er² + K - 4A²)
+
+2E²t² - K + 4A²/2E = r²
+
+Dₜθ = 2A/(2Et² + {del}4A²{/del} - K/2E)
+     = 4AE/(4E²t² + 4A² - K)
+     = AE/(E²t² + A² - ¼K)
+
+If A² > ¼K                                      If A² < ¼K
+
+θ = Θ + A*/√(A² - ¼K) arc tan Et/√(A² - ¼K)
+
+t = √(A² - ¼K)/E tan √(A² - ¼K)/A (θ - Θ)
+
+= A/E √(1 - K/4A²) tan √(1 - K/4A²)(θ - Θ)
+
+t² = A²/E² (1 - K/4A²) tan² √(1 - K/4A²)(θ - Θ)
+
+r² = {del}2A²/E [illegible]{/del} + 2 A²/E (1 - K/4A²)
+
+r² = 2 A²/E (1 - K/4A²) sec² √(1 - K/4A²)(θ - Θ)
+
+r = A √(2(1 - K/4A²)/E) sec [illegible]

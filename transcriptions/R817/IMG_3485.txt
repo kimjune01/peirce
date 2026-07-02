@@ -1,0 +1,26 @@
+An important question in formal logic is whether a hypothetical
+proposition is essentially the same as a categorical proposition, or
+not. I maintain that it is so, that not only can a hypothetical
+be expressed as a categorical, but also that conversely there is
+no {add}logical{/add} species of categorical which is not logically equivalent to
+some species of hypothetical.
+
+In {del}denying{/del} this, I {del}[unclear: suppose] that{/del} {add}do not mean{/add} hypotheticals {del}are not{/del} {add}in the sense in which they are{/add} confined
+to propositions of the form “If A is true, then B is true,” {del}but{/del} {add}mean{/add} that
+{add}the class is{/add} {del}they are{/del} to be extended, as it generally was in most ages, though
+not usually since Kant, to all propositions {del}expressing{/del} {add}asserting{/add} relations
+between problematical propositions. For example, “It does not
+follow {del}that{/del} because A is true that B is necessarily true;” “{del}It [unclear: does]{/del}
+the government could be ridiculed with impunity that would
+necessarily tend to bring about a license to attack the rights
+of property;” “That I should {add}prefer to{/add} be killed in a duel {del}would be preferable{/del} {add}rather than to be{/add}
+{del}being{/del} dishonored in the eyes of Society.” All these are hypotheti-
+cal propositions in the sense defined.
+
+In the first place every hypothetical has to do with a
+range of possibilities. That is possible which in an assumed
+state of information is not known to be false. The state
+of information may be the actual state of the speaker or it
+may be some imaginary state in which either more or
+(more usually) less is assumed to be known than actually
+is known. This gives rise to the various kinds of possibility.

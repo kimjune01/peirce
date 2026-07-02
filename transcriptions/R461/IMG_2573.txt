@@ -1,0 +1,9 @@
+relation is easily defined, provided the Bs are capa-
+ble of being arranged in serial order, which we
+shall see is always the case. Namely, letting g
+denote the onetoone relation; and adopting
+the locutions “u is g to v” or “v is g’d by u” {del}for{/del}
+in place of the longer phrase “u stands in the rela-
+tion g to v,” then to say that “u is g to v” shall
+mean the same as to say that “v is {add}[unclear: g’d by u] and is{/add} the first
+of the bs in serial order {add}that is g’d only by u;{/add} {del}[illegible]{/del}

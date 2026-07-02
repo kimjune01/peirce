@@ -1,0 +1,27 @@
+50
+
+{add}positive existence{/add}
+of {del}existence{/del} of the members of the triplet and
+of the pair. In order to test this let us substitute
+in that graph some other relation for that of
+identity. Let us assert first that there
+are three individuals, each of which, instead
+of being non-identical with each of the
+others, does not stand in {del}a certain{/del} {add}an undefined{/add} reciproc-
+cal relation to each of the others which
+we will represent by
+[diagram: red graph, B above A, vertical line through a curved horizontal relation marked r and r]
+that is A is r to
+B and B is r to A. This will give
+us. And {add}instead of adding that each of these is a member{/add}
+{del}we will add that each of these three{/del}
+of a certain triplet will {add}simply{/add} say, that they agree in some
+is a member of {del}the triplet{/del}. We will write
+having a certain graph to two of them. We shall
+* t {del}A man is a member of the triplet in question{/del}
+{del}This will give us{/del}
+[diagram: red graph with looped relation and crossing diagonal strokes]
+have then
+this graph
+[diagram: circled note reading “on opposite page”]
+This graph,

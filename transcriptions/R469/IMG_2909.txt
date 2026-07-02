@@ -1,0 +1,22 @@
+68
+
+Your investigation may be greatly helped, You have
+{add}ways{/add}
+{del}[unclear: means of reasoning over?] that you had{/del}
+not before. Indeed if you can reduce the multitude
+of that collection to unity, your problem is solved.
+
+Let us see then what all the different grades
+of multitude are. {del}The{/del} The lowest is unity, for
+{add}Unity is that quality of a collection which consists in the absence
+of the diversity of its members.{/add}
+Nullity is not a multitude. Add a single {del}indivi-{/del}
+{add}diverse individual{/add}
+{del}dual{/del} to a collection of one, and you get a
+larger collection, and this is true, not only
+of a collection of one but it is true of
+any collection, say the As that the As together
+with one other thing {add}make up{/add} a larger collection than
+As alone, then the same thing is true of that
+larger collection. Therefore since counting
+is performed by successive increments

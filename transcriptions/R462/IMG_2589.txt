@@ -1,0 +1,22 @@
+23
+
+{del}Next, let us assert that t is a member{/del}
+{add}false -p{/add}
+{del}of a pair and assert that these are not{/del}
+{del}three members of the pair that stand in this{/del}
+{add}do not{/add}
+{del}relation each to both the others, or in other words{/del}
+{add}reciprocal{/add}
+{del}[unclear: talk]{/del}
+
+Next, instead of talking of a pair, let us talk
+of individuals of whom a certain graph -p
+is true, and say that it is not true that there
+are three of these related to one another like
+the three {del}of which{/del} {add}of which{/add} t is true. This will
+give us
+
+[diagram: blue enclosure containing three small blue enclosed red relation graphs; red connecting line between them; three red labels “p” at right]
+
+Now we have [unclear: assertion] {del}something{/del} {add}or questionable about,{/add}
+concerning the relation between t and p.

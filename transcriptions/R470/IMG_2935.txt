@@ -1,0 +1,43 @@
+112
+
+So for the fractions
+
+.1 is one half
+.01 is one fourth
+.11 three fourths
+.001 one eighth
+.011 three eighths
+.101 five eighths
+.111 seven eighths
+
+and so on. Now consider all the {del}quantities{/del} {add}values{/add} to
+
+which such fractions carried out indefinitely
+
+far could indefinitely approximate to.
+
+The fractional places, being numbered correspond
+
+to the whole numbers, those of these
+
+places that have 1 ones in them are those
+
+{del}whole numbers to{/del} which make up the whole
+
+collection of those places used to express the
+
+quantity. For all instantly, I am sure that
+
+the entire collection of values to which such
+
+fractions can indefinitely approximate
+
+precisely corresponds to all possible collections
+
+of whole numbers. {del}That is the collection{/del}
+
+Such a collection I called in my papers
+
+abnumerable. But that is a poor word, and
+
+since it has not yet been taken up that

@@ -1,0 +1,22 @@
+Omitting, in the third and fourth equations,
+the small terms in D_t²s₁, and D_t²s₂ and
+also there {del}[illegible]{/del} substituting
+        D_t²φ₁ = - 1/T₁² φ₁
+        D_t²φ₂ = - 1/T₂² φ₂
+
+we have
+        - M₁h₁/T₁² φ₁ = [-2p₁s₁ + (q₁+q₂)s₂] / [p₁p₂ - q₁q₂]
+
+        - M₂h₂/T₂² φ₂ = [-2p₂s₂ + (q₁+q₂)s₁] / [p₁p₂ - q₁q₂] .
+
+These give
+
+        s₁ = [p₁p₂ - q₁q₂] / [4p₁p₂ - (q₁+q₂)²] { 2p₂ M₁h₁/T₁² φ₁ + (q₁+q₂) M₂h₂/T₂² φ₂ }
+
+        s₂ = [p₁p₂ - q₁q₂] / [4p₁p₂ - (q₁+q₂)²] { 2p₁ M₂h₂/T₂² φ₂ + (q₁+q₂) M₁h₁/T₁² φ₁ } .
+
+Substituting these values in the first two
+canonical equations, we have
+        T₁′² D_t² φ₁ - [formula: see image] (q₁+q₂) M₂h₂/l₂ · g₂/g₁ D_t² φ₂ = - φ₁
+
+        T₂′² D_t² φ₂ - [formula: see image] (q₁+q₂) M₁h₁/l₁ · g₁/g₂ D_t² φ₁ = - φ₂.

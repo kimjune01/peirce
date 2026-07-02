@@ -1,0 +1,21 @@
+Z
+
+The considerations which really actuate those exact logicians who
+have virtually given in their adhesion to the doctrine in question are,
+I believe, chiefly {add}these:{/add} 1st, they trust to the experiences of ordinary alge-
+bra, where equality {add}(a modification of identity){/add} is the great thing; and 2nd, they observe that most
+of the fundamental propositions of logical algebra are equational; and
+3rd, they observe that convertible propositions, wherever they can be estab-
+lished in science, are of peculiar value. These are all sound arguments,
+as far as they go. But it is clear that they are not demonstrative; and
+therefore it will be proper to postpone further study of them until
+after the principal arguments upon the other side have been examined.
+Logic, in the general sense, is another name for semeiotic, the
+necessary doctrine of signs; and semiotic forms a trivium, {add}universal speculative{/add} {del}universal{/del}
+grammar, logic, and speculative rhetoric. The purpose of signs is to
+convey the {del}truth{/del} truth, and hence it is that logic proper, or the science of the
+necessary conditions of the truth of signs, is the central and paramount
+{del}doct{/del} doctrine of the trivium of semiotic. Now a representation, to
+be true by formal necessity, must follow from some {add}other{/add} representa-
+tion; and thus the illative relation becomes the relation of para-
+mount importance in logic.

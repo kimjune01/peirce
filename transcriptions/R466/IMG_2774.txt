@@ -1,0 +1,15 @@
+15
+
+{add}there is a number next greater than
+any given number{/add}
+
+The third proposition is that taking any number
+whatever, there is a number (namely, the next
+greater one) such that taking any number you please
+either this third number (being no greater than the first)
+is used in counting every collection that the first is used
+in counting or else (being as great as the next greater
+number) is not used in counting any collection {add}unless{/add} that
+{del}that{/del} next greater is {del}not{/del} used in counting it.
+
+[diagram: nested black enclosing curves and red brace labels: “is a number”; “is used in counting”; “is used in counting”; right brace “is a collection”; “is a number”; “is used in counting”; “is used in counting”; right brace “is a collection”; “is a number”.]

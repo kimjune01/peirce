@@ -1,0 +1,24 @@
+{del}set of premises that{/del}
+{formula: see image}
+but for the other conclusions is the same in the two cases.
+But also, the premises of the zero order being 1 < [unclear: p̄]γ,
+the premise of the first order has β connected by
+multiplication, there is only one conclusion which
+involves [unclear: π]. In these cases [unclear: π]γ is substituted for
+β in the latter premise to form the conclusion.
+
+Syllogisms of the 1:1 order.
+Let the first premise be in Ă and β, the second
+in C̆ and β̄. Then if in both premises β is connected
+by addition, there will always be a single conclusion
+which will be of the 2:d order. Thus
+1 < Ă + p + β        1 < C̆ + p + β̄
+1 < (Ă + p + β)(β̄ + p̆ + C) < Ă + p + p̆ + C
+
+1 < Ă + p + β        1 < C̆(p + β̄)
+1 < (Ă + p + β)(β̄ + p̆)C < (Ă + p + p̆)C
+etc.
+{del}If{/del} in one premise β is connected by addition
+and in the other by multiplication, there will always
+be two conclusions of the second order if p occurs
+in both {add}premises{/add}, either with or without a dash, or two

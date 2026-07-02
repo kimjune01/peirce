@@ -1,0 +1,18 @@
+{add}Bolzano's{/add}
+On {del}this{/del} definition of greater and less can be based a defi-
+nition of Multitude. That is the multitude of a collection will be defined as its {add}consisting in{/add}
+its
+being greater than those collections that is greater than and {add}being{/add} less than those it is
+less than. This definition is at least a practicable one. It can be put to use in demon-
+strations. In that respect it is infinitely better than what Cantor puts forth as a
+definition in the style of Kant, who was a superb logical genius but who never
+studied logic and therefore sometimes commits grievous faults of logic, Namely,
+Cantor tells us that if we think of a collection other put out of view this and that
+element of our idea, what remains is multitude. But that is no definition at
+{del}departing for the sake of argument that it determines its idea{/del}
+all, It is an experimental telling us how to find and identify multitude. A defi-
+nition {del}of logic{/del} ought to be an analysis of a conception useful in demonstration. The
+purely relative definition based on Bolzano's definition of greater and less
+does that. But it takes too narrow and formal a view of the matter. It fails
+to show the immense logical significance of multitude. It also makes
+it to be a purely relative between one collection & others. That is not true.

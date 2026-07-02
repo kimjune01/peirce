@@ -1,0 +1,51 @@
+[unclear: Lq A]
+
+Fermat's method of reasoning is as follows:
+
+If any number possesses the character, α, the number next greater
+possesses that same character;
+
+Now, 0 possesses the character, α.
+∴ Every number possesses the character α.
+
+
+I proceed to prove by means of graphs that this proposition
+is true. The premises are
+
+[diagram: nested cuts/rectangles with labels “s”, “s-s”, and “possesses α”]
+
+[diagram: “-s” linked to “possesses α”]
+
+[diagram: cut containing two linked predicates, “possesses non-α” and “possesses non-α”]
+
+(5) If ᾱ is possessed by any
+number
+it is possessed by
+by a number either identical
+with or smaller than every
+number that possesses it
+and which is [illegible] [unclear: predicate]
+than any number
+(when 2d premise is
+does not possess ᾱ)
+or has a number next
+smaller than it which
+still is [illegible] and possesses
+ᾱ
+
+By inserting ᾱ
+in (5)
+
+Use (4) insert in
+consequent
+
+Then there is a smallest ᾱ
+
+But this {del}too{/del} is false
+or has a next smaller
+
+[diagram: large nested cuts/rectangles with labels “possesses non-α”, “s”, “s-s”, and “possesses non-α”]
+
+[diagram: small bottom sketches of cuts with repeated “possesses” labels, partly torn/illegible]
+
+[diagram: right-margin rough cut diagrams with labels including “possesses non-α”, “-s”, and “possesses ᾱ”; some cancelled/illegible]

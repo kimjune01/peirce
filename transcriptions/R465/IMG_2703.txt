@@ -1,0 +1,13 @@
+{add}Type writer stop here.{/add}
+
+I shall not inflict upon you {del}any account of my own labors,{/del}
+{del}with not describe to you what my labors{/del}
+Suffice it to say that my results have {del}been{/del} afforded me
+great aid in the study of logic.
+I will {add}however{/add}
+make a few remarks on these categories.
+{del}In the I{/del} {add}By way of{/add} preface, I must explain that in saying
+that the three, Firstness, Secondness, and Thirdness
+complete the list, I by no means deny that there are
+other categories. On the contrary, at every step of
+every analysis, conceptions are met with which

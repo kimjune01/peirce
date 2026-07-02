@@ -1,0 +1,16 @@
+of theory. I will only say that in formulating that
+{add}fundamental{/add}
+rule, I considered that of the six permissible ope-
+rations, two are non-reversible, namely,
+erasure and insertion. {del}Where{/del} {add}That is{/add} where {del}there ca-{/del} {add}either of{/add}
+{del}these{/del} can be performed the reverse operation
+cannot be performed. I further considered
+that three of the six fundamental permissible
+operations complicate the graph, while the other
+three simplify it. Namely, insertion, iteration,
+and the {del}passage{/del} {add}[unclear: insertion?]{/add} of a double cut, complicate
+the graph, while erasure, deiteration, and the
+removal of a double cut simplify it. It is
+necessary for the purpose to modify the
+non-reversible operations so as to render
+them reversible; and it fortunately happens

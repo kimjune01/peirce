@@ -1,0 +1,38 @@
+17
+
+in counting this collection is used in counting every
+
+collection that this number is used in counting.
+
+{del}(with [illegible] [illegible] proposition [illegible] that there [illegible] absolutely smallest
+number, but [illegible] [illegible] that it must [illegible] [illegible].){/del}
+
+By manipulating these four graphs accord-
+
+ing to the rules of graphs we could {del}prove{/del} {add}deduce{/add} every theorem
+
+of the mathematics of whole numbers. But the rules
+
+of the transformation of graphs do not depend upon
+
+what is written in the different graphs. So long as they are
+
+preserved the same or different, so the erasures may be, letters or
+
+any other meaningless expressions might be substituted.
+
+In particular, in place of "collections" any other uni-
+
+verse might be adopted, and in place of "is used in
+
+counting" {del}any other{/del} {add}a general sign for any one{/add}
+
+dyadic relation. If this this
+
+change were made in the four graphs, the results would
+
+be that they would define the relations of ordinal num-
+
+bers to one another, except of course that they omit to
+
+say that there is a smallest number; and in fac

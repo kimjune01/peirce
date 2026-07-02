@@ -1,0 +1,31 @@
+20
+
+the inner & outside the outer, can either be
+
+made or destroyed anywhere.
+
+S⁴ = A heavy line {del}passing in{/del} {add}of which both{/add} ends
+
+connect with lines inside a cut {del}and{/del}
+
+{del}of{/del} which lines do not connect spots {del}other{/del}
+
+connected inside the cut can anywhere
+
+be erased or inserted.
+
+From {del}that or{/del} {add}these{/add} assumptions everything uni-
+
+versally true of existential graphs could be
+
+deduced, and that would be the Pure Mathe-
+
+matical Treatment. I have defined all mathe-
+
+matics in general as the science which
+
+draws necessary conclusions and which {del}forms{/del}
+
+{add}formulates{/add} the assumptions from which such conclusions can
+
+be drawn I now define Pure Mathematics as that

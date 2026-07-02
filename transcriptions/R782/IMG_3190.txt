@@ -1,0 +1,19 @@
+Ms. 782
+
+Table of Contraposition.
+
+[diagram: ruled table with four columns headed t₁, t₂, t₃, t₄]
+
+give by major
+contraposition
+will-particular
+
+give by minor
+contraposition
+will-particular
+
+        t₁      t₂      t₃      t₄
+        t₃      t₃      t₁      t₄
+        maj.    min.    maj.    min.
+        t₂      t₁      t₂      t₄
+        min.    min.    maj.    maj.

@@ -1,0 +1,19 @@
+63
+
+Before p [unclear: 64?]
+
+
+The multitude of a collection would be just what it is if there were no other col-
+lection in the world. Let me offer a definition. The multitude of a {del}gatt{/del}, -
+remember, it is a pure gatt and the special [unclear: tinctures?] or flavors of the
+characters of its units and sets of units is out of the question, - consists
+in the complexity of the relations existing between its units in virtue of
+its {del}real{/del} {add}peculiar{/add} character purely as a gatt. {del}[illegible]{/del} {add}But what is meant by the com-{/add}
+plexity of relations? What does it consist in? In order to {del}make this{/del} {add}bring this{/add} home to
+you I compare a greater collection with a smaller. Among the
+
+[diagram: two red-and-black relation graphs, a smaller marked RA/SA at left and a larger network of nodes and arcs marked RA/RB at center-right]
+
+units of any gatt of multitude {del}first{/del} {add}five, or more{/add} there is a relation {del}such{/del}
+shown in this graph. In no smaller gatt is such a scheme
+possible. It is in the possession of such schemes that multitude

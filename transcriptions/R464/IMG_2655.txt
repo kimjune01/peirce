@@ -1,0 +1,17 @@
+26
+
+{del}statement.{/del} I regret that the brevity of the course
+forbids my illustrating it.
+The beta part of the system of exis-
+tential graphs is distinguished from the
+alpha-part by the presence of ligatures
+in its graphs; and it is therefore natural
+{del}to think{/del} that the distinction between alpha-
+possibility and beta possibility lies in the
+latter's taking account of the relation of
+identity. But it could easily be demon-
+strated that this is not the truth of the
+matter. The true distinction lies in the fact
+that beta possibility takes account of
+individuals, so that whereas in the
+alpha part all the spots are regarded

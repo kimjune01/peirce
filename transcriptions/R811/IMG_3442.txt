@@ -1,0 +1,44 @@
+∴  M is P.
+
+This is called perfect induction.  It would be better to call it formal
+induction.
+In a similar way, from the syllogism,
+
+Any M is Π′ P′,
+
+Any S is M;
+
+∴ Any S is Π′ P′;
+
+where Π′ P′ denotes the conjunction of all the characters of M, if
+the conclusion and first premise are true, the second premise is true by
+definition; so that we have the demonstrative form of argument,
+
+Any M is Π′ P′,
+
+Any S is Π′ P′;
+
+∴ Any S is M.
+
+This is reasoning from definition, or, as it may be termed, formal
+hypothesis.
+One half of all possible propositions are true, because every prop-
+osition has its contradictory.  Moreover, for every true particular
+proposition there is a true universal proposition, and for every true
+negative proposition there is a true affirmative proposition.  This
+follows from the fact that the universal affirmative is the type of all
+propositions.* Hence of all possible propositions in either of the forms,
+
+Σ′ S′ is M, and M is Π′ P′,
+
+one half are true.  In an untrue proposition of either of these forms,
+some finite ratio of the S’s or P’s are not true subjects or predicates.
+Hence, of all propositions of either of these forms which are partly
+true, {del}some finite ratio more{/del} {add}a ratio greater by a finite amount{/add} than one half are wholly true.  Hence, if
+in the above formula for formal induction or hypothesis, we substitute
+
+* 1893. This seems to be an illicit introduction of
+an ontological proposition {del}of a very important{/del} of
+great importance, which I now deny. But I have
+successively improved upon the theory of the validity
+of induction and hypothesis in {del}general{/del} {add}Essays{/add}, VI, XI, XII, XVII.

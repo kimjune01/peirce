@@ -1,0 +1,26 @@
+logic a philological, not a philosophical, study. But the canonical
+forms chosen have been suggested by the usage of a narrow class
+of languages, and are {add}so{/add} calculated to lead philosophy astray. That
+which is called the subject is the noun which is in the nominative,
+although, even in our relatively small family of IndoEuropean
+languages, there are several in which that noun which in Latin,
+Greek, and the modern European languages is put in the nominative,
+{add}(witness the Irish and Gaelic.){/add}
+is put in an oblique case. Often, too, the index is not of the nature
+of a noun. It may be, as we have seen, a mere look or gesture.
+Then again it may be so disguised, that it is impossible to say with
+certainty whether it be an index, at all. It helps little to appeal to
+the meaning of the assertion; because it is in such cases difficult
+to say precisely what the meaning is. Thus, in the assertion, “all men
+are mortal,” we may say that the subject is every man, or we may
+say that it is the {add}collection{/add} {del}class{/del} of men, or that every man and some mortal
+are the two subjects, or that {del}all things{/del} everything is the subject (the
+predicate being “is either not man or is mortal),” or that everything
+and humanity and mortality are the three subjects, or a hundred
+other dispositions. But if it is desired to adopt one constant canoni-
+cal form, the best rule will be to use a separate index for everything
+which is indifferent from a logical point of view. That is, in this case
+to take everything, humanity, and mortality as the indices.
+Every {add}subject{/add} {del}index is either singular{/del}, when it is directly {add}indicated,{/add} {del}given,{/del} as humanity
+{add}(is singular, otherwise){/add}
+and mortality are, [illegible] a [unclear: rule?] precept which may be called its quantifier,

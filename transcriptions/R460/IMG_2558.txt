@@ -1,0 +1,9 @@
+I have been in the habit defining an abstraction
+{add}something{/add}
+as {del}that{/del} whose being consists in the truth of a
+{add}The definition is not exact; but it may answer
+tolerably our purpose{/add}
+proposition concerning {del}something else{/del} If this proposition
+is that some description of thing is possible, this is a roundabout
+way of describing a Firstness. If the proposition is that
+something always will be, it describes a Thirdness.

@@ -1,0 +1,17 @@
+9
+
+of that book {add}made it{/add} {del}fully con{/del} perfectly clear to my
+mind that an inductive argument
+does not render its conclusion any
+more probable than it was before, using
+the word probable in the {add}only{/add} sense that can
+give any real meaning to the doctrine
+of chances. {del}The{/del} {add}An{/add} inductive argument does
+not increase the chances in favor of
+the {add}truth of the{/add} {del}fact about{/del} proposition that it concludes.
+Indeed it is difficult to see what definite
+meaning can be attached to {add}the phrase{/add} the chances
+in favor of the truth of the proposition which
+induction {del}comes{/del} {add}infers.{/add} If you could {add}put{/add} {del}take{/del} all
+possible universes into a bag and after
+shaking them well up {add}could{/add} draw out universe.

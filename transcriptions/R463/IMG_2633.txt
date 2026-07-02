@@ -1,0 +1,30 @@
+7
+
+[unclear: Energy?] = Lagr
+
+1/2(D_t x)^2 = G^{2s} cos^2 θ          y = G^s sin θ
+
+D_t x = {del}[illegible]{/del} D_t s G^s cos θ - G^s sin θ D_t θ
+D_t y = D_t s G^s sin θ + G^s cos θ D_t θ
+[unclear: D_t s =] [formula: see image]
+
+T = 1/2(D_t x)^2 + 1/2(D_t y)^2 = 1/2 G^{2s}((D_t s)^2 + (D_t θ)^2)
+
+G^{2s} D_t s + 1/√a arc G^{2s} [unclear: D_t θ]          K G^{-3s}
+
+s - √a + G^{2s}(D_t s)^2 + G^{2s}D_t^2s - G^{2s}(D_t θ)^2 = -2 K G^{-3s}
+
+{del}G^{2s} D_t θ{/del}
+2 G^{2s} D_t s D_t θ + G^{2s} D_t^2 θ = 0
+
+2 D_t s + D_t^2 θ / D_t θ = 0
+
+2 D_t s + D_t(log D_t θ) = 0
+
+2s + log D_t θ = C
+
+D_t θ = G^{c-2s}
+
+(D_t θ)^2 = G^{2c-4s}
+
+G^{2s}(D_t s)^2 + G^{2s}D_t^2s - G^{2(c-s)} = 2 K G^{-3s}

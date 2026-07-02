@@ -1,0 +1,27 @@
+{add}representation{/add}
+a {del}relation{/del} is by the representamen forcing acting upon the interpre-
+tant to bring it into relation with the object. It is only recently that
+this has been clear to me. I have hitherto treated a weathercock as
+the very type of an index, because it is in dynamic relation with
+its object, the {del}wind direction{/del} direction of the wind. Now it is true that a weather
+cock has an indexical character, because it naturally causes
+the mind to attend to that direction, that is, because it acts upon
+the mind. But its being in dynamical connection with the
+{del}wind{/del} {add}wind{/add}, apart from the mind, that is, unknown to the mind, would
+not make it a representation. {del}In fact{/del} {add}Indeed{/add}, its being in dynamical
+connection with the wind, would have nothing to do with the matter,
+unless by virtue of a general rule; and in so far as there is such a
+general rule contributing to the representative character, the sign is
+a general one. Now generality is quite contrary to the nature of an
+index. Just as a dynamic relation cannot determine a {del}relation{/del} {add}representation{/add}
+unless the interpretant or "listener's" thought, be one of the terms of
+{add}the other term being the object,{/add} that relation {add}so{/add} so a triple relation cannot determine a {del}representa-{/del}
+tion unless the listener's thought be one of the terms of that relation;
+{add}unless{/add}
+and the object be brought into relation to it in two ways, once directly
+and again through the third correlate. The {del}listener is thus much repre-{/del}
+{add}interpreting{/add}
+sent that this is so; that is, the listener must know, or think, that
+it is the same object {add}with{/add} which he is in relation in these two ways;
+and this is a truth, {add}(not merely){/add}. Therefore, every such sign must signify a
+truth. {add}In 1867 I defined a symbol as any general representamen; and{/add}

@@ -1,0 +1,17 @@
+36
+
+than in any other science, for the reason that
+the words of ordinary speech are needed by
+philosophy for its raw material.
+What has been said of qualities is equally true
+of relations, which may be regarded as the
+qualities of sets of individuals. That is to say, if every
+form of relation is logically possible between the
+members of two given sets, a relation of that form
+actually exists between them.
+In order to illustrate this principle, I will consider
+a proposition which the ablest mathematicians have
+been endeavouring for half a century to demonstrate
+to be either true or false. The proposition assumes
+that there are two sets, which we may call the A's
+and the B's. And now if we use the phrase "one to one

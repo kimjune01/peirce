@@ -1,0 +1,30 @@
+48
+
+will come ω+ω which he calls ω·2
+
+Then according to this rule must come
+
+ω·2, ω2+1, ω·2+2, ω·2+3
+
+ω·3, ω·3+1
+
+ω·4.
+
+ω·5     [unclear: etc?]
+
+This series ω, ω·2, ω·3, ω·4, ω·5
+is endless and after it is {del}complete{/del} {add}accomplished{/add} we
+
+shall have ω·ω or ω² Then
+
+ω², ω²+1, ω²+2
+
+ω²+ω
+
+ω²+2ω     and so on
+
+ω²+ω² = ω²·2     and so
+
+and at length ω³     ω⁴     ω⁵
+
+and endless series, after which ω^ω

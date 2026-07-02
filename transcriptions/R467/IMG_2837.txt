@@ -1,0 +1,37 @@
+80.
+
+[margin: Fig. 10]
+
+In order {del}to represent{/del} {add}make such{/add} certain forms of statement in graphs,
+{add}(which I term Potentials, they are{/add}
+I introduce {del}the following{/del} spots shown on this
+
+diagram:
+
+The Potentials.
+
+A—p      means      A is a primary individual
+
+A—q      "          A is a monadic character,
+                              or "quality"
+
+A—r      "          A is a dyadic relation
+
+A—s      "          A is a legisign
+
+A—[symbol] "        A is a {del}[illegible]{/del} {add}graph{/add}
+
+A—Λ—B    "          B possesses the quality A
+
+A—[symbol]—B
+        \C  "       B is in the relation A to C
+
+[diagram: canceled formula/graph]
+
+A—[symbol]—C
+      B
+      D   "         B is in the triadic relation A to C
+                   for D.
+
+156  It is obvious that the lines of identity on the
+left hand side of the potentials are quite peculiar,

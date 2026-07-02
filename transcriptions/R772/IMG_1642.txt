@@ -1,0 +1,29 @@
+4
+
+Aristotle's meaning by a single wrong word having been inserted
+by Appellicon where the original word was illegible) consists in
+examining a mass of facts and in allowing these facts to suggest
+a theory.  In this way we gain new ideas; but there is no force
+in the reasoning.  The second kind of reasoning is deduction, or
+necessary reasoning.  It is applicable only to an ideal state of
+things, or to a state of things in so far as it may conform to
+an ideal.  It merely gives a new aspect to the premisses.  It
+consists in constructing an image or diagram in accordance with
+a general precept, in observing in that image certain relations
+of parts not explicitly laid down in the precept, and in convincing
+oneself that the same relations will always occur when that precept
+is followed out.  For example, having convinced ourselves of the
+truth of the p{add}o{/add}ns asinorum with the aid of a diagram drawn with
+a common lead pencil, we are quite sure it would be the same
+with a diagram drawn in red; and a form of syllogism which is
+certain in black is equally so in red.  A phenomenon having been
+observed in a laboratory, though we may not know on what conditions
+it depends, yet we are quite sure that it would make no difference
+whether the number of degrees of the longitude of the planet
+Eros just one week previous were a prime or composite number.
+The third way of reasoning is induction, or experimental research.
+Its procedure is this. Abduction having suggested a theory, we
+employ deduction to deduce from that ideal theory a promiscuous
+variety of consequences to the effect that if we perform certain
+acts, we shall find ourselves confronted with certain experiences.
+We then proceed to try these experiments, and if the predictions

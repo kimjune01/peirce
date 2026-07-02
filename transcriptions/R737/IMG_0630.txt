@@ -1,0 +1,28 @@
+Method of Memoir assumes following
+
+(1) {del}a⊃a{/del}
+
+(2) If a⊃b and b⊃c then [formula: see image]
+
+(3) If [formula: see image] then a⊃c and b⊃c
+
+Proof
+
+A     By (1) [formula: see image]
+      Hence by (3) [formula: see image]    b⊃a⊃b
+
+B     By (1) c⊃c
+      Hence by (2) [formula: see image]    And by A c⊃c⊃c
+      By A b⊃b⊃a    a⊃b⊃a
+
+C     Hence by (2) [formula: see image]
+      By A c⊃b⊃c
+      Also b⊃c⊃a⊃b⊃c
+      Hence by principle of syllogism c⊃a⊃b⊃c
+      In the same [unclear: mem]
+      {del}Hence{/del} by A {del}[formula: see image]{/del} a⊃a⊃b⊃c
+      Hence by (2) [formula: see image]
+
+D     And again by (2) [formula: see image]
+
+      {del}a⊃b{/del} a⊃c

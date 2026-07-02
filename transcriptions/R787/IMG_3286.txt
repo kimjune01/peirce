@@ -1,0 +1,28 @@
+40
+
+expression, etc. is to make {del}pictures{/del} "a composite of pictures & particu-
+larly expressive in describing the idea conveyed." Now {del}this the me{/del} {add}our{/add} word
+"is," the copula, is {del}[unclear]{/del} commonly expressed in Old Egyptian
+by a demonstrative pronoun. It is evident that this demonstrative
+{del}then{/del} has in such sentences the force of a relative. Where is the verb?
+We feel that it is contained in the general words. In short "man is
+mortal" is expressed in Old Egyptian in a form which {del}conveys{/del} {add}expresses{/add}
+{del}[unclear: In idea like this]{/del} the {add}following{/add} psychological process of thinking, {del}"What I am{/del}
+"What is spoken of is men, which what is spoken of is mortal."
+This is precisely the way in which the same idea is conveyed in
+my general algebra of logic, where, putting h for man and d for
+motal, I write
+
+Πᵢ hᵢ < dᵢ.
+
+This form equally serves for a {add}universal{/add} categorical or a conditional
+proposition, and the fact that the Σ mode of connection of the i
+with the h and d, appear a little different in the two cases
+from a psychological point of view, {del}does{/del} ought not to affect the
+logical classification.
+But the reader will object that, even granting my contention
+that hypothetical propositions embrace all propositions, I am still far
+from having shown that endowing its members with assertiveness will
+convert it into a process of argumentation. I have only shown this,
+if I have shown it at all, in the case of {add}universal{/add} conditional propositions. There
+is great force in this. The very idea of logic forces upon the logician the

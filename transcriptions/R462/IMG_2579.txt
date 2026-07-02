@@ -1,0 +1,17 @@
+4
+
+fundamental alpha permissible operations. Namely
+of these six, there are three that complicate the
+graph and three that simplify it. The three that
+complicate it are insertion, iteration, and the {add}making{/add}
+{del}place{/del} of a double cut. The three that simplify it are erasure,
+deiteration, and the cancelling of a double cut. {add}There{/add}
+{add}there{/add} are of the six operations, two only that are not re-
+versible, that is which {add}may not{/add} {del}cannot{/del} be undone as well
+as done. These are erasure and insertion. Now my
+idea in drawing up the rule was in the first place, to
+define to myself precisely {add}on what occasions{/add} {del}for{/del} the complicative ope-
+rations might be indispensable in ascertaining
+whether a graph was possible or not, and to restrict
+their virtual employment to these cases, and in the
+second place, so to modify the non-reversible operations

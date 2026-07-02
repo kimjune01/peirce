@@ -1,0 +1,17 @@
+104
+
+of Ms, it is their {add}in the relation{/add} to My. It may be that there  
+is no sum of Ms in {del}that{/del} {add}the relation r{/add} to Mx. In  
+that case, I do not care whether Mx be included  
+in my test sum or not. But if there be a sum of Ms  
+that stands in the relation r to Mx, then if this  
+sum of Ms includes Mx, Mx {del}cannot be{/del} {add}shall be excluded{/add}  
+from my test sum, while if the sum of Ms that  
+stands in the relation r to Mx does not include My  
+as a member of it, My shall be a member of my  
+test sum. That describes precisely my test sum  
+except as regards certain possible Ms which  
+may be all included or all excluded or some  
+included & some excluded as you please.  
+Anyway I say that this test-sum does not  
+stand in the relation r to any Ms. {del}If certainly{/del}

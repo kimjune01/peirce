@@ -1,0 +1,18 @@
+6b
+
+notation, to over seven hundred {del}places of{/del} {add}figures.{/add} Now
+as there is not the slightest reason to suppose
+that any law expressible in finite time con-
+nects the value of π with the decimal nota-
+tion or with any whole number, we may presume
+that the recurrence of any figure say {add}5{/add} in
+that succession are independent of one
+another and that there is simply a proba-
+bility of 1/10 that any figure will be a 5.
+In order to illustrate this {add}mode{/add} {del}matter{/del} of induction,
+I have made a few observations on the calculated
+numbers {del}[illegible]{/del} {add}thereof which{/add} to be, in 350 successive
+figures, about 35 fives. The odds are about
+{del}[illegible]{/del} 2 to 1 that there will be 30-39
+3 to 1 that there will be 29-41
+Now I find in the first 350 figures 33 fives,

@@ -1,0 +1,31 @@
+Formal Divisions of Dyadic Relations
+
+{del}Every relative except 0 may have a relate & a correlate{/del}
+{del}there is some correlate to which every individual is relate{/del}
+{del}Having every individual for relate some correlate{/del}
+.
+
+[diagram: formulas and arrows classifying dyadic relations]
+
+Πᵢ Πⱼ rᵢⱼ
+Compatibility
+Incontradiction
+
+        correlation
+        Σᵢ Πⱼ rᵢⱼ  →  Πⱼ Σᵢ rᵢⱼ          Example
+        perrelation                         > Σᵢ Σⱼ rᵢⱼ
+        Σⱼ Πᵢ rᵢⱼ  →  Πᵢ Σⱼ rᵢⱼ          Relation
+
+Πᵢ Πⱼ r̄ᵢⱼ
+Irrelation
+0
+
+        contra
+        {del}contrarelation{/del}
+        Σᵢ Πⱼ r̄ᵢⱼ  →  Πⱼ Σᵢ r̄ᵢⱼ
+                        Contraperrelation
+        contrapercorrelation
+        Σⱼ Πᵢ r̄ᵢⱼ  →  Πᵢ Σⱼ r̄ᵢⱼ          Σᵢ Σⱼ r̄ᵢⱼ
+                        [unclear: improperrelation?]        Contrarelation
+
+[formula: unclear crossed mark]  T̄ab + Πᵢ Σⱼ r̄ᵢⱼ

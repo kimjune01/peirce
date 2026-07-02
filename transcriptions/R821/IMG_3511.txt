@@ -1,0 +1,28 @@
+He denotes this thus
+(1)                         M = {m}
+The aggregate (Vereinigung) of several collections
+M, N, P, which have no common members he writes
+(2)                         (M, N, P . . .)
+The members of this collection are the members of the col-
+lections M, N, P, etc.
+Part “Theil” or “Theilmenge” is a different (anderer)
+collection whose members are all members of the whole.
+A part of a part is a part.
+Every collection has a “Multitude” “Mächtigkeit” which
+he also calls Cardinalzahl. He ought not to confound them.
+He defines multitude in the German fashion by
+negation. I think this is idle business
+“Mächtigkeit oder Cardinalzahl von M nennen wir” den
+allgemein begriff welcher mit Hülfe unserer activen
+Denkvermögens (what has this to do with the subject in
+hand?) dadurch aus der Menge M hervorgeht, dass
+von der Beschaffenheit ihrer verschiedenen Elemente
+m und von der Ordnung ihres Gegebenseins abstrahirt
+wird.
+This is bad. He ought first to define the relation
+of greater and less and show if possible that of
+any two collections both cannot be greater than
+the other.
+p.482        He denotes the multitude by
+
+(3)                         [formula: double-underlined M]

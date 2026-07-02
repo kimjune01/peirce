@@ -1,0 +1,17 @@
+4
+
+conceptions,— because of this, you will
+very naturally and properly be somewhat
+sceptical about it. {del}For{/del} In logic, however,
+authority is wholly out of place. We {add}upon any logical question{/add}
+ought to suspend our judgment until we
+thoroughly comprehend the matter, {del}and{/del} {add}when{/add}
+we shall plainly see which answer is
+correct.
+I will tell you how I became forced
+to this opinion. The first step was taken
+in consequence of studying the doctrine
+of probabilities, and especially Boole's
+treatment of that branch of logic in
+his {del}book{/del} {add}volume{/add} entitled Laws of Thought. Now
+that book was written at a time when the

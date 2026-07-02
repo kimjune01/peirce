@@ -1,0 +1,18 @@
+7
+
+the simplest of the relations of comparison of
+two magnitudes. The other peculiarity of my
+language is similar to that, in that I {add}adopt{/add} {del}choose{/del}
+that one of two {del}the{/del} {add}possible{/add} meanings which asserts
+the less. Namely, when I say that anything is
+either a or b, either a bird or blue, either
+a lover of a son of, I do not mean to
+exclude the possibility of its being both a and b,
+both a bird and blue, both a lover of and a
+son of.
+
+Now then, to say that a collection, {add}say{/add} {del}that{/del}
+of the a_s, is as small as {del}another{/del} {add}a collection{/add}, say
+that of the b_s, is true if and only if, there is
+some relation in which every a stands to
+a b to which no other a stands in that same

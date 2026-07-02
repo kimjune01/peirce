@@ -1,0 +1,32 @@
+S
+experience.                                                                 3
+
+                         II.
+
+My own theory is that in inductive reasoning the {add}facts stated in the{/add}
+not follow from the facts stated in the premises with any definite
+probability, but that from the manner in which the facts stated,
+in the premises have come to our knowledge it follows that in
+{add}assigning{/add}
+{del}giving{/del} to a certain ratio of frequency the value concluded we shall
+be following a rule of conduct which must operate to our
+advantage in the long run.
+
+Namely, when we have taken a sample of objects of a class
+as nearly at random (that is, as the objects of that class in general
+{add}to our experience{/add}
+present themselves) as possible, and having {del}pre{/del}designated the
+character for which we examine them conclude that the ratio
+of frequency of that character in that sample is probably and approxi-
+mately the ratio of {add}frequency{/add} {del}experience{/del} of that character in {add}the{/add} {del}our{/del} general
+course of our experience of objects of that class, I am following
+a rule {add}of inference{/add} which will subserve my purposes on the whole in the
+long run.
+
+And so, when we have taken a sample of all the consequences
+of a hypothesis as nearly at random (that is, as the {del}general{/del}
+consequences of that hypothesis will be brought to our notice
+in the long run) as possible, and having predesignated the
+circumstances under which we are to look for these consequences,
+conclude that the general consequences of that theory will be probably
+about as nearly {add}[unclear: often?]{/add} {del}[unclear]{/del} under these circumstances as those which have

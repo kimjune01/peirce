@@ -1,0 +1,28 @@
+{del}[illegible] Dho{/del}
+
+{del}LM.. LhD + MQL + Mhd{/del}
+(7) LM... Lhō + MQL + Mhσ
+
+In (4) {del}substitute{/del} identify θ with σ
+and we have
+
+(8) ∴ ... MQV . Vhσ
+
+But we prove that ∠iA
+for in (4)' {del}substitute{/del} identify θ with d
+and we get Ahd . BQA . BRd
+Then in (2) {del}put{/del} identify e with d   X with B   Y and K with A
+and multiplying we get AQA while CQE
+Then by (8) and (5) V .. VQV . Vhd
+But this multiplied into (4) reduces it to zero.
+
+Thus, if K be defined
+(12) Dθd -1 .. DhD + Shθ . TQS . Thθ + [unclear: KQS]hθ = BhK
+{del}[illegible]{/del} V rather individually
+we have shown that
+(9) DE .. Dhic + EQD + Ehic
+But
+{del}there{/del} by (1) and (9) UhK (10)
+By (1) (9) and (10) Ni. NhK (11)
+
+[diagram: upper right circle enclosing diamond-like figure with “2”; several crossed-out symbolic sketches below; small boxed/bracketed “∞ 0”; crossed-out formula fragments including “E(M,N)” and “1/M”.]

@@ -1,0 +1,16 @@
+m.772                                                        2
+
+action cannot take time without violating the
+law of the conservation of energy, a law which
+{add}if it{/add} is not known positively to hold in such a case
+{del}but which{/del} may reasonably be supposed to do so.
+Now Laplace has shown that if the action is
+propagated through a medium, its velocity is
+{add}at least{/add} many million times that of light, {add}(and that){/add} there is
+no reason for {del}supposing such a [unclear: resistance], and by{/del}
+{add}abandoning{/add} far the simpler supposition is that gravitation acts
+instantaneously. But Captain Lazelle's notion
+that any simple & obvious facts disprove the ex-
+istence of a medium has no foundation.
+
+{del}The{/del} second citation shall be from page 17

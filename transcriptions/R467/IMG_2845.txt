@@ -1,0 +1,20 @@
+92
+
+[formula: U-V]
+[formula: U-)V] mean that U is a graph {add}precisely{/add} expressing
+
+V. It is necessary to place V in the same-rim
+as I call the line about it, because in this
+speaking of a sign materialiter, as they said
+in the middle ages, we require that it should
+have a hook that it has not got. For exam-
+ple, [diagram: blue enclosure containing “It hails” above smaller blue enclosure containing “It is cold”] asserts, of course, that if
+it hails, it is cold de inesse.
+Now a graph asserting that this graph is
+scribed on the sheet of assertion, will be,
+
+[diagram: brown graph with hooks into a blue enclosure containing red enclosed “it hails” and red enclosed “it is cold”]
+
+This graph only asserts what the other does assert
+It does not say what the other does not assert.
+But there would be no difficulty in representing that

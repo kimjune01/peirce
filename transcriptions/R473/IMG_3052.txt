@@ -1,0 +1,18 @@
+2
+
+Ladies and Gentlemen:
+
+So far, these lectures have been entirely
+confined to Deduction. The first lecture
+contained {add}some{/add} essential initial considera-
+tions, and the third {del}gave{/del} hurriedly give
+what is absolutely indispensible concerning
+Phenomenology and Speculative Grammar.
+The second and fourth contained a sufficient
+introduction to Logical graphs which
+affords the best means of analyzing deduc-
+tive reasonings. The fifth lecture took up
+a subject all-important logically and
+which serves to illustrate mathematical
+reasoning in {del}a very simple{/del} branch
+of it, excepting the mathematics of graphs

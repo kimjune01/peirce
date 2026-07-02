@@ -1,0 +1,33 @@
+I now pass to the results of substituting identical propositions
+for premisses in the various {del}[unclear: figures?]{/del} {add}moods{/add} of syllogism. This procedure
+applied to the first figure gives nothing but repetitions of the
+other premise in the conclusion, which shows how simple
+and so to say pure from all admixture of special characters
+these moods are.
+
+It should be observed by the way that the only identical pro-
+positions are,
+        All X is X,
+        No non-X is X,
+        Some X is X,
+The propositions, No X is non-X, and Some non-X is X, are for the
+present purposes not to be regarded as identical ones, since they
+depend on properties of the negative and the particular.
+
+In the second figure, we have just now seen that Camestres gives
+the contraposition of A into E, showing that it involves the first
+property of the negative. It does not involve the second property, {add}for{/add}
+it can be reduced to the first figure without conversion; thus,
+
+        Camestres                    Reduction
+        All M is P,                  No not-P is M,
+        No S is P,                   All S is not-P,
+        ∴ No S is M.                 ∴ No S is M.
+
+Baroko may be reduced in the same way. On the other hand Cesare
+and Festino involve the second property of negation, as is shown
+by such forms as,
+
+        No Y is X,                   No non-X is X,
+        All X is X,                  All Z is X,
+        ∴ No X is Y                  ∴ All Z is non-non-X.

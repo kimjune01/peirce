@@ -1,0 +1,41 @@
+{add}Bath.{/add}
+
+Hebrew liquid measure = 72 Logs = 6 hins = 1/10 cor.
+It corresponds to the dry measure the ephah = 72 logs
+= 18 cabs = 10 gomers = 3 seahs = 1/10 cor.
+
+A. There seems to have been a bath of about 36 litres.
+For,
+1st Josephus says the hin was equal to two Attic χόες.
+Aineas makes the χοῦς 3.03 litres. The measures found
+at Naxos make it 2.96 litres. Call it 3 litres. It follows
+that the bath was 36 litres.
+2nd Josephus says the Hebrew cor contains 10 Attic
+medimni. Now the medimnus is 16 χόες or 48 litres.
+If we suppose he meant metretas, the {del}bath would would{/del}
+{add}statement{/add}
+agree with the other.
+3rd. Solemon's molten sea is said by Josephus to have
+been strictly hemispherical, and according to 1 Kings vii
+it was 10 cubits in diameter and contained {del}2000{/del} baths.
+Taking the sacred cubit at 0.525 metre (according to
+the Egyptian cubits which are preserved) the total contents
+of the sphere would be
+        4/3 π R³ = 4/3 × 3 1/7 × {del}9.145{/del} 18.09 = 75.8 metre cubes
+and 1/2000 part of this would be 37.9 litres to the bath.
+4th. Josephus also says the gomer was 7 Attic κοτύλαι.
+This would make the bath only 17.5 litres, which doubled
+would be 35 litres.
+5th. The salt was a heaped measure, so that all state-
+ments about it are approximate and doubtful. Various
+writers, Josephus, Epiphanius, etc say that it was 1 1/2
+medius or 24 sextarii. This would make the ephah
+(and presumably the bath) 72 sextarii. The Farnese
+congius of 6 sextarii contains according to Hase
+3.387 litres. Hence the sext. would be 13.547 litres.
+But according to Epiphanius the heaping increases
+it by 1/4 part. This would be 2.71 litres of heaping,
+a very large allowance. Making this allowance and
+multiplying, the ephah would be 33 1/2 litres. With
+a little smaller allowance for heaping it would be
+36.

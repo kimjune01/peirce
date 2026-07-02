@@ -1,0 +1,18 @@
+80
+
+puzzling. {add}[unclear: than]{/add} {del}[unclear: If an]{/del} {del}For example{/del}, take the question
+whether or not it is logically possible {del}from{/del} {add}that{/add}
+{add}all{/add} {del}[unclear: every]{/del} logically possible {del}variety{/del} {add}varieties{/add} of individuals
+should exist at once.
+I will first explain how I represent {add}in existential graphs{/add} propo-
+sitions about characters {del}in graphs{/del}; and then
+I will touch some of the questions {del}whose{/del} {add}to which{/add}
+answers will be required when we come to study
+the logic of mathematics.
+Although characters are not individuals,
+yet they have a {del}[illegible]{/del} {add}sort of{/add} relation of identity. To
+signify this I use a heavy line of identity which
+in these lecture diagrams I scribe in a different
+color from that of the lines of individual identity,
+But for ordinary work, that would involve too much
+delay and trouble. In my own work I frequently

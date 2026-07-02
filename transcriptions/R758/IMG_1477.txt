@@ -1,0 +1,27 @@
+B
+
+m.759
+
+In that part of the art of reasoning which this
+algebra immediately subserves, we are to study
+the {del}legitimacy{/del} {add}goodness{/add} of necessary inferences. {add}proposition{/add} {del}given{/del}
+or propositions, called premisses, {del}having{/del} being
+taken for granted, the question is what other
+propositions, called conclusions, these premisses
+entitle us to affirm. The truth of the premisses
+is not now to be examined, {add}tho{/add} that is assumed
+to have been satisfactorily determined, already;
+& any process of inference (i.e. {del}or{/del} formation
+of a conclusion from the premises) will be
+satisfactory, provided it be such that the
+conclusion is certainly true unless the premisses
+are false. That is to say, if P {add}designates{/add} the premisses
+and C the conclusion, {add}The condition of{/add} the validity of the in-
+ference {del}will consist in the truth of this{/del}
+statement that either P is false or C is
+true. For the art of reasoning, or at least
+that branch of it first to be studied, can-
+not undertake to guarantee that C shall
+be true if P is false, {del}nor is it worth
+while to impose any other condition ex-
+cept that the inference shall not be one{/del}

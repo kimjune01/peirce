@@ -1,0 +1,19 @@
+6
+
+{add}tool of{/add}
+or general {del}mathematical{/del} reasoning, but is
+only meant for use in the study of logic,
+where it {del}only occasionally{/del} {add}quite infrequently{/add} happens that it
+is necessary to ascertain whether or not any
+very complicated graph is alpha-possible
+{del}So with,{/del} the waste of time due to this rule not
+being the simplest possible, is not of much
+importance.
+The rule prescribes a routine {del}[illegible]{/del} calling
+for the exercise of so little intelligence that a
+machine might be devised to perform it.
+When we pass to the problem of {del}[illegible]{/del} beta possibility,
+that is, of formulating a rule for positively
+ascertaining whether a graph with ligatures
+{add}logically{/add}
+is possible or not, it would be quite easy to

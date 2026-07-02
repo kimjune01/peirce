@@ -1,0 +1,25 @@
+{del}So if there{/del} So to say that there are 120 different
+orders in which I can count my five fingers
+is {add}not precisely{/add} the same as {del}to say{/del} that there really are now
+120 different {add}[unclear: mediate?]{/add} relations in which the five
+members stand to the five fingers. For {add}general{/add} relations
+are in themselves mere possibilities. That is all
+the being they have. It is all the being that general
+relations ever can have; for the moment
+they are actualized they cease in existence
+to be general.
+A collection, however, consists of simple
+individuals which must exist.
+Existence cannot, of its very nature, realize
+all possibilities. .:.
+I will now define the relation {add}of a greater collection{/add} to the lesser one;
+That is to say, I state precisely the relation of this
+idea {del}to other{/del} ideas.
+One collection, say that of the As
+[diagram: seven red capital As in a horizontal row]
+is greater than another collection, say
+that of the Bs
+[diagram: five red capital Bs in a horizontal row]
+if and only if there is no relation in which
+every A stands to a B to which no other A
+{del}relation{/del} is in this same relation.

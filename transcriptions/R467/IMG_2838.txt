@@ -1,0 +1,16 @@
+82
+
+since the characters they denote are not properly
+speaking, individuals. {del}For that reason and others{/del},
+to the left of the potentials I use selectives not ligatures.
+
+157 As an example of the use of the Potentials, we
+may take this graph, which expresses a theorem of great
+importance: The proposition is that {add}for{/add} every quality, Q, what-
+
+[diagram: large nested blue enclosure containing a red graph with labels “QΛ”, “Qq Rr”, and several “RΛ” loops/enclosures]
+
+soever, there is a dyadic relation, R, such that taking any
+different
+two individuals both possessing this quality, Q, either the first
+stands in the relation R to something to which the second

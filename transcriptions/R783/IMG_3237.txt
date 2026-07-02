@@ -1,0 +1,26 @@
+not made what is the sense of speaking of it?  I see no
+answer except that though not actually made, it is deducible
+from what is asserted.  This seems to me a very serious objec-
+tion and is the reason why I have never used this definition,
+but have always said that the conclusion of a deductive reason-
+ing is believed by the reasoner to represent a fact, no analogue
+of which could be otherwise as long as such premisses were true, -
+either in the existing world or in any hypothetical world in
+which any proposition or all would be false. . .
+
+.3 9  You say in the most useful form of mediate reasoning
+there is involved the dropping of information?  It is better to
+look upon the colligation into a copulative proposition as one
+step of the reasoning and the elimination as another.  One can-
+not say that the former step is less useful or difficult than
+the other.  Indeed, all the rules for finding a middle term about
+which Aristotle expatiates are merely apparatus for colligating
+premisses.
+        But in the example m, information is dropped although
+the same terms appear.  It is like this:
+                    All men are mortal
+                    Whatever lives after death has a soul
+                    ∴.All men without souls are mortals who will not
+                    live after death.
+Therefore the dropping of information and elimination are not the
+same ({del}as is stated, p.2?{/del} The above conclusion has dropped all

@@ -1,0 +1,34 @@
+consequence. This relation is transitive, (that is what is what is
+X̄ is X̄) and continuous (that is {del}of{/del} X̄ is what is X̄.)
+Connected closely with the simple relative “what is _” are two
+conjugatives, “what is both _ and _” and “what is either _ or _,”
+{add}two{/add} {add}(which I denote by (,) and +;){/add}
+The laws of these relatives, present a perfect parallelism.
+{del}They are as follows{/del}:—
+
+[diagram: long vertical bracketing lines and curved arrows connecting paired laws]
+
+1.  X̄ is either X̄ or Ȳ.
+(What is both X and Y is X.)
+
+2.  What is either X or X is X.
+{del}What{/del} X is both X and X.
+
+3.  What is either what is X̄ or Ȳ or else Z {add}is the same as what is{/add} either X or else what is ei-
+ther Y or Z. What is both what is both X and Ȳ and also what
+is Z is the same as what is both X and is also what is is [unclear: too] Ȳ
+and Z.
+
+4.  What is either X or Y is the same as what is either Y or X. What
+is both X and Y is the same as what is both Y and X.
+
+5.  What is both X and {add}either{/add} Y or Z is the same as what is {add}either{/add} both X and Y
+or both X and Z. What is either X or both Y and Z is the same as
+{del}what is both{/del} either X or Y and either X or Z.
+(22) omit (23),
+
+Compare (21) with (94), (2) with (8), (3) with (9), (7) with (25),
+(12) with (132), (129) with (131), (11) with (128), (127) with (13).
+From these two conjugatives, are derived the two absolute
+terms being and nothing. Being is such that X is both X and a
+being. Nothing is such that what is either X or nothing is X.

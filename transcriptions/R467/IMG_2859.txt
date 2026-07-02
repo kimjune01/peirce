@@ -1,0 +1,32 @@
+6
+
+Beta Part.
+
+[diagram: small enclosed beta graph with τ—θ—ω]
+
+There is a point in a dot
+
+[diagram: enclosed graph with two θ nodes sharing/connected, marked τ and ω]
+
+If in any dot there is a point A
+or a point B, these are
+identical.
+
+[diagram: enclosed graph with τ, two θ nodes, and two ω branches]
+
+No point is in two {del}dots{/del}
+
+{del}[formula: see image]{/del}
+[formula: see image]
+
+R A′    RA−
+
+Taking any two individuals
+A & B, either there is a point
+of the line that is not R to A
+and is not R to B
+or there is a point of
+the line that is
+R to A and R to B
+
+[diagram: large nested beta graph at bottom left, formulas and connected nodes partly illegible]

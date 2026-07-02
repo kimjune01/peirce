@@ -1,0 +1,27 @@
+46
+
+the simple assertion of g. By the same rule
+[diagram: black double-circled g] is transformable into
+
+Diagram
+
+[diagram: red g inside circle, with broken outer circle]
+
+which means that the beta rules do not make
+g false. That is g is beta-possible.
+
+So if we start from
+
+Diagram
+
+[diagram: red g inside multiple concentric circles]
+
+which denies the last figures and thus
+asserts that it is beta-impossible that g
+should be true, Rule 2 gives
+
+Diagram
+
+[diagram: red g inside several concentric circles] equivalent to [diagram: red g inside single circle]
+
+the simple denial of g

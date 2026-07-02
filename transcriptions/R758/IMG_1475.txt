@@ -1,0 +1,30 @@
+The first point, then, is to show that every argument may be resolved
+into à priori, à posteriori, and inductive elements. The second point will
+be to show that {del}no a four{/del} {add}these{/add} {add}three{/add} classes do not run into each other.
+It is easy to see that every argument which involves more than {add}two{/add} {del}three{/del}
+propositions as data; may be resolved into elements which only involve
+two. In effect, every datum of every argument must have some term in
+common with another datum or it would have no connection with any
+of the others. It has {add}for the same reason{/add} no immediate connection with any data with which
+it is not connected in this way. Evidently, therefore what it adds to the
+argument, is evidently determined by its logical connection with these
+data. Hence, by taking the data by {del}pairs{/del} one shall find what each adds to
+the argument. Take for example the following inference from three
+data.
+{del}premisses{/del}.        The earth is inhabited
+        The earth is a planet
+        Venus is a planet
+        ∴ Venus is inhabited
+
+This may be analyzed in two ways; first, thus,
+
+        (Planets are inhabited
+
+        The earth is a planet.        Venus is a planet
+. .     The earth is inhabited        Venus is inhabited
+                    with the same major premiss
+
+Here are two syllogisms, An inference may first be made of this
+        {add}from the minor premiss & conclusion{/add}
+major-premiss {del}of that{/del} on the left hand; and then the conclusion of
+the right hand premiss may be inferred deductively. And that this is

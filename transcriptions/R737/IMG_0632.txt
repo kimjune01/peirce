@@ -1,0 +1,17 @@
+Fundamental.
+
+{del}If a and b then b{/del}
+(1) If a and b then {add}[formula: overlined a + b +?]{/add} then if a then b
+        [formula: b + a? + a]
+
+(2) [unclear: If identically.] If b then {del}[formula: see image]{/del} a
+
+(3) If a then a+b
+
+(4) a+b+c = b+a+c
+
+(5) Modus ponens.. If [formula: overlined a + a + b +?] then b
+
+(6) Syllogism.. If [formula: overlined a + b + b + c +?] then a+c
+
+(7) Dilemma. If [formula: overlined a+b+c + a+c +?] then c.

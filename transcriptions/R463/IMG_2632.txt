@@ -1,0 +1,59 @@
+[diagram: small dimensional notation with S² over T at top]
+
+attraction inversely as cube of distance.
+
+Dₜ²r - r(Dₜθ)² = -Kr⁻³                         Dimensions of K  L⁴/T²
+
+2 Dₜr/r + Dₜ²θ/Dₜθ = 0
+
+Dₜ {log(r²Dₜθ)} = 0
+
+r²Dₜθ = 2A                                      1/2 r²(Dₜθ)² = 2A²/r²
+
+Dₜ²r = (4A²-K) r⁻³
+
+1/2(Dₜr)² = E - 1/2(4A²-K) r⁻²                 Vis viva = E + K/r²
+
+Dₜr = √ 2E - (4A²-K) r⁻²
+
+{del}Dₜt = [formula: see image]{/del}
+
+Dᵣt = r / √ 2Er² + K - 4A²
+
+Put ε = -E
+
+{del}[illegible]{/del} A² < 1/4K                              A² > 1/4K        E Positive
+
+r can have any value if E is positive             r cannot be less than √((4A²-K)/2E)
+But if E is neg r cannot be greater than √((K-4A²)/2E)       when it ceases to diminish
+This is the case to be expected
+
+t = T {del}[illegible]{/del} 1/2ε √ K-4A² - 2εr²
+
+r = √(K-4A² - 2ε²(t-T)²)/2ε
+
+[formula in left margin: r = √2ε √((K-4A²)/4ε² - (t-T)²)]
+[formula in left margin: Dₜr = [unclear: √ε?]]
+
+Then when t gets beyond [unclear: this] time
+when r = 0     r becomes imaginary
+[unclear: its velocity is then ∞]
+
+Dₜr = -2ε(t-T) / √((K-4A²)/2ε - 2ε(t-T)²)
+
+Dₜ²r = -2ε√[unclear:    ] - 4ε²(t-T)²/√[unclear:    ]
+       ------------------------------------------------
+        K-4A²/2ε - 2ε(t-T)²
+
+       = (-2ε - 4ε²(t-T)²/(K-4A²/2ε - 2ε(t-T)²))
+         ------------------------------------------------
+          √[unclear:    ]
+
+       = - (K-4A²) / (K-4A²/2ε - 2ε(t-T)²)³/²
+
+Dₜθ = 2A / (K-4A²/2ε - 2ε(t-T)²)
+
+θ = Θ + A/(K-4A²) log
+    ( √((K-4A²)/2δ) - (t-T)√2δ )
+    --------------------------------
+    ( √((K-4A²)/2δ) + (t-T)√2δ )

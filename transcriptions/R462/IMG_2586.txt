@@ -1,0 +1,17 @@
+18
+
+{del}and simply{/del} leave a triplet of graphs and a
+pair of graphs. {del}We sh...{/del} {add}the graph{/add} with them to
+become, let us say, this;
+
+[diagram: three small ovals “pq”, “qr”, “rp”; beneath them three larger ovals “p”, “q”, “r”, each containing two small ovals “m” and “n”; beneath these one oval “m n”.]
+
+On testing this by the rule given in the last
+lecture, we find that the graph is perfectly
+possible; as it stands, but that it will
+cease to be possible if more than one
+of the triplet p, q, r, are true, or if more
+than one of the pair m, n are true, as
+is obvious on inspection. This suggests that
+the absurdity of the first graph is due, not
+to the relation of identity, but to the fact

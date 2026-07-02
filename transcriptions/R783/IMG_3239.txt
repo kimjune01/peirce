@@ -1,0 +1,25 @@
+You will perceive that the definition of eliminative
+reasoning given errs very badly in implying that there must be
+two premisses.  On the contrary, if the steps are fully separated
+in the analysis, there never is but one premiss in such inference...
+
+.34 To say that syllogism consists in stating in one proposi-
+tion the truth involved in two non-relative propositions after the
+elimination of a common term is rather a loose statement.  In the
+first place, a syllogism is an object denoted by a concrete noun
+"syllogism" and is not a noun of action.  It does not consist in
+"stating" its proposition; nor in asserting that proposition
+without stating it.  I really think this won't do as a matter of
+logical form of statement.
+        But that is the least objection to the definition.  It is
+founded on the unfounded notion that elimination such as takes
+place in ordinary syllogism involved two propositions, and these
+non-relative.  I have shown above that there need not be two
+propositions.  I will not show that the non-relativity is an ac-
+cidental character arbitrarily introduced without support either in
+reason or in historic usage.
+        What characterizes the eliminations of ordinary syllogism,
+as Boole amply showed, is that the process may be so analyzed as to
+give, just before the elimination, 'X that is not X', for which
+'nothing' is then substituted.  But relative inferences as often
+proceed on the same principle.

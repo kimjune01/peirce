@@ -1,0 +1,34 @@
+P. of l
+6    it is {del}necessary{/del} {add}requisite{/add} that the sign should have {add}separate parts{/add} {del}a part which{/del} repre-
+senting the sign and its object. [ It has been said that a sign cannot
+represent itself. Perhaps {add}a suisign cannot do so{/add}
+{del}a sign cannot represent nothing but itself{/del}
+{add}conceived to be{/add}
+But {del}a map of{/del} a surface may be {add}mapped{/add} on a part of that
+surface, so that every point of the map represents some {add}single{/add} point
+of the surface and every point of the surface is represented by
+some single point of the map; and in that case, if both the
+whole and the part have {add}their{/add} cyclosy good, there must be some
+point of the map which represents some point of the surface
+and nothing else. ] The part {add}so{/add} representing the sign itself is, {del}the{/del}
+in propositions the predicate, while the part representing the
+{add}The subject and predicate will be [unclear: set in] where substitutes of the [unclear] account{/add}
+object is called the subject. Since the sign and the object are
+{add}of the proper interpretant, while the [unclear] interpretant is ignored{/add}
+thus represented as different, {del}[unclear]{/del} {add}the sign & its object{/add} are represented to be in a
+{add}dyadic{/add}
+real relation to one another, so that one {add}there are characters of the [unclear] would not{/add} be modified
+without a corresponding modification of certain characters of
+the other, so long as the relation of the sign to its object is when
+the proper interpretant represents it to be. It follows from this
+view of the dicisign that while a proposition does not lose its
+essential character {add}in{/add} being put interrogatively or {add}being{/add} written idle
+on a scrap of paper without any intention of asserting it,
+yet its interpretant does represent it as having a character
+which virtually constitutes it {del}a proxy{/del} an assertion and a true
+assertion.
+
+An argument is a sign whose proper interpretant repre-
+sents it as a sign. In order that the proper interpretant may do this,
+the argument must have separate parts representing the sign its object
+& its interpretant.

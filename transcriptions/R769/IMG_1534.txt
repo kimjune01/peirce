@@ -1,0 +1,28 @@
+Certain points are implied in representation, {del}being{/del} because they result
+from the induction by which it was {del}often{/del} foreseen, they Repre-
+sentation implies first an {del}thing{/del} {add}object{/add} represented; 2^d {del}a ground of meaning{/del}
+{del}which determines it to represent that thing{/del}; 3^d a mind or rather
+abstracting from the personal element, a representation (itself or other)
+{add}I call this the subject. 3^d a [unclear: trope?] or Reason which determines it to represent that object [unclear: as such]{/add}
+to which it addresses itself. We have nothing else implied in the repre-
+sentation, {add}as representation{/add}. Hence the representation has three marks only namely.
+
+1 Reference to an Object
+2 Reference to a Ground.
+3 Reference to a Subject.
+
+Accordingly, the differences of representation are differences of one or more
+of these marks. As these marks are references they are determined first
+by the object of reference, 2^nd by the subject of reference, & 3^rd by the Ground of
+reference. Hence, their differences (the subject of reference, being already de-
+terminate) are either differences of the object of reference i.e. Object, Ground, or
+Subject {add}of the Representation{/add} or of the Ground of Reference. Now the ground of reference of each
+of these references is the Ground of the representation. Hence, a difference
+in the ground of representation is the only difference, which necessarily
+implies a difference in all three of the marks of representation.
+
+Now proximate or highest differences are such as affect the greatest
+number of marks. This can be shown by example. Being male is
+not a proximate {del}mark{/del} {add}difference{/add} of animal because it affects but few marks
+but having a backbone is, because it affects {del}many{/del} {add}almost{/add} all the marks,
+Hence as differences in the Ground are the only {del}diff{/del} {add}ones{/add} which affect all the

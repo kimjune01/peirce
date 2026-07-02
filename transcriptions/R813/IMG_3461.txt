@@ -1,0 +1,58 @@
+[diagram: enclosure containing two S--S ovals connected by loops, each marked S; small circle at left]
+
+A < B
+Either A ≮ C or C ≮ B
+
+D < B
+Either D ≮ E or E ≮ B
+____________________
+
+A < B        D < B
+A > D
+A = D
+
+Insert in (3) under
+odd-enclosures
+
+[diagram: large enclosure divided left/right; left cluster with A, D, small S circles; right shaded/hatched enclosure marked B with S--S ovals]
+
+[diagram: small enclosure with two connected S--S ovals, each marked S]
+
+[diagram: large enclosure with A and D on left connected to S circles, and two S--S ovals on right marked S]
+
+If A is not smaller than B
+and D is not smaller than B
+
+then A is smaller than D
+or A is greater than D
+or A is D
+____________________
+
+{del}But if A is smal{/del}
+But if A is next smaller D
+
+A {del}andD{/del}      D < A      A = D
+L or M or N
+
+A < D
+
+[diagram: enclosure with small S circle connected to S--S oval, both inside larger loop marked S]
+
+{del}If A is smaller B{/del}
+∴
+If L and D smaller than B
+If M and A small than B
+
+A not {del}least{/del} smaller B     Π_A Π_D Π_B Σ_P Σ_Q
+D not next smaller B                 {del}(S_AD + S_DA + I_AD){/del}·L
+
+If D is smaller than B        α A [unclear: stin?] B
+& D is not smaller than B     α A next sm. B
+Not L nor M
+
+S̄_AB + S_AP·S_PB + S̄_DB + S_AQ·S_QB + S_AD + S_[illegible]
+
+If D is next smaller than B
+D is smaller than B
+If L then A not next smaller than B
+∴ If L

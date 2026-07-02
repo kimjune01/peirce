@@ -1,0 +1,29 @@
+[diagram: large curved line down left margin crossing the page]
+
+[unclear: Mitchell's?] Table of Gaussian Logs
+is the best for this purpose
+(Usually Fech's is the best.)
+
+You want to draw {add}abruptly{/add} {del}[unclear: half a dozen]{/del} coils of the spiral
+
+[formula: x = (2 · 10^[unclear: θ/?] + 1) / (10^[unclear: θ/?] + 1)]        r = (2 · 10^(θ/1000°) + 1) / (10^(θ/1000°) + 1)
+
+Give θ! say every value which is a multiple of 5°
+
+Regard {del}that value{/del} Divide {add}those numbers{/add} {del}that{/del} by a thousand Call result α
+Add +0.301 to each α    Call result β
+In when α is negative you subtract (-0.301 or when θ > -0.301 [illegible]
+{del}By means of{/del} a table of Gaussian logs you get [illegible]
+
+each α and also each β as when is called
+
+A in three tables and take out B ({del}[illegible]{/del} regardless of the
+sign of θ, except that B will have a different value when θ is negative.
+Subtract the B for α from the B for β The remainder
+
+[del]By{/del} the ordinary logarithm of r for the value of θ
+when θ is positive, but this gives only half the value of r when θ is negative.
+Plot the curve {del}up to{/del} from θ = -2000 to θ = +2000
+
+In a different color draw the two circles r = 1 and r = 2
+which will be the two limits of the spiral.

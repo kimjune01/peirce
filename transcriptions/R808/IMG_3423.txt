@@ -1,0 +1,116 @@
+Formal Division of Dyadic Relations
+{del}Rejectivity [illegible] repetition{/del}
+{del}[illegible] relation{/del}
+Πⱼ Σᵢ rᵢⱼ  ←  Σᵢ Πⱼ rᵢⱼ ✓
+
+Σᵢ Σⱼ rᵢⱼ
+
+circumcorrelation
+vari lation
+Juxtaprelatio[n]
+Πᵢ Σᵢ rᵢⱼ
+{del}adjuncta{/del}
+{del}circumperlation{/del}
+tralilation
+{del}recipro[illegible] repetition{/del}
+Πⱼ Σᵢ rᵢⱼ
+
+perrelation
+rilation
+{del}reperrelation{/del}
+Σⱼ Πᵢ rᵢⱼ ✓
+percorrelation
+lixalation
+contraperlation
+Σᵢ Πⱼ rᵢⱼ ✓
+
+Πᵢ Πⱼ rᵢⱼ
+circum
+{del}correlation{/del}
+= ∞
+ralalation
+
+asserts that r is
+a relation
+or rerelation
+riflation
+
+Σᵢ Σⱼ r̄ᵢⱼ ✓
+contraflation
+riralation
+
+improper correlation
+{del}extraperlation{/del}
+Πᵢ Σⱼ r̄ᵢⱼ
+extraperlation
+Improper lation
+ralilation
+
+contraperrelation
+recipro[illegible]
+Σⱼ Πᵢ rᵢⱼ
+{del}contra[illegible]{/del}
+contraperrelation
+
+Πᵢ Πⱼ r̄ᵢⱼ
+[unclear: syrelation] = 0
+ralalation
+
+{del}Names to three being a relate identical with or other than a conseq[uent]{/del}
+a: i is relate     b. i is correlate
+
+Σᵢ Σⱼ rᵢⱼ · Iᵢⱼ
+= Σᵢ rᵢᵢ
+
+Πⱼ Σᵢ rᵢⱼ · Iᵢⱼ
+= Πᵢ rᵢᵢ
+
+Σᵢ Πⱼ rᵢⱼ + Iᵢⱼ
+
+Σᵢ Σⱼ rᵢⱼ · Tᵢⱼ
+
+Πᵢ Σᵢ rᵢⱼ · Tᵢⱼ
+
+Σᵢ Πⱼ rᵢⱼ + Iᵢⱼ
+= Σᵢ rᵢᵢ
+
+Πᵢ Πⱼ rᵢⱼ + [illegible]
+
+Σᵢ Σⱼ r̄ᵢⱼ · Iᵢⱼ
+= Σᵢ r̄ᵢᵢ
+
+Πⱼ Σᵢ r̄ᵢⱼ + Iᵢⱼ
+meaningless
+
+Σᵢ Πⱼ r̄ᵢⱼ + Iᵢⱼ
+
+Πᵢ r̄ᵢᵢ
+
+Πᵢ Πⱼ r̄ᵢⱼ + Iᵢⱼ
+
+Σᵢ Σⱼ r̄ᵢⱼ · Tᵢⱼ
+
+Πⱼ Σᵢ r̄ᵢⱼ + Tᵢⱼ
+meaningless
+
+Σᵢ r̄ᵢᵢ
+
+Πᵢ r̄ᵢᵢ
+
+Πᵢ {del}[illegible]{/del} r̄ᵢᵢ
+
+Πⱼ Σᵢ r̄ᵢⱼ · Tᵢⱼ
+
+[diagram: arrowed curve labeled “X” and “extrin”]
+
+[diagram: concentric circle labeled “rejection” with inner “m”; lower erased/overwritten “extracontra / rejecta”]
+
+[diagram: grid with braces and labels “per,” “ext,” “re,” “juxta,” “extra,” “Contra,” “continue,” “negative,” and crossed annotations]
+
+[diagram: small circles containing relation marks, with adjacent letters including “u,” “e,” and “i”]
+
+s.
+∑ic
+( u + ∑ic )
+
+[vertical] contrarelation

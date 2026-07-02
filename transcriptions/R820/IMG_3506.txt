@@ -1,0 +1,25 @@
+m s 826
+
+[diagram: circled “5” or “S” at upper right]
+
+is either Q to a thing having the character 𝛿
+or is Q of A. But B, the only thing Q of A
+has the character 𝛿 and everything Q of a
+thing having the character 𝛿 has the
+character 𝛿. Hence, everything Q of a
+thing having the character σ has the
+character 𝛿 and consequently the character
+σ. Since therefore A has the character σ
+which also belongs to everything the Q of anything
+to which it belongs. Then if A has the character
+κ, σ is true of V. κ is also true of V; hence
+if κ is not true of B, V and B are not identical
+Since then, B is Q of A. V is not Q of A since
+nothing has two Qs and consequently A and
+V are not the same, for V is Q of V. Since then
+V has the character σ but {del}has{/del} not A it has
+the character 𝛿. Thus the supposition that
+there is a character that belongs to B (or the Q of A)
+and belongs to everything Q of a thing to which
+it belongs and yet does not belong to V
+is reduced to absurdity. In other words if

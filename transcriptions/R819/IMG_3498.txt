@@ -1,0 +1,20 @@
+there is a maximum number used. But no
+number is {del}preceded{/del}{add}immediately{/add} preceded by two different
+numbers; and there is a number used, namely
+one, which is not preceded by any number.
+Hence, there is a maximum number used.
+To say there is a maximum number used
+in a collection, is to say that that
+collection is finite, or to avoid {del}an{/del}{add}a much{/add} abused
+word, let us say enumerable. We thus see
+that the general character of an enumerable
+collection is that, to it, the syllogisms of
+transposed quantity are truly applicable. We
+also see that there are collections of which this
+is not true, such as the whole collection of
+positive integer numbers; for there is no
+highest number. There is thus no difficulty in
+conceiving that a collection is nonenumerable.
+Fermat introduced a new method of
+reasoning about numbers. Suppose a certain
+property, P, is proved to belong, if to any

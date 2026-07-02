@@ -1,0 +1,11 @@
+32
+
+only be joined when oddly enclosed, the permission
+substantially is to join any two junctures of
+which one is oddly enclosed and is enclosed in
+every cut that encloses the other.
+2{add}ndly{/add} = Repeat this operation until all adaptable
+pairs have {del}had all th{/del} {add}been completely{/add} conjoined, as far as
+possible, {del}in while{/del} {add}in the same replica{/add} {del}with{/del} {add}in which other points{/add}
+are conjoined, (or until you see that the graph
+is impossible,)

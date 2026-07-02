@@ -1,0 +1,32 @@
+[unclear: 2] [unclear: 1/3]
+
+§12 Division of Formal Science.                                      Ms. 809
+
+Every {del}[unclear: re alio]{/del} reference which is imprescindible from another is sub-
+ject to certain conditions in consequence, because conceptions are
+not combined without some form of combination. But a concep-
+tion which is prescindible is {add}unconditional or{/add} independent absolute, and is subject to no
+This will be illustrated presently.
+
+Now the imprescindible references are
+
+1  The reference of the equiparavants to their correlate
+2  The reference of the disquiparand to its ground
+3  The reference of the disquiparand to its correlate
+4  The reference of the likeness to its interpretant
+5  The reference of the index to its object
+6  The reference of the index to its interpretant
+7  The reference of the symbol to its ground,
+8  The reference of the symbol to its object,
+9  The reference of the symbol to its interpretant.
+
+The conditions of these nine references afford nine formal sciences,
+{del}not{/del} by which {del}are{/del} we {add}may{/add} indicate very extensive doctrines but
+one which forms a system by itself. Let us briefly, [unclear: Then] [unclear: possible?]
+Equiparavants refer to each of these must now be briefly illustrated.
+{add}before this initial{/add}
+
+.Reference of equiparavants to their correlates. The ground of equiparavanc ad-
+mits of quantity; it is greater or less, according as it is more or less
+determinate. This quantity is termed the comprehension intension or
+depth of the equiparance. Thus, birds and lobsters agree in being animals

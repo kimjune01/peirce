@@ -1,0 +1,38 @@
+Every mother loves her child.        πᵢ  πⱼ     m̅ᵢⱼ ψ lᵢⱼ)
+        A is mother of 6
+    ∴ A loves 6                     m_ab [unclear: is y mother.]
+                                    ∴ m_ab(m̅_ab + l_ab)
+                                    ∴ m_ab · m̅_ab + l_ab
+                                               0   + l_ab
+                                    ∴ l_ab
+
+In fact, every elimination in any kind of algebra
+depends upon the fact that for some particular form of term a
+general value can be substituted; although in ordinary algebra
+this is masked by the peculiarity that division is there deter-
+minative.  However, to stick to the matter in hand, in logic
+elimination can only take place because some particular form of
+term some second intentional term is predicable.
+                         All men are mortal animals
+        ∴ All men are mortal because for animals we may
+[diagram: long left-pointing arrow beneath preceding line]
+                         substitute beings.
+
+                    [unclear: See p.98 notes]       m̅ + d.a
+                                                    a < ∞
+                                                    m̅ ψ d.∞
+                                                    m̅ ψ d
+
+Now, if it is not a simple term but a complex form of term for
+which a second intentional term can be predicated, then in every
+case we may regard the elimination as arising from {del}[formula: see image]{/del}→0
+For example:
+                    Every mother loves every lover of her son
+                    Every mother loves her son
+        ∴ Every mother loves herself.
+
+        πᵢ πⱼ πₖ        m̅ᵢⱼ ψ l̅ₖⱼ + lᵢₖ
+        πᵤ πᵥ           m̅ᵤᵥ ψ lᵤᵥ
+π_c πⱼ πₖ πᵤ πᵥ (m̅ᵢⱼ ψ l̅ₖⱼ ψ lᵤₖ) · (m̅ᵤᵥ + lᵤᵥ)
+πᵢ πⱼ        (m̅ᵢⱼ ψ lᵢⱼ ψ lᵢₖ) · (m̅ᵢⱼ + lᵢⱼ)
+π_c πᵢ    m̅ᵢⱼ ψ l̅ᵢⱼ · lᵢⱼ ψ lᵢc ∴ πᵢπᵢ m̅ᵢⱼ + lᵢⱼ)

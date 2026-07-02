@@ -1,0 +1,17 @@
+5
+
+[diagram: small double oval, dotted inner oval.]
+[diagram: large graph with nested enclosures, lines marked A, and formula including τ, θ, b, y.]
+[diagram: small graph with two upper ovals labelled a and b and lower oval labelled ab.]
+[diagram: large graph with four nested subgraphs, outer enclosure marked A; formulas with τ, θ, b, y.]
+
+If two two graph {add}replicas{/add} are severally permissible they {add}[unclear: on the sheet of assertion?]{/add}
+are permissible together
+
+[diagram: graph marked A, with upper and lower nested enclosures and formulas including τ, θ, b, c, y, k.]
+Principle of
+Contradiction
+
+[diagram: graph marked A, with upper and lower nested enclosures and formulas including τ, θ, b, c, y, k.]
+Principle of
+Excluded middle

@@ -1,0 +1,16 @@
+the two parts of existential graphs.
+
+I did succeed last time, in explaining alpha
+graphs. The blackboard except such portions as
+may be separated from the rest by “cuts,” so-called,
+is the sheet of assertion. Every {add}graph or{/add} proposition, scribed
+upon it is asserted. If two {add}graphs or{/add} propositions are
+scribed upon it, each is asserted independently
+of the other; and it makes no difference on what
+part of the sheet a graph is scribed, so
+long as they are on separate parts of the
+sheet. The sheet is itself a graph-replica, or
+the expression of a proposition; namely it is
+{del}the interpreted as expressed{/del} expressed whatever is well-known
+to be true concerning the universe of discourse,
+Every blank part of the sheet is to be understood

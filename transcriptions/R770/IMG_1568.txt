@@ -1,0 +1,81 @@
+5
+
+That the Greeks never dreamed of such a thing, you may well
+imagine. {del}The{/del} I hear your response; "But I don't know why they
+shouldn't. They had [unclear: κυβοι?] and their [unclear: αστραγαλοι?], their φεμός and their
+πύργος, and {add}also{/add} their [unclear: ἄβαξ?], for their [unclear: σκευοφευτοί?], they knew what it meant
+[unclear: κατακυβεῦειν τὰ ὄντα], to dice away {del}the{/del} one's fortunes, {del}and{/del} {add}or{/add} [unclear: κυβεύοντα]
+[unclear: λαοδ... τὰ δισάχοντα χρήματα.] {del}of them{/del} So if they were really such
+prodigies of intelligences as you say, why should they not have calculated
+the chances?" My answer is that they were not {del}human{/del} {add}brained{/add}, as we are, to
+regard everything
+
+[calculations: see image]
+
+74556
+5'
+
+2  a  74556  -18618      +5476
+3  b  55938  -13142      +3134        -2342
+4  c  42796  -10008      +792
+5  d  32788  -9286
+
+e 2 3 5 {del}7{/del} 2
+
+55938   42796   32788
+ 8828   13165   18432
+64766   55961   51220
+
+74556
+ 3261
+79817   5051   86246   2182
+64766   8805   4064
+55961  -4741
+51220        {del}1818{/del}
+48361 -2859 +1882
+
+24150
+
+7 | 205261  +3567        +770 -160
+8 | 08828   +4337        +930
+9 | 13165   +5267        +1090
+10 | 12432  +6357
+
++24789
+
+23572
+24789
+ 381
+2418[unclear]
+
+24858
+49716
+
+[table/formula: see image]
+
+x-a = 4
+x-b = 3
+x-c = 2
+x-d = 1
+[unclear] = -1
+[unclear] = -2
+[unclear] = -3
+
+1  a  6  [unclear]
+1  5  10  10  5  1
+1  b  15  20  15  6  1
+1  2  35  35  21
+1  8  28  56  70
+1  9  36  84  126
+
+1
+9
+36
+84
+130
+
+1
+8
+28
+56
+93

@@ -1,0 +1,30 @@
+48
+
+matically deduced. I do not give them here, because by M.S. containing the
+development, was many months ago borrowed by a {del}gentleman{/del} {add}friend{/add}; and I have
+not yet quite lost hope of recovering it, and thus sparing myself the labor
+of repeating the work. It follows from the omitted development, that while
+this sign enables us, {del}ma{/del} by striking letters {add}to{/add} denote various propositions,
+to express many relations, yet unless we take a letter to denote a pro-
+position known or assumed to be false, it never enables us to express that
+any assertion is false. There is a very good reason for adopting the
+convention that
+
+        a < b < c
+
+shall mean a < (b < c), and not (a < b) < c. We are thus led to
+inquire what {del}shall{/del} {add}must{/add} be the meaning of
+
+        a < a < a < a < a < a < a < etc. without end.
+
+This series of antecedents without a final consequent are seen to be equivalent
+to the denial of a. Thus, without the introduction of any other sign, but merely
+by the idea of an {del}infinite{/del} endless sequence, after we already have the idea of
+successive sequence, we reach the idea of negation. Thus, the conceptions involved
+in argumentation produce the conception of the rejection of an argumentation.
+Hence, we are led to generalize our idea of argumentation, from the percep-
+tion that one {del}thing{/del} {add}assertion{/add} has to be admitted because another is admitted, to em-
+brace {del}that or{/del} also that process of thought {add}in{/add} by which we think that though
+one assertion is true yet another is not thereby necessarily true. It is
+not the {del}one{/del} primitive conception of argumentation, but this generalized
+conception which covers the entire field of hypotheticals. As soon as we

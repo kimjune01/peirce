@@ -1,0 +1,33 @@
+In the third figure, Disamis and Bocardo only involve the first
+property of the particular. Thus we have,
+
+        Some X is v-X,
+        All X is Y,
+        ∴ Some Y is v-X.
+
+The most philosophical way of reducing these moods to the first
+figure is, therefore, as follows: -
+
+        Disamis                         Reduction
+
+        Some S is P,                    Any v-S is P,
+        Any S is M,                     Some M is v-S,
+        ∴ Some M is P.                  ∴ Some M is P.
+
+Bocardo {del}is reduced{/del} in the same way except that not-P is substituted
+for P. On the other hand, Datisi and Ferison depend upon the
+second property of the particular and we have,
+
+        All X is X,                     All X is Y,
+        Some X is Y,                    Some X is v-X,
+        ∴ Some Y is X.                  ∴ Some v-X is Y.
+
+Of the {del}two{/del} moods of Theophrastus, Celantes depends on the properties
+of the negative, Dabitis on those of the particular, and Fisesomorum
+on the properties of both.
+
+The {del}moods{/del}
+Inferences in Dimatis, Felapton, {del}Bomalip{/del} Baralipton, Fapesmo
+are resolvable into two steps.
+
+        C. S. Peirce

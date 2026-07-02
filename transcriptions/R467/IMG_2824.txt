@@ -1,0 +1,15 @@
+not a fish", the {add}precise{/add} denials of the two would be the
+same. Yet one is "A whale is {del}not{/del} a fish" and
+the other is "I do not know that a whale is {add}not{/add} a fish,"
+The truth is that it is necessary to have a
+graph to signify that one state of information
+follows after another. If we scribed
+[diagram: A and B joined by a horizontal line with a dark oval/connector between]
+to express that the state of information B follows
+after the state of information A, we shall
+have [diagram: two letter g's joined by a horizontal line with a dark oval/connector, the right g enclosed in a circle]
+It is clear, however, that the matter must
+not be allowed to rest here. For {del}this would{/del} {add}it would be a{/add}
+strangely, and almost an ironically, im-
+perfect kind of logic which should recognize
+only ignorance and should ignore error.

@@ -1,0 +1,31 @@
+110
+
+commutand in the relation r to it. That is,
+
+as I said, I have specified a sum of Ms that
+
+does not stand in the one-to-one relation
+
+r to any M, no matter what that one-
+
+Done relation may be. But that is as much
+
+as to say that the exponential of the Ms
+
+or the sum of all sums of [formula: see image] is more
+
+multitudinous than the gathered Ms.
+
+Therefore, {del}there will be no{/del} {add}the collection of all possible collec-{/add}
+
+tions of whole numbers is greater {add}in multitude{/add} than the
+
+whole collection of whole numbers. I will show
+
+you {del}what{/del} {add}an instance of such a collection.{/add} You
+
+know the decimal system of arithmetical
+
+notation, I am sure. It runs like this
+
+[diagram: red list of binary-like numerals with words: “1 one / 10 two / 100 three / 101 four / 110 six / etc”]

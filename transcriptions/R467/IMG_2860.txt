@@ -1,0 +1,11 @@
+{del}The existence of a line of identity consists in the{/del} {add}may be regarded as consisting in the{/add}
+
+{del}[unclear: existence?]{/del}
+
+If there is a line of identity there are two individual
+lines of identity such that every point of the line is
+either in the one or in the other.
+
+[diagram: large enclosing loop containing branching and curved lines, with labels including L, T, B, A, O]
+
+[diagram: smaller enclosing loop with vertical and horizontal line segments, labels including T, B, A, L]

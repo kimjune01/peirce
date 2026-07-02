@@ -1,0 +1,49 @@
+Σᵤ β
+
+ψᵢ : if α is relation r to j then there is a relation
+u in which i stands to j
+and there is a relation v in which
+i stands to j
+
+[diagram: several small line-and-node relation graphs and crossing-line diagrams]
+
+[unclear: gr] Πᵢ Πⱼ Πᵅ … 1 [unclear: π]α Σᵦ Σ[unclear]
+[formula: see image]
+
+Πφ Πψ Πᵢ Πⱼ Σχ
+[formula: see image]
+
+{del}For the relation is class{/del}
+{add}Any relation of class{/add}
+{del}relation{/del} v is of form (wζū)
+that is · φᵅ means α has that form
+
+[diagram: small triangular relation figure]
+
+Σ Πα Σβ
+A α is inclusive
+[formula: see image]
+
+IɔL
++
+ɔɔεη
+uξξ>
+uξξↄ
+[unclear: A]IɔLL d ρ
+D×↔L ψɔεη
+ɔΣ---ψ Lξξa
+B---r Dↄ↔t
+A↔ↄq CΣ---s
+(A · b q
+
+[diagram: numbered circular/star relation diagram]
+[diagram: small square relation diagram]
+[diagram: network relation graph with labeled points]
+
+Πδ(Πρ Πq Σr(Σy))
+[formula: see image]
+
+Π[unclear: ζ] Σy Πα Πb Πc
+dₑ + [unclear: τ̄]ₑab + γξab(γξac + γξbc)
+Πξ Πd Πe Σf
+[formula: see image]

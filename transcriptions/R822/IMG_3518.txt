@@ -1,0 +1,30 @@
+I
+
+The Infinite {del}[illegible]{/del} diminished to any finite degree
+never becomes the finite for a
+{del}Otherwise{/del} the finite increased to a finite degree would
+become the infinite
+Now we can conceive of the finite increased to
+any finite degree
+But we cannot conceive the infinite.
+
+II
+
+The Proposition that infinitely small quantities can be
+neglected in reasoning, may be resolved into two viz:
+1^st = They may be neglected in the conclusion.
+This is true if a proposition whose, {add}absolute{/add} error is infinitely
+small {del}[illegible]{/del} may be taken as true. Now if the error
+is infinitely small we cannot conceive of the difference
+between that proposition & absolute truth. But propositions
+are only conceptions, and two conceptions which do not dif-
+fer in conception do not differ at all.
+2^nd They may be neglected in the premises, so long as
+not cancelled by infinitely large quantities.
+This follows from the fact that any number of finite
+decrements of their infinity will never leave them finite
+
+III
+
+Thus every proposition proved by means of mathematical
+[unclear: indn?] can also be proved by means of this infinity.

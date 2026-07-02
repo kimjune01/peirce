@@ -1,0 +1,17 @@
+[margin: Begin →]        42
+
+I am going to speak to you tonight
+about multitude or maniness and shall, I
+hope, be able to give you a glimpse of its logical
+importance. Some kinds of infinity will come
+under our notice, but I fear I shall not have
+time to speak of other kinds, I shall say a
+few words only concerning continuity. All
+of these subjects become intensely interesting
+and of great importance if one can go into them
+in some detail. But the difficulty with a
+course of this kind is that it is not possible
+to go deeply enough into the subject to reach
+the really valuable parts of them.
+I must begin {del}by referring to{/del} {add}a few words concerning{/add}
+gamma graphs; because it is by means of

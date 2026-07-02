@@ -1,0 +1,20 @@
+19
+
+Everything depends, in logic, upon formulating
+precise definitions. Now what precisely do
+we mean by saying that one collection is at
+{add}least as{/add} small as another. The best definitions are those
+{add}from the truth or falsity{/add}
+{del}which express what it is{/del} {add}from the assertion or denial of the{/add}
+term defined {del}can affect our future experience{/del} {add}will affect what we can do in the entire [unclear: course?]{/add}
+
+To say that a thing is soft is to say that it can easily
+be scratched. To say that it is hard is to say that it never
+will easily be scratched, unless it becomes soft. The relation
+of greater & less was first defined in this fashion by
+the Catholic logician Bolzano in his posthumous work
+which appeared in 1851. He said {del}a small[unclear: er?] collection is{/del} {add}the As{/add}
+{del}at least as small as another collection B if and only if{/del}
+{del}every member can be placed into relation{/del}
+{del}to a member of{/del} He said a collection, say that of
+the As is at least as small as another collection

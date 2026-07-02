@@ -1,0 +1,17 @@
+18
+
+it is rendered evident that a certain conclusion
+must be true; and this is so whether this relates
+{add}single{/add} {del}individual{/del} cases or whether it is a statistical
+proposition concerning a ratio of frequency in
+indefinitely many {add}single{/add} instances. The manner in
+which the conclusion becomes evident is this.
+The premisses are stated in general terms. Now
+- the mode of being of a general is that of govern-
+ing individual cases. Its full expression re-
+quires therefore {del}some{/del} the presentation of
+something corresponding to those cases,--
+a quasi-diagram of them. The deduction
+makes that diagram and when it is
+made it recognizes that this diagram
+is and always {del}[illegible]{/del} will be a representation

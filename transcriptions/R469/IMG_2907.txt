@@ -1,0 +1,17 @@
+fallo. Adopting it for the moment, we see that
+the smallness of a collection compels {del}that{/del} {add}descrip-
+tions{/add} of identities that in a larger collection are
+not compelled. But this is as much as to say
+that {del}propositions{/del} follow as necessary conse-
+quences from premises relating to {add}members of{/add} smaller collections
+{del}wherein a larger{/del}
+{del}than one{/del} collection no such conclusion
+would follow. If one collection is larger than another
+this will invariably be true. From this point of view
+you see the immense logical significance of
+multitudes.
+
+For instance, suppose you want to find out
+who committed a certain murder, when {add}some{/add} {del}Jack{/del}
+the Ripper is. Plainly if you can {add}measure{/add} {del}ascertain{/del} that
+he belongs to a certain small collection of persons

@@ -1,0 +1,27 @@
+84
+
+{add}same{/add}
+I use their same {del}[unclear: shapes?]{/del} symbols for characters
+of characters and for characters of characters of
+characters, but in the diagrams {add}in{/add} with different colors
+Thus
+
+[diagram: left-to-right logical graph with black, brown, and red triadic symbols numbered 1, 2, 3, ending in a small oval]
+
+will mean that there
+are five objects between
+which there are three
+triadic relations, one of the objects being the second
+correlate of all three relations, two the third correlate
+of the first and first correlate of the second and {add}third{/add} {del}second{/del}
+correlate of the second and first of the third while the
+first correlates of the first and third of the third are different
+individuals; and the first triadic relation has one
+relation to the second and the second a relation to the third
+these two dyadic relations having a common
+quality.
+The notation is {add}now nearly{/add} complete. {del}[unclear: By using]{/del} I use a dotted
+enclosure to denote the single character which
+consists in the logical possibility of the rhema
+written within it. It is the name of a single character, analogous to a proper name,
+[diagram: fragmentary lower-page graph with red labels "is left handed", "a man", and "is lefthanded"; black/brown enclosure lines and illegible marginal notes]

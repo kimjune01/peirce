@@ -1,0 +1,25 @@
+B                                                        2
+
+It is true that we can imagine inferences which
+satisfy this condition and yet are illogical.
+Such are the following:-
+P true, C true. The world is round; therefore, the sun is hot.
+P false, C true. The world is square; therefore, the sun is hot
+P false, C false. The world is square, therefore, the sun is cold.
+The reason why such inferences would be
+bad is that nobody could, in such cases, know
+that either P is false or C true, unless he
+knew {del}that{/del} {add}already{/add} that P was false (when it
+would not properly be a premise) or else
+knew independently that C was true (when
+it would not properly be a conclusion
+drawn from P.) If the proverbial Angel
+Gabriel, who has been imagined as making
+so many extraordinary utterances, were
+to descend and tell me "Either the earth
+is not round, or the further side of the
+moon is blue," it would be perfectly lo-
+gical for me {del}to conclude{/del} from the known
+fact that the earth is round to conclude
+that the other side of the moon is blue.
+It is true that the inference would not be,

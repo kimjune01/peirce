@@ -1,0 +1,87 @@
+A sign in respect to its Firstness either
+
+                    has no Firstness but Absolute Firstness is a Quality of [illegible]
+Term only
+                    has the Firstness of Secondness is a fact sign -
+Icon or Index
+                    has the Firstness of Thirdness is a general type sign
+Icon Index or Symbol
+
+A sign in respect to its {del}Second Object{/del} Secondness to its Object
+Rheme only
+Sesign                 Icon     either this lies in its Firstness,     {add}it may assume{/add}
+                                                       {del}must of being attached{/del}
+Rheme or Dicisign
+Sesign                 Index    or it lies in its Secondness. It factual relation to its object
+                                    {add}factual or general{/add}           makes it a sign of other
+                                                                           object
+Snsign Dicisign or Argument
+                       Symbol   it lies in its Thirdness. It is related to its object merely
+                                    {add}general{/add}       because it is interpreted so.
+
+A sign in respect to its Thirdness for its Interpretant either
+
+                    {del}has this in its very essence{/del}
+                    {del}is interpreted as essence{/del}
+Rheme               professes to be a sign of quali'essence
+                    sign Index Symbol
+Dicisign            professes to be a sign of existence
+                    Index or Symbol
+Arg.                professes to be sign of reason
+                    Symbol
+
+The ten classes of signs
+
+111        Qualisign
+
+121?       Iconic Sesign
+
+221        Rhematic Indexical Sesign
+           Dicent
+222        Dicisignal Indexical sesign
+
+311        Iconic Legisign
+
+321        Rhematic Indexical Legisign
+
+322        Dicent Indexical Legisign
+
+331        Rhematic symbolic Legisign
+
+332        Dicent symbolic Legisign = Proposition
+
+333        Argument
+
+123
+
+[diagram: curved bracket grouping 111, 222, 333; separate curved list descending 211, 311, 221, 322, 332, 331]
+
+111
+211
+311
+----
+221
+222
+321
+322
+----
+331
+332
+333
+
+111
+211
+221
+311
+321
+331
+----
+222
+322
+332
+----
+333
+
+P.W.
+
+[diagram: boxed triangular/line diagram labeled genl., Ses., Leg., Qual., Sym., Rhe., Arg.; with numbers 100, 200, 300, 10, 20, 30, 1, 2, 3 and paths marked 1, 2, 3, 111, 211, 221, 222, 333]

@@ -1,0 +1,25 @@
+Lg A                                                                 12
+
+There is one conception of this group upon which
+we can hardly avoid dwelling for an instant; I
+mean that of the mathematical absolute. Suppose
+we consider any field of continuous variation in
+{del}one or two ways{/del} say for instance variations in color.
+This may be made the subject of measurement in
+various ways. But for that purpose, it is necessary
+that there should be some way of doing something
+analogous to shifting a scale. Suppose, for exam-
+ple, there is a certain operation by which every {add}precise{/add} color
+{add}generally{/add} is converted into {add}another{/add} precise color, {del}[illegible]{/del} Suppose
+color A is by this operation converted into color B, color
+B into color C, color C into color D, etc. Then, we,
+can call A zero; B, 1; C, 2; D, 3; etc. {del}If{/del} If, further,
+we can find an operation which converts A into a
+color A' and A' into B; B into a color B', and B' into
+C; C into {del}one{/del} color C', and C' into D; etc., we shall
+naturally call A', 1/2; B', 1 1/2; C', 2 1/2; etc. Now,
+if the field of variation is endless, so that we can
+imagine something to pass round and round it;
+and if the variation takes place, according
+to the simplest law, imagine all the points
+of the variation, say all the precise colors, to have

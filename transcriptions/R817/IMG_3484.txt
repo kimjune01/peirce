@@ -1,0 +1,25 @@
+We now perfectly comprehend the order of arrangement of the real num-
+bers. We can imagine points to be so arranged, or instants of times, or anything
+• {del}else{/del} which we can imagine to be arranged in a row that is not sparse. We
+commonly imagine peacocks to be so arranged, but we can comprehend
+what such arrangement would be. The only difficulty about the ima-
+• gination is that we cannot picture a row of peacocks in which
+each peacock did not have a next neighbor. There is no such diffi-
+culty in conceiving that the objects which are so arranged, instead
+of being {add}points{/add} {del}dots{/del}, are beginningless and endless rows of points, or are
+• lengths along a line. There is, at any rate, nothing {add}impossible{/add} {del}[unclear: absurd?]{/del} in
+supposing that if a lapse of time were divided into two periods,
+• and each of these periods into two, and each of these four into
+two, and so on without end, the resulting parts would be inter-
+vals of time, still. They would, however, be innumerable and
+arranged like the real numbers. There is certainly no contra-
+diction in supposing {add}pairs of real numbers;{/add} {del}that each real number{/del} has a second
+{del}real number{/del} in calling one placed first the other second; and
+we can call that one of two pairs which has its first number
+{add}greater{/add} {add}the first number{/add}
+than {del}that{/del} of the other pair the subsequent pair, or if the
+first numbers are the same, we can call that one whose second
+number is the greater the subsequent pair. This calling them previous
+and subsequent, is an arrangement of the pairs in one {del}[unclear: row]{/del} mental row.
+Instead of pairs, we can talk triads. Instead of triads, we can suppose
+endless rows of numbers to be taken.

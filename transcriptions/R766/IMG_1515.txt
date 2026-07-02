@@ -1,0 +1,33 @@
+S.
+
+Synopsis of the Discussion of the Ground of Induction.     Ma. 766     1
+
+I
+
+The first and most obvious theory (when we approach the subject
+from the side of probability) is Laplace's {add}[unclear: criterion?]{/add} that the probability of
+an inductive conclusion can be calculated by inverse proba-
+bilities.
+
+To that I make two objections:
+1st, that it is an idea founded on want of clear apprehension
+of the nature of probability, which signifies security in the Long
+run. Since there is but one universe of which we have experience
+it is absurd to speak of the probability that that universe is subject
+to a given law.
+2nd, the calculation is founded upon {add}the assumption of{/add}
+{del}[unclear]{/del} "equal possibilities"
+This is basing a conclusion on ignorance, which is absurd.
+
+Besides, even if we admit equal possibilities, {add}the equal{/add}
+{del}[unclear]{/del}
+possibilities, if rightly enumerated are not, for example, that
+out of 8 days the tide should rise 0 days, 1 day, 2 days, 3 days
+etc. But the equal possibilities, — if there be such a thing, — are {del}[unclear]{/del}
+{del}the tide should not rise falling{/del} (designating a day on which the tide
+rises by O and one on which it does not rise as X) as follows:
+[diagram: three columns of O/X sequences separated by vertical lines, enumerating possible patterns of tide rising or not rising over days; final entry partly deleted; “etc.” below]
+
+now upon that supposition, it will be found that the probability that the tides
+
+about as nearly {del}[unclear]{/del} under mere circumstances as those [unclear: which]

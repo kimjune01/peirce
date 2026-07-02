@@ -1,0 +1,18 @@
+as to render them reversible.
+The {add}method{/add}
+The {del}[unclear: rule?]{/del} given is such a comprehensive routine that it
+would be easy to devise a machine that would perform it.
+{add}hypotheses{/add}
+But when {del}premisses{/del} have to be taken into account,
+the immense diversity and complexity of the case
+renders any such procedure quite impracticable.
+Thus, from these three premisses, which are certainly
+not of more than ordinary complexity, yield
+[diagram: three sketched nested-oval diagrams labeled in red p-q, q-r, and r-p, with red crossing strokes]
+[margin: These should be tried to make right & left hand spots alike]
+no less than ninety entirely independent con-
+clusions without iterating the premisses With ite-
+{add}strictly needless multitude, of which{/add}
+ration there would be several hundred {add}would have{/add} of some inte-
+rest. {del}These{/del} I say this without very careful examination,
+but I believe it is correct.

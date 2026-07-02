@@ -1,0 +1,7 @@
+96
+
+[diagram: cloud-like spot labelled g with five hooks labelled X, Y, Z, U, V]
+
+means g is expressed by an tetradic
+spot {add}m X{/add}{del}line{/del} whose first to fourth hooks
+are joined to X to Y, Z, U, V, respectively

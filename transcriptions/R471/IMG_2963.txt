@@ -1,0 +1,20 @@
+as it did in his case and has done in most
+cases where the logician has attempted to advance
+his science. The common sense idea of
+being greater than is that if one collection
+contains a {add}member{/add} {del}representative{/del} of every member
+of another collection and more beside
+it is greater than that other; and con-
+sequently an infinite collection is greater
+than itself. But Bolzano's definition
+does not allow any collection to be
+greater than itself, if {del}[unclear: among members]{/del} {add}there are two{/add}
+collections the As and the Bs and if
+there is any possible relation, r, in which
+every A stands to a B to which no other
+A is r then, says Bolzano, we will
+say that the collection of As is not
+greater than that of the Bs. If there be
+no possible relation of that sort the
+collection of As is greater than that of the
+Bs. But, therefore, there at once

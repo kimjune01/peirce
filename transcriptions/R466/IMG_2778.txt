@@ -1,0 +1,19 @@
+18
+
+{del}there is not, if negative numbers are included.{/del}
+
+Thus, the Arithmetic of Ordinal Numbers is
+Pure Mathematics; but the Arithmetic of Cardi-
+nal Numbers is Applied Mathematics. The conception
+of a Collection is therefore, not a {add}mathematical{/add}
+conception & the conception of Multitude is not a
+purely mathematical conception. But the conception
+of a collection is {del}a Log{/del} {add}a highly{/add} important logical conception
+and for that reason, we will turn our attention to Multitude.
+{add}But why{/add}
+{del}We can{/del} should {del}this{/del} {add}the{/add} conception of Multitude be
+an important conception in logic? I will tell you. We
+have seen that there are three relations which subsist
+between the parts of graphs, The first is the relation
+expressed by the scroll [diagram: circle containing red “A” over smaller oval containing red “B”] This is the most im-
+portant of all, since this is the relation of [unclear: premiss]

@@ -1,0 +1,20 @@
+24
+
+premisses of a syllogism from its minor pre-
+miss and conclusion. Now this was exactly
+what Aristotle said it was in 23d Chapter
+{add}concerning which I quote as the best commentators{/add}
+of the 2nd Book of the Prior Analytics, Aristotle's
+example is
+
+Whatever has no bile is long-lived,
+Thus, man, the horse, the mule has no bile;
+Whence, man, the horse, the mule is long-lived.
+
+From the first two propositions the third follows
+deductively; but by induction we infer the first
+from the second and third. With this hint as to
+the nature of induction, I at once {del}[unclear: saw it]{/del} {add}remembered{/add}
+{del}myself{/del} that if this be so there ought to
+be a form of inference which infers the
+Minor premiss from the major and the conclusion

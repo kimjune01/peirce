@@ -1,0 +1,18 @@
+52
+
+we may put ω((1),2)
+Then we shall have at length ω(((1)(1),2)
+and so forth and then ω((((1))2)
+and so ω(((((1))))2)
+        ω((((((1))))2)
+and after that we may put ω[2.]
+In short, there will be no end to the need
+of new symbols. It all follows from two
+principles, 1ˢᵗ, {del}after{/del} every number lies
+another number next after it,
+2ⁿᵈ, every {del}regular{/del} endless series of
+{add}accurately describable in any manner whatever,{/add}
+numbers has a number next after it.
+Cantor calls such a series a wellordered
+series. But I propose, in admiration of the genius that
+has discovered it, to call it a Cantorian succession

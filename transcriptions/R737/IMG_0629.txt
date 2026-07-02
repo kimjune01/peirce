@@ -1,0 +1,37 @@
+[diagram: large marginal brace down left side ending in an arrow; smaller brace beside first grouped formulas]
+
+overline(a†c) and overline(b†c) then overline(a†o†b†c)     Principle of Dilemma
+
+overline(a†o†b†c) then overline(a†c)     b†c
+
+overline(a†b†c) then overline(a†o†c)     b†c     from principle of syllogism
+
+{del}overline(a†b†){/del}  overline(a†b†c†]†] then overline(a†b†c)     (a+b)c
+        a + bc
+
+overline(ā + b c̄ †)          ā + b
+a(b + c)                     ab + c          Principle of syllogism
+                                               modus ponens
+
+overline(a†a)
+
+6)     overline(a†x†c)     b†c     overline(a†b†c)     Best
+
+       a x̄ + c          b + c     ab + c
+       a + c
+
+If a then c     Either a or c     Hence c          )     O†c
+
+       overline(a†c)     overline(a†x†c)     overline(ā†a†c)     )     a(ā + c)
+                                                            )     aā + c = 0
+
+overline(a†b)     b†c     Then a†c          (ā+b)(b+c)
+
+If p and q     overline(p†q†o†o)          {del}overline(p†q†r){/del}
+                                                   overline(p†q†r†s)
+
+overline(a†e† b†c†o†o)
+
+overline(a†c† b†c†c)          a† + c          p q̄ r + s
+
+                              {del}overline(a†b†o†c){/del}

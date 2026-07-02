@@ -1,0 +1,20 @@
+54
+
+a condition to know that the graph g is true.
+
+while [diagram: circled graph “g”] asserts that there is no such pos-
+sible state of information. Suppose however
+we wish to assert that there is a {add}conceivable{/add} state of
+information of which it {del}is not{/del}{add}would, not be{/add} true that
+in that state the knower {del}is not{/del}{add}would not be{/add} in condition
+to know that g is true. {del}That is there{/del}{add}We shall naturally{/add}
+{del}[unclear: scribe]{/del} express this by [diagram: circled graph “g” with line of identity] But this is
+to say that there is a {add}conceivable{/add} state of information
+in which the knower {del}does{/del}{add}would{/add} know that g is true,
+That is
+[diagram: graph “g”]
+
+Now suppose we wish to assert that
+there is a conceivable state of information
+in which the knower would know g to be true
+and yet would not know another graph h.

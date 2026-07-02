@@ -1,0 +1,22 @@
+22
+
+{del}part{/del} of the graph including every part that
+will be affected by the operation and only
+operate upon the new replica so produced.
+
+Operation A. Two oddly enclosed lines of
+identity in the same area may be joined;
+and an evenly enclosed line of identity may be severed.
+These operations {del}is{/del} {add}are{/add} irreversible,
+
+Operation B. From any line of identity lying
+just outside a cut a branch may be made extend-
+ing into the cut; and this operation is reversible.
+
+Operation C. A disconnected {del}line of identity{/del} {add}ligature{/add}
+can anywhere be scribed or erased.
+But what is generally useful is to iterate an
+evenly enclosed partial graph within an even
+{add}(or an oddly enclosed partial graph within an odd number of additional cuts,){/add}
+number of additional cuts to extend a branch
+from an evenly enclosed line of identity into an

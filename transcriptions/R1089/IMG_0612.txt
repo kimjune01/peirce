@@ -1,0 +1,23 @@
+−M₁g₁h₁ cosφ₁ − M₂g₂h₂ cosφ₂ + (p₂s₁² − (q₁+q₂)s₁s₂ + p₁s₂²)/(p₁p₂ − q₁q₂)
+
+The actual energy, as I have shown in my first
+paper on the flexure of a pendulum support,
+will be
+
+1/2 M₁l₁h₁(Dₜφ₁)² + M₁h₁ cosφ₁(Dₜφ₁)(Dₜs₁) + 1/2 M₁(Dₜs₁)²
++ 1/2 M₂l₂h₂(Dₜφ₂)² + M₂h₂ cosφ₂(Dₜφ₂)(Dₜs₂) + 1/2 M₂(Dₜs₂)²,
+
+The canonical equations of Lagrange are
+then as follows:
+
+l₁Dₜ²φ₁ + cosφ₁·Dₜ²s₁ + sinφ₁·Dₜφ₁·Dₜs₁ = −g₁ sinφ₁
+l₂Dₜ²φ₂ + cosφ₂·Dₜ²s₂ + sinφ₂·Dₜφ₂·Dₜs₂ = −g₂ sinφ₂
+M₁h₁ cosφ₁·Dₜ²φ₁ − M₁h₁ sinφ₁·(Dₜφ₁)² + M₁Dₜ²s₁ = (−2p₁s₁ + (q₁+q₂)s₂)/(p₁p₂−q₁q₂)
+M₂h₂ cosφ₂·Dₜ²φ₂ − M₂h₂ sinφ₂·(Dₜφ₂)² + M₂Dₜ²s₂ = (−2p₂s₂ + (q₁+q₂)s₁)/(p₁p₂−q₁q₂)
+
+or, omitting terms of the second degree
+
+{del}l₁²D{/del}  l₁Dₜ²φ₁ + Dₜ²s₁ = −g₁φ₁
+l₂Dₜ²φ₂ + Dₜ²s₂ = −g₂φ₂
+M₁h₁Dₜ²φ₁ + M₁Dₜ²s₁ = (−2p₁s₁ + (q₁+q₂)s₂)/(p₁p₂−q₁q₂)
+M₂h₂Dₜ²φ₂ + M₂Dₜ²s₂ = (−2p₂s₂ + (q₁+q₂)s₁)/(p₁p₂−q₁q₂)

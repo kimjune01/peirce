@@ -1,0 +1,18 @@
+90
+
+The reason is that a reasoning about graphs
+will necessarily consist in showing that {add}something is true of{/add} every
+possible graph of a certain general description.
+{del}But{/del} we cannot scribe every possible graph of
+any general description, and therefore if we,
+are to reason in graphs we must have a
+graph which is {del}such gen{/del} {add}a general{/add} description of the
+kind of graph to which the reasoning is to
+relate.
+
+For the alpha graphs, it is easy to see
+which is wanted. Let Λ, [the old Greek form
+of the letter A, {del}[illegible]{/del} denote the sheet of assertion,
+Let -y is a graph. Let [diagram: X connected by arrow-like stroke to X; X connected by arrow-like stroke to X] mean
+that X is scribed or placed on Y. Let [diagram: W-k-Z with stroke beneath] 
+mean that Z is the area of the cut W. Let

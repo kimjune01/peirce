@@ -1,0 +1,51 @@
+information about men with souls.  Here is another example:
+
+          Some men are wicked
+
+          Some men are fools
+
+      .'.Some men are either wicked or fools.
+
+Information is manifestly dropped; yet there is no elimination.
+
+     When a middle term is eliminated, information about the
+
+relation of the extremes is always dropped, and therefore what is
+
+said immediately after the example (_r_) needs more precise statement.
+
+.330  _Eliminative reasoning_ is, strictly speaking, reasoning
+
+from a single premise.  (I should prefer to speak of inference
+
+here.  Reasoning is too integrated.)  I do not think it is
+
+properly definable as "saying" anything.  But it is a process of
+
+thought the essence and purpose of which is to abstract from all
+
+consideration of something uninteresting on that occasion.  It is
+
+not the question whether any positive _information_ about the
+
+eliminated term is there or not.  The point is that we want to
+
+free our minds from an idle intruder.
+
+          All men are mortal
+
+          Enoch is a man
+
+      .'.Enoch is a mortal man, if there is any such thing
+
+          as a mortal man.
+
+Here all the information that is dropped in the ordinary conclusion
+
+is already dropped.  Yet so far there is no elimination.  When
+
+we pass from this to Enoch is mortal, we have dropped some informa-
+
+tion _about Enoch_ but no other information about _men_ (which is not
+
+already dropped in the previous concl usion.)

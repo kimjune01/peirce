@@ -1,0 +1,28 @@
+Transposing the conclusions of (2) according to the form (1)
+and we have,
+
+        B is C,                         A is B,
+(3)     ∴ ΦC is ΦB.             ∴ ΨB is ΨA.
+
+Transposing the {del}conclusion{/del} substituend premisses of the syllogisms
+according to the form (1), we have,
+
+        A s B,                  A s B,
+        ΦC is B;                B is ΨC;
+        ∴ ΦC is A.              ∴ A is ΨC.
+
+Then putting ‘B is B’ for the substituend premisses we have two
+forms of immediate inference,
+
+        A s B,                  A s B,
+(4)     ∴ B is A.               ∴ A is B.
+
+It is obvious that (1) and (4) together will enable us to reduce {del}these{/del}
+{del}forms{/del} above distorted forms of inference to Barbara. All such moods
+as Cesare, Celantes, Datisi, Dabitis and Frisesomorum may be put
+into these forms.
+
+This seems to me sufficient to illustrate the advantage of the sub-
+stitution of identical propositions as a method of logical analysis.
+
+                                      C. S. Peirce

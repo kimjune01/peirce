@@ -1,0 +1,17 @@
+76
+
+This second variety is the usual and typical
+case of statistical induction. But it occasionally
+happens that we can sample a finite collection of
+objects by such a method that in the long run any
+one object of the collection would be taken as often
+as every other and any one succession as often
+as any other. This may termed a random
+selection. It is obviously possible only
+in the case of a enumerable collection.
+When this sort of induction is possible,
+it far surpasses every other in certainty
+and {add}may{/add} closely approach that of demonstra-
+tion itself.
+I have now passed in review all the
+modes of pure induction with which I am

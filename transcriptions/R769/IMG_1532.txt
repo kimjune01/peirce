@@ -1,0 +1,26 @@
+of the limitation of our selection. Taking, therefore, the other charac-
+ter alone we by induction attribute this to the class of which they
+are instances. Hence we infer that all is representation.
+
+There seems to be a fallacy here. For, "it may be said, whenever
+we take instances of a class in order to make an induction we must
+take {del}images{/del} {add}representations{/add} but we do not conclude that {del}that belongs{/del} the character
+of those representations as images belongs to the class. Thus we
+do not say all horses have {del}representations{/del} of manes but all horses
+have manes. But this objection will not hold, because in other
+{del}[unclear: classes]{/del} cases we are making inductions about what is supposed as
+not about what is given. Hence the representations are not them-
+selves instances but representations of instances; although the in-
+stances may be themselves representations. An image of a horse is
+not a horse; an image of a horse has an image of a mane; hence,
+we conclude that a horse has a mane; and hence we make the in-
+duction that all horses have manes. But in the present case, the
+representations are the very instances themselves. So that this objection
+does not hold.
+
+Another objection may be made. It may be admitted that the in-
+duction is legitimate but its probability may be held to be small
+owing to the probability that the character of representation is
+peculiar to the mind. Any one who {del}hold{/del} attempts to prove, that
+representation is peculiar to the mind is either attempting to prove
+a theory of idealism, upon which I do not commit myself at present,

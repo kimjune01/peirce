@@ -1,0 +1,49 @@
+468
+
+                         Diagrams for Lecture 5.
+                         ______________________
+
+                                                    Pub. 4.529 n.*
+
+[diagram: X--△]        means        "X is the sheet of assertion"
+
+[diagram: X--ε--Y]     means        "X is the area of the enclosure Y,"
+
+[diagram: X--φ]        "            "X is a permission,"
+
+[diagram: X--χ]        "            "X is a fact."
+
+[diagram: X--μ]        "            "X is a blank."
+
+[diagram: X--κ]        "            "X is an enclosure."
+
+[diagram: X--σ branching to Y and Z]
+                       "            "X carries Y as its entire graph in so far as it is of
+                                    {del}"Y is on X by virtue of Y makes it to be so,"{/del}
+                                    the nature of Z, to make it do so".
+
+§ That is to say, for example,
+
+[diagram: enclosure containing △ and σ branching to κ and χ]
+                       means        "An enclosure is {add}the entire graph{/add}
+                                    on the sheet of assertion
+                                    by-as a fact"
+
+[diagram: enclosure containing △ and σ branching to κ and φ; bracketed with lower enclosure containing ε and σ branching to κ and χ]
+                       means        "It is permitted to place on the sheet
+                                    of assertion {add}as the entire graph{/add} an enclosure on whose
+                                    area an enclosure is placed as a
+                                    fact."
+
+[diagram: X--δ--Y]     means        "The graph-replica divided by X
+                                    contains as a part of it the replica Y."
+
+[diagram: X--ν branching to Y and Z]
+                       means        "X is a line of identity having its
+                                    terminals at Y and Z."
+
+[diagram: X--ζ--Y]     means        "X is a replica of the same graph
+                                    of which Y is a replica," or is {del}[illegible]{/del} equivalent
+                                    to Y."
+
+[diagram: X--γ]        means        "X is a graph-replica."

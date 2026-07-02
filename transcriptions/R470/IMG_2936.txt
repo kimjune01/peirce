@@ -1,0 +1,17 @@
+117
+
+I am aware of I will call it the first ultra-
+numerable multitude. Cantor calls it ℵ₂
+aleph 2, though he does not define it in the
+same way. {del}He{/del} It is the multitude of all
+possible points that could be marked on a line
+without putting any two at an infinitesimal
+distance from one another. It is the multitude
+of all the quantities that the differential cal-
+culus and theory of functions {add}consider{/add} {del}contemplate{/del}.
+But now consider {del}all the collection{/del} {add}multitude{/add} of
+all possible collections of such objects. That
+will be the second ultranumerable {add}infinite{/add} multitude,
+and there will be an endless series of multitudes
+each greater than the last.
+This series of multitudes is endless. Therefor

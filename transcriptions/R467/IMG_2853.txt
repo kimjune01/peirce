@@ -1,0 +1,22 @@
+3
+
+Facts not involving permission
+
+[diagram: two A’s in a circle]    [diagram: crossed-out graph]
+
+There is but one sheet
+
+A—α  [unclear: There is a sheet]
+      [unclear: than area]    [diagram: small graph]    {del}The sheet is a graph-replica{/del}
+
+[diagram: μ—? in an oval]    Every blank is a graph-replica
+
+[diagram: nested oval with letters θ, μ, α]    [diagram: μ—θ in an oval]    On every area there is a blank
+
+[diagram: two ε’s joined to κ inside an oval]    No enclosure has more than one area
+
+[diagram: κ—ε—κ inside an oval]    Every enclosure has an area
+
+[diagram: κ enclosing ? inside nested ovals]    Every {del}enclosure{/del} is a graph-replica
+
+[diagram: graph with several nested enclosures and lines labeled γ, β, γ′]    [diagram: large nested graph with letters and three lines extending right]

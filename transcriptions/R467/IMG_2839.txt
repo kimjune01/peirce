@@ -1,0 +1,19 @@
+84
+
+{add}does not{/add}
+stand in that relation while there is nothing to which the
+second stands in that relation without the first standing in
+the same relation to it, or else it is just the other way, namely
+that the second stands in the relation R, to which the first does not
+stand in that relation while there is nothing to which the first
+stands in that relation; R, without the second also standing
+in the same relation to it. The proof of this, which is a little
+too intricate to be followed in an oral statement (although
+in another lecture I shall substantially prove it) depends upon
+the fact that a relation is in itself a mere logical possibi-
+lity.
+
+158 I will now pass to another {del}[unclear]{/del} {add}quite{/add} indis-
+pensable department of the gamma graphs.
+Namely, it is necessary that we should be
+able to reason in graphs about graphs.

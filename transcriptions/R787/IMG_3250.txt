@@ -1,0 +1,27 @@
+110                                                            10
+
+Logic, in its most general sense, ought to treat of what is true of
+all scientific representations, that is, of representations such as can
+embody knowledge acquired by intellectual operations upon {del}sensations{/del} {add}experience.{/add}
+{del}states.{/del} In a narrower sense, logic deals especially with the condi-
+tions of the truth of scientific representations. But in order that
+that study may be perfected, it is necessary, as a preliminary, to
+consider the conditions under which a sign may be fit to embo-
+dy any truth or falsity. The conception of such a science is indicated
+in the title of that treatise, by Duns Scotus, Grammatica specula-
+{add}sive, de modis significandi.{/add}
+tiva, It is a theory of cognition,— Erkenntnisslehre,— not in pre-
+cisely the same sense in which this last term is generally understood,
+but a general Erkenntnisslehre, or partial Erkenntnisslehre, in
+which {del}of{/del} we abstract from all that is distinctively human, and {add}from all{/add} which we
+may conceive should not be true of every possible scientific intelli-
+gence. As Duns Scotus perceived, the [illegible] main subject of this prelimi-
+nary doctrine must be the different modi significandi.
+Logic supposes that it is possible that some representations
+should be satisfactory and others not so. Were this not the case, the
+study would be to no purpose; and we observe that it is the case. No
+student of modern science supposes that it will be possible to find
+a representation which is perfectly satisfactory; the most we can
+expect is that a representation shall be as satisfactory as it
+pretends to be. If it is that, we call it true; if not, we call it false.
+In speaking of a representation as unsatisfactory, we do not mean

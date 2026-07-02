@@ -1,0 +1,3 @@
+so that there are not two different numbers that
+are used in counting precisely the same
+collections, that is [diagram: long curved line extending right]

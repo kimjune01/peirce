@@ -1,0 +1,30 @@
+47
+
+conception of inference, and inference {del}[illegible]{/del} involves the idea of necessary
+inference, and necessary inference involves the idea of the universal
+conditional proposition.
+{add}It remains{/add}
+{del}I have{/del} to show in what manner I suppose the ideas of the other forms
+{add}what I have called{/add}
+of propositions to be evolved; and this will be a chapter of {add}a{/add} speculative
+rhetoric. I may begin by remarking that I use the sign < for the sign of
+inclusion. I believe I was the first to show, in 1867, that Boole's algebra, as he
+left it, was unfit to express particular propositions. Following out that idea, I
+showed, in 1870, before anybody else, that we needed in logic a sign {del}[unclear: equiv]{/del}
+corresponding to the sign ≦, but that that sign is unsatisfactory because
+it implies that the relation is a combination of the relations expressed by <
+and =, whereas in truth, as I demonstrated, it is more simple than either.
+I therefore, proposed to replace the sign ≦ by <, at least in logic. The
+sign I proposed has the advantage that it can be easily made in the composing
+room, while the cursive form of it is rapidly written with two strokes. On account
+of my priority, the sign I proposed ought, {add}in propriety{/add} to be retained, unless it be open to
+very decided objections. I shall retain it. Accordingly
+
+        h_i < d_i
+
+means that on the occasion, i, {del}the{/del} if the idea h is definitively forced
+upon the mind, then on the same occasion the idea d is definitively forced
+upon the mind. On the [unclear: Philonian] view, this is the same as to say that
+on the occasion, i, either the idea h is not definitively forced upon the
+mind or {del}the{/del} on the same occasion the idea d is definitively forced
+upon the mind. From that hypothesis, the rules of the sign < may be mathe-

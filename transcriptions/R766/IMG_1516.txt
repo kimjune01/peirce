@@ -1,0 +1,28 @@
+will rise on the 8th day is just the same whatever it may have done on the
+previous seven days.
+
+{del}And{/del} To these objections the reply is made that I merely define pro-
+bability. That it is not the ratio of frequency, but the measure of
+the degree of confidence we ought to have in the occurrence of a con-
+tingent event.
+
+To that I rejoin,
+1st, that a person can take a word in any sense he clearly defines;
+but if this object is to do any useful thought, it is better to make it mean
+something with reference to facts of a practical kind.
+2nd, if it be said that we ought to have a certain degree of confi-
+dence in an event, the question is on what principle we ought to
+do so. The only principle I can recognize is that we ought to base our
+conduct on such rules as will lead to the greatest practical advantage
+in the long run. {del}If all we know is that{/del} Now the rule of greatest prac-
+tical advantage in the long run is to make {add}the ratio{/add} our contingent winning to our
+contingent losses {add}on each occasion{/add} as much greater as possible than the ratio of frequency
+of losses to the frequency of gains. It therefore seems that ratios of frequency
+are after all the only clear conception. Now {del}the ratio of frequency which
+is equal to the probability{/del} Laplace assigns to inductive conclusions
+{add}necessarily{/add} is equal to no other ratio of frequency than the frequency with
+which among a vast number of universes we should meet with
+a universe constituted in a certain way provided we know that
+in general different constitutions of universes would be met with
+with equal frequency. The ratio of frequency has no application to any real
+[unclear: case] as nearly [illegible]

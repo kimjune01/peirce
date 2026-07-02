@@ -1,0 +1,26 @@
+A continuous line is such, that if there is any
+        {add}and any class of objects{/add}
+dyadic relation, r, {del}such that no p{/del}
+{add}such that the existence of a p does not consist in the existence of any of{/add}
+the p's, such that no point of the line can
+
+be {del}relate{/del} in the relation, r to two different
+        {add}individual{/add}        {add}individual{/add}
+p's and if A is a p and B is a p {add}[unclear: and?]{/add}
+{add}every point{/add}
+{del}a point{/del} of the line is either [unclear: A] r to A or r to B
+
+any a point of the line is r to A and a point
+
+is r to B, it follows ipso facto that A and B are
+
+identical
+
+A continuous line is a place such that if there {del}are{/del} {add}are{/add}
+{add}different{/add}
+two individuals, A and B, whose {del}[illegible]{/del} existence does not
+        {add}proposition expressing a{/add}
+consist {add}in{/add} {del}upon any{/del} more direct Secondness, and if there is a
+dyadic relation r such that every point of the line is in this relation
+to one or other of the individuals A and B, then there is ipso facto
+a point which is in that relation r, to both A and B.

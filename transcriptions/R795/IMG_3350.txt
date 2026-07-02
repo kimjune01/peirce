@@ -1,0 +1,33 @@
+[diagram: ruled three-column table headed “Idea”, “TOKEN”, and “TYPE”, with faint penciled arrows and curved lines across the top row]
+
+Idea        TOKEN                                      TYPE        Ms. 795
+            [unclear: SIGN-SUBSTANCE?]
+
+Descriptives        {del}Denotatives,{/del}
+                    Designatives.                     COPULATIVES
+                    OBJECT IMMEDIATE
+
+Abstractives        Concretives                       COMPLEXIVES
+                    DYNAMICAL IN ITSELF
+
+Icons               Indices                           SYMBOLS.
+                    IN RELATION TO THE SIGN
+
+Hypothetics         Categories                        Relatives
+                    INTERPRETANT IMMEDIATE
+
+Sympathetic         Percussive                        Usual
+                    DYNAMICAL IN ITSELF
+
+[unclear: Ejaculativ?] Imperative                     Cognificative
+                    IN RELATION TO THE SIGN
+
+Gratific            Practical                         Pragmatistic
+                    RATIONAL IN ITSELF
+
+Semes               Rhemes                            Delomes
+                    IN RELATION TO THE SIGN
+
+Assurance
+of [unclear: Instinct?] Assurance of Experience       Assurance of Form.
+                    IN RELATION TO THE OBJECT.

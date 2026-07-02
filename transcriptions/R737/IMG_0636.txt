@@ -1,0 +1,16 @@
+Fundamental
+
+(1) {del}the{/del} Principle of Modus Ponens (First Form)        {add}If a⊃b then if a then b
+        {del}If a and a⊃b then b{/del}{/add}
+
+(2) {del}[formula: see image]{/del}  [formula: see image]
+
+(3) Identity  [formula: see image]{del}[illegible]{/del}
+
+(4) [formula: see image]
+
+(5) Modus Ponens (Second Form)  {del}[formula: see image]{/del}  [formula: see image]
+
+(6) Syllogism  [formula: see image]{del}[illegible]{/del}
+
+(7) Dilemma  [formula: see image]

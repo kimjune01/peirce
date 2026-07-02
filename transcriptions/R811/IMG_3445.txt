@@ -1,0 +1,49 @@
+-284          PROCEEDINGS OF THE AMERICAN ACADEMY
+
+Hence the formulæ are
+                         Induction.
+        S' S'' S''', &c. are taken at random as M's,
+             S' S'' S''', &c. are P ;
+        ∴ Any M is probably P.
+
+directing observation.  But I have shown above that certain premises will render an
+hypothesis probable, so that there is such a thing as legitimate hypothetic inference.
+It may be replied that such conclusions are not hypotheses, but inductions.  That the
+sense in which I have used “hypothesis” is supported by good usage, I could prove by
+a hundred authorities.  The following is from Kant: “An hypothesis is the holding
+for true of the judgment of the truth of a reason on account of the sufficiency of its
+consequents.”  Mill’s definition (Logic, Book III. Ch. XIV. § 4) also nearly coin-
+cides with mine.  Moreover, an hypothesis in every sense is an inference, because it is
+adopted for some reason, good or bad, and that reason, in being regarded as such,
+is regarded as lending the hypothesis some plausibility.  The arguments which I
+term hypothetic are certainly not inductions, for induction is reasoning from par-
+ticulars to generals, and this does not take place in these cases.  The positivist
+canon for hypotheses is neither sufficient nor necessary.  If it is granted that hy-
+potheses are inferred, it will hardly be questioned that the observed facts must
+follow apodictically from the hypothesis without the aid of subsidiary hypotheses,
+and that the characters of that which is predicated in the hypothesis, and from which
+the inference is drawn, must be taken as they occur, and not be picked out in order
+to make a plausible argument.  That the maxim of the positivists is superfluous
+or worse, is shown, first, by the fact that it is not implied in the proof that hypothetic
+inference is valid; and next, by the absurdities to which it gives rise when strictly
+applied to history, which is entirely hypothetical, and is absolutely incapable of
+verification by direct observation.  To this last argument I know of but two
+answers: first, that this pushes the rule further than was intended, it being con-
+sidered that history has already been so verified; and second, that the positivist
+does not pretend to know the world as it absolutely exists, but only the world which
+appears to him.  To the first answer, the rejoinder is that a rule must be pushed
+to its logical consequences in all cases, until it can be shown that some of these cases
+differ in some material respect from the others.  To the second answer, the re-
+joinder is double: first, that I mean no more by “is” than the positivist by
+“appears” in the sense in which he uses it in saying that only what “appears” is
+known, so that the answer is irrelevant; second, that positivists, like the rest of
+the world, reject historic testimony sometimes, and in doing so distinguish hy-
+pothetically between what is and what in some other sense appears, and yet have
+no means of verifying the distinction by direct observation.
+
+Another error in reference to hypothesis is, that the antecedent probability of what
+is testified to cannot affect the probability of the testimony of a good witness.  This
+is as much as to say that probable arguments can neither support nor weaken one
+another.  Mr. Venn goes so far as to maintain the impossibility of a conflict of
+probabilities.  The difficulty is instantly removed by admitting indeterminate
+probabilities.

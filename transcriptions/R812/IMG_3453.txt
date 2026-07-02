@@ -1,0 +1,25 @@
+[red X]
+no theological seminaries are apt to suspect something
+sinister lurks beneath any mathematical treatment
+of logic; and down to this day they {add}continue{/add} condemn such
+treatment magisterially. But, of course, every mathe-
+matician understands that the use of an {del}mathe{/del}
+algebraical system of expression implies nothing in
+particular about the subject-matter, — certainly, not,
+for instance, that it is of a quantitative character.
+It is merely adopted as a {del}kind of expression{/del} {add}language{/add} which
+has three merits; first, that of being free from
+ambiguities and unrecognized prejudices, second, that
+of analysing the meaning and expressing it
+with great precision, and third and greatest, that
+of being readily handled by the mind and thus lending
+itself to that mental experimentation in which all
+sound reasoning consists.
+
+I will begin these notes with some remarks about
+the logic of relatives, supposing the reader to have glanced
+at my paper in the seventh volume of the American
+Journal of Mathematics.
+The Boolean algebra has {del}but two values{/del} deals with a system of
+quantity (if one conceives it from the point of view of
+quantity) having but two values. {del}Boole{/del} {add}himself{/add} simply used

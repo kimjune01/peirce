@@ -1,0 +1,83 @@
+[diagram: small circled note: “All same”]
+
+[formula: see image] correlation ordwy
+
+[formula: see image] justalation
+[formula: see image] existence
+
+Absurdity
+
+Every extra[unclear: d?]ilation [unclear: has same] semilation
+Every extra semilation is a [unclear: dilation]
+Every new semilation is a [unclear: semilation]
+{add}[unclear: justalatative]{/add}
+
+[diagram: vertical crossed-line graph]
+
+( u ξ ū )( ū ξ u )
+
+[diagram: several small crossed-line graphs at left]
+
+Πᵢ Πⱼ (uₐᵢ Ψ ū_bᵢ) · (ūₐⱼ Ψ u_bⱼ)
+
+~ Πᵢ(uₐᵢ·u_bᵢ Ψ ūₐᵢ·ū_bᵢ)
+
+Hᵢ (uₐᵢ Ψ ū_bᵢ)(u_bᵢ Ψ ūₐᵢ)
+
+[diagram: small triangular graphs and rectangular sketches at right]
+[diagram: small fan-like figure]
+
+A:B Ψ B:A
+A:A Ψ B:B
+
+[diagram: crossed lattice under cloud-like circles]
+[diagram: small crossed square]
+[diagram: crossed small graph]
+
+A:B Ψ B:C Ψ C:B Ψ A:B
+B:A
+
+A:C Ψ B:B Ψ C:
+
+A:A Ψ A:B Ψ B:B Ψ
+
+[diagram: large circular/looped graph with letters and crossed lines]
+[diagram: small crossed graph]
+
+Citra seminations
+Seminilations
+None but semina
+
+Without gromes
+with gromes
+
+[diagram: two small polygonal network diagrams]
+
+The equiparence must be a semitation
+with binary gromes at least.
+
+[unclear: A semination] with binary
+gromes not necessarily an
+equiparence
+
+A:X Ψ X:B Ψ B:Ψ Ψ Ψ:C Ψ C:Z Ψ Z:A
+
+Ψ C:V Ψ V:D Ψ D:U Ψ U:B
+
+Ψ D:W Ψ W:A
+
+A:B Ψ X:Y Ψ B:C Ψ Y:Z Ψ C:A Ψ Z:A
+Ψ Y:V Ψ C:D Ψ V:U Ψ D:B Ψ B:Y
+Ψ V:W Ψ D:A Ψ W:X
+
+A:Y Ψ X:C Ψ B:Z Ψ Y:A Ψ C:A Ψ Z:B
+Ψ B:V
+Ψ Y:D
+
+Ψ C:U Ψ V:B Ψ D:Y
+Ψ C:W
+Ψ V:A
+Ψ W:B
+
+Ψ W:C
+Ψ D:X

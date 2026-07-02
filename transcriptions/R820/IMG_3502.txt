@@ -1,0 +1,43 @@
+Ms. 820
+
+An important
+part of proof
+
+V        W
+[diagram: branching lines/bracket toward marginal theorem note]
+{ The proof that
+  if (1) and (2)
+  then there are not
+  two different things Q to
+  themselves
+
+[diagram: circled diamond containing “1”]
+
+What we wish to prove is that if the Fermatian
+inference holds and if nothing has two Qs
+then there are not two things Q to themselves.
+Suppose this not true. Then
+
+(1)  [formula: see image]
+(2)  xyzc     xqz + yqz + xhc + yhc
+     {del}[formula: see image]{/del}
+
+(3)  < ξ ω     vqv. wqw. vhξ. whξ
+To prove the absurdity of this I first {del}deduce the fiction{/del}
+Their incompatibility with
+
+(4)  {del}[formula: see image]{/del} D < [formula: see image]
+     ([formula: see image])
+     ([formula: see image])
+     For this purpose, I define σ
+
+(5)  D.. Dhσ = Dhδ + Di A                         i means identical
+                                                       with
+     {del}Putting{/del} Identifying D with A we get
+
+(6)  Ahσ
+     {del}In (4) substitute D |{/del} {add}identify I with D{/add}
+     {del}DM{/del} LM.. Ihδ + MQL + Mhδ
+     In (2) identify x {del}also{/del} with B, z with A c with V
+and multiplying by Bhδ, αH) gives {del}(BQA + Bhδ){/del}
+                         gives Y.. (YQA + Yhδ)

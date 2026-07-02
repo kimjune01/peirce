@@ -1,0 +1,18 @@
+62
+
+{del}Then it follows from the proposition I proved a little
+while ago that one collection cannot be at once
+greater and less than another, It may however
+be neither greater nor less.{/del}
+
+{del}Bolzano's definition has the merit of accurately
+distinguishing the different multitudes; but it looks
+upon the matter in a purely formal way. It fails to bring
+out the great logical significance that there is
+in multitude. Let me give you my definition
+A multitude is a quality of a gath consisting
+of the degree of indeterminacy with respect
+to forms of relationship of all the members
+of the gath, insofar as they are merely defined
+as such.
+This means that if you compare a greater{/del}

@@ -1,0 +1,33 @@
+L of A                                                            12
+We thus see that a one-to-x relation can be put into or taken out
+of enclosures containing its relates, without reference to the evenness
+or oddness of its enclosures.
+
+Let us now consider a one-to-one relation. Let “-- corresponds to --”
+be such that
+
+[diagram: four small enclosed relation diagrams using “corresponds to”; lower pair marked through/connected by strokes]
+
+The two left may equally be expressed thus:
+[diagram: enclosed “corresponds to” relation, crossed out with diagonal strokes]
+
+        8) 9' 3⁹ 9⁷ 9³
+           1 2 4 9
+
+        8) 9' 8² 7³ 6⁴ 5⁵ 4⁶ 3⁷ 2
+           1 2 3 4 5 6 7 9
+
+           9 8⁷ 6 5 4 3 2
+        7) 8' 6² 4³ 2³ 0⁴ 5⁵ 2⁶ -4
+           1 2 3 4 5 6   4 5 6
+
+        7) 8' 6² 4³ [unclear: 1?] 9? 6
+           1 2 3 4 5 6 8
+
+        999999
+        [formula: see image]
+
+                     11
+                 3) 111²  -10) 1111
+                    3.37          11
+                                  1111

@@ -1,0 +1,17 @@
+108
+
+contain M_y. So this sole sum of Ms that is in
+the relation r to M_y is not in my {del}test Sam{/del}. If
+M_y however belongs to the second class, it is one
+of those Ms which I expressly exclude from
+my test Sam. {del}But{/del} It is however contained
+in the only sum of Ms {del}that stands{/del} in the
+relation r to it. Plainly, then, this sum that
+alone is in the relation r to M_y if M_y belongs
+to the second class is not my test Sam. The
+only remaining possibility is that M_y belongs to
+the third class. But in that case it is one of
+these Ms. to which no sum of M s stands in the
+relation r; so that my test Sam cannot stand
+in that relation to it. Thus you perceive that
+to whatever class M_y belongs my test Sam is

@@ -1,0 +1,29 @@
+43
+
+In several passages in Prof. Schröder's first volume promises were
+held out that the opening section {add}§28{/add} of the next volume should clearly
+show the difference between hypotheticals and categoricals and should
+convict me of taking a narrow view of assertion. But when the
+second volume appeared that section seemed to me remarkably lame,
+considering the great force and exactitude of the writer's custom-
+ary thought. There is so little in it that it {add}by itself convey{/add}
+{del}would give{/del} quite a false
+idea of Prof. Schröder's power as a logician.
+Prof. Schröder's main effort is to show that time has to
+be considered in the analysis of hypotheticals. But he gives no
+proof at all that time must be considered; he only shows how it
+may be considered. {del}Anybody{/del} {add}No{/add}body familiar with the logic of relatives
+need to be told that it is easy to introduce the consideration of time,
+if it be desirable to do so. At any rate, when I maintain that catego-
+ricals are essentially the same as hypotheticals, I mean, essentially
+the same as compound propositions, without specially introducing the
+idea of time. It is evident, then, that all that discussion about time
+is quite beside the question in dispute; it {add}contains a fault of logic.{/add}
+{del}is a logical fault.{/del}
+The only other argument that I am able to extract from Prof.
+Schröder's §28 is that any two terms could {add}be taken{/add}
+{del}give a co{/del} as subject and
+predicate (in the old sense) of a categorical and the result will always
+be true or false, while in the case of the hypothetical the result will
+often be nonsensical, and neither true nor false. One cannot but
+remark that this argument seems to be at variance with the view of

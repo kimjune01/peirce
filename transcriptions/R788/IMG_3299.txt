@@ -1,0 +1,24 @@
+By the order of a proposition I mean the number
+of times it contains the relative ρ- or “possessor of”
+(in the sense of an object possessing a quality.) Pro-
+positions of even order are either Extensive or Intensive.
+Those of odd order have not this distinction
+
+        Propositions of 1ˢᵗ Order
+
+        ι < Ă + ρ + β              ι < Ă + ρ̄ + β
+ι < Ă(ρ + β)   ι < (Ă + ρ)β    ι < Ă(ρ̄ + β)   ι < (Ă + ρ̄)β
+ι < Ăρ + β     ι < Ă + ρβ      ι < Ăρ̄ + β     ι < Ă + ρ̄β
+        ι < Ăρβ                         ι < Ăρ̄β
+
+        Syllogisms of the 0-1 Order
+i.e. those having premises of the 0 and the 1ˢᵗ Order.
+
+Suppose one of the premises is β < γ or ι < β̄ + γ.
+Then γ may be substituted for β in the other premise
+provided β occurs without a dash over it, & in the
+premise of the first order β is connected by relative
+addition; that is if that premise is one of the
+following    ι < Ăρ + β           ι < Ă + ρ̄ + β
+             ι < Ă(ρ + β)         ι < Ă(ρ̄ + β)
+             ι < Ăρ + β           ι < Ăρ̄ + β

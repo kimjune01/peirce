@@ -1,0 +1,26 @@
+[diagram: small circled/elliptical figure at upper right, marked “C”]
+
+A
+anything has the character κ, the Q of A has
+the same character.
+
+Now if W has any character which belongs
+to the Q of whatever it belongs to, everything
+in the universe {add}which is{/add} considered has that character,
+as no thing by definition, V has the character
+κ. Since then κ is a character which belongs
+to the Q of whatever it belongs to, by the
+Fermatian inference everything in the universe
+has the character κ. Therefore W has the
+character κ.
+
+Consider then the character which consists
+{del}as one{/del} in being W {add}but{/add} not V. This is a character
+which belongs to W, unless W and V are identical,
+And if it belongs to anything (which can only be W) it
+belongs to the Q of that thing (for the Q of W is W).
+Hence, since the character κ belongs to
+W, unless W and V are identical the
+character of being W but not V belongs to
+V, which is absurd. Hence, W and V cannot
+be identical. Q.E.D.

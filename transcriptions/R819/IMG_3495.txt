@@ -1,0 +1,24 @@
+Ms. 819
+
+                The Conception of Infinity
+
+The syllogism of transposed quantity is a kind
+of reasoning, so named by De Morgan, who
+first called attention to it, of which the fol-
+lowing is an example.
+
+Every dollar which an insurance company
+pays for losses must have been paid in
+for premiums (including {del}the{/del} {add}accrued{/add} interest on them)
+or else the capital (including accrued interest)
+is impaired. Suppose, then, that, considering
+all the new property {del}[illegible]{/del} insured in one
+year, if the total losses which ever happens
+on this property exceed the total premiums
+paid on it, and suppose this is true for the
+new property insured every year. It follows
+that the capital must be impaired.
+
+De Morgan considered this reasoning as
+absolutely valid; and because he was an
+actuary, I have selected an example from

@@ -1,0 +1,19 @@
+70
+
+{add}this{/add}
+Upon the same principle, if two hypotheses
+present themselves, one of which can be
+satisfactorily tested in {del}two{/del} or three days, while
+the testing of the other might occupy a
+month, the former should be tried first,
+even if its apparent {del}probability{/del} {add}likelihood{/add} is a good
+deal less.
+
+It is a very grave mistake to attach
+much importance to the {add}antecedent{/add} likelihood of
+hypotheses, except in extreme cases; be-
+cause {del}[unclear: the]{/del} likelihoods are mostly merely
+subjective, and have little real value; and
+{del}besides{/del}, Every hypothesis should be put,
+to the test of {del}prediction{/del} {add}by trying if{/add} to make verifiable
+predictions. A hypothesis on which no

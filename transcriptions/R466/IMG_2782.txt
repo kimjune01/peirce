@@ -1,0 +1,19 @@
+22
+
+the Bs which this would require do not exist. Add other
+things, say C’s to the Bs and every A would {del}be{/del}
+be provided with its own {del}particular{/del} {add}separate{/add} B or C. Take no
+more C’s than are {del}made{/del} {add}required{/add}, and conversely every
+B or C would have its own separate A and
+therefore every B has its own separate A,
+{add}proof of the proposition{/add}
+Hence, if the collection of As is not as small
+as the collection of Bs then {del}every B{/del} {add}the collection{/add} of Bs
+must be as small as the collection of As.
+This proposition has been a great puzzle to
+the mathematicians. They have endeavored in
+vain to prove it. The truth is that it never can be
+mathematically proved because it depends upon the
+peculiar nature of relations which is a {del}logical{/del} {add}question{/add}
+of logic, not of mathematics. Hence, every {add}proposed{/add}
+{del}attempt{/del}

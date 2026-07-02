@@ -1,0 +1,22 @@
+\overline{a+0}+0                          If a then c                         If {del}a then c{/del}
+                                      Either a or c                       Either a or c
+                                      ∴ c                                If b Then c
+\overline{\overline{a+0}+a} Then a                                       ∴ If from a, b then c
+
+                         If from a b follows and b+c
+                                a+b and b+c Then a+c
+
+(\bar a+b)(\bar b+c)        |     b(\bar b+c)     |
+\bar a+b(\bar b+c)          |     b\bar b+c       |
+\bar a+b\bar b+c            |     c               |
+a+c                         |
+
+                                      {del}[illegible]{/del}
+                    \overline{a+0}+0                         a\bar 0+0
+
+                         {add}ac+bc{/add}
+(a+b)c < {del}a+b{/del}                         \overline{a+b}+c
+
+ac+bc < m                               \overline{a+0}+a        \overline{\bar a+a}+a
+
+ac < m   bc < m

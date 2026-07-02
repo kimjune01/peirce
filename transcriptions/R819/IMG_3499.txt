@@ -1,0 +1,23 @@
+number [unclear: N?] then to the next higher N+1, then,
+this property if it belongs to the first number
+1, belongs to all numbers. This kind of
+reasoning I call the Fermatian inference.
+
+It holds good of all enumerable collections,
+no matter in what order their members be
+arranged. It holds good of some innumerable
+collections, provided they are properly arranged.
+It would not do to arrange all the odd numbers
+first with all the even numbers following them.
+It is necessary to arrange the objects in such a
+linear order that each one is preceded by
+an enumerable collection of objects, or by
+none.
+
+It is susceptible of demonstration that there
+are {del}collections{/del} with which we frequently
+deal which cannot be so arranged as to render
+the Fermatian inference truly applicable. In
+other words, the positive integer numbers cannot
+be assigned each to a different member
+of such a collection.

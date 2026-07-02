@@ -1,0 +1,6 @@
+[unclear: 16?]
+
+Particular forms of syllogism arise when the
+middle term is such that
+        ββ < L
+or when there is some other third premise.

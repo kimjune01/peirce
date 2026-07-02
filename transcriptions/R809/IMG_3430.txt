@@ -1,0 +1,31 @@
+is called passive. Thus A is greater than B is an active disqui-
+parance; A is {del}active{/del} {add}that{/add} which B is less; is a passive disqui-
+parance. Sometimes the inverse grounds are the same; thus, that
+A equals B is the same as that A is equaled by B. The inverse of
+the inverse of a ground is always the ground itself; thus that "A is
+{add}something by which{/add} B is exceeded" is the same as that A exceeds B.
+{add}[This is genuine]{/add}
+If B is disquiparant to C, upon the same ground on which A is disqui-
+parant to B, then A is disquiparant to C upon the same ground also.
+But if the grounds of the two first disquiparances are different
+this does not follow. If the ground of the disquiparance of B to C is the
+inverse of that of A to B, then the disquiparance of A to C {add}has{/add} is either
+one ground or the other or else rests upon some different ground altogether
+{add}does not exist{/add}
+or {del}upon none{/del} at all; and {add}in any case{/add} there is no ground of dis-
+quiparance between A & B which there was not between A & B or B & C.
+This {del}fact enables acquaintance with{/del} {add}relation gives rise to{/add} a peculiar quantity of grounds
+of disquiparance; {del}for the depending upon the number of repetitions{/del}
+of a given inverse {add}disquiparance relation{/add} which shall first neutralize a dis-
+quiparance. Thus, let the {add}ground{/add} disquiparance of A to B be the in-
+verse of that of B to C and {del}the ground{/del} {add}suppose{/add} that they are such that there is
+no disquiparance between A & C. Now suppose that the ground of the
+disquiparance of B to C be simply inverted, that is suppose it to change
+from active to passive without altering in any other respect whatever. Then
+we have a disquiparance between A & C which is just twice that be-
+tween A & B. {add}And thus we introduce the conception of measure. No other kind
+of quantity, except that of the ground of a disquiparance, can be measured.{/add}
+The science of the reference of disquiparants to their grounds; that is the
+science of measurable quantity, is called mathematics. When only in-
+versions are taken into account, it is algebra. When differences in the kind of
+ground is taken into account, it affords (for example) geometry.

@@ -1,0 +1,24 @@
+He now gives 5 propositions of which the latter 4 are the
+same corollaries from the 1st.
+
+A. If a and b are multitudes either a=b or a>b or b>a
+
+B. M₁ part of M. N₁ part of N. If M₁∽N₁, N∽M₁ then M∽N
+
+I remark that it is evident that a part is either equal to
+or less than its whole. Therefore
+        Either M = N or M < N
+        Either M = N or M > N
+Hence M=N without using A at all
+
+C. M₁ part of M. M₂ part of M₁ If M₂∽M then M₁∽M
+The same remark applies
+
+D. If N is not equal to M nor to any part of M, then
+   a part of M, of N is N₁∽M
+{del}If in my sense N<M N=M₁ a part of M{/del}
+{del}Hence in this case{/del} If in his sense N<M N=M₁ part of M
+Hence if this is not the case in my sense N>M. But that
+N₁=M requires A
+
+E If [formula: M∽N with overline] (M not∽N) but N₁∽M [formula: M₁∽N with overline]

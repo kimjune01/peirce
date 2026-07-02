@@ -1,0 +1,21 @@
+?
+                         Fundamental
+✓ (1) Identity   a+a   Proved by (2)
+
+✓ (2) [formula: see image]
+
+(3)
+{del}[formula: see image]  Proved by a?{/del}
+
+✓ (4) a+b+c = b+a+c
+
+(5) [formula: see image]     Dilemma
+(6) [formula: see image]
+{del}(7) [formula: see image]{/del}
+.
+
+✓ { (7) If a and ā+b then b
+
+(8) [formula: see image]
+
+(9) [formula: see image] Proved by (5)

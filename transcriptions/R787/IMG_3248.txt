@@ -1,0 +1,30 @@
+MS.812?  
+Logic & Meth.                                                8
+
+Let me pause here to notice {del}some{/del} {add}sundry{/add} misconceptions about
+mathematical logic. I do not think that the exact logician
+ought to hold that logic, or any branch of logic, however mathema-
+tically treated, is strictly speaking a branch of {del}logic{/del} {add}mathe-{/add}matics. It is
+like dynamics, which calls for, and has created, a special branch
+of mathematics for its study; yet the dynamics, the positive
+science, is one thing, and the mathematics, the purely hypo-
+thetical science, is another. The fact that from a given hypothetical
+premise a certain conclusion necessarily follows can only be
+satisfactorily made out by mathematics; {add}for mathematics is precisely the{/add}
+{del}which is the{/del} science
+of hypotheses. Yet the fact that every definite, self-consistent hypo-
+thesis will lead to a definite, stable conclusion, {add}instead of annulling{/add}
+{del}and will not annul{/del}
+and supersede itself, Hegelianally, is not a hypothetical fact, but
+an ultimate, positive fact.
+On the other hand, I will not admit that the mathematician
+stands in any need of logic. The mathematician must reason, of
+course; but he needs no theory of reasoning, because no dif-
+ficulties arise in mathematics which require a theory of reasoning
+for their resolution. The metaphysician does require a theory
+of reasoning; because in his science such difficulties do arise.
+{del}All the{/del}
+{del}any{/del} special science {add}(especially the nomological sciences){/add} require, more or less, in metaphysics, and
+therefore, at least indirectly, and some of them directly {add}too{/add}, require
+a theory of logic. But pure mathematics can postpone such a theory.
+In short, the doctrine of exact logic is, that as soon as the

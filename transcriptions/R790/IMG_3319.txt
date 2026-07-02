@@ -1,0 +1,21 @@
+This
+{del}It must be fully understood that these propositions
+are understood as a peculiar sense quite different
+from ordinary{/del} {add}An ordinary{/add} hypothetical proposition {add}so called{/add} as {add}Taught
+the Beginners
+and in this lesson{/add}
+{del}called{/del} propositions containing an antecedent condition
+and a consequent result are called {del}For real propo-
+sitions only{/del} related to what would occur in states of
+things not all coincident with the existing state of things.
+{del}For I say{/del} Suppose I say "If I were to {add}upset{/add} {del}overturn{/del} the ink-
+stand the table cloth would be injured." This means that {del}among{/del}
+all the different {add}conceivable{/add} events that might {del}happen{/del} {add}occur{/add}, the disposition of things
+in the room being what it is, every one is one in which {del}the{/del}
+either the inkstand is not {del}the{/del} upset or the tablecloth is
+spoiled. But the propositions we are now considering are
+materially simpler, and subject to quite different logical
+conditions, because we only consider a single state of
+things or course of events. The student is therefore
+warned against applying any of the results of this
+lesson practically, until more has been learned.

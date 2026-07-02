@@ -1,0 +1,40 @@
+[unclear: bg?] (5)
+
+If any number possesses ᾱ
+
+there is a smaller that possesses it
+
+This is either {del}small{/del} {add}such{/add} that w number is
+smaller or it is not
+
+If not, some number is next smaller (by 4)
+but that number by 1^M premise would possess ᾱ
+contrary to hypothesis
+
+But if it {del}is not{/del} hence a smaller number by second premise
+Hence it is false that there is a number that possesses ᾱ
+
+[formula: see image]
+
+[diagram: rectangle containing two -s ovals connected at right to a small vertical loop]
+[diagram: large oval containing two small -s ovals connected by a line with a downward branch and hatched sector]
+[diagram: oval containing w connected to l and a hatched extension]
+
+Π_i Π̄_j  s_ij + S_ji + l_ij
+
+Π_i Π_j Σ_u Σ_v   S_ui + S_uj + l_ij
+
+[diagram: oval containing -s and s connected through a bent line and small loop]
+[formula: see image]
+
+-s b
+h w
+[unclear: ė?] h j w
+[formula: see image]
+(ḣ j)w
+
+[diagram: several nested-oval relation diagrams with letters b, s, o, l, w, some crossed out]
+R-w
+[diagram: crossed-out small circular relation mark]
+[diagram: oval containing h connected to o and w]
+[diagram: oval containing h connected to w]

@@ -1,0 +1,30 @@
+94
+
+We have only to place instead of → wherever
+it occurs [diagram: small circled sign between horizontal strokes]
+We come now to the graphical expressions of
+Beta graphs. Here we require the following symbols
+
+Gamma Expressions of Beta Graphs
+
+X → Y means Y is a ligature whose outermost part is
+
+on X
+
+[diagram: X → scalloped circle labelled g → Y] means g is expressed by a {add}monad{/add}
+spot on
+
+X whose hook is joined to the ligature Y on
+
+X
+
+[diagram: X → scalloped circle labelled g with hooks to Y and Z] means g is expressed by a dyad graph
+
+on X whose first and second hooks respec-
+tively are joined on X to the ligatures Y and Z
+
+[diagram: X → scalloped circle labelled g with hooks to Y, Z, and W] means g is expressed by a triad graph
+
+on X where {del}[unclear: ligature]{/del} first, second, and third
+hooks are joined on Y to the ligatures
+Y, Z, W, respectively

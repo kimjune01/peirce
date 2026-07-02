@@ -1,0 +1,38 @@
+In the following as fundamental
+
+(1) Identity. {del}If a-b then a⊃b{/del}
+        {add}a⊃a{/add}        [formula: see image]        {del}[unclear: therefore?] b=a{/del}
+
+(2) Principle of Mod. Ponens {del}If a then b⊃c{/del}
+(2½) If a⊃ then a⊃b     a⊃a⊃b
+(3) If a⊃a⊃b then a⊃b     a⊃a⊃b⊃a⊃b
+
+(4) [formula: see image] = [formula: see image]     [formula: see image]
+
+(5) If [formula: see image] then [formula: see image]
+        [formula: see image]
+(5½) If a⊃a⊃b then b
+        {add}By modus ponens{/add}
+
+(6) If [formula: see image] and c⊃d, then [formula: see image]     Dilemma
+        [formula: see image]
+
+(7) If a⊃b and b⊃c then a⊃c
+        If p and q then r
+        If from p then q     p⊃q
+        If p⊃q then if p, q
+
+(8) If a⊃b then [formula: see image]
+
+(9) If b⊃c then [formula: see image]
+
+(10) If from a follows b and b⊃c, then a⊃c
+
+(11) If from b follows c and a⊃b, then a⊃c
+
+{del}(12) If a⊃b and b⊃c then if a then c{/del}
+        {add}from Modus Ponens{/add}
+
+(12) If from a follows b and from b follows c then a⊃c
+
+(13) If from a follows b and b⊃c and if a then c [unclear: wnds]

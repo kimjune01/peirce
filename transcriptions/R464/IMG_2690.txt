@@ -1,0 +1,18 @@
+86
+
+Here are illustrations
+
+[diagram: examples of bracketed assertions, including “Λ— is left handed” and “Λ— is a man”; equivalent form at right reads “is lefthanded / is a man”]
+
+[diagram: implication example, “Λ — imports to”; “Λ — The U.S.” over “Λ — Cuba” connected to “Λ governs”; equivalent form at right reads “The U.S / enables to govern / Cuba”]
+
+We now only need the following signs
+G₁, G₂, G₃ etc are simple graphs
+-g = - is a graph, i.e. a possible apparent graph
+-t- = - is an unended heavyline of -
+-∠- = - is permissibly transformable into -
+-n- = - precisely denies -
+
+You will please remember that, as I use the word, an
+apparent graph is not really a graph unless it is possible
+This scheme shows [unclear: my use?] of the terms

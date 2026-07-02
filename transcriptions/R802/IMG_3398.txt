@@ -1,0 +1,11 @@
+4 {add}In answer to this it may be urged{/add}
+{del}It may be objected{/del} that logic is not concerned with all
+kinds of signs. For example, a command signalled from the
+flagship of a squadron is hardly open to logical criticism, as a
+command. Nor is a piece of concerted music subject to logic
+exactly. But the reply is obvious. As long as every logical
+{add}in order to understand any logical{/add}
+relation is a relation of signs, it is necessary {add}to under-{/add}
+stand the general structure of a sign; and if it is only a special
+kind of signs that are subject to logic, we must either seek a
+more extended notion of logic or else must add to our study

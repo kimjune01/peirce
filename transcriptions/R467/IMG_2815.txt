@@ -1,0 +1,27 @@
+44
+
+those of the alpha cut
+
+{del}We can insert anything we please{/del}
+{add}Rules of the Broken Cut.{/add}
+Rule 1. {add}In a broken cut already {del}[unclear: suited?]{/del} on the{/add}
+sheet of assertion any graph may be inserted.
+
+Rule 2. An evenly enclosed alpha cut may be
+halferased so as to convert it into a broken
+cut, and an oddly enclosed broken cut may
+be filled up to make an alpha cut.
+Whether the enclosures are by alpha or broken cuts is indifferent.
+
+Consequently
+
+[diagram: small circle enclosing dotted broken circle enclosing red “g”]
+
+will mean that the graph g is {add}beta-{/add} necessarily
+true φ. By rule 2, this is converted into
+
+[diagram: double enclosing circles around red “g”]
+
+which is equivalent to
+
+g

@@ -1,0 +1,20 @@
+which is p/(1-P) according the scale of probability
+range from ∞ to 0. Suppose, for example, there are
+two independent {del}facts{/del} {add}arguments{/add} each supporting a given conclu-
+sion. Let α be the ratio of {add}the number of{/add} cases in which the long
+run in which conclusions so related to facts like
+the {del}first facts{/del} {add}premise of the first argument{/add} are true to the number of cases in which
+this conclusion are false; and let β be the corre-
+sponding ratio for the other {del}fact{/del} argument. If, then, these
+two classes of arguments are quite independent,
+having no particular tendency to be true and false
+together, nor in opposition, then in the long run
+αβ will be the ratio among cases in which {del}argument{/del} {add}two arguments{/add}
+one of {add}the{/add} one class, the other of the other, are both {del}true{/del} {add}presented{/add},
+of successes to failures. Suppose, on the other hand,
+that the conclusions of the two arguments are different
+and incompatible, though possibly both false. Then the ratio
+of successes of one or other to failures of both is α+β.
+These are much simpler than the formulae
+for the “probabilities.” Namely, instead of αβ, we have
+with the ordinary scale of measurement  pq/(1-p-q+2pq);

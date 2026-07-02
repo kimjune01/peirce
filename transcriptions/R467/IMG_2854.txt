@@ -1,0 +1,35 @@
+[diagram: deleted dashed oval enclosing “a—b” with b circled]
+
+{del}It is not required
+that taking any
+a{/del}
+
+[diagram: dashed circle enclosing “g”]
+
+It is not required
+That g should
+be true
+
+[diagram: dashed circle enclosing “a—b”]
+
+It is not required
+That some a is b
+i.e. It may be that
+no a is b
+
+[diagram: dashed circle enclosing “a—b” with b circled]
+
+It may be
+that every
+a is b
+
+[diagram: dashed circle enclosing “a  b” with b circled]
+
+It may be that
+if a then b
+be inverse
+
+[diagram: large oval enclosing two dashed nested diagrams: upper “a—b”; lower “a—b” with b circled]
+
+Either no a can be b
+or only a can be b

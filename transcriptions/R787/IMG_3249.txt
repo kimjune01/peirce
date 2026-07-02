@@ -1,0 +1,14 @@
+elementary positive facts on which topic nexuses are made out,
+it is chiefly by mathematics in its two functions of forming
+hypotheses and of tracing their consequences, that logic is
+to be developed. But mathematics differs from logic in not directing
+its attention to these positive facts, as such, and in consequently
+not asking any of those questions which characterize logic.
+Prof. Schröder defines exact logic as logic studied by means
+of algebra. Although {del}I should{/del} {add}while{/add} I highly appreciate the {del}mere{/del} application of
+algebra to logic, yet I attach, as will be seen, a more general
+meaning to the phrase "exact logic."
+
+{del}[These present the division into speculative grammar,
+logic proper,
+speculative rhetoric.]{/del}

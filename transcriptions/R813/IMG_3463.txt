@@ -1,0 +1,23 @@
+L of A.                                             15
+We have already seen that [diagram: nested oval graph containing “is the sum of” and “and” with a small “—s—” loop]
+
+We can insert anything we please {del}or do within one{/del} {add}of two vacant{/add}
+ovals {del}than{/del} that is,
+given a blank sheet we get successively,
+[diagram: four successive graphs labelled 1st, 2nd, 3rd, 4th, beginning with a blank/line, then a small circle, then larger oval graphs containing “is the sum of” and “and” with “—s—” loops]
+
+This fourth graph is now to be written beside the one at the top of
+this sheet and then {del}into{/del} is to be introduced into the two ovals of
+the latter. We can then join the two bonds of the first line of
+{del}the fourth graph{/del} thus
+
+[diagram: oval graph containing “is the sum of” and “and” with small “—s—” loop]
+
+is the sum of  and
+is the sum of  and
+is the sum of  and
+is the sum of and
+
+x + (0+1)
+
+[diagram: large compound oval graph joining “is the sum of { and — is the sum of and }” to a lower oval “is the sum of and”]

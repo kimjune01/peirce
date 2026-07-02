@@ -1,0 +1,30 @@
+[unclear: Dicisign?]
+1
+
+On the Logical Nature of the {del}Proposition{/del},
+By C.S. Peirce.
+
+Mrs. Franklin's pointing out, in her lucid manner, that one
+and the same proposition may receive many forms of _statement_
+rejoices me, not only as a logician, but as a lover of logical English.
+A _statement_ is properly, an act or the result of an act performed
+with a proposition. But the word "statement" is not only, as Mrs.
+Franklin says, often applied to the proposition itself, but this noun,
+as well as the verb "to state", are currently, still worse abused to signify
+an act or the product of an act performed with a statement (in the
+proper sense). Namely, in such lingo "statement" and "state" are
+synonyms of _assertion_ and _assert_. These distinctions are not
+"minor points" in logic. For the question of what constitutes a
+proposition (in the logical sense {del}of{/del} of the meaning of a statement) is
+today perhaps the most actively disputed of all questions of logic.
+Now {del}it{/del} {add}this{/add} is a problem of no little difficulty, at best; but it becomes
+a great deal more so when a proposition is confounded either
+with a statement, with an assertion, with a psychical act of
+judging, or with an act of assent. Some German logicians
+there are, notably Herbartians, who distinctly attach to the
+word Urtheil the signification that English logicians (after
+the scholastics) properly attach to the word "proposition";
+but the majority of German logicians confound the Urtheil
+in that sense with the act or product of the act signified by
+the verb urtheilen. The effect of this is to blur the question of
+the essence of the proposition and to render it almost

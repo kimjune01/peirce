@@ -1,0 +1,33 @@
+Pb of L
+2
+
+                                    1                         Ms. 800
+
+sinsign, and a sign which is of the nature of a general
+type, law, or habit, which I will call a legisign. Thus, the
+word “the” occurs, on the average, twenty times on an English
+page (more or {add}fewer{/add} times, according to the style), and all these
+are so many occurrences of one and the same word. In that
+sense a word is a “legisign”. But a legisign can only exist
+in such occurrences, which {del}are{/del} I term its replicas; and
+each of these replicas is a sinsign. Now a proposition, as
+commonly understood by logicians, is a legisign. But there
+are signs which {del}have agree with propositions{/del} {add}might be interpreted, approximately as such by{/add}
+propositions which are neither legisigns nor replicas of
+legisigns. Thus, a fact of observation may convey infor-
+mation {del}but this is itself the fact that I see all the trees I
+see from my window are bending toward the south{/del}
+The fact that I see the falling snow slanting toward the south
+shows that the wind is blowing from the north. So far as this
+fact is a sign at all, it is {del}taken{/del} roughly interpretable by that
+proposition. {del}Hence{/del} Aggregating this class of signs with replicas
+of propositions, we get a class which may be called, for the
+present, dicent sinsigns; — “dicent” meaning {add}granting{/add} to convey
+information. Aggregating these with propositions, we get a
+class of signs which I would call dicisigns.
+
+The first question, then, and almost the whole question, is,
+“What {del}is{/del} are the conditions to be fulfilled in order that a sign
+should {del}become{/del} be a dicisign?” A sign is any sort of thing, in the
+widest sense, which is so related to an object and to a possible sign
+{add}interpretant{/add}

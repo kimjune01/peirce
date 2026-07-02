@@ -1,0 +1,36 @@
+Let A                                      X                                      16
+[unclear: addition] we get (x+0)+Y = x+(0+Y).
+
+[diagram: three small boxed logical graphs with loops and letters, including μ and ν]
+
+[unclear: given]
+
+[diagram: small crossed-out graph with μ above and A/loop/A below]
+
+[diagram: large logical graph with nested enclosures and letters μ A A A A N]
+[diagram: second large logical graph with nested enclosures and letters μ A A A A N]
+
+[unclear: possibilities]
+[unclear: reason]
+[unclear: as reason]
+[unclear: as reason]
+
+[diagram: small graph with μ and ν joined by a line and small loop]
+
+[diagram: small graph with μ, N in a circle, and ν]
+
+[unclear: laws]
+[unclear: analogy loses somebody]
+
+[formula: see image]
+
+[unclear: Every [illegible] middle is relational]
+
+[diagram: red logical graph with m — ○ — c]
+
+[diagram: red logical graph labelled [unclear: S] and [unclear: relation]]
+[diagram: red logical graph labelled [unclear: some] — [unclear: relation]]
+
+[unclear: [illegible] relation]
+[unclear: [illegible] relation]
+[unclear: Q and]

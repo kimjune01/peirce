@@ -1,0 +1,25 @@
+so far I was right, as we shall soon see. But I immediately proceeded,
+after the habitual manner, to divide symbols into terms, propo-
+sitions, and argumentations, with the meaning that “terms” have
+no assertoric element, and here I was wrong, although the division
+itself is not so much wrong as it is unimportant. Subsequently, noting
+that I had classed natural symptoms both among indices and
+among symbols, I restricted symbols to conventional signs, which
+was another error. {add}The truth is that my paper of 1867 was perhaps
+The essential facts {unclear: of symbolic logic} at the point of view, that{/add} {del}one of
+my most logically accurate{/del} I ever succeeded in producing; and for
+a long time {add}made{/add} all the modifications I attempted of it only led me,
+further wrong. {add}Every{/add} symbol, as involving an assertion, or rudimen-
+tary assertion, is general, in the sense in which we speak of
+a general sign. That is, the predicate is general. Even when we
+say “Boz was Charles Dickens,” what we mean is that “Boz was
+the same as Charles Dickens”; and sameness is a general, even
+a hemiological, relation. For a predicate is of an ideal nature, and
+as such cannot be a mere haecceity. In fact, in the proposition “Boz
+is Charles Dickens,” the subjects are Boz and Charles Dickens and
+the predicate is “identical with.” On the other hand, every general
+sign, even a “term” involves, at least, a rudimentary assertion.
+For what is a “term,” or “class-name” supposed to be? It is some-
+thing which signifies, or, to use J.S. Mill’s objectionable terminology,
+“connotes” certain characters, and thereby denotes whatever
+possesses those characters. That is, it draws the attention to an

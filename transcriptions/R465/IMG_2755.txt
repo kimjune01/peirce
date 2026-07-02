@@ -1,0 +1,15 @@
+A8
+
+as {del}forever{/del} asserting that. [diagram: star-like mark]
+A cut is a self-returning line which I draw
+on the board with green chalk, but on paper
+merely as a fine line. A cut is not a graph: It
+does not itself assert anything. But the cut ...
+{del}Together with all that is within it is called an{/del}
+enclosure; and an enclosure is a graph.
+The surface outside the cut is called its place
+The surface inside the cut is called its area.
+I gave you 7 Permissions; but I can
+state these more neatly as follows:
+Go to p 18 of Vol I
+and then to p26 of Lecture III Vol I.

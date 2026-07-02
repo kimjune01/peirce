@@ -1,0 +1,23 @@
+more than the number we must enclose the last graph in
+a cut, thus to express that that [unclear: assertion?] is
+{del}if we assert{/del} once that [unclear: in question?] is
+
+more than three we have the graph →
+[diagram: small red cut enclosing a vertical graph with several small ovals]
+To assert
+[diagram: blue outer cut and red inner cut enclosing a similar vertical graph]
+
+that it is not more than three we scribe →
+
+To assert that it is neither three nor more
+than three, that [unclear: is] that it is less than three, we scribe
+[diagram: two adjacent blue cuts, each containing a red cut and oval graph forms]
+
+We now take the right hand graph in
+the second cut of the left hand one
+thus
+[diagram: large blue cut containing two inner red graph forms; adjacent separate blue cut with red graph form]
+
+We extend the ligature by the rule of iteration & join
+the middle 3 cuts by the Rule of Insertion. We thus get
+after erasing the left hand part

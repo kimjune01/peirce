@@ -1,0 +1,25 @@
+The sheets of the mental {add}ideals under{/add} Projection of a
+collection-
+He defines the equality “equivalent” of two collections
+as consisting in the possibility of putting them into one
+to one correspondence, thus leaving his definition
+of multitude behind as the idle performance of is,
+He denotes equality thus
+(4)        M ∼ N
+Then every part of M has its equal part of N.
++ transpositions are possible
+(5)        M ∼ M
+(6) If M ∼ P and N ∼ P then M ∼ N
+:Two collections have the same multitude if and only
+if they are equal. Here is a little better definition
+of multitude, But not yet good.
+(7) if M ∼ N        M̄ = N̄
+(8) if M̄ = N̄        M ∼ N
+This he calls one equivalence the other equality I don't
+see. It is a distinction without a difference. By equality
+he probably means identity.
+p483 He vaguely deduces all this from his definition
+(9)        M ∼ M̄
+If    M ∼ M′   N ∼ N′   P ∼ P′ . . .
+{del}Then{/del}
+        (M, N, P, . . .) = (M′, N′, P′ . . .),

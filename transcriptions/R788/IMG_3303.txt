@@ -1,0 +1,27 @@
+(5
+
+conclusions of the zero order if p occurs in one premise
+with and in the other without a dash. Thus
+
+[formula: see image]
+
+and        < Ăm + C̆
+We have
+also       < Ă { p + m (p̄ + C̆) }
+
+which appears not to imply the others. It appears
+therefore that in the last case there may be conclu-
+sions of the 2nd order also.
+        When β is connected by multiplication in the
+{del}two{/del} premise there is only one {del}[unclear: conclusion]{/del} conclusion which is
+of the 2nd order and contains m.
+[diagram: curved line/bracket connecting the preceding discussion to this sentence]
+
+        But the theory of such cases is not very easily
+made out.
+
+        In every case in which the middle term enters without
+a dash in one premise and with a dash in the
+other, it can be eliminated. The order of the con-
+clusion is usually the sum of the orders of the premises
+but in some cases is less by some even number.

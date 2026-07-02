@@ -1,0 +1,17 @@
+96
+
+17 lemmas, and 27 corollaries. There are also 2
+scholia. At the same time, I ought to remark that,
+while the {del}sum{/del} {add}possible{/add} conclusions are innumerable, yet
+after {add}all{/add} premises have been iterated so as to exhaust
+all the different ways of using them together with all
+simpler ways, there will be no more theorems of any
+particular interest, and the branch of mathematics in
+question may be said to be substantially exhausted. The
+theory of conics is an instance. The great geometer
+Chasles after he attained to a great age continued
+to grind out, by the bushel-basket full, such theorems
+as that, {add}in a plane{/add} the number of conics that touch five
+given conics is 3264. I think that when a ma-
+thematical theory has nothing new to discover but
+such propositions as that it may be said to be

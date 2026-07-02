@@ -1,0 +1,24 @@
+46
+
+And from this we get again.
+
+[diagram: red “g” within dashed circle]
+
+It must be remembered that possibility and
+{add}are relative to the{/add}
+necessity {del}relate to some{/del} state of information
+
+Of a certain graph [diagram: red “g” mark] g let us suppose
+that I am in such a state of information
+that it may be true and may be false; that is
+I can scribe on the sheet of assertion
+
+[diagram: red “g” within double circle/dashes] [diagram: red “g” within dashed circle]
+
+Now I learn that it is true. This gives
+me a right to {del}assert{/del} {add}scribe on the sheet{/add}
+
+[diagram: red “g” within double circle/dashes] [diagram: red “g” within dashed circle] g
+
+But now relative to this new state of in-
+formation, [formula: see image] [diagram: red “g” within dashed circle], ceases to be true; and

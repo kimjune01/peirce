@@ -1,0 +1,20 @@
+the whole, since {add}corresponding to{/add} every number N there is a distinct
+and separate even number, its double. So likewise
+the multitude of {del}each cube{/del} powers of ten, or numbers written by a single
+figure 1 followed by zeros is 1, 10, 100, 1000, 10000, etc
+{del}is just as great as that of all odd numbers.{/del}
+is just as great as that of all whole numbers.
+
+The multitude of rational fractional values is
+denumeral, since any one may be reached in
+one way of writing them one by one. Namely, we
+{del}begin with unity{/del}
+
+[diagram: red fractions 0/1 and 1/0, with small black marks]
+
+which are not properly rational fractional values,
+and now we proceed {del}by{/del} the following rule
+{del}Having gone through the row, go{/del}
+{add}Beginning through the whole row again,{/add} and insert between each
+successive pair of fractions a fraction having for
+its numerator and denominator respectively the

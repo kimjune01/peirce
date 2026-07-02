@@ -1,5 +1,25 @@
 # Peirce Work Log
 
+## 2026-07-01 - Machine-drafted the rest of the corpus with codex
+
+Ran the **remaining 882 manuscript pages** through codex (GPT-5.5) via
+`scripts/transcribe_priority.sh` on the codex subscription pool -- **876 ok / 6
+fail** on the first pass, then a resume pass recovered all 6 (transient
+timeouts), landing **882/882, 0 fail**. Worklist built by scanning
+`_classify/result_*.json` for `manuscript_page` across all 64 non-priority,
+non-reference folders (call-slips, dividers, non-manuscript, and L75/REF_ketner
+excluded) and dropping any page already on disk. With the 284 priority pages from
+06-29 this brings the whole photographed set to a machine draft: **1166 `.txt`
+files across 74 R-folders, ~1.16 MB** of diplomatic markup, one file per page,
+named by image so it maps to the scan and the archive.org source.
+
+This machine-drafts *everything*, including the earlier Lecture III draughts
+(460-463) that TRANSCRIPTION-TRIAGE marks skim/skip -- deliberately: the machine
+draft is cheap, and the draft-triage governs where the *human squint* effort
+goes, not where the scaffold reaches. Each page is a hypothesis, the image its
+kill condition; June's corrections land as git diffs. Next: the squint pass in
+`tools/squint/`.
+
 ## 2026-06-29 - The transcription program: four layers, and the critic he never had
 
 The trip log ended pointing here: Harvard will post the images, never the

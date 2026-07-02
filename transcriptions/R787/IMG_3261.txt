@@ -1,0 +1,28 @@
+21
+
+We may particularly instance the indicative adverbs “here,” “there,” etc. There
+are {del}also{/del} {add}likewise{/add} the indicative nouns “this,” “that,” “y,” “thou,” etc. The relatives
+“which,” “who,” etc. similarly indicate words that have gone before. All
+proper names are of this kind; and among proper names should be
+reckoned “the yard,” “the metre,” “the Kilo,” “the gallon,” although with
+the indefinite article {del}any copies accurate{/del} the same words become
+common nouns denoting any {add}accurate{/add} copies of the prototypes. Among
+words and phrases {del}descriptive of{/del} equivalent to precepts for gaining
+the {add}occasional{/add} experience intended, may be mentioned “yesterday,” “ten days
+ago,” “a hundred yards to your right,” “the {del}then{/del} seventy-sixth,” etc. Parti-
+cularly important for logic are those {del}that words{/del} {add}and phrases{/add} which prescribe how
+the object intended is to be selected out of a collection, such as
+“every,” “some,” “every other one,” “ninety-nine out of a hundred,”
+etc. When the object or occasion intended is {del}directly{/del} prominent {add}in{/add}
+the listener’s {del}also{/del} field of observation, it suffices to {del}see{/del} {add}attach{/add} the definite
+article to a descriptive {del}for{/del} word or phrase, as “the man with the green
+cotton umbrella in the picture.”
+
+§ Let us next inquire whether we observe such indices to be essential
+in assertions. They certainly are so when any special fact is {del}stated{/del} {add}asserted{/add}. It
+is impossible to describe a place or a date; for all points of space and
+time are alike. So all {del}spatial and temp{/del} measures, as Cayley showed,
+refer to an individual {del}factor formula or module or{/del} thing which can only be
+denoted by a proper name. Coming to {del}g{/del} the expressions of general laws,
+they refer to the real world; — {del}generally indeed to some{/del} {add}[unclear: post?]ing 33
+and{/add} the real world’s

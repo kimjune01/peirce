@@ -1,0 +1,39 @@
+A sign is an object which stands in {add}such{/add} a triadic relation
+        to {add}a second{/add} {del}another{/del} and for a third as to determine that
+        third to stand in the same triadic relation to the
+        same second for some third.
+
+                {add}dyadic relate{/add}
+A genuine {del}[unclear]{/del} is one which stands in such a
+relation to a second as to determine that second
+to stand in a corresponding relation to it          ?
+
+A genuine triadic relate is {del}one{/del} an object which
+stands in such a triadic relation to a second
+for a third that the third stands in a corresponding
+triadic relation to that second for some third,
+
+                         the Firstness of which as a sign lies in its Firstness
+An icon is a sign whose one Firstness lies {del}that essence{/del}
+which makes it fit to be a sign
+
+An index is a sign where the Firstness of which as a Sign lies
+        in its Secondness {del}or its object{/del}
+
+                         fitness to act as a sign lies in its
+A symbol is a sign whose {del}possibility{/del} of being a sign
+        reference to an interpretant.
+
+A {del}proposition is a sign whose{/del}
+
+[diagram: large left bracket grouping the following three definitions]
+
+A rheme is a sign whose interpretant {del}represents{/del}
+                         represents it to be
+                         an icon
+
+A proposition is a sign whose interpretant represents
+                         it to be a index
+
+An argument is a sign whose interpretant represents
+                         it to be a symbol

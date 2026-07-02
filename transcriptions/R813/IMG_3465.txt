@@ -1,0 +1,30 @@
+L of A
+L of A                                              2
+
+                         X
+
+The second proposition completing the {del}formal{/del} definition of
+“Smaller than” is,
+[diagram: small boxed symbol]
+        {del}Nothing is smaller than itself.{/del}
+
+It will be remarked that nothing in the formal definition
+of “smaller than” distinguishes it from “greater than.” But the
+second proposition excludes the possibility of a thing being at
+once greater than and smaller than itself. In short “smaller
+than” cannot be distinguished by a definition alone, but it
+needs an index to distinguish it, just as right and left do.
+
+A quantity or magnitude is defined by the proposition,
+[diagram: boxed logical diagram with two S-marked lobes and labels “is a magnitude”]
+        Take any two magnitudes; then one is
+        smaller than the other or else they are
+        identical. In a universe of magnitudes
+        or quantities, we simply write [diagram: small logical diagram with two S-marked lobes]
+
+The whole numbers are formally defined by three propositions:
+        (The universe is understood to be the whole numbers.)
+[diagram: boxed logical diagram marked S and S-S]
+1st,) Every number is smaller than some number which is greater
+        than no number greater than the first.
+or Every number has another next greater than it.

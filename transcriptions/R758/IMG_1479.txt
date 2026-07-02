@@ -1,0 +1,17 @@
+B
+
+what is called a complete or logical one;
+that is to say, the principle that either P
+is false or C true could not be known,
+from the study of reasonings in general;
+but it would be a perfectly sound or
+valid inference.
+
+From what has been said it is plain
+that that relation between two propositions
+which consists in our knowing that either
+the one is true or the other false is of prime
+importance as warranting an inference
+from the former to the latter. It is, therefore,
+desirable to have an abbreviation to express
+this relation. (To omit no Premise.)

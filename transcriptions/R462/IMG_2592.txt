@@ -1,0 +1,25 @@
+28
+
+In short the difference between {add}alpha{/add}
+{del}a{/del}-impossibility
+and {add}beta{/add} ß-impossibility is that alpha impossi-
+bility is implicit self-contradiction violating
+the principle of contradiction and therefore being
+an impossibility for anything that has any kind of
+being. A beta-impossibility is an impossibility
+for whatever exists, so that the principle of excluded
+middle holds of it, whether this existence be accom-
+plished or be in futuro.
+
+{del}Thus{/del} The rule for finding whether a graph is
+ß-impossible, or if not {del}how near it comes to{/del}
+be {del}described along with if to render it so, is{/del}
+{del}that condition{/del} as follows:       ({add}regarding it as a legis{/add})
+
+[margin: Allowing such pair of an acceptable pair]
+
+1st Find in the graph some legis of
+{del}[unclear: commensurate]{/del}
+which {del}is both{/del} {add}one replica is wholly enclosed and{/add}
+another is evenly enclosed, the latter not being
+within every cut enclosing the former, And

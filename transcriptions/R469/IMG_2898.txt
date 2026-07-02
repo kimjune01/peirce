@@ -1,0 +1,31 @@
+54
+
+{del}[unclear: the]{/del} Cantor has conjectured that, given
+
+any collection whatever, any universe you
+
+please, of independent {add}[unclear: quasi-]{/add}individuals, there is
+
+a relation (and if one of course innumerable
+
+such) that in passing from relate to cor-
+
+relate and from correlate to correlate cor-
+
+relate, this relation arranges the whole
+
+universe in a Cantorian collection.
+
+Indeed, Cantor put forward this as more
+
+than a conjecture, -- as {add}a consequence of{/add} an
+
+{del}[unclear: unformal]{/del} {add}[unclear: formal]{/add} law of thought. But the
+
+proposition has been received by mathema-
+
+ticians with the gravest doubts.
+
+If I have time, I will say more about this
+
+very important question later; but at present

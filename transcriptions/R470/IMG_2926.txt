@@ -1,0 +1,24 @@
+prove, rigidly more, almost any proposition about
+whole numbers.  For example, in order to prove
+
+X+Y = Y+X whatever whole numbers
+
+X and Y may be, we first prove that it is so
+when Y=1.  That is we first prove X+1 = 1+X
+
+To prove this we begin by remarking that it neces-
+sarily is so when X=1. for then it is merely
+
+1+1 = 1+1.  Now suppose {add}if it be true of{/add} {del}that for{/del} any
+
+whole number N that N+1 = 1+N.  Then
+it's true also of 1+N, that is (1+N)+1 = 1+(1+N)
+
+For (1+N)+1 = 1+(N+1) & {del}suppose that{/del}
+
+be proved already, and since N+1 = 1+N
+1+(N+1) = 1+(1+N). So then X+1 = 1+X
+{add}for any one value of X{/add}
+{del}true of any number is true of the next greater value{/del}
+
+But if is true when X=1 thence it is true for all values

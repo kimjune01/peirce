@@ -1,0 +1,20 @@
+72
+
+given succession of occurrences are independent
+of one another and if they are not independent
+{add}the nature of their{/add}
+{del}in what manner they{/del} law of {add}their{/add} succession is.
+
+In the second variety of the statistical
+induction, we are supposed to know {del}that{/del} {add}whether{/add}
+the occurrences are independent, {add}or not, and if{/add} {del}as it is{/del}
+{del}[unclear: object?]{/del} not exactly how they are connected,
+and
+but the inquiry is limited to ascertaining
+what the ratio of frequency is, after the
+effects of the {del}regular{/del} law of succession have
+been eliminated. As a very simple example,
+I will take the following. The dice that are
+sold in the toy-shops {del}in the{/del} {add}as apparatus for{/add} games that
+are called are usually excessively irregular.
+It is no great fault, but rather enhances the

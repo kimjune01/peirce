@@ -1,0 +1,16 @@
+{del}thus debtor supposes debt a creditor ; the ground being{/del}
+
+Thus portrait supposes &c. But the sitter also represents the portrait
+to the painter ; the ground in this case as it happens being the same.
+The painter also represents
+
+[diagram: Painter, Portrait, and Sitter connected by arrows]
+
+Portrait represents sitter to Beholder
+Sitter represents beholder to Portrait
+Beholder represents Portrait to Sitter
+
+Eglise represents Church to Frenchman    because churches all have
+                                        that character.
+Church        Frenchman        Eglise
+Frenchman     Eglise           Church

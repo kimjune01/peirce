@@ -1,0 +1,30 @@
+Ma. 810
+
+Conclusion
+
+It may be well to conclude with a brief recapitulation
+of the fundamental principles of the Logic of relatives.
+{del}All terms{/del}, then, are either absolute or relative. Relative
+terms are either simple relatives or conjugatives. Conjuga-
+tives are reducible to relatives of two correlates. The
+most important division of simple relatives is into con-
+currents and opponents. The former imply an agreement
+in some respect among objects, the latter set {del}one{/del} {add}the relate{/add} over
+against its correlate. "Men that is --" is a concurrent, "hus-
+band of -" is an opponent. The division of conjugatives
+needs further investigation.
+
+Every simple relative has its converse, so that simple rela-
+tives generally occur in pairs; as "lover of -" and "loved by -"
+Conjugatives of two correlates occur in sixes; as "given of -
+to -," "given to - of -," "presented by - with -," "presented with
+- by -," "given to - by -," "given by - to -."
+
+{del}A correlative may either be undistributed, (as in "love of
+a woman") or distributed (as in "love of every woman"). If
+distributed it is so positively (as in "love of every woman")
+or negatively (as in "love of nothing but a woman."){/del}
+
+A correlate may be attached to a relative in three
+ways; first without distribution as in "love of a woman";
+second with distribution of correlate, as in "love of every woman,"

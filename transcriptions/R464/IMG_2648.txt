@@ -1,0 +1,30 @@
+2
+
+{add}The other theory of numbers{/add}
+{del}depends upon{/del} five premises represented in this
+graph
+
+[diagram: red and brown ligatures marked u]
+
+[diagram: enclosed ligatures marked u]
+
+[diagram: enclosed ligatures marked u]
+
+[diagram: nested/enclosed ligatures marked u]
+
+[diagram: larger nested ligatures marked u]
+
+[diagram: nested graph with x and u marks]
+
+The red ligatures refer to
+numbers, the brown ligatures
+to any universe such that there
+is a relation that it may be
+understood to express, that
+will make the entire graph
+true.
+x is to be understood to
+be replaceable by any monad
+graph whatever without
+altering the truth of the
+entire graph.

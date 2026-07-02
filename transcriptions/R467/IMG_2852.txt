@@ -1,0 +1,34 @@
+X←σ—Y
+
+[diagram: small graph labelled x and Y, with two θ marks inside an oval]
+
+[diagram: large nested graph with several enclosed θ pairs, lines labelled τ, Y, α, and outer areas]
+
+Two graphs
+together
+make a
+graph
+
+[diagram: small enclosed formula τ - θ + μ]
+
+There is a point
+on any blank
+
+{del}[unclear: Either]{/del}
+If a point of a graph
+is a point of an area
+
+{del}[unclear: There]{/del} -
+and if a point is a
+{del}point{/del} of that graph
+it is a point of that area
+
+[diagram: partial graph with labels τ, θ, Y, α]
+
+[diagram: large graph with intersecting areas and lines labelled τ, θ, x-σ, y-σ, α]
+
+A graph is
+wholly in
+one area
+
+[diagram: graph enclosed in one area, with labels τ, θ, Y, α]

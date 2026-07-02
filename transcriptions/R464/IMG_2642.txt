@@ -1,0 +1,19 @@
+{del}Ladies & Gentlemen:{/del}
+
+At the end of the last lecture I gave
+a rule for {add}positively{/add} ascertaining whether or not a
+graph is alpha-possible. {del}At the [unclear: ?]{/del} In case it
+be so, the rule further furnishes a description
+of the states of the universe to which its pos-
+sibility is limited. If I had time to let {del}[unclear: fall]{/del}
+{add}before you{/add}
+{add}the train of thought{/add}
+the {del}process of reasoning{/del} which {del}led to the{/del} {add}determined the{/add}
+formulation of that rule, it would afford an
+instructive simple example of methodical
+reasoning. Unfortunately, there is not time for
+any such illustration in this course; far less
+{add}the science of methodeutic [unclear: which depends upon]{/add}
+can that great third of logic that teaches
+the principles upon which reasonings are
+to be arrayed into systematic developments

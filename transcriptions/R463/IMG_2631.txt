@@ -1,0 +1,35 @@
+[unclear: Preceder p²]
+
+Hence the rate of description of area is constant
+
+Substituting,
+
+Dₜθ = 2A/r² in (1)
+
+we get
+
+Dₜ²r = (4A² - k) r⁻³.
+
+½(Dₜr)² = E - ½(4A²-k) r⁻²
+
+Dθr = ± √( E/2A² r⁴ - (1 - k/4A²) r² )
+
+(3)  Dᵣθ = ± { E/2A² r⁴ + ( k/4A² - 1 ) r² }⁻¹ᐟ²
+
+or we can write
+
+(Dₜr)² = 2E + (k-4A²)/2A Dₜθ
+
+Put ρ = log r. Then
+
+Dθρ = √( E/2A² e²ρ + k/4A² - 1 ) = 1/2A √(2E e²ρ + k - 4A²)
+
+The solution is of the form
+
+t = {del}A{/del} T tan (Mθ - MΘ)
+
+. θ = Θ + 1/M arctan t/T
+
+For Dₜθ = 1/TM ( t²/T² + 1 ) = 2A/r²
+
+. r = √ 2ATM ( t²/T² + 1 )

@@ -1,0 +1,23 @@
+Having found such a lexis, iterate the entire
+graph. {del}Now so{/del} Now in the near replica
+{add}of the graph{/add} {del}as to conjoin as far as possible{/del}
+{del}End them of the graph, join the junctives and{/del}
+the paths of the pairs {add}(namely, conjoining them consisting in joining
+all the junctives as consequent in graph){/add} using
+junctives as can be {del}joined{/del} by the following
+
+permissive operations:
+
+1. Any graph may be iterated* (with identical,
+junctives) within any even number of addi-
+tional enclosures.
+
+2. Regarding a junctive as enclosed by a
+cut only if every part of it is so enclosed,
+every oddly enclosed juncture may be extended
+{add}outwardly{/add} so as to be enclosed by two cuts {del}fewer{/del} {add}fewer{/add} and
+every evenly enclosed such may be retracted
+inwardly so as to be enclosed by two cuts fewer.
+
+3. Every {del}[illegible]{/del} {add}junctive{/add} may be extended or retracted
+inwardly, but since two lines of identity can

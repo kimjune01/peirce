@@ -1,0 +1,23 @@
+and I will begin by considering the Boolian
+calculus of logic.
+
+This algebra marks the merit of propositions upon
+a scale of {del}two{/del}. {add}Good and bad or{/add} True and false, are its only grades. It is
+a system of quantity having but two values; and each of
+its equations is, as it were, an arithmetical congruence having
+2 for its modulus.
+Most writers on the subject make the letters denote
+classes of things, primarily, and propositions only seconda-
+rily they follow the old logicians in taking the
+categorical proposition to be more primitive than
+the conditional and disjunctive propositions. At
+first blush, this seems evident; for conditional
+and disjunctive propositions are built up out of
+other propositions. But a careful {del}ex{/del} examination
+under the light of the logic of relatives shews that
+every categorical proposition of a general nature,
+such as alone can be fully expressed {del}onto{/del} {add}by{/add} the
+ordinary conventions of language, affirms or
+denies the dependence of one fact upon another.
+Thus, to say that all men are mortal, or whatsoever
+is a man is mortal, amounts to saying that any

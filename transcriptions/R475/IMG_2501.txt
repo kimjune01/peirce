@@ -1,0 +1,19 @@
+28
+
+of induction. Such errors were unavoidable,
+until my studies were advanced to the point
+at which I could classify all inductions.
+However, it remains true, that if we are to
+give the names of Deducation, Induction,
+and Abduction to the three grand classes of
+inference, then Deduction must {del}mean{/del} {add}include{/add}
+{add}every attempt at{/add}
+{del}all{/del} mathematical demonstration whether
+it relate to single occurrences or to “proba-
+bilities” that is, to statistical ratios; In-
+duction must mean the operation of
+{del}through which leads us to accept any such{/del}
+{add}when the rejection is not demonstrably necessary{/add}
+{del}theories, or to determine the values of{/del}
+{del}constants; in short, to every kind of{/del}
+{del}reasoning which makes no pretension to{/del}

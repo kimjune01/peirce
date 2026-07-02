@@ -1,0 +1,28 @@
+... Attraction inversely as cube of distance
+
+Vis viva        1/2(D_t r)^2 + 1/2([unclear: D_t?])^2
+        = 1/2{(D_t r cos θ)^2 + (D_t r sin θ)^2}
+        = 1/2{(D_t r.cos θ - r sin θ.D_tθ)^2 + (D_t r sin θ + r cos θ D_tθ)^2}
+        = 1/2{(D_t r)^2 + r^2(D_tθ)^2}
+
+From Lagrange’s Equations
+
+(1.)        D_t^2r - r(D_tθ)^2 = - k r^-3
+
+(2.)        2r D_tr.D_tθ + r^2D_t^2θ = 0
+
+The element of the path        [diagram: small angular triangular sector]
+is √r^2(dθ)^2 + (dr)^2
+
+The perpendicular from centre to path is (r+dr) sin arc tan^-1 r dθ/dr
+
+= {del}(r+dr) 1/√(1 + r^2(dθ/dr)^2){/del} = r dr/√((dr)^2 + r^2(dθ)^2)
+
+∴ the element of the area is 1/2 r dr
+= (r+dr) 1/√(1 + (dr)^2/r^2(dθ)^2) = r(r+dr)dθ/√r^2(dθ)^2 + (dr)^2.
+
+Element of area described is {del}1/2{/del} r^2dθ
+Dividing (2) by r^2D_tθ it becomes
+
+(21)        {del}[unclear: φ]{/del} D_t log r^2 + D_t log D_tθ = 0
+(22)        log{r^2D_tθ} = {del}Aω{/del} A

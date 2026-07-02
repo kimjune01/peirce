@@ -1,0 +1,20 @@
+40
+
+number of conclusions could be drawn. {del}According to{/del}
+
+In the alpha-part of logic to which the ordinary text books
+of logic are virtually confined, because although if the
+{del}problem{/del} they consider were stated in graphical form,
+there would be ligatures, yet they are only such as
+can all be joined throughout the graph, so that the
+rules of operation become the same as if there were no
+ligature at all, — this is not a minutely accurate state-
+{add}because the books are so unessential that no brief statement
+of what they contain could be [unclear: quite?] accurate,{/add}
+ment, but it is substantially so — {del}[unclear: such?]{/del}
+in this alpha-part of logic a premise can only be
+efficient once. But in the beta part of logic pre-
+mises can be {del}applied{/del} {add}efficient{/add} over and over and
+over again endlessly. A moment's reflexion on
+any simple branch of mathematics will show that
+it must be so. For instance, the whole theory of numbers

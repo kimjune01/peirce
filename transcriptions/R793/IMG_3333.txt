@@ -1,0 +1,17 @@
+10
+rank, when the subjects are expressed by collectives, their order
+is a matter of consequence. Thus,
+
+"{del}Any man praises some horse to any woman{/del}, is [diagram: nested enclosure with “is a man,” “praises to,” “is a woman,” “is a horse”]
+{add}Any man to any woman praises some horse{/add}"
+
+"
+Any man praises to any woman some horse
+
+[formula: see image]        is a man
+
+[diagram: nested enclosure with “is a man,” “praises to,” “is a woman,” “is a horse”]
+
+[diagram: nested enclosure with “is a man,” “praises to,” “is a woman,” “is a horse,” crossed by diagonal line]
+
+[diagram: nested enclosure with “is a man” deleted, “praises to,” “is a woman,” “is a horse”]

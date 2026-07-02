@@ -1,0 +1,26 @@
+Logic of the Sciences
+~~~~~~~~~~~~
+
+§1. Conception of Logic.
+
+Against the common conception of logic, I shall urge a
+sweeping objection. {del}Logic{/del} Almost every definition of the science
+that has ever been propounded has made it refer exclusively to
+thought or cognition. Now, if by thought is {del}it{/del} meant thought as
+it is, I object that thought is concrete and limited in time and
+otherwise while the relations of logic have no such limitation.
+Suppose a syllogism to be written down; then every time that it
+is read it produces {del}cognition{/del}{add}conviction{/add}; and this shows that it has a
+permanent convincing power or relevancy in itself, as much as
+the repeatedly observed blackness of the letters shows that they have
+a quality of blackness in themselves. But if by thought be
+meant thought in general from which everything that is particular
+has been eliminated, I then reply that such thought cannot really
+be thought; it is too pure and abstract; and that consequently, logic
+does not deal with psychological laws as is now commonly sup-
+posed. In fact, thought may be illogical; it is only correct
+thought which is logical. What is this correct thought? It is thought
+which represents the intuition. Logic therefore deals with thought
+only in so far as the latter is a representation. And as I said
+every representation has its logical relations whether it is actually
+thought or not. So that it is more correct to say that Logic is

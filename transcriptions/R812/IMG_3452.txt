@@ -1,0 +1,25 @@
+object, no matter how selected, if it be a man, then
+is mortal. The only distinction between the categorical
+{del}is under{/del} that copula and the conditional proposition, is
+that the former contains an “it” which is virtually a
+relative pronoun. The categorical proposition is, in short,
+simply a {unclear: relative?} conditional. Let L signify “is a
+man,” and M “is mortal.” Then, the proposition may
+be written in a notation explained by De Morgan. Math. vol VIII.
+Πₓ(Ḷₓ + mₓ)
+
+where Πₓ means that x may be any object in the
+universe, Ḷₓ that x is not a man, mₓ that x is
+mortal, Ḷₓ + mₓ that either x is not a man or
+x is mortal. The part under the parenthesis alone
+of the Boolean algebra. It is the sort of expres-
+call a Boolean. The fact that Lₓ and mₓ are
+simple letters but letters with affixes has
+thing to [illegible] the procedure of the {del}algebra{/del}
+calculus; thus see that every proposition which
+[illegible] complete sense in ordinary language
+[illegible] propositions that do not severally
+complete sense. But this incompleteness
+affects the application of the Boolean
+We therefore, assume that every letter in this
+signifies a fact, partial or complete.

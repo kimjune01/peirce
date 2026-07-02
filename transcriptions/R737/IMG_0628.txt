@@ -1,0 +1,46 @@
+Ms. 737
+
+Memoir §4. Algebra of Copula
+
+
+(1)        x̄ ⊃ x
+
+
+(2)        If from x and y, follows z     then if x, ȳ⊃z and conversely
+
+
+(3) Hence  x̄⊃ȳ⊃z = ȳ⊃x̄⊃z
+
+
+        If a then b⊃a                         ā⊃0⊃c
+
+        {del}[illegible]{/del}                  ā⊃0 < ā⊃c
+
+{del}[formula: see image]{/del}                 ā⊃c⊃c < ā⊃0⊃c        a(b+c)=ab+c
+
+        ā⊃v            v⊃a          ā⊃b⊃d     c⊃d
+                                      ā⊃c⊃d
+
+If a then v⊃a, [unclear: *] b⊃v, ∴ by sim b⊃a
+
+
+        ā⊃b⊃c
+
+
+        ā⊃b⊃c     a + b + c                 {del}a⊃a{/del}
+
+{del}[illegible]{/del} If ā⊃a⊃b then ā⊃b       {del}a⊂a+c{/del}
+
+        {del}By modus ponens{/del}              {del}a<b∨c{/del}
+                                                If a+b≡c
+                                                a is c
+        {del}a⊃{/del}                           {del}[formula: see image]{/del}
+
+        ā⊃b⊃c
+
+        ā⊃b⊃c          If ā⊃a⊃b then          If b⊃c then
+                         {del}ā⊃a{/del}        ā⊃b⊃c
+
+        a b + c
+        ā⊃b⊃c then b⊃c      {del}[illegible]{/del} ā⊃a⊃c      a < a+b     If ā⊃e then ā⊃b⊃c
+If b then a⊃b {del}ā⊃b{/del}                   If b⊃c          ā⊃b⊃c

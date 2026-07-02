@@ -1,0 +1,19 @@
+68
+
+{del}little is{/del} {add}or nothing{/add} is gained by the more compli-
+cated expression. But in some cases there
+is a great gain. When, for example, instead of
+saying that a particle moves we say that the
+particle describes a line we introduce an ab-
+straction in the same manner as when we
+talk of a locomotive virtue. But the advantages
+here are manifest, since we may imagine
+a filament to occupy the whole line at
+once, and we may further imagine that,
+{add}in such a manner that at each moment it altogether quits the
+line which it momentarily occupied{/add}
+that filament moves [diagram: small sketch with crossed line and triangular/looped figure] Here again we may
+introduce an abstraction and say that the
+filament generates a surface. Then we
+may imagine {del}that{/del} a [unclear: material] film to
+occupy the whole surface at once, and may

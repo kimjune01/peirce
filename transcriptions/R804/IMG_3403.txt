@@ -1,0 +1,27 @@
+X                                                                 29
+
+It is really strange such a fuss should have been made over {add}the{/add} analysis
+of the essential nature of assertion, {del}going{/del} some logicians going so
+far as to pronounce it inanalysable and sui generis when it is so simple.
+A sign which gives reason to think that something is true, I have named
+a symbol, or token. It might also be called a symptom. At one time, I was
+inclined to restrict this {del}term{/del} class of signs to those that are conventional;
+but [unclear: on] further consideration I am convinced that I was right at first
+in extending it to all general signs. Indeed, I am now convinced that natural
+general signs,— which {del}[illegible]{/del} {add}in my{/add} derivation, I proposed to class with indices,—
+are the most typical of these symptoms. It may be useful to explain
+how I was thus led astray. At first, {del}when{/del} before my first paper on
+the logic of relatives but after some study of De Morgan's clearing of the
+land, I already dimly saw what had escaped that eminent logician,
+{add}simply the characteristic of beside{/add}
+that beside relations between pairs of objects, there was a third class
+of characters, and but this third. I did not yet see that these were nothing
+but plural relations, that is relations between triads or larger sets of
+correlatives, reducible in the latter case to compounds of triadic relations.
+I called them representations, because a sign has a reference, not only
+to an object but also to a "listener", or, as I then ({add}more{/add} accurately) said
+to an "interpretant" representation. I was so far right in this, that represen-
+tations, or signs, are the most typical of triadic relations. I therefore made
+three classes of characters, namely, qualities (or non-relative characters),
+relations (that is dual relations, which alone De Morgan had considered)
+and representations. I then recognized that relations are of two kinds, according

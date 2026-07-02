@@ -1,0 +1,21 @@
+32
+
+does not happen to conform to it, {add}similar deductions{/add} others will.
+Induction on the other hand mentions
+a ratio and says {del}that{/del} if it be not quite
+right, further inductions will {del}[unclear: handle]{/del} it
+right, {del}Both as{/del} inferences virtually assert
+that there is such a {add}statistical{/add} uniformity that samples
+{add}of experience will in the long run{/add}
+{del}generally{/del} represent the whole {del}[unclear: lot sample]{/del}
+long run of experience. In regard to {del}some{/del} {add}any particular{/add}
+statistical ratio this is not necessarily
+{add}because there may not be any definite ratio in the long run{/add}
+the case, {del}But in regard to the ratio{/del}
+{del}existing ratio of a species to a genus, it{/del}
+{del}cannot but be true.{/del}
+
+Thus, you see that although induction
+does
+is not necessarily lead to the truth in
+any particular case and does not even

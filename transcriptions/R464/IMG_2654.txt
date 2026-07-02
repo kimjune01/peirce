@@ -1,0 +1,32 @@
+24
+
+an odd number of cuts and these join it to another,
+
+{del}to detach a [unclear: scroll?] {add}so as to{/add} get rid of an odd, enclosed{/del}
+
+{del}replica, and to erase an [unclear: evenly?] enclosed{/del}
+{add}[unclear: other term graph].{/add}
+
+{del}replica{/del} {add}Otherwise,{/add} this operation is irreversible.
+
+Secondly, when all possible combinations of
+
+conjunctions of applicable pairs have been
+
+made, the second part of the rule is to be
+
+applied, all spots not conjoined by all their
+
+corresponding hooks being treated as replicas
+
+of {del}the same{/del} {add}different{/add} levels and all spots that are so
+
+conjoined being treated as replicas of the same
+
+level, and no further attention being paid to
+
+the ligatures during the process.
+
+The process will be found to be simpler
+
+in practice than it sounds in an abstract

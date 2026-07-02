@@ -1,0 +1,24 @@
+§45. According to that hypothetical proposition does not essentially
+differ from an unquantified categorical. It is there even called by Bvt-
+Schröder a particular species of categorical. But here it appears as
+having properties which no categorical possesses. I {del}mention{/del} {add}am confident,{/add}
+however, that examination will convince the reader that it has no
+such properties. I first remark that a proposition does not cease to be
+true because it is nonsensical. A proposition is false if and only if
+something which it either expressly asserts or implies is false; and every
+proposition not false is true, by the principle of excluded middle. Hence,
+something not an assertion, considered as an assertion, is true. We
+may therefore put the question of truth and falsity aside; and ask whether
+it be true that a hypothetical can be nonsensical, but a categorical
+not. The truth is that nonsensical forms are so readily made in cate-
+goricals that {add}by the usage of{/add} language has taken them up and attached meanings
+to them. “What I am telling you is true,” and “A man is a man,” are
+frequently heard, although these are, in the strictest sense, nonsensical.
+One of Bvt-Schröder’s examples of a nonsensical proposition is
+“This proposition is not true.” But that is easily shown to involve
+contradiction, that is to imply two contradictory things. It there-
+fore does imply, or mean, something. A self-contradictory propo-
+sition is not meaningless; it means too much. But if Bvt-
+Schröder {del}means{/del} {add}intends{/add} to say that a categorical proposition cannot be
+self-contradictory, that is equally untenable. “A is not A” refutes {add}that{/add}.
+Common nouns are primitively used to denote “sense-percepts,”

@@ -1,0 +1,18 @@
+Universe        has its conveniences. The former mode of expression is more
+B        to be recommended; but the latter cannot be condemned when
+its meaning is clear. The truth or falsity of a proposition will
+often depend upon the order in which the different dimensions
+of the universe are considered. All published researches into
+formal logic are limited to cases in which the universe is a
+{add}collection of{/add} {del}consists of{/del} singulars; {del}that{/del} meaning by a singular an object
+concerning which any predicate or its negative must be true,
+but concerning which both cannot be true. In those cases,
+what is true and what false depends upon what is true and
+what false of singulars. A subject is universal, {del}a{/del} distributed,
+{add}or non-individual,{/add} when the interpreter {add}of it{/add} has a latitude of choice as to which
+singular he may substitute for the subject in the proposi-
+tion, {del}without transgressing the limits of the assertion.{/del} {add}pronouncing the original proposition false if the modified proposition{/add}
+if false. A subject is {del}individual{/del} {add}particular{/add}, undistributed, or {del}particular{/del} {add}indefinite{/add} when the
+utterer of it has a latitude of choice as to what singular
+he may substitute for that subject, {del}pronouncing{/del} {add}proving{/add} the {add}original{/add} proposition to
+be true if {del}that{/del} the modified proposition. [The former definition

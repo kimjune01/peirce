@@ -1,0 +1,33 @@
+then, with distribution of relate as in "lover," in whatever way
+it is lover at all, of a woman."
+
+Relatives may be compounded. In their composition, {add}four{/add} {del}certain{/del} prin-
+ciples hold, which may best be enuciated in examples. Sup-
+pose lover and servant to be compounded in their application
+to woman. Then, we have,
+
+1. That which stands to a woman in the compound relation of
+lover of a servant is {del}the{/del} same as {add}the{/add} Lover of {add}[unclear: some] everything which is{/add} servant of a
+woman; (De Morgan)
+
+2. That which stands to every woman in the relation of Lover
+of every servant is the same as the Lover of everything which
+is servant of a woman;
+
+[diagram: left margin brace grouping the next two numbered propositions, marked "h."]
+
+3. That what stands to nothing but a woman in the relation of
+lover of a servant is the same as the lover of nothing but
+that which is servant of nothing but a woman;
+
+4. That which stands to every woman in the relation of lover
+of nothing but a servant is the same as that which is a lover
+of nothing but what is a servant of every woman.
+
+The converse of a compound relation is obtained by con-
+verting the constituents and transposing their order, the dis-
+tribution of the constituents remaining unchanged. (De Morgan)
+Thus, the converse of {del}the{/del} "lover of every servant" is "master of
+nothing but what is loved by --."
+
+{del}Here{/del} the relation expressed by the copula is the most general,

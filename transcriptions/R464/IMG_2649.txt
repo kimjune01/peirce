@@ -1,0 +1,18 @@
+14
+
+We shall see, in due time, what those five
+premises are. Suffice it for the present to say
+that there are only five. Now if each of them
+could be efficient and {add}that{/add} {del}[unclear: seem]{/del} in only one way, as one
+would have a right to infer from the account of
+reasoning given in the text-books, it would
+necessarily follow that there could not be but
+32 theorems of the theory of numbers in all; whereas
+of highly interesting theorems already known there
+are hundreds. Euclid's Elements, which was never
+designed to be more than an introduction to
+geometry and algebra (or that theory which with the
+Greeks served the purpose of our algebra) has only
+5 postulates, which are the main premises together
+with 9 axioms and 132 definitions. From these
+Euclid deduces 369 theorems, 96 problems,

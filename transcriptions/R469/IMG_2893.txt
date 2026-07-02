@@ -1,0 +1,22 @@
+45
+
+{del}tion of different B's A the same A for every A to{/del}
+{add}converse{/add}
+reduce its to a one done relation of every A
+
+Do a B. Thus we have proved that if there is no
+one relation of every B to {add}some{/add} A there is a one to one
+relation of every A to some B. [go to p 60]
+
+[unclear: skip?] Let us now look into another problem.
+Dr. Georg Cantor has a wonderful system
+of Ordinal Numbers which I must explain to you.
+It begins with the ordinary ordinal numbers
+
+1, 2, 3, 4 5 6 7 8 9 10 11....
+
+That series is endless. That is to say, it has no
+last. But neither in logic nor in fact does that
+interfere with its being gone through completely, provided
+the objects numbered are not in the nature of exis-
+tences. When, for instance, Achilles runs after

@@ -1,0 +1,26 @@
+§2
+
+Greater & Less
+
+He defines as follows:
+If no part of M is equal to N
+But a part N₁ of N is equal to M
+the same thing is true of M' [unclear: ∪] M and N' [unclear: ∪] N. This therefore
+is a relation of multitude.
+Then M and N are not equal, for since then M [unclear: ∪] N
+and N' [unclear: ∪] M it follows the N' [unclear: ∪] N; and since M [unclear: ∪] N
+there is a part of M say M' which is M' [unclear: ∪] N' and
+consequently {del}M [unclear: ∪] N are{/del} M' [unclear: ∪] N {del}which contrary{/del}
+to hypothesis.
+
+He writes
+(1)     a = M̄     b = N̄     a < b     b > a
+and it is easily proved that
+(2)     if a < b . b < c then a < c
+and if P₁ is part of P and a < P̄ then a < P̄₁
+        and {del}consequently{/del} if P̄ < b then P̄₁ < b
+He then proves that the three relations
+        a = b     a < b     a > b
+are mutually exclusive.
+But that one or other always holds, is in this place
+“Kaim zu beweisen.”

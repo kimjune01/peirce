@@ -1,0 +1,27 @@
+Aristotle 10
+
+their classification completely. Now it may be said that one sys-
+tem of coördinates is more natural than another; and it is obvious
+that the condition of binocular vision limits us in our use of our eyes
+to the use of {del}determinate{/del} {add}[unclear: X a Eucl.?]{/add} coördinates. But this fact that one such sys-
+tem is more natural to us has clearly nothing to do with pure mathematics
+but is merely in introducing a problem; {del}required{/del} {add}given{/add} two eyes, required to
+{del}form{/del} geometrical judgements, how can we do it? In the same way, I
+conceive that the syllogism is nothing but the system of coördinates
+or {del}method{/del} of analysis which we adopt in logic. There is no reason why
+arguments should not be analyzed just as correctly in some other
+way. It is a great mistake to suppose that arguments as they are thought
+are often syllogisms, but even if this were the case it would have
+no bearing upon pure logic as a formal science. It is the {add}presupposed{/add} business of
+the logician to analyse arguments into {del}simple{/del} {add}their{/add} elements just as it is
+{add}part of{/add}
+the business of the geometer to analyse curves; but the one is no more
+bound to follow the natural process of the {del}mind{/del} {add}intellect{/add} in this analysis, than the
+other is bound to follow the natural process of {del}the sense{/del} {add}perception{/add}. I mean to say,
+then, that every argument may be {del}analysed into{/del} {add}formally considered as{/add} a combination of
+syllogisms which shall fully determine the weight of that argument;
+{add}the rule of{/add}
+provided that {del}either{/del} {add}both the{/add} major premiss the minor premiss {del}and{/del} or the conclusion
+be regarded as containing the inference. And I further say, that in every
+syllogism it is {del}either or{/del} {add}a certain{/add} one of these propositions which contains the
+inference; and not {del}indifferently{/del} either of {del}two or three{/del} {add}the others{/add}.

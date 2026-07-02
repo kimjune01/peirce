@@ -1,0 +1,21 @@
+number of sums in addition?  Naturally, the distinction
+between addition proper and the evaluation of the limit
+of an infinite series whose general term is given would
+be overlooked.
+Can it be, {add}one might reasonably ask,{/add} that Zeno had the strange idea that the
+sum of an endless series of finite quantities is
+necessarily infinite?  If one had asked him why he
+thought so, would he have said with Full-Private James,
+        "If glimmering thought occurs to me,
+        Its source I can't unearth;"
+Or would he have responded that the sum of a series of
+unequal positive numbers {del}is greater{/del} exceeds the product
+of the number of terms by into the value of the least term?
+If so, the obvious answer would be that in {add}a{/add} {del}endless{/del} series
+of quantities each smaller than the preceding, the least
+is the last; but an endless series has {del}by ex vi termini{/del}
+no last, and consequently no least.
+
+Zeno lived 500 years before Christ, and is called by
+Aristotle the earliest logician.  He {add}really{/add} conducted his attack on
+motion very feebly, {add}as he is represented to have done{/add} he is to be forgiven. But that the most

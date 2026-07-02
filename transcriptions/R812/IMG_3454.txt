@@ -1,0 +1,22 @@
+ordinary algebra, supposing every quantity, as x, V be
+subject to a quadratic equation with fixed roots. This
+may be written
+        (V - x)(x - f) = 0 ;
+and it is not necessary to assign special numerical
+values of the roots. But Boole assumed x² = x,
+making the values 1 and 0. His object in making
+this choice was to bring the algebra into harmony
+with the {del}them{/del} ordinary calculus of probabilities;
+for he made x = 1 mean that the proposition signi-
+fied by x was true, and x = 0 mean that it was
+false. (My v stands for verum, and my f for falsum.)
+But {del}he might{/del} instead of measuring probability upon
+a scale running from p = 0 to p = 1, we might equally
+well measure it {del}upon a scale running from{/del} by Fᵖ, where
+F is any universal function; {del}and in that case F¹{/del}
+{del}would [illegible]{/del} modifying the rules of the calculus
+accordingly; and in that case we should naturally
+take v = F¹, and f = F⁰. Indeed, where we are
+considering the {del}antecedent{/del} probabilities of argument,
+it is convenient to consider instead of the “probability,”
+the odds, or ratio of favourable to unfavourable cases,

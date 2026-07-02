@@ -1,0 +1,12 @@
+[diagram: circled number 3 in upper right]
+
+From (11)        [unclear: Whk?]        (13)
+Then by (12) putting for [illegible] Dkθ = Di[illegible]. Di[illegible] + WkV (14)
+we have
+({del}W:B{/del} + DiC) \overline{BiC} + (\overline{SiB.SiC} + BiC) TQS(\overline{TiB + TiC}) \overline{BiC}
+        + {del}SQC(CiB.CiC{/del} BiC
+{del}[illegible]{/del} n-1..
+{del}WiV.WiV{/del} + (SiW.\overline{SiV} + WiV) TQS(\overline{TiW + TiV}) \overline{WiV}
+        . + {del}DQV.(WiW.ViV +{/del} WiV)
+
+Whence    WiV.

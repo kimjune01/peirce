@@ -1,0 +1,26 @@
+It is desirable to remark at the outset that
+
+the Mathematics of Multitude is not pure
+
+mathematics. The reason is that the whole
+
+[diagram: nested black and red bracketed regions comparing “is a number,” “is used in counting,” and “is a collection” relations]
+
+application of Numbers to
+{del}Mathematics of{/del} Multitude is based on the {add}form{/add} proposition
+I will state these propositions although it is not necessary you should follow them
+exactly. It will be sufficient to apprehend their general character
+the first is, that if you take any two numbers say 3 and 7
+
+and there is a collection [diagram: red arrow-like marks] that 3 is used in
+
+counting: one, two, three, four, five, – and there
+
+is a collection that seven is used in counting
+
+[diagram: red dotted square] then either 7 is used in counting the first
+
+or else 5 is used in counting the second.
+
+That is the first proposition, represented by
+{del}the{/del} {add}that{/add} graph above, and the other proposition

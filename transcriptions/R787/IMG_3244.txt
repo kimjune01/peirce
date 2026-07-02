@@ -1,0 +1,25 @@
+history, except so far as mathematicians have been confounded
+with astronomers or with dynamicists. Thus, the ancient ge-
+ometry, besides its axioms, or κοιναὶ ἔννοιαι, "things which every
+body knows," has postulates, which the student is asked to grant,
+although the teacher in no way guarantees their truth. Among
+{add}the postulates, for example,{/add} {del}them{/del} was that proposition {del}about{/del} {add}that{/add} two straight lines in a plane
+cut by a third so as to make the sum of the internal angles on
+one side less than two right angles will meet on that side if
+sufficiently produced; and it {del}is a{/del} {add}was only a{/add} false test {del}which because{/del} {add}that one was at{/add}
+time in vogue that converted this into an axiom. Everything
+which the employe of the professional mathematician calls
+a fact becomes for the mathematician himself a "hypothesis."
+For as to when the facts really are, he does not concern him-
+self.
+
+The next {del}thing{/del} {add}phenomenon{/add} to be noticed is, that it is the rarest
+thing in the world for the professional mathematician to answer
+the precise question which is put to him. For the question put
+to him is almost always too difficult for his powers. Often, too,
+he sees that, as it is expressed, it does not meet the real
+want. The first part of the task of the professional mathe-
+matician is, therefore, to frame a hypothetical question for
+himself. The pure mathematician does the same thing, only
+that instead of making his hypothesis as near as possible to
+alleged facts, he is more influenced by the beauties and sym-

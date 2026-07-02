@@ -1,0 +1,24 @@
+6
+
+{del}But{/del} Achilles will in {del}time{/del} sufficient time run over any
+distance whatever. {del}It may, then, perfectly well be that{/del} {add}Therefore{/add} {add}though{/add} he
+will in no number of your stretches overtake the tortoise,
+it may perfectly well be that in a time sufficient
+for him to run a distance. There is {del}therefore{/del}, an ambiguity
+in your expression, "and so on endlessly?" If you mean in
+no {del}man{/del} finite number of your stretches it is true; but if
+you mean in no distance whatever, it is what you have
+not proved." "I mean," he said, "in no time. It will take
+time to run over any stretch and to run over an infinite
+number of stretches will take an infinite time." "But," I
+replied, "all that you have proved is that {del}in 1, 2, 3, or{/del}
+{del}any finite number of stretches, the last stretch even{/del}
+{del}over by the{/del} when Achilles has finished the last of
+these stretches, however many of them there may be,
+the tortoise will still be ahead of him. Your whole argu-
+ment rests on the state of things at the end of the last
+stretch of a series of stretches. But an infinite series of
+stretches is an endless series; there is no last stretch
+of such a series; and whether or not an {del}infinite{/del} {add}endless{/add} series
+of [unclear: your?] shortening stretches would or would not be
+[unclear: run over?] by Achilles in a finite time, after which he

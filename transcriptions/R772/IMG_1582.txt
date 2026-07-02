@@ -1,0 +1,23 @@
+( physical constants or numbers expressing properties ) 5
+Of these {del}properties{/del} almost all are either peculiar
+to some particular thing (such as the dimensions
+of the earth) or to some kind of substance
+(such as the atomic weight of hydrogen.) In the
+whole range of physics, we know of no others
+and cannot expect to find no others, except only
+two: first, the amount that one gramme attracts
+another gramme placed at a distance of a
+metre. which is {del}[formula: see image]{/del} 6 ÷ 10^14
+0.00000000000006 metre cubes per gram-(second)^2
+and the velocity of light which is
+300000000 metres per second.
+By choosing the appropriate relation between
+our units of mass, space, & time we can give
+These constants any numerical values we please.
+For example, we might make them both unity.
+But if we had {del}other{/del} {add}a third{/add} universal constant, we could
+not make all three unity, at least without de-
+termining the absolute value of our {add}fundamental{/add} units. Now
+it may be considered reasonable to suppose that
+considerations relating to the general laws of na-
+ture should {del}make us{/del} {add}lead us{/add} to adopt a certain ratio between

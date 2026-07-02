@@ -1,0 +1,43 @@
+§ 7. Mathematical Syllogisms.
+
+A kind of argument very common in mathematics may be exem-
+plified as follows:—
+
+Every part is less than that of which it is a part,
+Boston is a part of the Universe;
+∴ Boston is less than the Universe.
+
+This may be reduced to syllogistic form thus:—
+
+Any relation of part to whole is a relation of less to greater,
+The relation of Boston to the Universe is a relation of part to whole;
+∴ The relation of Boston to the Universe is a relation of less to greater.
+
+If logic is to take account of the peculiarities of such syllogisms,
+it would be necessary to consider some propositions as having three
+terms, subject, predicate, and object; and such propositions would be
+divided into active and passive. The varieties in them would be
+endless.
+
+PART III. § 1. Induction and Hypothesis.
+
+In the syllogism,
+
+Any M is P,
+
+Σ′ S′ is M;
+
+∴ Σ′ S′ is P;
+
+where Σ′ S′ denotes the sum of all the classes which come under M.
+if the second premise and conclusion are known to be true, the first
+
+* Hypotheticals have not been considered above, the well-known opinion having
+been adopted that, “If A, then B,” means the same as “Every state of things in
+which A is true is a state of things in which B is (or will be) true.”
+
+—VOL. VII.          36
+
+† 1893 Feb 15. The {del}first{/del} further study of this subject gave
+the whole theory of the logic of relatives. The present Essay
+dates from 1869.

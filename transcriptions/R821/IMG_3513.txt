@@ -1,0 +1,30 @@
+I define as follows:
+        If there is no relation, ρ, such that every M is
+        ρ to an N to which no other M is ρ, then, and
+        then only, M > N
+
+If M is not greater than N and N not greater than M
+then M is equal to N.
+
+From this point of view the difficulty is to prove
+that it cannot be that M > N  N > M.  It is evident
+that either a > b or b > a (or both) or a = b.
+
+As to a part, {add}identity{/add} is the relation in which every
+member of it is in to a member of the whole to which
+no other is in the same relation.  Therefore the
+part is either {del}smaller{/del} {add}fewer{/add} than or equal to the whole
+
+If in my sense N > M then it is not evident that M is not
+also greater than N and therefore is not evident that N > M
+in his sense.  My N > M is the same as {del}his{/del} {add}neither{/add} his N > M or his neither
+But if in his sense N > M so that a part of N, = M there is
+a relation, in which every M is ρ to an N to which no other M is ρ and
+therefore M is not greater than N and therefore either M = N or N > M in
+my sense.  But if M = N then a part of M, say M₁ would be equal to N₁
+and therefore M = N₁ = M₁ = N and a part of M would be equal to N
+contrary to the first clause of his def.  Hence if N > M in his sense
+it is so also in my sense.  In short of his four relations
+a = b  a > b  b > a  neither equals are the same and
+my greater means his greater or neither, his a > b is my {add}a > b
+and b ≠ a{/add}

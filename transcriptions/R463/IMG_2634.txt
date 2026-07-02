@@ -1,0 +1,13 @@
+9
+
+Any inverse power of distance
+
+D_t² r = 2 A² r⁻³ + K r⁻ⁿ
+
+1/2 (D_t r)² = - ε - A² r⁻² + K/(n-1) r⁻ⁿ⁺¹
+
+D_t r = √(2K/(n-1) r⁻ⁿ⁺¹ - 2A² r⁻² - 2ε)
+
+D_r t = (2K/(n-1) r⁻ⁿ⁺¹ - 2A² r⁻² - 2ε)^-1/2
+
+= r (2k/(n-1) r³⁻ⁿ - 2A² - 2ε r²)^-1/2

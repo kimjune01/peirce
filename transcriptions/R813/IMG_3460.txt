@@ -1,0 +1,31 @@
+L of A
+
+We thus see that a one-to-x relation can be put into or taken out
+of [illegible] containing its relata, without relation to this [illegible]
+
+[diagram: nested enclosures with jagged outer line and several lines labeled “possesses”; includes “S” and “-S” in small loops.]
+
+The jagged line refers to the universe
+of characters.
+
+2nd
+Every character possessed by a number
+is either such that any number whatever
+is smaller than some number possessing
+that character or else there is a number possessing that character
+which is either larger than or identical with every number
+possessing the character.
+
+Or, every collection of numbers which has a number larger
+than any of them has a number which is the largest among
+them.
+
+It is easy to conceive of a universe of numbers of which
+this is not true. Thus if to the whole numbers we add
+11, and 11·1, and 11·11 and 11·111, and 11·1111, and 11·11111,
+etc without end, then although every single number would
+have a number next greater than it, yet the class of numbers
+smaller than 12 has no largest.
+
+3rd = [diagram: small oval crossed by a horizontal line, containing “-S”.] There is a number (i.e. zero) than which
+none is smaller.

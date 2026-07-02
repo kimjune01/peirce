@@ -1,0 +1,31 @@
+Ms. 808
+
+Formal Division of Dyadic Relations.
+
+        aᵢ means ; is a relate of the relation in question
+        bⱼ   "   ; "  " correlate  "     "      "     "
+        Σᵢ aᵢ        Πᵢaᵢ                         Πⱼbⱼ
+          relation
+        Σᵢ āᵢ        Πᵢāᵢ
+                    (0                         Σⱼ b̄ⱼ
+
+        Σᵢ Σᵢ′ aᵢ·aᵢ′·Tᵢᵢ′        |  Σⱼ Σⱼ′ bⱼ·bⱼ′·Tⱼⱼ′
+        {del}Σᵢ Πᵢ aᵢ{/del}        |
+        Σᵢ Πᵢ aᵢ·(āᵢ′+lᵢᵢ′)       |  Σⱼ Πⱼ′ bⱼ·(b̄ⱼ+lⱼⱼ′)
+        Σᵢ Σᵢ′ aᵢ·āᵢ′              |  Σⱼ Σⱼ′ b̄ⱼ·b̄ⱼ′
+        Σᵢ Πᵢ āᵢ·(aᵢ′+lᵢᵢ′)       |  Σⱼ Πⱼ′ b̄ⱼ·(bⱼ′+lⱼⱼ′)
+        Σᵢ Σᵢ′ āᵢ·āᵢ′·Tᵢᵢ′        |  Σⱼ Σⱼ′ b̄ⱼ·b̄ⱼ′·Tⱼⱼ′
+                                      )
+
+        Σᵢ [unclear] aᵢ·bᵢ        Πᵢ āᵢ+b̄ᵢ
+        Σᵢ aᵢ·b̄ᵢ                 Πᵢ āᵢ+bᵢ
+        Σᵢ āᵢ·bᵢ                 Πᵢ āᵢ+bᵢ
+       (Σᵢ āᵢ·b̄ᵢ                Πᵢ [unclear]ᵢ+bᵢ
+          only 0.                  must be exempt
+
+                                  Πᵢ aᵢ·b̄ᵢ+āᵢ·bᵢ = Πᵢ([unclear])
+                                                Πᵢ(āᵢ+b̄ᵢ)
+
+                                  Σᵢ {del}[unclear]{/del}
+                                     aᵢ·bᵢ + Σᵢ āᵢ·[unclear]
+                                  =Σᵢ(āᵢ+bᵢ)·([unclear])

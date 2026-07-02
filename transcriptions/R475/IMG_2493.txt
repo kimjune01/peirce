@@ -1,0 +1,18 @@
+12
+
+after universe, you might form statistics as to
+the proportion of {del}poor{/del} universes in which the
+proposition is true. But since you cannot
+do that, to speak of the probability of {add}the truth of{/add} a general
+proposition, {add}to speak{/add} then is {del}to say{/del} of the statistical ratio
+of frequency with which, in the {del}[unclear: universe?]{/del} {del}in the course of experience,{/del}
+{del}of the cases in which{/del} the proposition will
+be found true, leaves us at a loss to con-
+jecture what the other term of {add}that{/add} ratio {add}can be{/add}
+meant {del}supposed{/del} to be. It thus became plain to me
+that induction is something radically different
+in its nature from deduction; and I was
+thus led to ask, What is induction? I en-
+deavoured to formulate the process syl-
+logistically; and I found that it could
+be defined as the inference of the major

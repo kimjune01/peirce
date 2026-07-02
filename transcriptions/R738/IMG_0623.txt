@@ -1,0 +1,26 @@
+Ma.738                                                                 X
+
+The doctrine of the quantified predicate is, strictly speaking, the doc-
+trine that identity is the primary and fundamental relation expressed
+by the copula of a proposition. To that doctrine I am thoroughly opposed.
+The arguments of the advocates of this position are too shallow
+to be of any service in helping us to the truth. Indeed, I do not remember
+any formal argument in its favor except that of Sir William Hamilton,
+which is that in logic that which is implicit in thought should be made
+explicit in language. Now, that is said to be "implicit" in a proposi-
+tion which can be necessarily inferred from that proposition. But the
+logic of relatives shows that an innumerable multitude of propositions can
+be inferred from any proposition whatever; and all of them cannot be
+explicitly set forth. Sir William Hamilton's postulate would abolish
+inference, except as a prelogical operation; but in that respect it
+faithfully represents the doctrine of the quantified predicate itself. It
+is the chief task of logic gradually to develop {del}rule{/del} that which is implicit
+in thought and {del}formal{/del} step by step to make it explicit, or at least, to
+show how to do so; and to begin by postulating that this is done, is
+to pass by the chief purpose of logic.
+But Hamilton may sometimes have confused his postulate, as
+stated, with this: to set forth explicitly in the forms of logic that which
+is necessarily explicit in the thought. Whether he really did fall into this
+confusion, it is not easy, owing to the brevity of his papers, to determine.
+This amended postulate, however, leaves {add}the{/add} quantified predicate just where
+it was before; for the whole question is, what is necessarily explicit in thought?

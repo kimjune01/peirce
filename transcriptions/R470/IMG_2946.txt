@@ -1,0 +1,17 @@
+132
+
+science of the logical possibility & impossibility
+of hypotheses. Upon that definition first
+put forth by my father Benjamin Peirce
+in 1870, mathematicians are now
+pretty unanimously agreed. Pure
+mathematics differs from mathema-
+tics in general in not admitting into its
+hypotheses any {del}thing{/del} {add}elements{/add} that does affect
+their logical possibility or impossibility.
+Thus, the pure mathematics of graphs, as
+you see in those pages of the syllabus, says
+nothing at all about the logical interpretation
+of graphs but defines them exclusively
+by their logical relations to one another.
+So the pure mathematical presentation of

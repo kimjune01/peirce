@@ -1,0 +1,34 @@
+this.                                                                 44
+
+              {add}Particular{/add}
+              {del}Universal{/del} negatives hypotheticals.
+
+Conditional.     It may not {add}thunder{/add} {del}rain{/del} or it may {del}thun{/del} rain.
+Disjunctive.     It may thunder or it may rain.
+Repugnantial     It may not thunder or it may not rain.
+
+              Universal affirmative hypotheticals.
+
+Independential.  It must thunder and it cannot rain.
+Conjunctive.     It must thunder and it must rain.
+Tertial          It cannot thunder and it cannot rain.
+
+              Universal negative hypotheticals.
+
+Conditional.     In every possible case {add}in which it should{/add} {del}it either does not{/del} thunder {del}& it will{/del} {add}would{/add} rain.
+Disjunctive      In every possible case it either thunders or rains.
+Repugnantial     In {del}every{/del} {add}no{/add} possible case will it both thunder and rain.
+
+              Particular affirmative hypotheticals.
+
+Independential.  It may thunder without raining.
+Conjunctive.     It may thunder and rain, too.
+Tertial.         It may be that it will neither thunder nor rain.
+
+In every fully developed hypothetical proposition, there is a range of
+possibilities. The {del}whole{/del} proposition derives its characteristic from this.
+But the Philonians maintain (and the Diodorans have usually
+admitted,) that analyses ought to begin with the consequentia simplex
+de inesse, which is what a conditional proposition becomes for
+omnipotence*. In other words, we are to begin by removing the
+quantification, and consider a singular hypothetical. That done, the con-

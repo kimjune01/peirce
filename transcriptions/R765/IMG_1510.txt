@@ -1,0 +1,28 @@
+Ms. 765                                                     1
+
+Lecture II
+
+In the last lecture, the conception of logic was developed
+from the point of view of scholastic realism or more pre-
+cisely Thomism, and logic was defined as the science of the
+relations of symbols in general to their Objects. The subject for
+today is the theory of induction.
+
+Hamilton and Mansell tell us that scientific induction
+is extra logical. But there is certainly some logic in it, and
+what it is needs pointing out; and these writers by throwing all that
+is peculiar in it into the form of a premiss, virtually give up the
+problem altogether. With this opinion, I must impose upon myself
+the task of explaining all induction.
+
+Aristotle begins his chapter of the subject {del}with{/del} this definition.
+“Induction and the syllogism from induction is the syllogizing of
+one extreme as a predicate to the middle, through the other extreme
+This demands some explanation. Take this example
+
+All carnivora are mammals
+All mammals are vertebrates
+∴ All carnivora are vertebrates
+
+This is a common deductive syllogism. Of the three classes
+spoken of are the terms. Of these, carnivora is the least extensive

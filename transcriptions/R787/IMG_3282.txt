@@ -1,0 +1,26 @@
+tional proposition becomes {add}(according to Philonians){/add} “In this case either it does not thunder or it
+rains.” If we do not say what this case is, further than that it is some
+contemplated possibility, the singular hypothetical becomes a term.” In
+the case I am contemplating either it would not thunder or it would
+rain,” amounts to “Let {del}there be a{/del} {add}us consider the{/add} case in which it {add}either{/add} does not thunder
+or does rain,” or to “The case of its either raining or not thundering.”
+The last two differ in the accidental syntax of familiar languages, but
+they do not differ in meaning.
+
+In a paper which I published in {del}the the{/del} 1880, I {del}had{/del} {add}gave{/add} an imperfect
+account of the algebra of the copula. I there expressly mentioned
+the necessity of quantifying the {del}possibility{/del} possible case {add}to{/add} which
+a conditional or independentical proposition refers. But having
+at that time no familiarity with the signs of quantification, the
+algebra of which I developed later, the bulk of the chapter treated of
+simple consequences de inesse. Prof. Schröder accepts this first
+essay as a satisfactory treatment of hypotheticals; and assumes,
+quite contrary to my doctrine, that {add}the possible cases considered in{/add}
+hypotheticals have no multi-
+dimens universe. This takes away from hypotheticals their most
+characteristic feature. It is the sole foundation of his § 45, in which
+he notes various points of contrast between hypotheticals and cate-
+goricals. According to this, hypotheticals are distinguished from cate-
+goricals in being more rudimentary and simple assertions; while
+the usual doctrine of those who maintain that there is a difference
+between the two forms of assertion is quite the reverse.

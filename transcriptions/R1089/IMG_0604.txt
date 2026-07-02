@@ -1,0 +1,36 @@
+The coefficients of expansion rest at present on the
+following data.
+
+{del}Data{/del}                         The coefficients are expressed in
+{del}Coefficients{/del}                 millionths per degree F°.
+
+                                            Coëff
+Gillen H, optically determined              3.92
+2cm. donkey8 - Gillen H                    -0.56
+   Hence, 2cm. donkey8                      3.36
+{del}Gillen H - 2cm donkey8{/del}          +0.54
+Decimetre scale No3 - 2m Donkey8           -0.10
+   Hence, decim scale No3                   3.26
+Decimetre Donkey8 - decim. Scale No3       +0.78
+   Hence, Decim Donkey8                     4.04
+Decimetre scale No4 - Decimetre Donkey8     0.00
+   Hence, Decimetre scale No 4              4.04
+
+
+Besides, we have the following weak check
+
+Metre No 49 direct determination            10.46
+Glass metre scale No1 - Metre No 49        - 6.20
+   [unclear: Ame] Glass metre scale No1      4.26
+Decimetre Donkey8 - Glass Metre No1 (weak)  -.33
+Decimetre scale No4 - Decimetre Donkey8      0.00
+   Hence, decim scale No4                   3.93
+
+
+Note. Glass metre scale No1 has eleven
+lines at one end, and three at the other.
+The second (from the end) of the eleven
+lines is nearly erased. Its length is counted
+from the fourth from the end to the
+middle one of the three at the {add}other{/add} {del}[illegible]{/del}
+end.

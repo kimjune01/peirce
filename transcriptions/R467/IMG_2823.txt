@@ -1,0 +1,18 @@
+56
+
+to be true. We shall naturally express this by
+
+[diagram: red g in circled/dotted circle connected by curved ligature to red h in dotted circle]
+
+Here we have a new kind of ligature, which
+will follow all the rules of ligatures. We
+have here a most important addition to the
+system of graphs. There will be some
+peculiar and interesting little rules, owing
+to the fact that what one knows one has
+the means of knowing that one knows,
+-- which is sometimes {del}often{/del} incorrectly stated in the form
+that whatever one knows one knows that
+one knows, which is manifestly false, ++
+For if it were the same to say “A whale is
+not a fish” and “I know that a whale is

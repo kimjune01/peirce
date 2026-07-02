@@ -1,0 +1,29 @@
+11
+
+Lowell Lectures of 1903.
+Lecture III. 2nd Draught
+
+Ladies & Gentlemen:
+    I am going to speak to you concerning
+multitude. By multitude I mean that quality of
+a collection by virtue of which it is greater than
+all those collections than which it is greater.
+    A collection is a single object whose {del}ex ist{/del} {add}being{/add}
+consists in the {del}being{/del} {add}existence{/add} of whatever {add}independent individuals{/add} may exist
+of which a given {del}proposition{/del} {add}schema{/add} is true, these inde-
+pendent individuals being called the members
+of the collection.
+    It is generally agreed among mathematical logi-
+cians that the doctrine of multitude {del}which is possi-{/del}
+{del}only speaking a logical doctrine, although under-{/del}
+{del}esting in the mathematical side took it rise{/del}
+{del}from the definition by Bernard Bolzano of being{/del}
+greater than as {del}only applied to collections{/del}.
+began from the definition by Bernard Bolzano
+of the relation of a greater collection to a lesser
+one. Bernard Bolzano was a catholic {del}logician{/del} {add}theologian{/add}
+whose logic in 4 volumes was published in
+1838. He was far too clearheaded to escape
+persecution and his definition of a greater
+collection only appeared in a posthumous
+work published in 1851.

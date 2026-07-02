@@ -1,0 +1,27 @@
+* erect this unnecessary part of speech into a logical form and
+leave the indispensible propositions unrepresented, merely because
+in Indoeuropean languages they often appear in the form of termi-
+nations.
+
+At the same time, it must be admitted that the proposition, “Let l
+be light,” or what is the same thing “l is light,” where l is not
+{del}so{/del} otherwise defined, is only an assertion about a fleeting idea;
+far less developed than the proposition “Hamlet was mad,” which
+relates to a great creation more enduring than brass bronze. Take
+away from any proposition its quantifying signs and such an
+expression is what remains. Remove the quantifier from the
+proposition “all men are mortal,” or what is the same thing,
+“everything is either {add}not a{/add} {del}man{/del} man or is mortal,” and we have
+“X is either not a man or is mortal.” Remove the quantifier from
+the proposition “Everything has some cause”, or what is the same
+thing “Let A be anything; then there is something, B, such that B is
+the cause of A,” and it becomes “B is the cause of A.” Such {add}rudi-{/add}
+mentary assertions, — assertions in form with no substance, —
+{del}are{/del} precisely express the meanings of logical terms. In that sense,
+we may say that every proposition has as many terms as
+it has quantified subjects. Singular subjects are of a different
+nature. Every term is singular but indefinite, It may be affirmative or negative,
+according as its character or its predicate.
+{add}nearly{/add}
+In {del}precisely{/del} the {del}same sense in which a term is a rudimentary
+proposition, a proposition in its turn is a rudimentary argument{/del}

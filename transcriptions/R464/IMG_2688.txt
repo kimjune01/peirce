@@ -1,0 +1,30 @@
+82
+
+assign to each character its own {add}selective capital{/add}
+{del}employ selective capital letters for the single que
+characters{/del}
+letter. I naturally scribe these spots which
+relate entirely to characters in the same color as
+the lines of identity. I use these three abbre-
+viations
+
+-Rl    - is an individual
+-p     - is a possible state of things
+-q     - is a quality
+
+-r     - is a relation
+
+-s     - is a sign
+
+I also use these characters
+
+[diagram: linked characters and line ending in -Rl] = A Rl individual possesses
+a quality
+
+[diagram: bracketed r above A branching to R and L] < An individual is in a dyadic
+relation to an individual
+
+[diagram: bracketed s above A branching to three termini] An individual is in a
+triadic relation to an
+individual for an indi-
+vidual

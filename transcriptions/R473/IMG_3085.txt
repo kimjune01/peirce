@@ -1,0 +1,16 @@
+{add}family{/add}
+This {del}order{/del} of inductions has three different
+kinds quite distinct logically. Beginning with
+the lowest and least certain, we have cases in
+which a class of {del}facts{/del} {add}individuals{/add} recurs in endless suc-
+cession and we do not know in advance whether
+the occurrences are entirely independent of one
+another or not. But we have some reason to sup-
+pose that they would be {del}found{/del} {add}independent and perhaps{/add} that they have
+some given ratio of frequency. Then what has
+to be done is to apply {del}every{/del} {add}all sorts{/add} of consequences
+of independence and see whether the statistics
+support the assumption. For instance, the
+value of the ratio of the circumference of a
+circle to its diameter, a number usually
+called π has been calculated in the decimal
