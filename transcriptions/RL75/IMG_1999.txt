@@ -1,0 +1,23 @@
+[hand: Application
+of Science
+19]
+
+are quite differently related. The various historical divisions
+[unclear: of logics?] are considered.
+
+
+No. 114. On the Methods of Discovering and of Establishing the Truths of Logic.
+        I shall here show that no less than thirteen different methods of
+establishing logical truth are {del}now{/del} in current use to day and
+mostly without any principle of choice and in a deplorably uncriti-
+tical manner. I shall show that the majority of these methods
+are quite inadmissible, and that of the remainder all but
+one {del}of{/del} should be restricted to one department of logic. The
+one universally valid method is that of mathematical demon-
+stration; and this is the only one which is commonly avoided
+by logicians as fallacious. I shall show in the clearest manner
+that this notion is due to a confusion of thought, which I shall
+endeavor to trace through all its metamorphoses. I hope to give
+this its quietus.
+
+        The methods of discovering logical truths can naturally

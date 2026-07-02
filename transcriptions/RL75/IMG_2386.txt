@@ -1,0 +1,22 @@
+[hand: Application
+C.C.S. Review
+37]
+
+themselves, at least, commit an ignoratio elenchi; for their
+plea admits that the conclusion of a syllogism follows
+from its premisses; and this is all that the logics affirm.
+This remark applies more forcibly to the petitio principii
+than it does to the ignoratio elenchi. For if you accuse an
+opponent of making an assumption which he had no
+right to make, you have not only to show that he had
+no right to make the assumption, but you have further
+to show that that was not a mere side remark, but that it
+is essential to his argument. Now if the argument is
+logically bad, one cannot say that anything is essential
+to it as a good argument. In the case of the ignoratio
+elenchi, you have to show that what he proves does not
+really conflict with what you maintain. Then your
+duty is not to quibble about the {add}possibly inaccurate{/add}
+way in which he may
+have expressed his conclusion, but must examine
+what it really is that his argument does prove. If it

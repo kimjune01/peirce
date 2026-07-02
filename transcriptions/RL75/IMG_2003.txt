@@ -1,0 +1,25 @@
+[hand: Application
+[unclear: DCStiern?]
+22]  No 19.  On Arguments.
+
+I first examine the essential nature of an argument, showing
+that it is a sign which separately signifies its interpretant. It will
+be scrutinized under all aspects.
+I shall then come to the important question of the classifica-
+tion of arguments. My paper of April, 1867, on this subject
+divides arguments into Deductions, Inductions, Abductions,
+(my present name, which will be defended,) and Mixed Arguments.
+[hand: Mix'd Arguments
+May, 1867]
+I consider this to be the key of logic, In the following month I correctly
+[hand: kinds of simple argument]
+defined the three in terms of the categories. But in my paper
+on Probable Inference in the Johns Hopkins "Studies in Logic," ow-
+ing to the excessive weight I at that time placed on formalistic
+considerations, I fell into the error of attaching {del}the{/del} name
+[hand: the synonym I then used for]
+{del}corresponding to{/del} Abduction, to a probable inference which
+I correctly described, forgetting that according to my own
+earlier and correct account of {add}it{/add} abduction, {del}it{/del} is one of
+the number of probable inferences. It is singular
+that I should have done that, when in the very same,

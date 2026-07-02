@@ -1,0 +1,24 @@
+[hand: Application
+Reserve
+68]
+
+whole theory of definition and discuss its principal forms. I shall
+show, I hope quite convincingly, the great harm done by that
+Definition by abstraction of which the Germans are so fond. For
+instance, to define coryza, you direct a person to think of a man
+with a bad cold, Now take away his pocket-handkerchief, then
+take away his watch, knife, pocket-book, loose change, keys, {del}boots{/del}
+[hand: {add}shirt-buttons{/add}]
+gloves, and hat. Then successively take away his clothes, body, and
+soul; and what you have left is a beautifully clear notion of coryza.
+I shall explain the doctrine of pragmatism more fully, and
+guard against extravagant applications. Finally, I shall
+develope a fourth, and higher, grade of clearness, resulting from
+an appreciation of the intellectual relations of the definition
+
+30. On Classification. In 1867 I worked out a theory of natu-
+ral classification which I never published, because the naturalists
+did not seem to take to it. I had been a special student
+under Louis Agassiz for about six months, with a view
+to studying his method of classification, that subject being
+a branch of logic. Since then, I have endeavored to

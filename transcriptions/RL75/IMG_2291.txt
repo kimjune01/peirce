@@ -1,0 +1,21 @@
+[hand: {del}application{/del}
+of C S Peirce
+46]
+
+forexample, generally said that probability I represents
+absolute certainty. But on the contrary, probability 1 is
+that of an event which in the entire long run fails to
+occur only a finite number of times. In the next place, the
+majority of the books give formulae from which it would
+follow that the probability of a wholly unknown event is 1/2.
+It is evident that probability, in this crude form, is quite
+unadapted to expressing the state of Knowledge
+generally. The relation of real evidence to a posi-
+tive conclusion is not a mathematical function.
+[hand: pointing mark] From a bag of beans, I take out a handful, in order
+to test a theory {del}for{/del} which I have some other reason
+for entertaining, that two thirds of the beans in the bag
+are black. I find this to be nearly so in the handful,
+and my theory is confirmed, and I now have strong
+reason for believing it approximately true. But it is
+not true that there is any definite probability that it is

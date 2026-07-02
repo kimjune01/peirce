@@ -1,0 +1,21 @@
+[hand: Application
+C. S. Peirce
+65]
+
+are equally attractive, and in another but one, prefer the latter.
+In any given inquiry, other things being fairly equal {del}to us{/del} even
+considerably against equality, prefer the hypothesis which
+if false can easily be proved to be so; if it can very easily be
+dispatched, adopt it at once, and have done with it. But
+while you hold it, hold it in good faith, so as to do it full
+justice. Among hypotheses choose one whose elements are well
+understood, so that unknown complications, and consequent
+expense of energy cannot arise. Prefer general hypotheses to
+special ones, provided the mere general are so by being
+simpler; if they are so by being complex, it is necessary to
+consider the economics of testing them more particularly.
+For instance, instead of supposing y = a + bx + cx² + dx³ + etc.,
+and determining the coefficients, ask whether y has a
+constant term, next whether it tends to infinity with x,
+next whether its increments are approximately propor-
+tional to those of x, etc.

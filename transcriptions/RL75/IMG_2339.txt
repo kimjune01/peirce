@@ -1,0 +1,15 @@
+[hand: Application
+C.S. Peirce
+34]
+
+of the logic of relations. He should have said that an analytic propo-
+sition is one where if {del}the{/del} definitions be substituted for terms
+the proposition is true (or better, professes to be true) by {del}virtue{/del} applica-
+tion
+of the principles of logic. That is, it involves no matter of fact,
+beyond such as are taken cognizance of by logic itself. The
+distinction is quite generally condemned by modern writers; and what
+they have in mind (almost always very confusedly) is just. Yet
+Kant's distinction is perfectly correct.
+
+[formula: see image]

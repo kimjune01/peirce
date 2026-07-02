@@ -1,0 +1,22 @@
+[hand: A]
+[hand: 10]
+
+examine all other possible objections to them; it will behove
+me to {del}show{/del} {add}admit{/add} that they are not free from the defect common to
+almost all propositions in philosophy, that of being more
+or less vague and open to unwarrantable exaggeration.
+To be able to doubt a proposition, if it means to doubt
+it this instant can include only actual doubt {add}If the time
+be{/add}
+extended changes of mind may take place. Doubt may
+also be so slight that it is not decidedly recognizable.
+It is easy to find propositions of which we cannot posi-
+tively say whether they can be doubted or not. Never-
+theless, I undertake to show that the principles are suf-
+ficiently definite for the purposes of logic.
+
+I next undertake something like an enumeration
+of the indubitable propositions. I shall not {del}undert{/del} {add}affirm{/add} that
+my enumeration is complete, but shall only mention
+those which must be taken account of in logic. Nor
+shall I name all the individual propositions; for

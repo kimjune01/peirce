@@ -1,0 +1,20 @@
+[hand: A]
+[hand: 24]
+
+matics is also an {add}instructive{/add} {del}interesting{/del} subject for logical analysis,
+teaching us many things about the nature of reasoning. But
+although a mathematical demonstration, once completely
+apprehended, is evident, indubitable, beyond control, and beyond
+criticism, yet the process of arriving at it is certainly a
+matter of skill and {del}[unclear: hand art]{/del}, subject to criticism, and
+controlled by anticipated criticism. This control implies
+that different ways of proceeding are considered hesita-
+tingly; and until the demonstration is found there is doubt
+of the conclusion. The theorem is not self-evident or it could
+not really be proved. But over what elements of the
+process is the control exercised? Over two: the invention
+of the proof, and the acceptance of the proof. But the
+process of invention of the proof is not of the nature
+of that demonstrative reasoning which we call mathe-
+matical. There is nothing evident about it except
+that, as it turns out, it evidently answers the purpose.

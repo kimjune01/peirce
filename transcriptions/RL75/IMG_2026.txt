@@ -1,0 +1,19 @@
+[hand: Application
+"C.S.Peirce
+4D]
+
+“omnium methodorum principia vicem habens” This
+memorable sentence, whose gothic ornamentation
+proves upon scrutiny to involve no meaningless
+expression nor redundant clause, {del}begins{/del} a work
+wherein the idea of this sentence {add}is{/add} executed satisfac-
+torily enough for the dominant science of the middle
+ages. Jevons adopted the sentence as the motto of his
+most scientific contribution to logic; and it would
+express the purpose of my memoirs, which is, upon
+the ground well prepared by Jevons and his teacher
+DeMorgan, and by the other great English research-
+ers, especially Boole, Whewell, Berkeley, Glanvill,
+Ockham, and Duns Scotus, to lay a solid foundation
+upon which may be erected a new logic fit for the
+life of twentieth century science.

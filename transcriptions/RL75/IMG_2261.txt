@@ -1,0 +1,23 @@
+[hand: Application
+Application
+of C.S.Peirce
+18]
+
+because not all the principles of logic are normative. In --
+At the same time, a sign, by virtue of this definition has
+some sort of meaning, that is implied in correspondence.
+Now meaning is mind in the logical sense. But many
+will object that the only signs we can study are signs inter-
+preted in human thought. I reply that, by the definition
+thoughts are themselves signs, and that if it happens to
+be a fact that all other signs are ultimately interpreted in
+thought signs, then that fact is irrelevant to logic. The
+proof that it is irrelevant is that all the principles of logic
+are deducible from my definition without taking any
+account of the alleged fact, much more clearly than if
+any attempt is made to {del}use{/del} {add}introduce{/add} this allegation as a premise,
+Therefore, unless this allegation be regarded as itself a
+{del}truth{/del} of logic, which it is not, since it is not of a formal
+nature, it is perfectly irrelevant to logic. I also define
+very carefully what I mean by a "formal" law. I say
+nothing in the definition about normative principles,

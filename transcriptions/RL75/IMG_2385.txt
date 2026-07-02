@@ -1,0 +1,22 @@
+[hand: Application
+of C.S.Peirce
+36]
+
+an axiom that all right angles are equal, and an axiom
+rather than a postulate that τὸ ὅλον τοῦ μέρους μεῖζον?
+Why did he consider the postulate about right angles necessary?
+Why did he attain this purpose in this particular way? How
+could he assert such a monstrous proposition as that τὸ
+ὅλον τοῦ μέρους μεῖζον, when he well knew that a line
+unlimited at one end became no shorter by having a
+piece cut off from it? Why did he give the fifth postulate
+its extraordinary form? Why does he ignore projective and
+topical geometry? When a student has once read the first
+book of the Elements, he will have an idea of how philo-
+sophy has to be read. Coming to the consideration of cases
+in which one is disposed to accuse an opponent of com-
+mitting a petitio principii or an ignoratio elenchi,
+one must not forget that such a plea involves the
+admission that the argument objected to logically
+deduces its conclusion from its premisses. Hence,
+those who say that a syllogism is a petitio principii

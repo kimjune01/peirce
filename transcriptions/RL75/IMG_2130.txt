@@ -1,0 +1,4 @@
+[hand: A]
+[hand: 43]
+
+calculus of Geometry gives some hint of what is wanted.

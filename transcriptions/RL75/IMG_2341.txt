@@ -1,0 +1,22 @@
+[hand: Application
+C.S. Peirce
+38]
+
+are possible, which would be a psychological question, but
+how {del}they can be known{/del} {add}synthetical propositions can be{/add} true and be known to be true.
+But I shall not make his division of propositions into the
+a priori and the a posteriori the leading one, but rather the
+division into derived and ultimate propositions. We must
+be on our guard in defining this distinction not to fall into
+a mere matter of psychology, as Kant does, floundering in
+a muddy bog of land and water, a psychological deduction
+and a "transcendental" deduction mixed. By an ultimate
+premiss we must understand a proposition not derived
+{add}ascertainably{/add}
+by a self-controlled logical process. We need not assume
+that there is any premiss over whose derivation it is
+impossible to exercise any control. It will suffice that,
+in fact, as far as we have ascertained, there has been
+no such control. Derived propositions are justified by
+the arguments {add}by{/add} which {del}stop{/del} they are derivable; and the
+justification of such arguments will be considered in

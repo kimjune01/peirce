@@ -1,0 +1,21 @@
+[hand: A]
+[hand: 36]
+
+diagrammatic is not to penetrate in the least
+degree into the logical peculiarities of its pro-
+cedure, because all necessary reasoning is
+diagrammatic.
+
+My first real discovery about mathematical
+procedure was that there are two kinds of neces-
+sary reasoning, which I call the Corollarial and
+the Theorematic, because the corollaries affixed
+to the propositions of Euclid are usually argu-
+ments of one kind, while the more important
+theorems are of the other. The peculiarity of theorema-
+tic reasoning is that it considers something not
+{del}involved{/del} implied at all in the conceptions so far
+gained, which neither the definition of the object
+of research nor anything yet known about
+could of themselves suggest, although they give
+room for it. Euclid, for example, will add lines to

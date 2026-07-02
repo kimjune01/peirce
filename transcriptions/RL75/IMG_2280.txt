@@ -1,0 +1,23 @@
+[hand: Application
+of C.S. Peirce
+36]
+
+and the definition of 5 is 5 = 9-4, so that [formula: see image] is implied
+in 0+4=4, and so on down to 0+0=0. But this
+fact is part of the definition of plus. There is, in short, no theore-
+matic reasoning required to prove from the definitions that
+7+5=12. It is not even necessary to {del}call{/del} {add}take account{/add}, of the
+{del}de{/del} general definition of an integer number. But Kant was
+quite unaware that there was such a thing as theorematic
+reasoning, because he had not studied the logic of relatives,
+{del}therefore,{/del} Consequently, not being able to account for the rich-
+ness and of mathematics and the mysterious occult
+character of its principal theorems by corollarial reasoning,
+he was led to believe that all mathematical propositions are
+synthetic.
+
+Kant, if I remember rightly, holds that no critical {del}[illegible]{/del}
+{del}ence{/del}
+{del}time{/del} is necessary to establish the validity of analytic pro-
+positions, or any mode that is the correct doctrine.
+But he announces as the subject of {del}the{/del} great Critik,

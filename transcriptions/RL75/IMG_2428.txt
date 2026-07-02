@@ -1,0 +1,22 @@
+[hand: Application
+of C.S. Peirce
+20 X]
+
+{del}together and that propositions may be inferred{/del}; 2nd, argu-
+ments consisting of two parts of which one taken by
+itself lends no support to the conclusion of the other, but
+[hand: taken to] establish{del}s{/del} a fact which makes the other a stronger or
+weaker argument. For example, I see two men wearing
+both the same badge going to the polls together talking
+with great delight over the effect of their vote, and I learn
+[hand: I infer that the other did so, too.]
+that one of them voted the Democratic ticket. But subse-
+quently, I learn that their badge is the symbol of member-
+ship of a society which decided that its members should
+go to the polls in pairs and that one of each pair should
+vote Democratic and the other Republican. I consequently
+reverse my previous inference. Under this head come
+Inductions supported by Uniformities, of which there
+are four simple types. The third kind of mixed arguments
+are those in which the same premisses form two different
+kinds of arguments. Important subdivisions of Induction

@@ -1,0 +1,30 @@
+[hand: Jan 175 Typed duplicate]                      [hand: xii]
+
+inference.  Abduction is iconic argument, induction is indicative
+argument, deduction is symbolic argument.  This, of course, will
+be accurately stated and fully explained in the memoir.  Nor is
+methodeutic confined to the consideration of arguments.  On the
+contrary, its special subjects have always been understood to
+be the definition and division of terms.  The formation of systems
+of propositions, although it has been neglected, should also
+evidently be included in methodeutic.  In its method, methodeutic
+is less strict than critic.
+
+No. 28.  On the Economics of Research.  [hand: Start]  [hand: §2. Later Reflections]
+     In all economics the laws are ideal formulae from which
+there are large deviations, even statistically.  In the economics
+of research the "laws" are mere general tendencies to which
+exceptions are frequent.  The laws being so indefinite, at best,
+there is little advantage in very accurate definitions of such
+terms as "amount of knowledge".  It is, however, possible to
+attach a definite conception to one increment of knowledge being
+greater than another.  To work this out will be the first business
+of the memoir.  I also establish a definite meaning for the
+amount of an increment in diffusion of knowledge.  I then con-
+sider the relation of each of these to the expenditure of energy
+and value required to produce them in varying conditions of the
+advancement or diffusion of knowledge already attained.  Comparing
+knowledge with a material commodity, we know that in the latter
+case a given small increment in the supply is very expensive, in
+most cases, when the supply is very small, that as the supply
+increases, it sinks to a minimum, from which it increases to a very

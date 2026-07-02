@@ -1,0 +1,55 @@
+-A
+23
+
+a declaration of intention, is manifest only to the one person
+whose experience it concerns. It is only when we judge
+concerning objects which exist {del}only{/del} in the imagination
+{add}alone{/add}
+that all minds of sufficient intelligence are on a
+par, however devoid of experience some of them may
+be Some of the most vital propositions of logic are
+of this class.
+
+[hand: formula: A  B̄ + C̄
+B  C̄ + Ā
+C  Ā + B̄
+x
+A true
+B true
+C false]
+
+[hand:
+A =  A true  B false  C true
+B =  A true  B true   C false
+C =  A false B true   C true
+If any one is true 1 -- Impossible
+All false]
+
+[hand:
+A   A true  B false C false
+B   A false B true  C false
+C   A false B false C true
+
+Any one may be true
+All three may be false]
+
+[hand:
+A = A true B false
+B   B true C false
+C   C true D false
+D A false
+
+Suppose A true (C, B false D false)]
+
+[hand:
+A =
+B =
+C = A false
+Suppose A true
+D true  C is false  B false]
+
+[hand:
+A true B false C false
+B true
+C false
+true]

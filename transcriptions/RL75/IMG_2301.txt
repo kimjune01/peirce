@@ -1,0 +1,28 @@
+[hand: Application
+of C.S. Peirce
+[illegible]
+56]
+
+[hand: 3]
+
+25. Of Mixed Arguments. I here consider all kinds of mixed argu-
+ments. We have, first, arguments composed of independent arguments,
+either, as we may say, competing, that is leading to the same result,
+or coöperating, that is, both required to produce the conclusion.
+
+Next we have arguments one of which {del}produces{/del} {add}concludes{/add} something, not
+relative to the conclusion of the other, but relative to the argument
+itself.
+
+Finally we have arguments which, from identically the same
+premisses, produce the same identical conclusion in two different
+ways. These are the most remarkable of the mixed arguments; and
+the argument from Analogy is the chief example.
+
+26. Of Fallacies. This is a subject which has very little attracted
+the attention of the stronger logicians and is consequently in the
+most deplorable condition. I divide them into three classes,
+as follows: 1st, those fallacies which are mere slips, such as
+one may fall into in adding a column of figures, which is,
+indeed, a fallacy; 2nd, those which arise from misunder-
+standings, such as the ignoratio elenchi and petitio principii;

@@ -1,0 +1,20 @@
+[hand: Application
+of C.S.Peirce
+9]
+
+distinguish as the corollarial and the theorematic. This is a
+matter of extreme importance for the theory of cognition. It
+remains unpublished. I also find that the most effective
+kind of theorematic demonstration always involves the
+long despised operation of abstraction, which has been a {add}common{/add}
+topic of ridicule. This is the operation by which we transform
+the proposition that ‘Opium puts people to sleep’ into the
+proposition that ‘Opium has a soporific virtue.’ Like every
+other logical transformation, it can be applied in a futile manner.
+But I show that, without it, the mathematician would be
+shut off from operations upon lines, surfaces, differentials,
+functions operations, -- and even from the consideration
+of cardinal numbers. I go on to define precisely what it is
+that this operation effects. I endeavor in this paper to
+enumerate, and classify, and define the precise mode of
+effectiveness, of every method employed in mathematics

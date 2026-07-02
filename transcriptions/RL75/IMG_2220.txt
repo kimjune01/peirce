@@ -1,0 +1,20 @@
+[hand: A]
+[hand: 16]
+
+of mathematics consists in so introducing a foreign idea, using
+it, and finally deducing a conclusion from which it is elimi-
+nated. Every such proof rests, however, upon judgments in
+which the foreign idea is first introduced, and which are
+simply self-evident. As such, they are exempt from criticism.
+{del}Postu{/del} Judgments of this kind are the very foundation of
+logic except in so far as it is an experiential science. If
+a proposition appears to us, after the most deliberate review, to
+be quite self-evident, and leave no room for {del}doubt{/del}, it cer-
+tainly cannot be rendered more evident; for its evidence is
+perfect already. Neither can it be rendered less evident, until
+some loophole for doubt is discovered. It is, therefore, exempt
+from all criticism. True, the whole thing may be a mistake.
+The sixteenth proposition of the first book of Euclid affords
+an example. The second postulate was that every terminated
+right line can be continuously prolonged. Καὶ πεπερασμένην
+εὐθεῖαν κατὰ τὸ συνεχὲς ἐπ’ εὐθείας ἐκβαλλεῖν. this

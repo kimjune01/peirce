@@ -1,0 +1,22 @@
+[hand: Application No25]
+[hand: P.S. Rem]
+[hand: 24]
+
+On the Validity of Induction. This memoir will {del}repeat{/del}
+substantially the theory of Induction given in my
+paper in the Johns Hopkins "Studies in Logic," but now
+stated in essential points more fully and clearly,
+while formalistic matters are relegated to special
+sections. Moreover, my subsequent discovery of forms
+of induction quite different from any there considered
+to which the applicability of the rules there developed is
+not evident, renders a new presentation necessary.
+I shall now consider other views more fully, and
+illustrate the bad influences they have had upon science;
+
+[hand: No 24.] On the Justification of Abduction. History of the Doc-
+trine. Several rules of more or less value which have been
+given examined. Comte's rule that a hypothesis must
+be "verifiable," is misunderstood,{add}or quite untenable,{/add} if it be taken to
+mean that the truth of the hypothesis must be
+capable of being directly observed. If it is properly un-

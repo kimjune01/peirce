@@ -1,0 +1,26 @@
+A
+28
+
+[hand: Something that]
+{del}What{/del} the second sentence on this paper says of the third is false.
+[hand: Something that]
+What the third sentence on this paper says of the first is false,
+[hand: Something that]
+{del}What the{/del} first sentence on this paper says of the second is false,
+
+Now disregarding the implication by the first sentence of its own
+truth, is {add}whatever{/add} {del}what{/del} it says of the second true? If so, it is false that,
+[hand: something that]
+{del}What{/del} the third sentence on this paper says of the first is false.
+Then {del}what{/del} the third sentence says of the first is true. Then
+[hand: something that]
+{del}what{/del} the first says of the second is false, contrary to the
+hypothesis. Then we are driven to assume that {del}what{/del} the
+first says of the {del}third{/del} {add}second{/add} is false. Then, whatever the second sentence
+says of the third is true. Then, something that the third says of the first
+is false. Hence, whatever the first sentence says of the second is true,
+again contrary to the hypothesis. I prove by an elaborate neces-
+sary argument that the only admissible solution is that
+every proposition, even if not asserted, necessarily and
+essentially involves as part of its meaning that the
+reality, or truth of things, or the real universe, is truly repre-

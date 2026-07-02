@@ -1,0 +1,21 @@
+[hand: Application
+of C.S. Peirce
+32]
+
+studies of these, which will be one of the most valuable
+parts of this memoir. In particular, I distinguish deduc-
+tions into two types, the corollarial and the theorematic;
+and inductions into three types of widely different natures.
+21. Outline of Critical Logic.
+22. Logic of Chance. Although deduction is not directly
+and as such amenable to critic, yet it becomes such
+when it deals with probability and certain allied concep-
+tions. The criticism is not properly of the deductive
+process but of those conceptions. I here examine the
+philosophy of probability and show, among other things,
+that it is by no means true that every contingent event
+has any definite probability. I describe the construction
+of an urn of black and white balls such that there is no
+definite probability that a ball drawn will be white.
+By way of illustration, I show that there is no definite
+probability that a witness will tell the truth. Another

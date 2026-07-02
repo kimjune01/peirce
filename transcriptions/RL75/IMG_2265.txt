@@ -1,0 +1,22 @@
+[hand: Application
+of C.S. Peirce
+22]
+
+may be fitted to interpret it. Such is a name. Every {add}pure{/add} {del}name{/del}
+icon is necessarily of this description. Secondly, a sign
+may separately indicate the object which it is intended
+to denote, but may appeal to whatever interpretant can
+interpret it. Such is a proposition. Thirdly, a sign may
+{add}definitely signify{/add}
+{del}separately show{/del} what interpretant sign it is intended to
+determine. If it does this, it must also indicate what
+object it is intended to denote; because, if it separately signi-
+fies what interpretant is to be determined, whatever is
+the object of the sign is thereby separately indicated as
+the object of the interpretant. Such a sign definitely
+signifying what {del}[illegible]{/del} interpretant it is intended to deter-
+mine is an argument, of which the conclusion is the
+intended interpretant. Symbols alone can be arguments,
+which accounts for the small importance of icons and
+indices in logic. We thus have a division of signs into
+terms, propositions, and arguments; and consequently there

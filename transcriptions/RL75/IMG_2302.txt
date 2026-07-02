@@ -1,0 +1,24 @@
+[hand: Application
+of C.S. Peirce
+89
+57]
+
+319
+
+3d, those which have their origin in loose logical ideas, or
+more frequently, in incorrect logical doctrines. To these may be
+added, 4th, sophisms which really deceive nobody, but which
+present problems in logic often highly instructive. I make an
+attempt to enumerate all varieties. Those of the first class are
+hardly worth notice; yet still not utterly {add}useless{/add} {del}insignificant{/del}, any
+more than it would be to call attention to the ways in which there
+is danger of error in performing an algebraical computation. My
+remarks about the petitio principii I hope will be useful. In
+the third class, I call attention to a number of fallacies that
+are not mentioned in any of the books. Such, for example,
+is the extension of the doctrine of the burden of proof to cases
+where it has no meaning, but where formalistic reasoners
+appeal to it as a source of knowledge, as if it were a law
+of nature. Another class of examples of fallacies, to which
+logicians are especially liable (and logicians are the
+most fallacious reasoners in the world,) are objections

@@ -1,0 +1,24 @@
+[hand: Application
+of C.S.P.
+31 1/2]
+
+* An abduction is an argument from mere similarity. We
+meet with a surprising fact and seek a possible explanation
+of it, and having found one, we conclude that perhaps the
+hypothetical explanation is true. This is the only form of argu-
+ment which introduces new matter. An induction, properly
+speaking, is an argument in which a proposition is tested by
+means of a prediction which is then tested by observation. It
+is either what may be called a genuine, or extensive, induction,
+which samples a collection, and reasons, in reference to a predicted
+or predesignate character, that the whole collection will possess
+that character in approximately the same measure as the samples; or
+it is an abductive, or comprehensive induction (which in my paper on
+probable inference of 1882 I confounded with an abduction) which tests a
+hypothesis by drawing sample consequences as predictions, finding how
+far they are verified, and concluding that {del}this{/del} {add}the results{/add} measures the degree
+of truth of the hypothesis. It differs from abduction in not starting
+a new hypothesis and in making and testing predictions. De-
+duction is necessary inference. Abduction is iconic argument
+Induction is indicative argument deduction is symbolic argument
+This of course, will be accurately, stated fully explained in the memoir.

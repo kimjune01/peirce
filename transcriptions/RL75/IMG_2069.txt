@@ -1,0 +1,20 @@
+[hand: A
+47]
+
+We cannot safely employ in logic any kind of reason-
+ing which is subject to doubt while a science of logic
+is needed to remove. We are, therefore, restricted to mathe-
+matical reasoning. Now mathematical reasoning requires
+a diagrammatic or pure constructive notion of the
+thing reasoned about. But the ordinary logicians talk
+of acts of the mind, concepts, judgments, acts of con-
+cluding, which are mixed ideas into which enter all
+sorts of elements in a manner which prevents any strict
+mathematical reasoning about them. All these ideas of
+the mind are, however, representations, {del}the{/del} or signs. We
+must begin by getting diagrammatic notions of signs
+from which we strip away, at first, all reference to
+the mind, and after we have made those ideas just
+as distinct as our notion of a prime number or of
+an oval line, we may then {del}see, all of{/del} consider, if
+need be, what are the peculiar characteristics of a

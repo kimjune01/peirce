@@ -1,0 +1,21 @@
+[hand: A]
+[hand: H1]
+
+lapse of time there is room for any multitude of {del}moments{/del} {add}instants{/add} however
+great.
+
+I show that every multitude is distinguished from all
+greater multitudes by there being a way of reasoning about
+collections of that multitude which does not hold good
+for {del}finite{/del} greater multitudes. Consequently, there is an
+infinite series of forms of reasoning concerning the calcu-
+lus which deals only with a collection of numbers of the
+first abnumerable multitude which are not applicable
+to true continua. This, it would seem, was a sufficient
+explanation of the circumstance that mathematicians
+have never discovered any method of reasoning about
+topical geometry, which deals with true continua. They
+have not really proved a single proposition in that branch
+of mathematics.
+        Cayley, while I was still a boy, proved that metrical
+geometry, the geometry of the elements, is nothing but a special

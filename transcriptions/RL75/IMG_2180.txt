@@ -1,0 +1,27 @@
+[hand: Statement
+X?]
+
+to perform experiments in the imagination or {del}to consider the{/del}
+in order to assure ourselves that the conclusion is true.
+For example, in order to prove that if {del}the sum of the angles of{/del} {add}all triangles are equal as to their{/add}
+{del}the sum of their angles equal{/del}, then the difference of the sum from two right
+angles {del}of a triangle are not two right angles{/del}, the excess, or deficiency
+must be proportional to the area of the triangle, {del}one{/del}
+{del}how to{/del} shall inquire a triangle to be cut into {add}any number{/add}
+a/
+( equal triangles. Now. Then we easily satisfy ourselves by experi-
+ment that when a triangle is added to a polygon so as to increase
+the number of sides by n, the {add}sum of the{/add} angles will be increased by
+n-1 times 2 right angles. Consequently, if m triangles be
+added so as to increase the number of sides by n the sum
+of the angles will be increased by n-m times 2 right angles.
+Now when a large triangle is cut into a small triangles,
+a-1 triangles are joined to a triangles so as not to
+increase the number of sides. Hence the large triangle
+will have the sum of its angles equal to that of one of
+the small triangles diminished by a-1 times 2 right angles
+{add}or the sum of the angles of the large triangle{/add}
+or the large triangle will less 2 Right angles will be a times
+the sum of the angles of the small triangles each less 2 right angles.
+{hand: has been diminished by 2 right angles which was the proportion to
+be proved}

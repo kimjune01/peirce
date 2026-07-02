@@ -1,0 +1,20 @@
+[hand: A]
+[hand: 40]
+
+drawn between what is Cantor's and what my own. From my
+point of view, it is not of much consequence. Like Cantor
+and unlike Dedekind, I begin with multitude, or as Cantor
+erroneously calls it, Cardinal Number. But it would be equally
+correct, perhaps preferable, to begin with Ordinal Numbers, as
+Dedekind does. But I pursue the method of considering Multi-
+tude to the very end, while Cantor switches off to ordinal
+number. For that reason, it is difficult to make sure that
+my higher multitudes are the same as his. But I have little
+doubt that they are. I prove that there is an infinite series
+of infinite multitudes, apparently the same as Cantor's
+alephs. I call the first the {del}denumeral{/del} multitude, the
+others the abnumerable multitudes, the first {add}and least{/add} of which
+is the multitude of all the irrational numbers of analysis.
+There is {del}nothing{/del} greater than these but {del}true{/del} continua, which
+are not multitudes. I cannot see that Cantor has ever
+got the conception of a true continuum, such that in any

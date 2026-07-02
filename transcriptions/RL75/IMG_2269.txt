@@ -1,0 +1,21 @@
+[hand: Application
+of C.S. Peirce
+26]
+
+with certain objections which weigh with almost all
+logicians but which I shall undertake to show are
+merely due to feeble grasp of the conceptions of logic.
+The first of these objections, which lies behind them all,
+is that, logic being {add}the{/add} science which establishes the
+validity of reasoning, it begs the question to employ
+reasoning to establish the principles of logic. To this
+I reply that as long as all doubt is removed by a method,
+nothing better can be demanded. But owing to the con-
+fused state of mind of logicians, they make various at-
+tempts to answer this, such as that doubt is not removed
+if we question the validity of the reasoning. The rejoinder
+is obvious enough. Of course, it follows that {add}pure{/add} mathema-
+tics does not stand in need of any science of logic to
+determine whether a reasoning is good or not; and
+by a review of the different disputes which have arisen
+between mathematicians, I show that this is the case; and

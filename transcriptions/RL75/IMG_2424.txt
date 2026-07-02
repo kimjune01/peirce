@@ -1,0 +1,27 @@
+[hand: Application
+of C.S. Peirce
+16 x]
+
+[hand: *I mention, however,
+in that paper, that
+something of the sort
+remains to be
+considered.]
+
+tion; in consequence of which, that paper, although correct
+as far as it goes, and although fully covering the subject of
+which it professed to treat, entirely overlooked an indispensible
+mode of inference, Abduction;* I myself having previously
+described that inference correctly. Deduction is necessary
+inference; but if it is applied to probability {add}then{/add} while remaining
+in itself necessary, it concludes a probability. That gives
+the doctrine of chances. Induction is a totally different sort
+of inquiry, proceeding, by means of experiment, to obtain
+an answer to a previously propounded question. It has
+two species; the extensive, where the question is how much,
+and the comprehensive, or abductive, where the question
+is to be answered by yes or no (or else is merely susceptible
+of a vague answer). Abduction is distinguished from
+abductive induction in not being, properly speaking,
+experimental, that is, {del}not observing{/del} {add}it makes its observations{/add} {add}without{/add} making reference,
+{del}to finding an answer to{/del} {add}to any{/add} previously propounded question,

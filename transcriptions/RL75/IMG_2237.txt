@@ -1,0 +1,20 @@
+[hand: A]
+[hand: 32]
+
+extraordinary light upon logic, such as I, for my
+part, never dreamed of in advance, although I {del}might{/del}
+ought to have guessed that there must be unexpected
+treasures hidden in this quite unexplored ground. That
+the logic of mathematics belongs to the logic of relatives,
+and to the logic of triadic, not of dyadic relations, was
+indeed, obvious in advance--; but beyond that, I had
+no idea of its nature. The first things I found out {add}were{/add}
+that all mathematical reasoning is diagrammatic
+and that all necessary reasoning is {del}is mathematical{/del}
+reasoning, no matter how simple it may be. By
+diagrammatic reasoning, I mean reasoning which
+constructs a diagram according to a precept expressed
+in general terms, performs {del}certain{/del} experiments upon
+this diagram, notes their results, assures itself that
+similar experiments performed upon any diagram
+constructed according to the same precept would have

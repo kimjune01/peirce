@@ -1,0 +1,24 @@
+Statement
+        18
+
+Deduction is only of value in tracing out the conse-
+quences of hypotheses, which it regards as pure, or unfounded
+hypotheses. Deduction {del}is no{/del} is divisible into {add}sub{/add}-classes in
+various ways, {add}of which{/add} but the most important is into Corol-
+larial and Theorematic. Corollarial {del}reasoning{/del} {add}deduction{/add} is where
+it is only necessary to imagine {add}any{/add} case in which the
+premises are true {del}& the{/del} {add}in order to perceive immediately that{/add}
+[hand: The ordinary syllogism and some deductions in the logic of relations
+belong to this class.] the conclusion holds in that case. Theorematic deduction
+is deduction in which it is necessary to experiment
+in the imagination upon the image of the premises in
+order from the result of such experiment to make
+corollarial deductions to the truth of the conclusion.
+The {del}name{/del} Subdivisions of theorematic deduction, are of {del}the{/del}
+very high
+{del}extreme greatest{/del} theoretical importance. But I cannot
+go into them in this statement.
+
+Induction is the highest, and most typical
+form of reasoning. In my essay of 1883, I only
+recognized {del}a single{/del} two closely allied logical forms

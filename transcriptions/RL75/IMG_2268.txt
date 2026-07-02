@@ -1,0 +1,17 @@
+14. On the Methods of Establishing and Discovering the Doctrines
+of Logic. It need not be said that a science whose methods
+are all at sixes and sevens is in poor case. I shall show
+that there are at present actually in use six plus seven,
+or thirteen methods in use for establishing logical truth,
+{del}without counting the method of authority which is{/del}
+really operative, although unavowed. While there are
+some logicians who are more or less scrupulous in their
+choice of methods, most of them resort indifferently to
+any one of twelve, the only one they scrupulously avoid be-
+ing the only one that is generally valid. For I shall prove
+conclusively that the majority of the methods are absolute-
+ly worthless, and that of the others only one is {del}total{/del} {add}properly{/add}
+applicable in all parts of logic. That one method con-
+sists in proceeding from universally observed facts,
+formulated abstractly, and deducing their conse-
+quences by mathematical reasoning. We are here-

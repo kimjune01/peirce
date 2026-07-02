@@ -1,0 +1,32 @@
+18.
+
+other characters which as much prove a priority as do those.  These
+tests have been taken in two senses, and there is a third more advan-
+tageous than either.
+
+        No. 32.  The Logic of Chance.
+
+                I here discuss the origin and nature of probability, by my
+usual method; also the connection between objective probability and
+doubt; the nature of a "long run"; in what sense there can be any
+probability in the mathematical world; the application of probability
+to the theory of numbers.  I show that it is not necessary that the{add}se{/add}
+should be any definite probability that a given generic event should
+have a given specific determination.  It is easy to specify cases
+where there would be none.  There appears to be no definite proba-
+bility of a witness's telling the truth.  I also show that it is
+quite a mistake to {del}know{/del} {add}suppose{/add} that, for the purposes of the doctrine of
+chances, it suffices to suppose that the events in question are sub-
+ject to unknown laws.  On the contrary, the calculus of probability
+has no sense at all unless it in the long run secures the person who
+trusts to it.  Now this it will do only if there is no law, known
+or unknown, of a certain description.  The person who is to trust to
+the calculus ought to assure himself of this, especially when events
+are assumed to be independent.  The doctrine of chances is easily seen
+to be applicable to the course of science.  Its applicability to in-
+surance companies and the like is not in any case to be assumed off-
+hand.  When it comes to the case of individual interests, there are
+grave difficulties.
+
+        The rules of probability are stated in a new way, with the
+application to high numbers and method of least squares according to

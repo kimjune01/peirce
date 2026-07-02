@@ -1,0 +1,39 @@
+[hand: classification
+C.S. Peirce
+11]
+
+scheme itself. Nearly a hundred schemes {add}given{/add} hitherto will be criticised.
+
+A. Theoretical Science.
+
+I. Science of Research.
+
+    i. Mathematics.
+
+    ii. Philosophy, or Cenoscopy.
+
+        1. Categories.
+
+        2. Normative Science.
+
+            a. Esthetics.
+
+            b. Ethics.
+
+            c. Logic.
+
+        3. Metaphysics.
+
+    iii. Idioscopy, or Special Science.
+
+        1. Psychognosy.
+
+            a. Nomological, or General Psychology.
+
+            b. Classificatory.
+
+                α. Linguistics.
+
+                β. Critics.
+
+                γ. Ethnology.

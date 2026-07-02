@@ -1,0 +1,31 @@
+[hand: Application
+of CSPeirce   No18
+15]
+
+On Propositions. The question of the nature of the Judgment
+is the question most actively debated today of any in logic.
+It affords, I think, the most favorable occasion for a descrip-
+tion of the present state of logic. I shall endeavor to give
+a faithful account of the positions on this and allied questions
+(and almost all the questions that are actively discussed are
+{del}so{/del} allied to this) of every logician of importance. I set forth
+and defend my own position
+
+I shall then pass on to an elaboration of the analysis,
+classification, symbolization, and relations of propositions.
+
+No. 19.  On Arguments, The nature of argument fully examined
+in all its aspects. All arguments are either Deductions,
+Inductions, Abductions, or Mixed Arguments. My earliest
+statements were correct in this respect. But in my paper
+{add}overemphasizing formalities,{/add}
+in the Johns Hopkins Studies in Logic, I failed to distin-
+guish between Abduction and a previously overlooked,
+{add}little noticed{/add}
+variety of induction * which may be called Abductive Induc-
+
+[hand: *Some German logi-
+cians have con-
+founded it with
+the argument from
+analogy.]

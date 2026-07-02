@@ -1,0 +1,20 @@
+[hand: Application
+of C.I.Fem
+23]
+
+is a cross-division of logic into the doctrine of terms, the
+doctrine of propositions, and the doctrine of arguments.
+I show that historically, these divisions of logic have
+generally been more or less distinctly recognized. What they
+have to contend with has mainly been the division according
+to the different treatises of Aristotle, etc.
+
+14. On the Proper Method of Establishing the Doctrines of Logic. It
+is needless to say that a science whose methods are all at sixes
+and sevens is in a poor way. In this memoir, I propose to
+show that six plus seven, or thirteen, is precisely the
+number of different methods which are actually in use
+for establishing logical doctrines, without including
+the method of authority, which, though not avowed, has
+great influence. {del}Of these methods, I shall show that
+the majority{/del}

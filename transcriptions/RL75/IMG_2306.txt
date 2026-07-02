@@ -1,0 +1,21 @@
+[hand: Application
+of C.S. Peirce
+60]
+
+pertinent to the purpose. Methodeutic has a special interest
+in Abduction, or the inference which starts a scientific hypo-
+thesis. For it is not sufficient that a hypothesis should be
+a justifiable one. Any hypothesis which explains the facts
+is justified critically. But among justifiable hypotheses
+we have to select that one which is suitable for being tested by
+experiment. There is no such need of a subsequent choice
+after drawing deductive and inductive conclusions. Yet although
+methodeutic has not the same special concern with them, it has
+{del}to give{/del} develop the principles which are to guide us in the inven-
+tion of proofs, these which are to govern the general course of
+an investigation, and those which determine what problems
+shall engage our energies. It is, therefore, throughout of an
+economic character. Two other problems of methodeutic which
+the old logics usually made almost its only business are,
+first, the principles of definition; and of rendering ideas
+clear; and second, the principles of classification.

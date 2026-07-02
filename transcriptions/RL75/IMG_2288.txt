@@ -1,0 +1,21 @@
+[hand: Application
+of C.S Peirce
+43]
+
+22. Logic of Chance. Deduction, as such, is not amenable
+to criticism, for it is necessary reasoning, and as such ren-
+ders its conclusion evident. Now it is idle to seek any
+justification of what is evident. It cannot be rendered
+more than evident. Fallacies, it is true, may be criti-
+cized; but this subject will be postponed until all
+the legitimate modes of argument have been considered.
+But when deduction relates to probability, it becomes
+open to criticism, not in so far as it is deductive, but
+in so far as it relates to a logical conception which in
+a sense deprives the reasoning of its necessary charac-
+ter. I therefore in this memoir examine the nature of
+probability, and the processes of the doctrine of
+chances. I flatter myself that I shall put the whole
+matter, both of the origin of probability and of the
+application of the calculus, in a much clearer light
+than has hitherto been done. Objective probability is

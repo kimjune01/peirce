@@ -1,0 +1,46 @@
+[diagram: small geometric figure with angles and line segments]
+
+(ds)₀ r₀ sin C = (ds)₁ r₁ sin C
+
+(ds)₀ : (ds)₁ = [formula: see image]
+
+[diagram: roughly circular sketch with tangent/arrow]
+
+[diagram: curved line meeting an angled line]
+
+[diagram: small line/arc figure]
+
+Ω - Ω₀ = 2r²
+
+[diagram: triangular geometric figure]
+
+[diagram: small D-shaped sketch]
+
+= [formula: see image]
+
+Ω - Ω₀ = - [formula: see image] (1 + [formula: see image])
+
+(ds)₀ r₀ sin C = (ds)₀ r₁ sin B
+
+sin B = r₀/r₁ sin C
+
+ds₀ sin B = (ds)₀ r₀/r₁ sin C
+        = (ds)₁ sin C
+
+[diagram: geometric figure with angled lines, labeled (ds)₀]
+
+[diagram: long horizontal geometric figure with arrows and labels (ds)₀, (ds)₁, C]
+
+[diagram: arrowed line leading to small angular sketch]
+
++ 4p₁⁴
+  ----
+  2r²
+
+∞
+
+√((ds)₁² - (ds)₁² sin² C) - √((ds)₀² - (ds)₀² sin² C) = F′
+
+(ds)₁ cos C
+
+(ds)₁ √(r₁²/r₀² - sin² C)

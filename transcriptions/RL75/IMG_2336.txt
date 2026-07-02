@@ -1,0 +1,22 @@
+[hand: Application
+of C.S.Peirce
+23
+X]
+
+is a cross-division of logic into the doctrine of terms, that
+of propositions, and that of arguments.
+If we make the division into Stechiology, Critic,
+and Methodeutic, the primary one, then upon a view of
+the matter which, though perhaps superficial, is yet valu-
+able, while stechiology must have its doctrines of terms,
+its doctrine of propositions, and its doctrine of arguments,
+critic cannot well have any doctrine of terms, and
+methodeutic ought to be concerned solely with arguments.
+Moreover, critic can have no direct concern with cer-
+tain propositions, namely definitions, since one may
+adopt any definition he pleases, nor with certain ar-
+guments, namely, necessary arguments; for if their
+{del}[illegible]{/del} conclusions are not evident they are not argu-
+ments of this kind; while if they are evident, nothing
+more can be said. Methodeutic, too, must not only, on
+this view, be restricted to argument

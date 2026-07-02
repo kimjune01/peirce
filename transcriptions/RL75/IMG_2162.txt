@@ -1,0 +1,26 @@
+[hand: Statement
+17]
+
+[hand: Induction is reasoning which professes to pursue such a
+method that if {add}being persisted in, the special applicability of it (when it is applicable){/add}
+the facts of some class, independently approximate
+to the truth, {add}will approximate to the truth in the long run.{/add} Abduction is reasoning, which
+professes to shew, that
+{add}in case there is any ascertainable truth concerning the
+matter in hand,{/add} {del}the reasoning{/del} {add}the general method of
+this reasoning{/add} {add}though not necessarily
+any special applicability must{/add}
+eventually approximate to the truth.
+
+Of these three classes of reasonings Abduction is the
+lowest. So long as it is sincere, {del}without [unclear: end]{/del}, it does
+not deserve to be called reasoning; Abduction cannot
+be absolutely bad. For sincere efforts to reach the truth,
+no matter in how {add}wrong{/add} {del}mistaken{/del} a way they may be
+commenced, cannot fail ultimately to attain any
+truth that is attainable. Consequently, there is only a
+relative preference between different abductions; and
+the ground of such preference must be economical.
+That is to say, the better abduction is the one which is
+likely to lead to the truth with the lesser expenditure of
+time, {del}care{/del}, vitality, etc.]

@@ -1,0 +1,21 @@
+[hand: Application
+of C.S. Peirce
+34]
+
+of the logic of relatives. The distinction is generally condemned by
+modern writers; and what they have in mind (almost always
+most confusedly) is just. The only fault that Kant's distinction
+has is that it is ambiguous, owing to his ignorance of the
+logic of relatives and consequently of the real nature of
+mathematical proof. He had his choice of making either one
+of two distinctions. Let definitions everywhere be substituted
+for definite in the proposition. Then it was open to him to
+say that if the proposition could be reduced to an identical
+one by merely {del}widening the subjects{/del} {add}attaching aggregates to{/add} its subjects and components
+to its predicate it was an analytic proposition; but otherwise
+was synthetic. Or he might have said that if the propo-
+sition could be proved to be true by logical necessity without
+further hypothesis it was an analytic one; but otherwise was
+synthetic. These two statements Kant would have supposed
+to be equivalent. But they are not so. Since his abstract defi-
+nition is ambiguous, we naturally look to his examples, in

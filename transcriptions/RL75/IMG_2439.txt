@@ -1,0 +1,22 @@
+[hand: Application
+of CSPeirce
+30]
+
+No29 On Definition and Clearness of Ideas. In January, 1878, I pub-
+lished a very brief sketch of my doctrine of this subject, in-
+cluding a maxim of “Pragmatism,” which has of late years
+attracted some attention. I there {del}show{/del} developed three grades
+of clearness of ideas. I now propose to treat all these more
+completely. Especially, my former account of pragmatism
+omitted most important questions and limitations. Fur-
+thermore, I am now prepared to show that there is a fourth,
+still higher grade of clearness, which I think I ought to
+set forth clearly.
+
+No30 On Classification. All classification is based on a purpose.
+If this purpose is the idea governing the production of the
+objects classified, {add}The classification{/add} it is “natural.” Every class which em-
+bodies {del}knowledge{/del} {add}information,{/add} in the sense that something is true of
+all its members beyond what is involved in the definition
+of the class, is a natural {add}class{/add}. All classes are more or less
+natural; and all classification is more or less natural.

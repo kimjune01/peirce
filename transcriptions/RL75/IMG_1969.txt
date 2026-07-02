@@ -1,0 +1,30 @@
+[hand: -10]
+[hand: 2]
+
+actively debated than any other.  It is here that the German
+logicians are best worthy of attention; and I propose to take
+occasion to give here an account of modern German logic.
+Although this seems rather the subject for a book than for a
+single paper, yet I think, by stretching this memoir, I can
+bring into it all that it is necessary to say about these
+treatises, which belong to near a dozen distinct schools.
+     I shall then show how my own theory follows from attention
+to the three categories; and shall pass to an elaborate analy-
+sis, classification, symbolization, and doctrine of the rela-
+tions of propositions.
+     This will probably be the longest of all the memoirs, and
+will balance No. 16, which will be short.  I think I shall treat
+No. 16 as a supplement to No. 15 and divide No. 21 into two
+parts to be handed in separately.
+No. 19.  On Arguments.
+     I first examine the essential nature of an argument, show-
+ing that it is a sign which separately signifies its interpre-
+tant.  It will be scrutinized under all aspects.
+     I shall then come to the important question of the class-
+ification of arguments.  My paper of April, 1867, on this sub-
+ject divides arguments into Deductions, Inductions, Abductions
+(my present name, which will be defended,) and Mixed Arguments.
+I consider this to be the key of logic.  In the following month
+May, 1867, I correctly defined the three kinds of simple argu-
+ment in terms of the categories.  But in my paper on Probable
+Inference in the Johns Hopkins "Studies in Logic", owing to

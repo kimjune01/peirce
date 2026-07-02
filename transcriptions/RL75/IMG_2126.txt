@@ -1,0 +1,21 @@
+A
+39
+
+might have seen long before, namely, that all
+collections are of the nature of abstractions.
+When we pass from saying "Americans speak English"
+to saying "The American nation is composed of in-
+dividuals who speak English," we perform a special
+kind of abstraction.
+
+I {add}now{/add} pass to {del}some{/del} a rough statement of {del}natural{/del}
+{add}my results{/add} {del}[illegible]{/del} in regard to the hauretic branch of
+mathematical thought. At the outset, I set up for
+myself a sort of landmark by which to discern
+whether I was making any real progress or not.
+Cayley had shown, while I was {add}as a boy{/add} just beginning
+to understand such things, that {del}projective{/del} {add}metric{/add} geometry,
+{del}the geometry{/del} of the Elements, is nothing but a
+special problem in projective geometry, or perspective,
+and it is easy to see that projective geometry is nothing
+but a special problem in Topical geometry. Now ma-

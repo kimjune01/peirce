@@ -1,0 +1,29 @@
+[hand: 17]
+
+researcher into any science, even mathematics itself.  It
+strongly resembles the purely mathematical part of political
+economy, which is also a theoretical study of advantages.  Of
+the different classes of arguments, abductions are the only ones
+in which after they have been admitted to be just, it still
+remains to inquire whether they are advantageous.  But since
+the whole business of heuretic, so far as its theory goes,
+falls under methodeutic, there is no kind of argumentation that
+methodeutic can pass over without notice.
+        *An abduction is an argument from mere similarity.  We
+meet with a surprising fact and seek a possible explanation of
+it, and having found one, we conclude that perhaps the hypothetical
+explanation is true.  This is the only form of argument which
+introduces new matter.  An induction, properly speaking, is an
+argument in which a proposition is tested by means of a prediction
+which is then tested by observation.  It is either what may be
+called a genuine, or extensive, induction, which samples a
+collection, and reasons, in reference to a predicted or pre-
+designate character, that the whole collection will possess that
+character in approximately the same measure as the sample; or
+it is an abductive, or comprehensive induction (which in my
+paper on probable inference of 1882 I confounded with an
+abduction) which tests a hypothesis by drawing sample consequences
+as predictions, finding how far they are verified, and concluding
+that the results measures the degree of truth of the hypothesis.
+It differs from abduction in not starting a new hypothesis and
+in making and testing predictions.  Deduction is necessary

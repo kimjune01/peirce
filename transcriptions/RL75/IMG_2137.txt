@@ -1,0 +1,24 @@
+A
+17
+
+is by no means saying that it can be prolonged to an indefinite'''
+ly great length; but {add}he proves virtually (prop. 2){/add} {del}[unclear: that any straight line]
+can have its [unclear: B] through straight line can that from the extremity of any straight line{/del}
+to imply that it could be doubled. {del}Let us grant that{/del} Then Euclid
+and continuing it a line of any given length can be drawn. Then Euclid
+
+[diagram: Fig 1, triangle ABT with side BT extended toward Δ, line through B-E-Z, and labels A, B, T, E, H, Z, Δ]
+Fig 1
+
+[diagram: Fig. 2, triangle ABT with side BT extended toward Δ and Z, line through B-E, labels A, B, E, T, H, Z, Δ]
+Fig. 2
+
+imagines a triangle ABT. He prolongs the side BT beyond
+T to Δ; and he offers to prove that ∠ATΔ > ∠TBA and
+{del}ATΔ{/del} For that purpose he {del}cuts{/del} bisects AT in E and draws
+the line BE through the triangle, and continues it beyond E to Z, so
+as to make EZ equal to BE. He then draws the right line T'Z.
+Then he says that ∠ETA > ∠ETZ, {add}He makes this depend{/add} {del}relying{/del} on the absurd axiom
+that the whole is greater than its parts. But let this pass.
+He is imagining Fig 1. But he gives no reason, and could
+give no reason why Z might not fall as shown in Fig 2,

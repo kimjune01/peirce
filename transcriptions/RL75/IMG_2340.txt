@@ -1,0 +1,24 @@
+[hand: Application
+of Peirce
+35]
+
+order to determine what he means. We find he says (Werke, Ed. R.
+and S. M. 702): "Mathematische Urtheile sind ingesammt synthetisch."
+That certainly indicates the former of the two possible meanings;
+and this, in my opinion, gives the more important division.
+It is an extravagant statement in any case; for some mathe-
+matical judgments are mere definitions. There are 132, of that
+description in the Elements of Euclid. It is still more amazing to
+find that he calls 7+5=12, a synthetical judgment. Now if
+write G for "next greater than," the definition of 7 is 7=G6, and
+the definition of 6 is 6=G5. The definition of 12 is 12=G11,
+{del}and{/del} the definition of 11 is 11=G10; and for brevity we may
+consider the definition of 10 to be 10=5+5. But now one
+must substitute the definition of addition in place of the +.
+Now to say that x+y=z is to say {add}[hand: contains part of the definition]{/add} {del}first, that taking away from the
+numbers whatever, say a and c, either x is not Ga or
+z is not G6, or a+y=b, and taking say a, b, c, d, e either
+two numbers whatever, say a and b, either x is not Ga or
+z is not Gb, and further (to abridge the proceeding, which would{/del}
+
+[hand: or else a+y=b,]

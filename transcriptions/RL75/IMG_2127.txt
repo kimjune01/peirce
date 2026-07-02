@@ -1,0 +1,21 @@
+[hand: A
+40]
+
+Mathematicians are entirely destitute of any method
+of reasoning about topical geometry. The 25^th propo-
+sition of the 7^th book of the Éléments de Géométrie
+of Legendre, which ({del}is about{/del} {add}strictly{/add} all that is known of the
+{add}some extensions of it, of which the chief is{/add}
+subject except Listing's Census-theorem, was proved
+with extreme difficulty by Legendre, having ex-
+ceeded the powers of Euler. Really the proof is not
+satisfactory, nor is Listing's. The simple proposition that
+four colors suffice to color a map on a spheroid has
+resisted {del}[illegible]{/del} the efforts of the greatest mathematicians.
+If, then, without particularly attending to that pro-
+position or to topical geometry I find that my
+studies of the method of discovering heuristic me-
+thods leads me naturally to the desired proof of the
+map-problem I shall know that I am making
+progress. From time to time, as I advanced, I
+have tried my hand at that problem. I have not

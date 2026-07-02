@@ -1,0 +1,21 @@
+[hand: A
+38]
+
+proposition “Opium puts people to sleep” into “Opium
+has a dormitive virtue.” This turns out to be so essential
+to the {del}high{/del} greater strides of mathematical demonstra-
+tion that it is proper to divide all Theorematic rea-
+soning into the Non-abstractional and the abstrac-
+tional. I am able to prove that the most {del}imp{/del} practi-
+cally important results of mathematics could not
+in any way be attained without this operation of
+abstraction. It is therefore necessary for Logic to
+distinguish sharply between good abstraction and
+bad abstraction.
+
+It was not until I had been {del}eng{/del} giving a
+large part of my time for several years to tracing
+out the ways in which mathematical demon-
+stration makes use of abstraction that I
+came across a fact which a mind which
+had not been scrutinizing the facts so closely

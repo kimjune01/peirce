@@ -1,0 +1,23 @@
+[hand: Application]
+[hand: {del}Application{/del}]
+[hand: of C. S. Peirce]
+[hand: 57]
+[hand: st]
+
+be. The only justification is that which is often illustrated
+in playing the game of whist. Three rounds remain of a
+hand. How the cards lie, the leader does not know. But he
+does {del}not{/del} know that if they lie in a certain way, a certain
+lead will save the odd card, while if they do not lie in that
+way, no lead will do so. This justifies his assuming, for the
+purposes of the lead, that so the cards do lie. For so alone his
+end may be gained. The principle is that we are always
+justified {add}to the purpose of conduct{/add} in presuming that our sole end may be {del}gained{/del} reached.
+But all belief is belief for the purposes of conduct. Nothing
+has any meaning aside from practical purposes. Aside
+from its practical aspects a proposition cannot be false, be-
+cause a meaningless thing is not a proposition, and as
+such, has no room to be false. If, then, it comes to this, that
+a certain {del}propos{/del} hypothesis must be {del}accepted{/del} true or
+there is no comprehensible truth, and if, as our ethical
+and esthetical discussions have shown is the case, the

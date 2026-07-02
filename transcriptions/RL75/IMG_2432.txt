@@ -1,0 +1,26 @@
+[hand: Application
+of C.S. Peirce
+D3]
+
+witness will tell the truth. To suppose that events are sub-
+ject to law but that those laws are unknown to us de-
+prives the doctrine of chances of all validity. It is neces-
+sary that it should be known that there is no law of
+a kind which could interfere with the security of the
+party experiencing the long run. This becomes especially
+necessary when we assume events to be independent.
+The calculus of probability is applicable to scientific
+problems. Nature of the assumption that it is appli-
+cable to insurance companies. Rothschild at Monte Carlo
+determines to bet a franc {add}at{/add} each bet and not come away
+until he has netted a gain of a franc. Probability, for
+a selfish individual, what?
+
+The rules of probability developed. Application
+to high numbers. Rationale of least squares. Pearson's
+developments.
+
+Inverse probabilities. The fallacies of the books.
+Examination of attempts to defend the Laplacian doctrine.
+This memoir is intended to be a complete vade mecum of the Doctrine of Chances
+discussing every important or interesting question yet suggested with many new ones.

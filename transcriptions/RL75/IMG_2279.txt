@@ -1,0 +1,21 @@
+[hand: Application
+of C. S. Peirce
+35]
+
+order to determine what he means. Now turning to Rosenkranz and
+Schubert's edition of his works, Vol. II (The Critik d. r. V.) p. 702, we read
+"Mathematische Urtheile sind insgesamt synthetisch." That certainly
+indicates the former of the two meanings, which in my opinion gives
+to, the more important division. The statement, however, is unusually
+extravagant, to come from Kant. Thus, the Urtheile of Euclid's Elements
+must be regarded as mathematical; and no less than 132 of them are
+definitions, which are certainly analytical. Kant maintains, too, that
+7+5=12 is a synthetical judgment, which he could not have done
+if he had been acquainted with the logic of relatives. For if we write
+G for "next greater than", the definition of 7 is 7=G6 and that
+of 12 is 12=G11. Now it is part of the definition of plus,
+that Gx+y=G(x+y). That is, {del}to say{/del} that G6+5=G11
+is implied in 6+5=11. But the definition of 6 is 6=G5,
+and that of 11 is 11=G10; so that G5+5=G10 is implied
+in 5+5=10, and so on down to 0+5=5. But further
+it is a part of the definition of plus that x+Gy=G(x+y)

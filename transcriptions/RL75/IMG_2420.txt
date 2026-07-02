@@ -1,0 +1,22 @@
+[hand: Application
+of C.S. Peirce
+12]
+
+(historical review of all the definitions that have been
+proposed for logic and of all the conceptions that have
+been entertained of the science, wherein I show that my
+definition is not only not a novelty, but that it has
+virtually been generally held.
+
+[hand: No13.] On the Division of Logic. Logic is primarily divided
+into Stechiologic, Critic, and Methodeutic, which are
+defined in terms of the categories. Logic relates to Terms,
+Propositions, and Arguments. Stechiologic treats of
+every variety. Critic has no direct bearing upon
+terms, upon Analytic, or Explicatory, Propositions, nor
+upon Necessary Reasoning, as such. It does, however, treat
+of meaningless and absurd terms, of {del}[unclear: false]{/del} {add}irrelevant{/add} definitions,
+of fallacious demonstrations and of probable deductions.
+Methodeutic has no direct bearing upon any terms
+or propositions or {add}upon{/add} any kind of reasoning except
+that which starts hypotheses. After Critical Logic has

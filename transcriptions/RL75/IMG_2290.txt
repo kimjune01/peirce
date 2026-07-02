@@ -1,0 +1,24 @@
+[hand: Analysis and
+Application
+of Science
+45]
+
+even a universe in which there should be no such thing
+as probability. [ I will endeavor to determine this with
+certainty before drawing up the memoir. ] It is commonly
+said that there is a law of the occurrence of the event,
+only it is unknown to us. But it is easy to show that the
+utility of the calculus depends on there being no law of
+the kind which would concern the application. Ignorance is
+not sufficient
+
+The rules of probability are easily deduced, involving the
+conception of independent events, that is events such that
+the product of the number of occurrences of both into the
+number of non-occurrences of both equals the product of
+the number of occurrences of the first only into the {del}case{/del} {add}number of{/add}
+occurrences of the second only. From this follows the probability
+law.
+
+Now as concerns the connection between probability
+and doubt, we find the books stuffed with errors. It is,

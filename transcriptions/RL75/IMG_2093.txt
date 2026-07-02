@@ -1,0 +1,19 @@
+A
+
+14
+
+{add}judgment{/add}
+{del}proposition{/del} is false, I am referring to something out
+of thought. For what I mean is that the {add}judgment{/add}
+{del}proposition{/del}
+refers to something and misrepresents it. But if it
+only referred to the contents of thought it could not
+misrepresent its subject. Consequently, when I assert
+that "there is such a thing as a false proposition" my
+judgment is not confined to my own thought. Neverthe-
+less, that assertion is beyond criticism. For on the one
+hand, it {add}is indubitably{/add} {del}refers to{/del} a proposition itself; and {del}this very pro-
+position could not exist if there were no false propos-
+ition.{/del} {add}while the denial
+of it would indubitably mean that this proposition did not
+exist.{/add}

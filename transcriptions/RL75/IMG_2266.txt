@@ -1,0 +1,21 @@
+[hand: Application
+C.S. Peirce
+23]
+
+is a cross division of logic into the doctrine of terms, the
+doctrine of propositions, and the doctrine of arguments.
+Making the former division the primary one, stechi-
+ology will have direct concern with terms, propositions,
+and arguments. Critic, however, whose business it is
+to consider {del}whether the{/del} whether signs are really related
+to their objects, that is, are true, can have no direct
+concern with terms, since a term simply denotes whatever
+object it is fit to denote. Methodeutic for a similar rea-
+son, can have no direct and primary concern with
+anything but arguments, notwithstanding the great
+part that definition and division have always played
+in this branch of logic. Moreover, critic cannot
+directly deal with all kinds of propositions, since
+there can be no question as to the truth of a defi-
+nition. Nor can it directly deal with all kinds
+of arguments, For there can be no general theory

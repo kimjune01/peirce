@@ -1,0 +1,10 @@
+[formula: A/4g]
+
+concave downwards; if more rapidly, concave upwards. But
+if it ever crosses the straight line y = 4P^2 x the body will
+{add}have{/add}
+{del}[unclear: at]{/del} that distance [unclear: from] as a maximum or minimum distances,
+If it is tangent to that straight line, it may describe the circle
+at that distance. When it is below the straight line its velocity
+will be insufficient and the distance will diminish; so that
+x will increase.

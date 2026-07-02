@@ -1,0 +1,37 @@
+[hand: Application
+C.S. Peirce
+4]
+
+do, if I did not now spend all my forces available in working
+up for publication as many of my logical results as I can.
+What I desire to do, therefore, is to prepare some three dozen
+memoirs, each complete in itself, yet forming together
+a complete and unitary system of logic, which shall present,
+in a manner absolutely convincing to a scientific mind, the
+results to which I have arrived, with clear explanations of
+how it is that other logicians have been led to opine dif-
+ferently; the whole putting logic, for the first time, upon
+an undeniably scientific footing.
+        The following is a list of the memoirs.* If desired
+I can furnish a syllabus of each. This list will be,
+substantially followed, although in a few cases it may
+be found advisable to shift the limits between two
+consecutive memoirs, and in one case, or possibly
+two, I may transpose a memoir into a more logical
+position instead of {add}leaving it in{/add} its present place, where I {add}propose to{/add} place it for
+the sake of clearness of exposition:
+
+[hand: * I add some little
+hints of the contents
+of some of them. But
+since the more sci-
+entific parts cannot
+be rendered intelligible
+in such brief compass,
+I must say that the
+explanations neces-
+sarily give a some-
+what unfavorable
+impression of the
+work, which is not
+really just to it.]

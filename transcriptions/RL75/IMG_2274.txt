@@ -1,0 +1,27 @@
+[hand: Application
+of C.S. Peirce]
+
+[hand: Application
+of C.S. Peirce
+31]
+
+[hand: (There is a page 31(1/2))]
+
+* An abduction is an argument from mere similarity. We
+leads to this and a number of other analogous views
+consists in. I then analyze the nature of the arguments,
+and show among other things than in all reasoning
+there is a {del}logical utens{/del}, or {del}vague{/del} an appeal to a vaguely
+defined logical doctrine. I show that it follows from
+the definition of an argument, as a sign which definitely
+signifies its intended interpretant, that an argument,
+must be a self-conscious sign, and I formally define
+this self-consciousness, without any resort to psychology
+or to the peculiar flavor of human self-consciousness.
+I further show that properly, an argument is self-con-
+trolled, although a sign may be quite similar to an argu-
+ment without being self-controlled. I then show that from
+the definition of an argument it follows mathematically
+that every argument is either {del}an{/del} deduction, an induc-
+tion, an abduction, or an argument which mixes
+these characters.* I proceed to show what the chief vari-

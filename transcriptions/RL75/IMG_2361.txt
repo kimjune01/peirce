@@ -1,0 +1,25 @@
+[hand: Application
+of C.S. Peirce
+77]
+
+distinct parts unless those parts have definite limits, is
+false. Namely, imagine a lake with two islands in it, as in
+Fig 1. Now I say that that water has three parts, a, b, c.
+
+[diagram: Fig 1, lake with two islands and three labeled water parts a, b, c.]
+
+This is indisputable in the sense that it might
+be dyked across in two places without being
+separated into two lakes. Yet the boundaries
+between a, b, c may be arbitrarily drawn as
+in Fig 2, in Fig 3, or almost any way. The
+only condition is that the four boundaries
+shall separate the lakes into parts each of
+which would be separated into two by
+any dyke {del}from to{/del} across it.
+
+[diagram: Fig 2, lake with two islands; water parts labeled a, b, c, with boundary lines drawn between them.]
+
+[diagram: Fig 3, lake with two islands and concentric/curving boundary lines; water parts labeled a, b, c.]
+
+[diagram: Fig 4, lake with two islands and curving boundary lines; water parts labeled a, b, c.]

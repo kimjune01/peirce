@@ -1,0 +1,21 @@
+[hand: A
+41]
+
+proved it yet; although the last time I tried, I
+thought I had a proof, which closer examina-
+tion proved to contain a flaw. {del}Whether{/del} Since
+then, I have made, as it seems to me, {del}an impor-
+tant{/del} a considerable
+advance; but I have not {add}been induced{/add} {del}had leisure{/del} to
+reëxamine that subject, as I certainly should do if
+I were quite confident of being able to solve it with ease.
+I have, however, applied my logical theory directly
+with success to the demonstration of several other
+propositions {del}of difficulty{/del} which had resisted powerful
+mathematicians; {add}and I have greatly improved existing theory;{/add} so that I am confident that what
+I have found out is of value; and I believe the same
+method has only to be pushed a little further to solve
+the map-problem.
+        I can show that numbers whether integral, frac-
+tional, or irrational, have no other use or meaning
+than to say which of two things comes earlier which

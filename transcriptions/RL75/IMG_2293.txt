@@ -1,0 +1,25 @@
+[hand: Applications]
+
+[hand: Application
+of C. S. Peirce
+48]
+
+23. On the Validity of Induction. It will be shown to be
+mathematically {del}[unclear: necessary?]{/del} {add}impossible{/add} that induction should ulti-
+mately lead to {del}that{/del} a false conclusion in any case
+whatsoever, whether there be any definite probability
+or not, whether there be any real universe or not,
+whether the universe be presided over by a malign
+power bent upon making inductions go wrong or
+not. Such things might prevent inductions from being
+drawn, but they could not make them go ultimately
+wrong if they were rightly conducted and sufficiently
+persisted in. From this principle follow certain rules
+of induction for each of the three types of induction.
+These rules are clearly formulated and illustrated
+historically.
+
+I then proceed to inquire how far inductions may
+be strengthened or weakened by other arguments, which
+do not in themselves afford any information concern-
+ing the subjects of inquiry in the inductions, but

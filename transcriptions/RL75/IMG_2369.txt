@@ -1,0 +1,23 @@
+[hand: Application
+of C.S Peirce
+85
+X]
+
+{del}So{/del} A new problem thus arose which was analysed and solved.
+But this solution was found to involve inconvenience. The
+result was a new problem whose conditions were simpler,
+for the reason that the inconveniences had caused us to over-
+rule some of the original requisita. Being simpler, half-a
+dozen methods of solving it arose. It is evident that any
+such discussion will present a problem, where the third cate-
+gory is prominent; then a solution, where the first category
+comes into prominence; then an inconvenience, where the
+second category rises into prominence; then another problem
+and so on. At each solution we have generally a subdivision.
+That is, there will generally be several solutions.
+
+If anything of this sort is to be found, say in zoological class-
+fication, each branch would be a solution of the problem of
+producing an animal. But an inconvenience arises in
+connection with each, and each Class is a solution of
+the problem of dealing with that inconvenience, and so on

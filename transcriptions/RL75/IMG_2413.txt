@@ -1,0 +1,25 @@
+[hand: Application
+of C.S.Peirce
+5]
+
+[hand: red cross]
+
+        List of Proposed Memoirs on Logic.
+        ——
+
+No I  On the Classification of the Theoretic Sciences of Research. This
+will be a classification, not of possible sciences, but of the
+sciences in their present condition; not of sciences in
+the sense of "systematized knowledge," but of sciences in
+the sense of living social studies of truth. The classifi-
+cation is minute and covers the whole ground. For the
+purpose of this memoir I propose to subject it to one
+more severe criticism and revision. The outline of
+the scheme is as follows (as near as I can carry it in my mind):
+
+A  Theoretical Science,
+        I. Science of Research.
+             i Mathematics.
+             ii Philosophy, or Cenoscopy.
+                    1. The Doctrine of the Categories of Experience.
+                    2. Normative Science.

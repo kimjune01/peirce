@@ -1,0 +1,35 @@
+13.
+
+No. 13.  On the Division of Logic.
+
+        By an application of Categorio, I show that the primary di-
+vision of logic should be into Stechiology, Critic, and Methodeutic.
+There is a cross-division into the doctrines of Terms, Propositions,
+and Arguments, to which three kinds of signs, however, Stechiology,
+Critic, and Methodeutic are quite differently related.  The various
+historical divisions of logic are considered.
+
+No. 14.  On the Methods of Discovering and of Establishing the
+Truths of Logic.
+
+        I shall here show that no less than thirteen different
+methods of establishing logical truth are in current use today, and
+mostly without any principle of choice and in a deplorably uncritical
+manner.  I shall show that the majority of these methods are quite
+inadmissible, and that of the remainder all but one should be restrict-
+ed to one department of logic.  The one universally valid method
+is that of mathematical demonstration; and this is the only one which
+is commonly avoided by logicians as fallacious.  I shall show in the
+clearest manner that this notion is due to a confusion of thought,
+which I shall endeavor to trace through al its metamorphoses.  I
+hope to give this its quietus.
+
+        The methods of discovering logical truth can naturally not
+be numerous when discovery is pretty nearly at a standstill.  I ex-
+plain my own method.
+
+No. 15.  Of the Nature of Stechiologic.
+
+        This will contain especially a discussion of Erkenntnisslehre
+what it must be, if it is an indispensible preparatory doctrine to
+critical logic.

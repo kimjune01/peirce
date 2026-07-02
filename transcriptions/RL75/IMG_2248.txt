@@ -1,0 +1,21 @@
+[hand: A
+K2]
+
+problem to projective geometry, or perspective. It is easy to
+see that projective geometry is nothing but a special problem
+of topical geometry. On the other hand, since every relation
+can be reduced to {del}some{/del} a relation of serial order, something
+similar to a scale of values may be applied to every kind
+of mathematics. Probably, if the appropriate scale were
+found, it would afford the best general method for
+the {del}treatment{/del} of any branch. We see, for example, the power
+of the barycentric calculus in projective geometry. It is
+essentially the method of modern analytic geometry. Yet
+it is evident that it is not altogether an appropriate
+scale. I can already see some of the characters of an
+appropriate scale of values for topical geometry.
+
+My logical studies have already enabled me to prove,
+some propositions which {add}had arrested{/add} mathematicians of power. Yet I
+distinctly disclaim, for the present, all pretension to having
+been remarkably successful in dealing with the heuretic

@@ -1,0 +1,27 @@
+[hand: Applications]
+
+[hand: Application
+of C.S.Peirce
+47]
+
+true. For what would such a ratio mean? Would it mean
+that one in so often my conclusion is true? That depends
+on the general commonness of different distributions of
+beans in a bag, which is a positive fact, not a mathe-
+matical function. Mathematical calculation is deduc-
+tive reasoning, applicable solely to hypotheses; and when-
+ever it is applied to do the work of induction or
+abduction it is utterly fallacious. This is an important
+general maxim.
+
+This consideration affects the method of least-squares, if this
+method is looked upon in an extravagant theoretical manner; but not
+if it is regarded as a way of formulating roughly an inductive inference.
+Mr. Pearson's extensions, though they are excessively complicated,
+and thereby violate the very idea of least squares, are not without value.
+But other somewhat similar modifications of probability are
+called for; and I shall endeavor to work out one or two
+of them.
+
+I give in this memoir a summary of all the ordinary scientific
+man needs to know about probability, in a brief intelligible manner;

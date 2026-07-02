@@ -1,0 +1,21 @@
+[hand: Application
+of C.S.Peirce
+23]
+
+paper I mention the existence of the modes of inference which
+is true abduction. Thus, the only error that paper contains is
+the designation as Abduction of a mode of {del}a form{/del} induction
+somewhat resembling abduction, which may properly be called
+abductive induction. It was this resemblance which deceived
+me, and subsequently led me into {del}another{/del} a further error
+contrary to my own previous correct statement. Namely, con-
+tinuing to confound Abduction and Abductive Induction, in
+subsequent reflections upon the rationale of Abduction, I was
+led to see that {add}This rationale{/add} it was not that which I had {del}formerly{/del} {add}in my Johns{/add}
+Hopkins paper given of Induction; and in a statement I pub-
+lished in the Monist, I was led to give the correct rationale of
+Abduction as applying to Abductive Induction and so, in
+fact, to all Induction. All the difficulties with which I
+labored are now completely disposed of by recognizing that
+Abductive Induction is quite a different thing from Abduction.
+It is a very instructive illustration both of the dangers and of

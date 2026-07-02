@@ -1,0 +1,26 @@
+[hand: No 26
+Application
+C S Peirce
+30]
+
+On Fallacies.
+
+There would be no advantage in {del}making{/del} devoting a special
+memoir to a strictly scientific treatment of fallacies in
+general. It would be like a chapter in a treatise on trigo-
+nometry which should treat of possible errors in trigono-
+metry. But since my purpose is that these memoirs
+should not only be scientific but that they should also
+be useful, I propose to devote this to Fallacies, because I
+think, though it is not an attractive subject for a logician,
+that I can make the discussion very useful. I shall not
+attempt a strict theoretical development, but shall discuss
+fallacies under five heads, according to their causes, showing
+under each head how they come about, how we can avoid
+them in original reasoning and in controversy, how
+detect {add}them{/add} and reply to others who {add}avail{/add} {del}use{/del} them. The five heads
+are, 1st, slips; 2d, misunderstandings; 3d, fallacies due to
+bad logical notions; 4th, fallacies due to moral causes; and
+5th, sophisms invented to test logical rules, etc. This will
+thus be of an entirely exceptional character among the memoirs,
+more so even than the first.

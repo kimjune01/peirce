@@ -1,0 +1,23 @@
+[hand: Application
+registry
+30   No.26]
+
+On Fallacies.
+
+        Few logicians of theoretical strength have manifested any
+taste for the general doctrine of fallacies. It is no part of pure
+logic, but is an application of logic in attacking which one
+comes into direct competition with Aristotle in one of the
+directions in which he was the most incomparable. Most of
+the best modern treatises altogether ignore this subject. Mill attempts
+to say something fresh about it with little success. But though
+disagreeable, the topic is a useful one to treat, and I feel it my
+duty not to shirk it, but to treat it, not from a strict logical
+point of view but in a human mundane manner, as well as
+my poor talent in that direction will.
+
+        In that quite non-logical way, it seems to me useful
+to divide fallacies into five classes, according to their
+causes. Class I consists of fallacies due to mere slips, such
+errors as one may commit in footing up a long column
+of figures. It is useful to point out, first, in what sort of ope-

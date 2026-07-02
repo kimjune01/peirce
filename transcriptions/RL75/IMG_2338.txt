@@ -1,0 +1,22 @@
+[hand: Application
+OCC.S. Peirce
+33]
+
+point I make clear is the distinction {del}between{/del} probability
+unity, and {del}absolute{/del} certainty. This is illustrated by the case
+where a large number of players, playing against a
+banker, at a perfectly even game, each bet one francs
+each time until his nets a gain, when he retires from
+the table and gives place to a fresh player, the probability
+is 1 that any given player will ultimately net a gain,
+and therefore that all will do so; and yet the probability
+is 1 that in the long run the bank will not lose, or
+at any rate, there is an even chance that if the banker does
+not come out precisely even he will win too. I show that
+the "moral value" of a player's chances is quite irrelevant to
+the Petersburg paradox; and I correct various other errors
+current about probability. Hume's argument about
+Miracles will be analyzed.
+
+Rules by which all errors in the use of the doctrine of
+chances will be plainly laid down, and their use exemplified.

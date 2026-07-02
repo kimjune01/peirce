@@ -1,0 +1,20 @@
+[hand: Application to C.S Peirce 6]
+
+List of Proposed Memoirs on Logic.
+
+No 1.  On the Classification of the Theoretic Sciences of Research.
+
+        This will be a natural classification, not of possible
+sciences, but of sciences as they exist today; not of sciences
+in the sense of "systematized knowledge," but of {del}single{/del} branches
+of endeavor to ascertain truth. I shall not undertake to
+prove that there is no other natural classification of the
+sciences than that which I give; and this being merely
+an introductory memoir, cannot have the same convin-
+cing character as the others. Every unitary classifica-
+tion has a leading idea or purpose, and is a natural
+classification in so far as that same purpose is
+determinative in the production of the objects classified.
+The purpose of this classification is {add}nearly{/add} the same as
+that of Comte, namely, so to arrange {del}a{/del} {add}catalogue{/add}
+of the sciences, as to exhibit the most important of

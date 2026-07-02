@@ -1,0 +1,20 @@
+[hand: Statement
+12]
+
+The methodeutic utility of logic is still further limited
+by the fact that {add}the normative{/add} pure mathematics are perfectly evident
+and {del}require{/del} have no need of any separate theory of logic
+to reinforce them. Mathematics is its own logic.
+Furthermore, the three normative sciences, esthetics,
+ethics, and logic itself, although they {add}do{/add} not, {del}philoso-{/del}
+{del}phically{/del} come under {del}the philosophical that branch{/del}
+of science called practical, that is, the arts, are never-
+theless {del}practical for the purp{/del} so far practical that instinct
+in its natural operation, is perfectly adapted to their
+reasonings after the fuller analyses of which these sciences
+themselves take cognizance have prepared the premisses.
+It follows that the only reasonings for which a
+science of logic is methodeutically useful are those
+of metaphysics, and the special theoretical sciences of
+the physical and the psychical wings. Physical
+science has hitherto done well enough without any appeal

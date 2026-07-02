@@ -1,0 +1,8 @@
+[hand: A]
+[hand: 28]
+
+[hand: {del}Something written on this paper is false not only in what it implies but in what it expresses{/del}]
+[hand: Something written on this paper is false not only in what it implies but in [unclear: facts]
+Now we may grant that both these sentences in respect to their
+implication that they are true. But how about what [unclear: the] facts they
+express.]

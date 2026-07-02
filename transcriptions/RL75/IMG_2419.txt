@@ -1,0 +1,23 @@
+[hand: Application
+of C.S. Peirce
+11]
+
+operations at all, it must be in a different sense from
+that in which modern psychologists study the mind.
+This conception of mind, which is needed in our studies,
+will be developed in its four successive grades of
+clearness.
+
+[hand: No 12]  On the Definition of Logic. Logic is formal semiotic.
+A sign is something, A, which brings something, B, its
+interpretant sign, determined or created {add}implied{/add} by it, into the
+same sort of correspondence (or a {del}corre[unclear: ?]{/del}{add}sort{/add}) with some-
+thing, C, its object, as that in which itself stands to C. This
+definition no more involves any reference to human
+thought than does the definition of a line as the place
+within which a particle lies during a lapse of time, It is
+from this definition that I deduce the principles of logic
+{add}and by mathematical reasoning that, says,{/add}
+by mathematical reasoning, {del}which{/del} will support criticism
+of Weierstrassian severity, and {add}that{/add} is perfectly evident.
+The word formal in the definition is also defined.

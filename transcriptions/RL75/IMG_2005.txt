@@ -1,0 +1,21 @@
+[hand: Application
+C.S. Peirce
+24]
+
+the strength of my {add}heuristic{/add} method. Similar errors may remain in
+my system. I shall be very thankful to whoever can detect them.
+But if its errors are confined to that class, the general fabric
+of the doctrine is true. I at first saw that there must be,
+three kinds of arguments severally related to the three
+categories; and correctly described them. Subsequently,
+studying one of these kinds, I found that besides its
+typical form, there was another, distinguished from the
+typical form by being related to that category relation to
+which distinguishes abduction. I hastily identified it
+with abduction, not being clear-headed enough to see that,
+while related to that category, it is not related to it in
+the precise way in which one of the primary divisions
+of arguments ought to be, according to the theory of the
+categories. This is the form of error {add}to{/add} which my me-
+thod of discovery is {del}peculiarly{/del} peculiarly liable. One sees that
+a form has a relation to a certain category, and one

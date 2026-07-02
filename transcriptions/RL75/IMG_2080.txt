@@ -1,0 +1,21 @@
+[hand: A]
+[hand: 48]
+
+distances, or by any law equivalent to that, the one will move
+in a spiral nearer and nearer to the other forever. This is
+an interesting point; and {del}I will able{/del} have never seen it
+stated with precision. Formulae given on p. 378 of my father's
+Analytic Mechanics shew that if P is the rate of description
+of area of the Boscovichian point moving round a fixed
+attracting centre, then if we use a system of rectangular
+coordinates in which x shall be equal to the square of
+the reciprocal of the radius vector, and y equal to the square
+of the velocity, then the straight line whose equation is y = 4P²x
+will determine the condition of the moving particle reaching
+[diagram: graph with vertical axis v², horizontal axis 1/r², straight and curved lines from origin]
+an apse; that is, a maximum or mini-
+mum distance. Another curve, dependent
+on the law of the variation of the attraction
+with the distances will determine how
+v² will vary with 1/r². If the attraction varies less rapidly than
+the inverse cube of the distances this second curve will be,

@@ -1,0 +1,21 @@
+[hand: Statement
+8]
+
+[hand: Smith in philosophy. I have been called a modern Hume, because
+Hume denied causality altogether, and I, after calling attention to
+the fact that all men set some limits to causality, endeavored to
+define these limits. Because I {del}had{/del} pointed out the insufficiency
+of existing logical algebra, and have {del}not{/del} used algebra as an aid
+in explaining the logic of relations, it has been assumed that I
+regarded logical algebra as the whole, or chief, part of logic; al-
+though, in fact, I have protested earnestly against the exaggerated
+{add}by many{/add}
+importance attached to this instrument of logic. At almost the
+same moment, one eminent philosopher was {del}telling{/del} referring
+to me as a sort of Büchner, while another was calling me
+a pure Schellingian. I am supposed to be opposed to Hegel at
+all points. Indeed, I do think that Hegel's processes, if regarded
+as proofs, are quite the most absurd reasonings that ever
+were or could be. But as to his main doctrines, which were
+reached by him before he ever lit up his dialectical
+procedure, I think there is a good deal of truth in them]

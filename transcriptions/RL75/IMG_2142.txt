@@ -1,0 +1,34 @@
+A.
+27
+
+that there is a false proposition {add}separately enunciated{/add} We cannot, however, say
+that there must be a false proposition; for it is quite pos-
+sible to imagine a paradoxical solution which no
+false proposition should ever have been suggested. But
+that there actually is a false proposition is necessitated
+by the {del}existence{/del} {add}enunciation{/add} of this proposition, although this propo-
+sition is itself true. By merely suggesting a false propo-
+sition it actually creates a false proposition, actually enun-
+ciated. Suppose however, that we were to find a piece of
+paper-- wd
+
+        A = B is false
+        B = A is true
+        __________________
+
+        Both true impossible
+
+        Both false impossible
+
+        A true B false Imposs.
+        A false B true Imposs.
+
+        {del}A is false{/del}
+
+        A = A is true x B false
+        B = A is true x B true
+        ______________________
+
+        Suppose A true is B false Possible
+        Suppose A false is B false Possible
+        Suppose {del}B false{/del} B true ∴ A true

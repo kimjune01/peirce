@@ -1,0 +1,20 @@
+[hand: A]
+[hand: 30]
+
+nor which will command {add}veritable{/add} assent, that every proposition
+whether it be believed, doubted, asserted, commanded, or
+put interrogatively, supposed, etc., essentially represents itself
+to represent an absolute reality, the very same for all
+propositions, which is definite (that is, subject to the
+principle of contradiction) and individual (that is, subject
+to the principle of excluded middle). This reality is not
+in any respect constituted by being represented as so
+constituted in any definite {add}proposition or{/add} representation: That there
+is such an absolute reality we hope; and in every inquiry
+we hope that the proposition which is put in the inter-
+rogative mood represents that reality. {del}[unclear: If it does]{/del} If a
+proposition represents that reality and represents it rightly
+{del}[unclear: expresses]{/del} it is true; in whatever respect it represents it, the proposition
+is true. If the proposition does not represent the abso-
+lute reality or in any respect represents it {del}falsely{/del} {add}wrongly{/add}, it
+is false.

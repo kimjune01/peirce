@@ -1,0 +1,23 @@
+[hand: Application
+C.S.Peirce
+20]
+
+laws to which a sign must conform in order to {add}mean what it is{/add}
+{del}have its meaning{/del} that
+to mean, the study of the laws to which a sign must conform
+in order really to correspond to the object to which it is
+intended to conform, that is to be true; and those laws to
+which a sign must conform in order to determine the inter-
+pretant to which it is intended to appeal, that is, to advance
+knowledge. These three {del}divisions may be{/del} {add}departments have been{/add} called Stechiologie,
+Critic, and Methodeutic. I regard this division as primary,
+because it depends upon a principle which is applicable to
+anything whatsoever.
+
+The categories show that signs are themselves of three
+kinds. For a sign may have as its sign-flavor, or signi-
+ficant-character, merely the flavor, {del}of{/del} quality, which
+belongs to it just as anything as a flavor, or quality; and
+in this case it will stand for whatever its thing-flavor
+adapts it to standing for. Such is an icon, or image, which
+represents any {del}thing{/del} {add}object{/add}, just so far as it resembles that object.

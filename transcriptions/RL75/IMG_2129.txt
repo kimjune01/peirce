@@ -1,0 +1,21 @@
+[hand: A]
+[hand: 42]
+
+-cater, in a serial arrangement. To ask, How much
+does this weigh? is {del}[illegible]{/del} answered as soon as we know
+what thing {add}among those which concern us{/add} it is heavier than which it is lighter than.
+A system of measurement has no other purpose than
+that; and it {add}appears to be{/add} the best {del}device{/del} {add}artificial{/add} device for that purpose.
+
+But all relations whatever can be reduced to rela-
+tions of serial order; so that every mathematical ques-
+tion can be looked upon as a metrical question in
+a broad sense; and perhaps the best and readiest way
+to get command of a branch of mathematics is to
+find what system of measurement is best adapted
+to it. Thus, the barycentric calculus {del}reduces{/del} {add}applies to{/add} projective geo-
+metry to a sort of measurement; and in fact modern
+analytic geometry results from just that application
+But it evidently labors under the difficulty of not
+being a sufficiently flexible and well-adapted
+system of measurement. Hermann Schubert's Cal-

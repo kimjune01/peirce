@@ -1,0 +1,11 @@
+[hand: Application of C.S. Peirce
+77]
+
+distinct parts unless those parts have definite limits,” is false.
+Namely, a lake with two islands in it certainly consists of
+two simple parts, if by a simple part we are to understand
+a part {del}and not{/del} enclosing an island. But the boundary
+may be drawn as in Fig 1 or as in Fig 2, or almost
+any way.
+
+[diagram: two small oval lake-and-island diagrams, one at left and one at right, shaded and outlined; larger oval diagram below with two island-like centers and surrounding divided boundary, labeled “Fig 2.”]

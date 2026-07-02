@@ -1,0 +1,21 @@
+[hand: Application
+of C.SPeirce
+33]
+
+legal adjective meaning “aforesaid,” and commonly used in the
+phrase “les choses prémisses.” It thus passed into English in its
+plural form ; and this plural form masked its adjectival nature,
+so that the unlearned did not know what it meant. Probably
+not one uneducated man to-day who talks glibly about the
+premises could tell what the word premises means. So when
+the logical word came in (the word premises having presumably
+already been pronounced with its first s hard), the vulgar thought
+it somewhat mysterious and doubtless the same mysterious
+thing which the lawyers spoke of in the plural. Hence, the word
+by the vulgar, {del}first{/del} {add}and eventually by the refined, though{/add} not by logicians, was spelled with a
+single s, premise. It was not until much later that logi-
+cians, to give themselves a mundane air, took up this
+false spelling.] Kant divided propositions into Analytic, or Expli-
+catory, and Synthetic, or Ampliative. He defined {del}the{/del} an analytic
+proposition as one whose predicate was implied in its subject.
+This was an objectionable definition due to Kant’s total ignorance

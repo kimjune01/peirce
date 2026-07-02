@@ -1,0 +1,30 @@
+[hand: 16]
+
+large but finite value of the supply where no further increment
+would be possible at any finite cost.  Putting instead of supply,
+the amount of knowledge attained, we find that there is a "law",
+or general tendency, subject to similar large irregularities as
+in the case of the supply of a material commodity, but here even
+greater.  The final increase of cost of an increment with the
+increase of attainment already achieved is marked, on the whole,
+in almost all cases, while in many cases, at least, there is a
+point of attainment where the cost of an increment is at a
+minimum.  The same general tendency appears in reference to
+the diffusion of knowledge; but there is this striking difference,
+that attainments in advance of sciences are very commonly actually
+on the upward slope where increments are costing more and more,
+while there are few branches of knowledge whose diffusion is
+already so great that a given increment of the diffusion will cost
+more and more, as the diffusion is increased.
+
+     I shall next pass to a study of the variation of the [underlined: utility]
+(meaning, generally, the [underlined: scientific utility]) of given small
+increments of scientific knowledge and of the diffusion of knowledge
+in varying states of attainment.  This is to be compared with the
+variation of the total amount that will be paid for a commodity
+for a fixed small increment of the [underlined: demand], or amount thrown upon
+the market to fetch what it will, with varying amounts of that
+demand.  Here, the additional total amount that will be paid for
+the small increment of amount sold will correspond to the utility
+of the small fixed increase of scientific knowledge or of the
+diffusion of knowledge; while, the demand being equal to the

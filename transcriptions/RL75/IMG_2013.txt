@@ -1,0 +1,22 @@
+[hand: application
+of C S Peirce
+27 1/2]
+
+be no definite probability of a witness's telling the truth. I also show
+that it is quite a mistake to suppose that, for the purposes of the
+doctrine of chances, it suffices to suppose that the events in
+question are subject to unknown laws. On the contrary, the cal-
+culus of probability has no sense at all unless it {add}in the long run{/add} secures the person
+who trusts to it. Now this it will do only if there is no law,
+known or unknown, of a certain description. The person who
+is to trust to the calculus ought to assume himself of this, especially
+when events are assumed to be independent. The doctrine of
+chances is easily seen to be applicable to the course of science.
+Its applicability to insurance companies and the like is not in
+any case to be assumed off-hand, when it comes to the case of
+individual interests, there are grave difficulties.
+
+The rules of probability are stated in a new way, with the
+application to high numbers and method of least squares ac-
+cording to several different theories. Pearson's developments exam-
+ined. Inverse probabilities are shown to be fallacious.

@@ -1,0 +1,23 @@
+[hand: Application
+of C.S. Peirce
+17]
+
+can act immediately only upon matter and mind can
+act immediately only upon mind, and yet each can
+act upon the other without the intervention of a tertium
+quid does not involve the self-contradiction {del}which it{/del}
+appears at first blush to express. At the same time, I
+show that there is nothing which it properly belongs to
+the logician to say about mind, in this sense, which
+cannot be established on the basis of universal experience,
+without appealing to any special science whatever.
+
+12. On the Definition of Logic. I define logic very broadly
+as the study of the formal laws of signs, or formal semiotic.
+I define a sign as something, A, which brings something, B,
+{add}its interpretant,{/add}
+into the same sort of correspondence with something, C, its
+object, as that in which itself stands to C. In this definition
+I make no more reference to anything like the human
+mind than I do when I define a line as the place,
+within which a particle lies during a lapse of time.

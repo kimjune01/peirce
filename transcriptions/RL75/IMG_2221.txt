@@ -1,0 +1,25 @@
+[hand: A
+17]
+
+is by no means saying that it can be prolonged to an indefinite
+{add}greater{/add}
+length. He, however, virtually has proved (in prop. 2) that from
+the extremity of a straight line can be drawn continuously
+with that line a line of any given length. He imagines, then,
+
+[diagram: Fig. 1, geometric triangle ABT with points E, Z, H, Δ indicated.]
+
+Fig. 1.
+
+[diagram: Fig. 2, similar geometric triangle ABT with extended line through Z and points E, H, Δ indicated.]
+
+Fig. 2.
+
+a triangle ABT. He prolongs the side BT a little beyond T
+to a point Δ; and he then proposes to prove that ∠ ATΔ > ∠ TBA.
+For that purpose, he bisects AT in E, draws BE and prolongs it,
+through E to Z, making EZ = BE. He then joins Z to T by
+a straight line, and argues that ∠ ETΔ > ∠ ETZ because
+the whole is greater than its part. He is thinking of Fig. 1;
+but he has not proved that Z cannot fall as in Fig 2;
+so that the whole demonstration falls to the ground. He

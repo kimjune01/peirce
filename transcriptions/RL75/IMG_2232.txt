@@ -1,0 +1,24 @@
+[hand: A
+27]
+
+that a false proposition is actually enunciated. For it is
+quite possible to imagine a paradisaical world in which
+no false proposition should ever have been suggested. We
+cannot, therefore, say that there necessarily must be,
+a false proposition, but only that the existence of
+this proposition constitutes the {del}exact{/del} certainty that a
+false proposition is enunciated, although {add}the assertion of{/add} this proposi-
+tion itself is perfectly true. This forces us to recognize
+the correct {add}and extremely important{/add} logical doctrine, namely, {del}that{/del} every propo-
+sition asserts two things, first whatever it is meant to assert,
+and secondly, its own truth. Unless both these are true, the
+proposition is false. Although, therefore, the meaning or
+matter of this proposition is true, the proposition itself
+may be false, and it will be so in case there is no
+other false proposition than itself.
+
+Suppose however we find a piece of paper quite blank except
+for these two sentences:
+{del}Everything written on this paper is perfectly true.
+Something written on this paper is false not only in its implication that
+is true but also in the matter of what it asserts.{/del}

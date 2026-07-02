@@ -1,0 +1,35 @@
+[hand: A]
+[hand: #5]
+
+[hand: being consist simply in its being what it is. It is self-essence.]
+[hand: Suppose that the {del}simplest possible{/del} being of whom I]
+
+[formula: ln(Ω - Ω₀) = 2 log p + C]
+[formula: Ω - Ω₀ = p²C]
+[diagram: U-shaped curve]
+
+[diagram: triangle labelled A, B, C; sides c, b, a]
+
+[diagram: narrow triangle with small ds marking]
+[formula: {del}1/2 sr sin C{/del}]
+[formula: 1/2 (ds)₀ r₀ sin C]
+
+[diagram: triangle with base segments c, a, b]
+[formula: 1/2 ab sin C]
+[formula: c = √(a² + b² - 2ab cos C)]
+
+[formula: sin 2C = 2 sin C cos C]
+[formula: cos 2C = cos² C - sin² C]
+[formula: = 1 - 2 sin² C]
+[formula: cos² 2C]
+
+[diagram: narrow triangle with ds and b marked]
+
+[formula: r = 1/4 (ds)₀ b₀ {del}sin C{/del}]
+[formula: r₀ = √(1/4 (ds)₀² + b₀² + (ds)₀ b₀ cos C)]
+[formula: r₁ = √(1/4 (ds)₀² + b₀² - (ds)₀ b₀ cos C)]
+[formula: = √(1/4 (ds)₁² + b₁² - (ds)₁ b₁ cos C)]
+
+[formula: r₁ - r₀ = (r₁² - r₀²)/(r₁ + r₀)]
+
+[diagram: graph with vertical axis labelled Ω - Ω₀ and horizontal axis labelled p², several rising curves]

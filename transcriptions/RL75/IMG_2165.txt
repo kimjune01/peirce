@@ -1,0 +1,22 @@
+[hand: Statement
+20]
+
+Mill's four methods of induction is a hetero-
+geneous division, not at all scientific, and in part,
+of very trifling utility. Still, it is better than no
+classification of inductions at all.
+
+The doctrine commonly held that the validity of
+induction depends upon the uniformity of nature,
+{add}that comes to the same thing, upon{/add}
+or on the resemblance of the future to the past,
+is erroneous. I find that there are no less than
+eight incompatible {del}opinions about{/del} {add}ideas of what{/add} the uniformi-
+ty of nature consists in, which not only have been
+put forward, but are widely current. But the
+doctrine is false in every sense. The most usual
+meaning attached to whichever of the two phrases
+happens to approve itself is really nothing but
+a {del}vague large{/del} dimly apprehended notion that
+some one of the lower {del}types{/del} forms of induction
+is valid reasoning. This will be proved incontestably

@@ -1,0 +1,22 @@
+[hand: Application of CSP 22 x]
+
+{add}doubt, and indeed{/add}
+and cannot help doubting, anything unsupported by
+evidence, and with a perceptual fact. I examine the
+so-called tests of universality and necessity, having
+shown that other characters are as well entitled to being
+regarded as tests of apriority. The different senses in
+which these tests have been understood, {del}and{/del} {add}as well as{/add} another
+in which they may be understood to better advantage, are
+{add}considered and estimated.{/add}
+
+[hand: No 22.] Of the Logic of Chance. The origin of probability, and
+its nature. The connection between objective probability
+and doubt. Nature of a “long run.” {del}A long run is not
+a long run.{/del} In what senses there can be any probability
+in mathematics. {del}Prob[illegible]{/del} Problems in probability as
+affording mathematical methods. It is not necessary that
+there should be any definite probability that a generic
+event should {del}be of{/del} {add}have{/add} a specific accompaniment. Ne-
+cessity of considering in each case whether this is so or
+not. There is no definite probability, for example, that a

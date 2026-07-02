@@ -1,0 +1,21 @@
+[hand: Application
+of C.S.Peirce
+49]
+
+which do give information strengthening or weakening
+my conclusions obtained. In particular, I show that
+the knowledge of certain uniformities (of which four
+types are the simplest) may so affect inductions.
+I now review all the other theories of induction, begin-
+ning with that of Laplace which undertakes to assign
+a definite probability to the inductive conclusion. I show
+that that is erroneous, and that, {del}in fact{/del} {add}rightly applied{/add} Laplace's method
+would lead to the result that we know nothing about the
+truth of the conclusion. I next examine three theories
+that the future is like the past, that the universe presents
+great uniformity, and demonstrate that assuming these
+premisses to be true, they do not in the least help the va-
+lidity of induction. I show that all such statements really
+mean nothing {del}than{/del} {add}except{/add} that a rightly conducted induction
+will lead to the truth, and that they are not true. The
+question of whether there is any objective sense in which

@@ -1,0 +1,21 @@
+[hand: A
+19]
+
+its real merits, which are phenomenal. It simply shows
+how rare a thing correct reasoning is among men.
+If Euclid had not been able to save his sixteenth
+proposition by means of the third postulate about the circle,
+he could not have saved it at all. For his first postulate is
+not that only one right line can join two points as its
+terminals, but merely that there is a right line from one
+point to the other. Ἠιτήσθω ἀπὸ παντὸς σημείου ἐπὶ πᾶν
+σημεῖον εὐθεῖαν γραμμὴν ἀγαγείν. He does not postu-
+late that only one straight-line can be drawn through
+two points, but only that all right angles are equal. That
+postulate would have enabled him to prove that only one
+unlimited straight-line cannot be drawn between two
+points, {add}(a proposition he does not give because he deals only with what is limited,){/add}
+but not that there were not two limited straight-
+lines having those points as terminals. Had he omitted
+from his definition of the circle the clause represented
+in our language by the single word “within” (τῶν ἐντός)

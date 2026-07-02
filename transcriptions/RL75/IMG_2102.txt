@@ -1,0 +1,21 @@
+[hand: Application
+of C.S. Peirce
+7]
+
+3. Analysis of the Conceptions of Mathematics. My work in this direc-
+tion is already somewhat known, although very imperfectly. One
+of the learned Academies of Europe has crowned a demonstration that
+my definition of a finite multitude agrees with Dedekind's defini-
+tion of an infinite multitude. It appears to me that the one is hardly
+more than a verbal modification of the other. I am usually repre-
+sented as having put forth my definition as a substitute for
+{del}Dedekind's{/del}. In point of fact, mine was published 6 years before his;
+and my paper contains in a very brief, and crabbed form all the
+essentials of his beautiful exposition (still more perfect as modi-
+fied by Schröder.) Many animadversions have been made by eminent
+men upon my remark, in the Century Dictionary, that the method
+of infinitesimals is more consonant with their (in 1883) recent
+studies of mathematical logic. In this memoir, I should show pre-
+cisely how the calculus may be, to the advantage of simplicity,
+based upon the doctrine of infinitesimals. Many futile attempts
+have been made to define {del}mathe{/del} continuity. In the sense in

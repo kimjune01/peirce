@@ -1,0 +1,22 @@
+[hand: Application
+of C.S Peirce
+21]
+
+Or {add}secondly,{/add} a sign may have as its significant character, the fact that
+it stands in real relation to its object. It will then serve as
+a sign of that object to any interpretant that represents it
+as so reacting with that object. This is an index. Or, finally,
+a sign may have as its significant character, its being
+represented to be a sign. That is a symbol. All {add}merely{/add} conventional
+signs are symbols; and so are all signs which become such
+because they are naturally taken to be such, as ideas. Lo-
+gic might, perhaps, properly be restricted to symbols. I have
+not paid sufficient attention, perhaps, to the formal laws
+of indices and icons to see that the study of them ought
+to be separated from that of symbols. My not very decided
+opinion is that they should all be studied together.
+
+But another division of signs, especially of symbols,
+{del}upon{/del} is shown by the categories. For a sign may be,
+such that it shall {add}denote{/add} {del}correspond to{/del} whatever object it may
+be fitted to {del}some{/del} denote and appeal to whatever interpretant

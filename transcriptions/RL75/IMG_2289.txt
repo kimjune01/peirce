@@ -1,0 +1,24 @@
+[hand: Application
+C.S. Peirce
+44]
+
+simply a statistical ratio. But, besides that, doubt has
+{add}degrees of{/add}
+{del}or{/del} intensity, and although these have no necessary
+signification, it might be useful for us to believe more
+intensely in propositions which would less often deceive
+us then in such as would oftener deceive us. In point of
+fact, we naturally, {add}[unclear: mostly]{/add} balance reasons, as if the degree of our
+trust in them were significant of fact. This is a
+matter requiring minute examination.
+
+In the first place, regarding probabilities as statisti-
+cal ratios, probability is exclusively confined to cases
+where there is a "long run" of experiences, that is an
+endless series of events of a general character, of
+which some definite ratio have a special character,
+{add}which shall not occur at any regular law of intervals.{/add}
+It is not necessary that this ratio should remain
+constant throughout the experience. But it is {del}necessary{/del} {add}requisite{/add}
+that there should be such a ratio. It is easy to imagine
+cases in which there should be no such ratio; perhaps

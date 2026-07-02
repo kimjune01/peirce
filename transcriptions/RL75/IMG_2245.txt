@@ -1,0 +1,21 @@
+[hand: -A
+39]
+
+might have seen long before, namely, that all collections
+are of the nature of abstractions. When we pass from
+saying, {del}[unclear: Americans speak]{/del} "Almost any American {del}shall{/del} can
+speak English," to saying, "The American nation" is com-
+posed of individuals of whom the greater part speak English,"
+we perform a special kind of abstraction. This can, I know,
+signify little to the person who {del}does{/del}{add}is{/add} not acquainted with
+the properties of abstraction. It may, however, suggest to
+him that the popular contempt for "abstractions" does not
+aim very accurately at its mark.
+
+When I published a paper about {del}Number{/del} in 1882, I
+was already largely anticipated by Cantor, although I did
+not know it. I however anticipated Dedekind by about
+six years. Dedekind's work, although its form is admirable,
+has not influenced me. But ideas which I have derived from
+Cantor are so mixed up with ideas of my own that I could
+not safely undertake to say exactly where the line should be

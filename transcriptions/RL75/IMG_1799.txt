@@ -1,0 +1,28 @@
+        16.
+
+from abduction.  It is a very instructive illustration both of the
+dangers and of the strength of my heuretic method.  Similar errors
+may remain in my system.I shall be very thankful to whoever can detect
+them.  But if its errors are confined to that class, the general
+fabric of the doctrine is true.  I at first saw that there must be
+three kinds of arguments severally related to the three categories;
+and I correctly described them.  Subsequently studying one of these
+kinds, I found that besides the typical form, there was another, dis-
+tinguished from the typical form by being related to that category
+relation to which distinguishes abduction.  I hastily identified it
+with abduction, not being clear-headed enough to see that, while relat-
+ed to that category, it is not related to it in the precise way in
+which one of the primary divisions of arguments ought to be, according
+to the theory of the categories.  This is the form of error to which
+my method of discovery is peculiarly liable.  One sees that a form
+has a relation to a certain category, and one is unable, for the time
+being, to attain sufficient clearness of thought to make quite sure
+that the relation is of the precise nature required.  If only one
+point were obscure, it would soon be cleared up; but the difficulty is
+at first that one is sailing in a dense fog through an unknown sea,
+without a single landmark.  I can only say that if others, after me,
+can find some way of making as important discoveries in logic as I
+have done while falling into less error, nobody will be more intensely
+delighted than I shall be.  My gratitude to the man who will show me
+where I am wrong in logic will have no bounds.  Thus far, I have had
+to find out for myself as well as I could.  Meantime, be it observed

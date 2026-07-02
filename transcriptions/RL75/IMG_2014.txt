@@ -1,0 +1,22 @@
+[hand: Application
+C C S Peirce
+28]
+
+[hand: There are many matters here under dispute; more than
+I have set down. In all these cases, I take pains to state opposing
+arguments in all their force, and to refute them clearly.
+This memoir is intended to form a complete rad measum
+of the doctrine of chances, and to be plentifully supplied with
+references. It will be somewhat long, but I hope not of double
+length.]
+
+[hand: No23. On the Validity of Induction.
+{add}This restates the substance of the Johns Hopkins paper,
+relegating formalistic matters to separate sections, taking
+account of types of induction {add}not{/add} with which I was not acquainted
+twenty years ago, and rendering the whole more luminous. Other
+views will be considered more at large.{/add}]
+
+[hand: No24 On the Justification of Abduction. The categories furnish the
+definition of abduction, from which follows its mode of jus-
+tification, and from this again its rules. The various maxims]

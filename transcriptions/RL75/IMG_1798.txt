@@ -1,0 +1,29 @@
+will be scrutinized under all aspects.
+
+        I shall then come to the important question of the classi-
+fication of arguments.  My paper of April, 1867, on this subject di-
+vides arguments into Deductions, Inductions, Abductions (my general
+name, which will be defended) and Mixed Arguments.  I consider this
+to be the key of Logic.  In the following month, May, 1867, I cor-
+rectly defined the three kinds of simple argument in terms of the
+categories.  But in my paper on Probable Inference in the Johns Hop-
+kins"Studies in Logic", owing to the excessive weight I at that time
+placed on formalistic considerations, I fell into the error of attach-
+ing a {del}name{/del} name the synonym I then used for Abduction, to a probable
+inference which I correctly described, forgetting that according to my
+own earlier and correct account of it, abduction is not of the number
+of probable inferences.  It is singular that I should have done that,
+then in the very same paper I mention the existence of the mode of
+inference which is true abduction.  Thus, the only error that paper
+contains is the designation as Abduction of a mode of induction some-
+what resembling abduction, which may properly be called abductive
+induction.  It was this resemblance which deceived me, and subsequent-
+ly led me into a further error contrary to my own previous correct
+statement.  Namely, continuing to confound abduction and Abductive
+Induction, in subsequent reflections upon the rationale of Abduction,
+I was led to see that this rationale was not that which I had in my
+Johns Hopkins paper given of induction; and in a statement I published
+in the Monist, I was led to give the correct rationale of abduction as
+applying to Abductive Induction and so, in fact, to all induction.
+All the difficulties with which I labored are now completely disposed
+of by recognizing that Abductive Induction is quite a different thing
